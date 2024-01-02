@@ -1,0 +1,11 @@
+#+title:      Generalized UD Statutes Ch 59.12 RCW Apply
+#+date:       [2023-12-05 Tue 00:40]
+#+filetags:   :5912:
+#+identifier: 20231205T004012
+
+"The procedures set forth in the generalized unlawful detainer
+statutes, Chapter 59.12 RCW, 'apply to the extent that they are not
+supplanted by those found in the Residential Landlord-Tenant Act
+(RLTA).'"  _Randy Reynolds & Assocs., Inc. v. Harmon_, 193 Wn.2d 143,
+156 (2019) (quoting _Housing Auth. of City of Pasco & Franklin County
+v. Pleasant_, 126 Wn. App. 382, 390 (2005)).

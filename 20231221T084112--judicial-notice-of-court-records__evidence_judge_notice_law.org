@@ -1,0 +1,25 @@
+#+title:      Judicial Notice of Court Records
+#+date:       [2023-12-21 Thu 08:41]
+#+filetags:   :evidence:judge:notice:law:
+#+identifier: 20231221T084112
+
+- Docket Number:	39204-0
+- Title of Case:	In the Matter of the Dependency of: R.L.L.
+- File Date:		12/21/2023
+
+Under   ER  201,   a  court   may  take   judicial  notice   of  court
+records. Vandercook  v.  Reece,  120 Wn.  App. 647,  651, 86  P.3d 206
+(2004). This  is because the  fact a record  exists is not  subject to
+reasonable dispute as opposed to the truth of the contents. Id.
+
+However, this  reasoning does not extend  to a judge’s memory  of oral
+testimony from another  case, “the accuracy and contents  of which are
+subject to reasonable  dispute.” Id.  If this was the  case, the judge
+would be required to  testify as a witness, which he  or she cannot do
+in a proceeding they are overseeing. Id. at 652.
+
+When  deciding one  case,  a  court cannot  “take  judicial notice  of
+records of  other independent  and separate judicial  proceedings even
+though they are between the same parties.” In re Adoption of B.T., 150
+Wn.2d 409, 415, 78  P.3d 634 (2003) (quoting Swak v.  Dep’t of Labor &
+Indus., 40 Wn.2d 51, 54, 240 P.2d 560 (1952)).

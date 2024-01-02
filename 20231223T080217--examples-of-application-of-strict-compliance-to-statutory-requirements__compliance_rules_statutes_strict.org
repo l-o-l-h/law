@@ -1,0 +1,89 @@
+#+title:      Examples of Application of Strict Compliance to Statutory Requirements
+#+date:       [2023-12-23 Sat 08:02]
+#+filetags:   :compliance:rules:statutes:strict:
+#+identifier: 20231223T080217
+
+Courts strictly construe the arbitration rules to best effectuate “the
+Legislature’s  intent   in  enacting  the  statutes   upon  which  the
+arbitration rules are based, namely to ‘alleviate the court congestion
+and reduce the delay in hearing civil cases.’” Wiley, 143 Wn.2d at 344
+(quoting   Christie-Lambert  Van   &  Storage   Co.  v.    McLeod,  39
+Wn. App. 298, 302, 693 P.2d 161 (1984)). “[F]ailure to strictly comply
+with MAR 7.1(a)’s filing requirement  prevents the superior court from
+conducting a  trial de  novo.” Nevers, 133  Wn.2d at  811-12 (emphasis
+omitted). Substantial compliance is insufficient. Id. at 815.
+
+The Lewises do not argue they complied with the statute or court rule.
+Instead, they  urge us to  adopt a  narrow exception to  the mandatory
+signature requirement and  recognize that a trial court  has the power
+to suspend the rules “arising both in equity and in its inherent power
+to control its own process.” Pet. for Discr. Rev. at 8.  Specifically,
+they  claim  the  trial  court   properly  excused  their  failure  to
+personally sign the trial de  novo request because the county required
+e-filing  during  the  COVID-19  pandemic  yet  provided  a  defective
+form. We reject this argument.
+
+Our case law has long  mandated strict compliance.  We have repeatedly
+and unequivocally  held that lack  of full compliance with  the SCCARs
+will invalidate a trial de novo request. For example, in Wiley, two of
+the  three defendants  filed a  trial de  novo request  but mistakenly
+omitted the name of the third defendant. 143 Wn.2d at 342. We rejected
+the trial de novo request, concluding  that the failure to include all
+the defendants’ names “is not  an inconsequential error, but rather is
+a failure to  strictly comply with the requirements  [of the SCCARs].”
+Id. at  345. In Pybas  v.  Paolino, an  attorney entrusted a  trial de
+novo request with  a legal messenger.  73 Wn. App.  393, 395, 869 P.2d
+427 (1994). The messenger failed to  file the notice within the 20-day
+deadline,  and  the Court  of  Appeals  concluded  the party  was  not
+entitled to a trial  de novo. Id.  at 404-05. As  a final example, the
+attorney in State  ex rel. J.M.H.  v. Hofer was  unable to timely file
+the request  because he suffered a  head injury and his  hospital stay
+overlapped with the  20-day deadline. 86 Wn. App.  497,  498, 942 P.2d
+979 (1997). Nonetheless,  the Court of Appeals held the  trial de novo
+request was  ineffective in the absence  of a timely filing.   Id. The
+case  law underscores  the importance  of strict  compliance with  the
+arbitration  statutes and  rules as  being  essential to  the goal  of
+providing  a  swift,  efficient,  and   less  expensive  path  to  the
+resolution of cases.  Alvarez v. Banach, 153 Wn.2d 834,  838, 109 P.3d
+402 (2005) (“[I]f we were  to require only substantial compliance with
+the filing requirements, we would be subverting the legislative intent
+of mandatory arbitration, which is  to reduce congestion in the courts
+and delays in civil cases.”).
+
+We note  that every  division of  the Court  of Appeals  has addressed
+whether  a trial  de novo  can proceed  despite a  party’s failure  to
+comply  with the  signature requirements  of the  newly amended  SCCAR
+7.1. Each  division has answered  no based  on our case  law demanding
+strict compliance.   And each case  occurred during the height  of the
+COVID-19 pandemic.  Shepler v.  Terry’s Truck Ctr., Inc., 25 Wn.  App.
+2d 67, 522  P.3d 126 (2022) (filed trial de  novo request in September
+2020, using  an outdated,  county-provided form  that did  not include
+space for the aggrieved party’s signature (Division Three)); Butler v.
+Finneran, 22  Wn.  App. 2d  763, 516 P.3d  395 (2022) (filed  trial de
+novo request in August 2020, using Pierce County’s LINX system and did
+not include  aggrieved party’s  signature (Division Two));  Hanson, 19
+Wn.  App. 2d at  463 (filed trial de novo request  in October 2020 and
+the aggrieved party failed to sign the trial de novo request (Division
+One)). These cases are consistent  with the principle that reliance on
+an outdated form,  without reviewing the applicable  statute and court
+rule, does  not excuse a party’s  failure to strictly comply  with the
+SCCARs and arbitration  statute. See, e.g., RPC 1.1;  see also Hanson,
+19 Wn.  App. 2d at 463  (declining to excuse noncompliance  with SCCAR
+7.1 on  the grounds that appellant  “relied on an outdated  court rule
+and used an outdated form”). Accepting the Lewises’ “narrow exception”
+would require us to disapprove of this consistent body of precedent.
+
+Supreme Court of the State of Washington
+Opinion Information Sheet
+
+Docket Number:	101,329-9
+Title of Case:	Crossroads Mgmt., LLC v. Ridgway
+File Date:	12/21/2023
+Oral Argument Date:	05/09/2023
+SOURCE OF APPEAL
+----------------
+Appeal from Pierce County Superior Court
+Docket No:	18-2-10533-7
+Judgment or order under review
+Date filed:	03/26/2021
+Judge signing:	Honorable Elizabeth P. Martin

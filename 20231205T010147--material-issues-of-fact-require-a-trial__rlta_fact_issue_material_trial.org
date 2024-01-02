@@ -1,0 +1,9 @@
+#+title:      Material Issues of Fact Require a Trial
+#+date:       [2023-12-05 Tue 01:01]
+#+filetags:   :rlta:fact:issue:material:trial:
+#+identifier: 20231205T010147
+
+If issues of material fact exist, the matter must proceed to trial in
+the "usual manner." _Webster v. Litz_, 18 Wn. App. 2d 248 (2021)
+(quoting _Meadow Park Garden Assocs. v. Canley_, 54 Wn. App. 371, 374
+(1989)).

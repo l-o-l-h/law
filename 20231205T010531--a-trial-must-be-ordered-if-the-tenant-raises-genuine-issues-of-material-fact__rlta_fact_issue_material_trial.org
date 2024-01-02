@@ -1,0 +1,11 @@
+#+title:      A Trial Must Be Ordered If the Tenant Raises Genuine Issues of Material Fact
+#+date:       [2023-12-05 Tue 01:05]
+#+filetags:   :rlta:fact:issue:material:trial:
+#+identifier: 20231205T010531
+
+Even if a landlord obtains preliminary success through a writ of
+restitution, trial on the right of possession must be ordered if the
+tenant raises genuine issues of material fact pertaining to a defense
+or set-off.  RCW 59.18.380.  "This is nearly the identical language
+that governs summary judgment."  _Kiemle & Hagood Co. v. Daniels_, 26
+Wn. App. 2d 199, 215, 218 (2023) (citing CR 56(c)).

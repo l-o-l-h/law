@@ -1,0 +1,8 @@
+#+title:      Issues of Law
+#+date:       [2023-12-21 Thu 08:50]
+#+filetags:   :familylaw:main:
+#+identifier: 20231221T085005
+
+* EVIDENCE LAW
+- [[denote:20231221T083539][Judge may consider facts and common sense but not evidence outside the record]]
+- [[denote:20231221T084112][Judicial notice of court records]]

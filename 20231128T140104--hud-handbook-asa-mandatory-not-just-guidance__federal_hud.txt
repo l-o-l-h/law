@@ -1,0 +1,47 @@
+title:      HUD Handbook asa Mandatory Not Just Guidance
+date:       2023-11-28
+tags:       federal  hud
+identifier: 20231128T140104
+---------------------------
+
+
+
+QUESTION: We are in  Michigan and have a few cases  at trial where the
+judge  thinks  that the  HUD  Multi-family  Occupancy Handbook  notice
+requirements do not need to be  strictly complied with.  We found some
+NY  cases stating  that they  are mandatory  and not  just guidelines.
+Would you  know of other  jurisdictions that  say it must  be strictly
+complied with  (in particular to  charge market rent).  The  HUD model
+lease does  incorporate the penalty  provisions in  Ch. 8, but  we are
+looking for further  persuasive authority.  Also, if you  are aware of
+any HUD  clips or letters  telling owners  that they must  comply that
+would also be very helpful.
+
+In  our cases,  the tenants  are being  charged market  rent when  the
+landlord  failed  to provide  all  of  the recert  and/or  termination
+notices.  Thank you for your help!
+
+ANSWER:   Raleigh  Housing   Authority   v.   Winston,  Timber   Ridge
+v. Caldwell, , and Goler v. Metropolitan are all cases out of NC where
+the court found that the landlord?s  failure to comply with HUD notice
+requirements was  fatal to the  landlord?s eviction case.  The Winston
+case is pretty  recent (2021, NC Supreme Court). I  think Caldwell and
+Metropolitan are  both NC Court  of Appeals cases. Winston  was public
+housing (24  c.f.r. 966.4),  and I  think Timber  Ridge was  Section 8
+Project-Based  Rental Assistance  (24  c.f.r. 247.4).  Not sure  about
+Goler.
+
+We  are  getting  a  lot  of  traction  in  NC  off  the  VAWA  notice
+requirements in  24 c.f.r.  5.2005 because it  applies to  pretty much
+every subsidized  tenancy, and  most landlords are  unaware of  it. We
+have a very  recent unpublished opinion from the NC  COA where the COA
+reversed the trial  court?s judgment for the landlord based  on LL not
+complying with the VAWA notice  requirements (even though the eviction
+case itself was not related to domestic violence). That is attached.
+
+Min, also  take a  look at  Winston affordable  housing v  roberts (NC
+supreme court; 2020).   That case involved hud  handbook 4350.3 recert
+notices/deadlines.  the court remanded the case because the record was
+not clear on compliance with the  recert rules, so therefore could not
+determine  if  the rent  that  roberts  allegedly  failed to  pay  was
+correctly calculated or not.  john

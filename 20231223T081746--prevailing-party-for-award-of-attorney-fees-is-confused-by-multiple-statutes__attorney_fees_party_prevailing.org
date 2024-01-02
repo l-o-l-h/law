@@ -1,0 +1,141 @@
+#+title:      Prevailing Party for Award of Attorney Fees is Confused by Multiple Statutes
+#+date:       [2023-12-23 Sat 08:17]
+#+filetags:   :attorney:fees:party:prevailing:
+#+identifier: 20231223T081746
+
+Under  the various  fee-shifting statutes  at play  in this  case, the
+prevailing party is  entitled to a fee award. But  the question of who
+has prevailed  is not as straightforward  as the Court of  Appeals and
+the trial court made it seem.
+
+Absent a  statute, contract,  or recognized grounds  in equity  to the
+contrary,  parties  in civil  actions  must  bear their  own  attorney
+fees.  Williams v.  Tilaye, 174  Wn.2d 57,  61, 272  P.3d 235  (2012);
+Cosmo.  Eng’g Grp.,  Inc. v.  Ondeo  Degremont, Inc.,  159 Wn.2d  292,
+296-97,  149 P.3d  666  (2006). Three  separate fee-shifting  statutes
+potentially  apply  in  this  case:  the  small  claims  statute,  the
+arbitration statute,  and the Residential Landlord-Tenant  Act of 1973
+(RLTA).  The small  claims statute  entitles the  prevailing party  to
+attorney  fees  and  costs.   RCW  4.84.250-.300.  Its  fee-  shifting
+provision  recognizes  a defendant  or  party  resisting relief  as  a
+prevailing party where  “either the plaintiff recovers  nothing or the
+defendant makes [a settlement] offer 10  days or more before trial and
+the plaintiff recovers as much as  or less than that offer.” Williams,
+174 Wn.2d  at 62  (citing RCW 4.84.270).  This fee-shifting  scheme is
+designed to  “encourage out-of-court settlements  and . .  .  penalize
+parties who unjustifiably  bring or resist small  claims.” Beckmann v.
+Spokane Transit Auth., 107 Wn.2d 785, 788, 733 P.2d 960 (1987).
+
+The arbitration statute authorizes an award of attorney fees and costs
+“against a party who appeals the award and fails to improve his or her
+position on  the trial de novo.”  RCW 7.06.060(1); see also  SCCAR 7.3
+(“The court shall assess costs  and reasonable attorney fees against a
+party who appeals the award and  fails to improve the party’s position
+on the trial  de novo.”). It also permits a  party to recover attorney
+fees under the small claims statute  “even though at the trial de novo
+the appealing  party may have  improved his  or her position  from the
+arbitration.”  RCW 7.06.060(3). These rules are designed to discourage
+meritless actions and appeals. Wiley, 143 Wn.2d at 348.
+
+The  RLTA’s  fee award  statute  for  security deposit  disputes,  RCW
+59.18.280, authorizes an award of attorney  fees and costs to a tenant
+who prevails  “[i]n any action  brought by  the tenant to  recover the
+deposit.”   (Emphasis added.)   Though the  statute does  not directly
+define “prevailing party,”  its context suggests a  tenant prevails by
+recovering their  deposit in whole or  in part. See Campbell  & Gwinn,
+LLC, 146  Wn.2d at  11-12 (we  derive the plain  meaning of  a statute
+through its  context); see  also Goodeill v.   Madison Real  Est., 191
+Wn. App. 88, 102-03, 362 P.3d 302 (2015) (tenant awarded attorney fees
+and    costs   after    recovering    full    security   deposit    on
+appeal). Interpreting the fee provision in this manner aligns with the
+purpose of the RLTA, which is to create “remedies for tenants in order
+‘to  protect several  tenant interests  susceptible to  the landlord’s
+upper hand.’”  Silver v. Rudeen Mgmt.   Co., Inc., 197 Wn.2d 535, 548,
+484  P.3d  1251 (2021)  (internal  quotation  marks omitted)  (quoting
+Thomas Bothwell, Comment, Washington  Tenant Remedies and the Consumer
+Protection Act, 10 GONZ. L. REV. 559, 599 (1975)).
+
+Against this  backdrop, it  appears the lower  courts failed  to fully
+address the question of who  should be considered the prevailing party
+for purposes of any attorney fee  award. The Ridgways appear to be the
+prevailing party under  the small claims statute  because they offered
+more in  settlement than the  Lewises recovered at arbitration  and at
+the trial de  novo. RCW 4.84.250, .270. Likewise,  the Ridgways appear
+to be the  prevailing party under the arbitration  statute because the
+Lewises did not  improve their position at the trial  de novo in light
+of their  ineffective trial  de novo  request. RCW  7.06.060(1); SCCAR
+7.3; see also Wiley, 143 Wn.2d at  348 (a party fails to improve their
+position at the trial de novo for the purposes of SCCAR 7.3 where they
+do not comply with the requirements of SCCAR 7.1).
+
+On the  other hand,  under the  RLTA, it appears  the Lewises  are the
+prevailing party because they recovered the entirety of their security
+deposit. RCW  59.18.280.  Neither the  Court of Appeals nor  the trial
+court  disturbed the  Lewises’ full  recovery of  their deposit.  Yet,
+without explanation, neither court entertained the Lewises’ claim that
+they were entitled to attorney fees under the RLTA. Instead, the lower
+courts  simply  applied  the  small claims  and  the  arbitration  fee
+statutes, apparently to the exclusion of the RLTA’s fee provision.
+
+The apparent tension among the various statutes was noted by the Court
+of  Appeals in  Housing Authority  of City  of Everett  v. Kirby,  154
+Wn.  App. 842,  226 P.3d  222 (2010),  abrogated on  other grounds  by
+Hous. Auth. v. Bin, 163 Wn. App.  367, 260 P.3d 900 (2011). There, the
+court observed:
+
+#+begin_quote
+  applying [the small claims statute] to residential unlawful detainer
+  actions would, in certain situations, create a conflict between them
+  and the specific  statute for fees in  residential unlawful detainer
+  actions .  . .  . For  example, consider the  case where  a landlord
+  brought an unlawful detainer action against a tenant who had paid no
+  rent but, after  suit was commenced, made an offer  of settlement to
+  pay less  rent than the amount  claimed due by the  landlord. If the
+  landlord rejected the  offer and ultimately recovered  less than the
+  amount  offered, the  tenant would  be deemed  the prevailing  party
+  under RCW 4.84.270 since, according to that provision, the defendant
+  prevails if the  plaintiff recovers less than the  amount offered in
+  settlement  or  recovers nothing.   Thus,  the  tenant, even  though
+  guilty  of  unlawful  detainer  for nonpayment  of  rent,  would  be
+  entitled to a mandatory fee award  under RCW 4.84.250 and .270. This
+  would conflict  with the application  of RCW 59.18.290,  which would
+  authorize  a  discretionary fee  award  only  to the  landlord,  who
+  prevailed by recovering  possession and unpaid rent  as damages. RCW
+  4.84.250 and .270 would be superseded.
+#+end_quote
+
+Id. at 856.
+
+While the Kirby case involved  the unlawful detainer provisions of the
+RLTA, its reasoning recognizes tension  in the attorney fee provisions
+that may apply in various RLTA actions, including a claim to recover a
+damage  deposit as  in this  case.  The  Lewises sought  attorney fees
+under the RLTA after receiving  the maximum recovery possible in light
+of the partial  summary judgment order: return of  their full security
+deposit.  Despite prevailing  under  the RLTA,  they  were awarded  no
+attorney  fees  and  were  taxed with  $27,276.50  for  the  Ridgways’
+attorney fees (plus an undetermined amount of fees on appeal). This is
+because the  lower courts  recognized the  Ridgways as  the prevailing
+party under the  small claims statute and the  arbitration statute and
+rules and did  not reach the merits of the  Lewises’ appeal.  However,
+the plain language  of RCW 59.18.280 conditions the  award of attorney
+fees and costs to a tenant on recovery of their security deposit. This
+recovery was not in dispute nor  did the lower courts consider whether
+the various  fee-shifting statutes  conflict. Further  proceedings are
+necessary to resolve the issue of attorney fees and costs.
+
+Supreme Court of the State of Washington
+Opinion Information Sheet
+
+Docket Number:	101,329-9
+Title of Case:	Crossroads Mgmt., LLC v. Ridgway
+File Date:	12/21/2023
+Oral Argument Date:	05/09/2023
+
+SOURCE OF APPEAL
+----------------
+Appeal from Pierce County Superior Court
+Docket No:	18-2-10533-7
+Judgment or order under review
+Date filed:	03/26/2021
+Judge signing:	Honorable Elizabeth P. Martin

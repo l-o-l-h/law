@@ -1,0 +1,20 @@
+#+title:      Shifting of Burden
+#+date:       [2023-12-05 Tue 01:14]
+#+filetags:   :fact:genuineissuetrial:rlta:
+#+identifier: 20231205T011406
+
+It is insufficient to simply claim without any reference to the record
+that the court effectively just got it wrong.  _Welch v. Brand
+Insulations, Inc._, 27 Wn. App. 2d 110, 115 (2023) ("If the moving
+party satisfies its burden, then the burden shifts to the nonmoving
+party to 'set forth specific facts evidencing a genuine issue of
+material fact for trial.'") (quoting _Schaaf v. Highfield_, 127 Wn.2d
+17, 21 (1995)).
+
+Because Nolan cites to nothing in the record creating a genuine issue
+of material fact as to the events which led to the landlord seeking
+eviction or the tenant's defenses, the trial court did not err by
+declining to grant a trial.  _Welch_ at 117 (summary judgment is
+appropriate "if, from all the evidence, a reasonable person could
+reach only one conclusion.") (quoting _Folsom v. Burger King_, 135 Wn.3d
+658 663 (1998)).

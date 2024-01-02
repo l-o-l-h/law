@@ -1,0 +1,53 @@
+#+title:      Judge may consider facts and common sense but not evidence outside the record
+#+date:       [2023-12-21 Thu 08:35]
+#+filetags:   :evidence:judge:common:sense:law:
+#+identifier: 20231221T083539
+
+- Docket Number:	39204-0
+- Title of Case:	In the Matter of the Dependency of: R.L.L.
+- File Date:		12/21/2023
+
+During a fact-finding hearing, judges  may take notice of undisputable
+facts and  may apply their own  common sense based on  experience, but
+judges  cannot  consider evidence  outside  the  record. For  example,
+judges may take  judicial notice of some adjudicative  facts when they
+are “not  subject to reasonable  dispute.” ER 201(b).  Such  facts may
+include  facts  that are  generally  known  within the  trial  court’s
+jurisdiction or facts capable of  accurate determination by a reliable
+source. ER 201(b)(1), (2).
+
+In  addition, we  expect that  judges will  bring to  the bench  their
+common sense,  which can  be informed  by the work  that they  do. See
+Fernando v.  Nieswandt, 87 Wn.  App.   103, 109, 940 P.2d 1380 (1997).
+This commonsense experience can manifest as generalized understandings
+of how and why things happen.  As the Supreme Court noted:
+
+#+begin_quote
+     Our  judiciary benefits  from  and relies  upon  judges who  have
+     studied  and  become  learned  in  the  law  and  whose  personal
+     experiences  have taught  them a  practical understanding  of the
+     world we live in and how people live, work, and interact with the
+     world around them.
+
+     We  do not  believe the  legislature intended  that judges  leave
+     their knowledge and  understanding of the world  behind and enter
+     the courtroom with blank minds.  Judges are not expected to leave
+     their  common sense  behind. Nor  do we  believe the  legislature
+     expected judges to hold hearings on  whether fire is hot or water
+     is wet.   We prize judges for  their knowledge, most of  which is
+     obtained outside of the courtroom.
+
+/State v. Grayson/, 154 Wn.2d 333, 339, 111 P.3d 1183 (2005).
+#+end_quote
+
+
+On the other hand, judges may not consider evidence outside the record
+to  support  particular  findings  on issues  in  dispute.   Extrinsic
+evidence is  improper because it  is “not subject to  objection, cross
+examination, explanation,  or rebuttal.”  See Breckenridge  v.  Valley
+Gen. Hosp., 150  Wn.2d 197, 199 n.3, 75 P.3d  944 (2003) (holding that
+it is  jury misconduct for  jurors to interject extrinsic  evidence in
+jury deliberations).   The difference between relying  on facts within
+common or  undisputed knowledge  and relying  on evidence  outside the
+record often comes  down to the level of generalization  and the facts
+in dispute. See Grayson, 154 Wn.2d at 340.

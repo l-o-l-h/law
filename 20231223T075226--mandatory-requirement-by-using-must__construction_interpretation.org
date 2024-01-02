@@ -1,0 +1,32 @@
+#+title:      Mandatory Requirement by using "Must"
+#+date:       [2023-12-23 Sat 07:52]
+#+filetags:   :construction:interpretation:
+#+identifier: 20231223T075226
+
+The plain language of both the  statute and the court rule establish a
+mandatory  requirement by  using “must.”  Ohio Sec.  Ins. Co.  v. AXIS
+Ins. Co.,  190 Wn.2d 348, 352,  413 P.3d 1028 (2018)  (the word “must”
+“places  a  mandatory  duty  on  the subject  of  the  clause”).  This
+signature requirement essentially abrogates an attorney’s authority as
+an agent  to sign the  request on behalf  of the aggrieved  party. See
+Russell v.  Maas, 166 Wn. App.  885, 887-88, 891, 272  P.3d 273 (2012)
+(signature requirement  satisfied when  an attorney  signs a  trial de
+novo request on behalf of a  client); see also Hanson v. Luna-Ramirez,
+19  Wn. App.  2d 459,  462,  496 P.3d  314 (2021)  (noting that  cases
+permitting “only an attorney, rather than the aggrieved party, to sign
+a request for trial de novo . . . have been superseded by statute”).
+
+Supreme Court of the State of Washington
+Opinion Information Sheet
+
+Docket Number:	101,329-9
+Title of Case:	Crossroads Mgmt., LLC v. Ridgway
+File Date:	12/21/2023
+Oral Argument Date:	05/09/2023
+SOURCE OF APPEAL
+----------------
+Appeal from Pierce County Superior Court
+Docket No:	18-2-10533-7
+Judgment or order under review
+Date filed:	03/26/2021
+Judge signing:	Honorable Elizabeth P. Martin
