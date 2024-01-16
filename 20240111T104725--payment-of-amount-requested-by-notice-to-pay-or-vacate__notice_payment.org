@@ -1,0 +1,13 @@
+#+title:      Payment of Amount Requested by Notice to Pay or Vacate
+#+date:       [2024-01-11 Thu 10:47]
+#+filetags:   :notice:payment:
+#+identifier: 20240111T104725
+
+* TODO Tenant Tenders Current Rent Owing within Notice Period--Older Rents Due
+SCHEDULED: <2024-01-12 Fri>
+- State "TODO"       from              [2024-01-11 Thu 10:48] \\
+  Need to research this case
+LL waives right to evict tenant for prior/older defaults in rent when
+tenant tenders current rent owing within notice period.  However, LL
+may obtain money judgment for older rents due.
+- MH2 v. Hwang, 104 Wn. App. 680, 16 P.3d 1272 (2001
