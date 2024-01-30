@@ -1,0 +1,22 @@
+#+title:      Issues of Law
+#+date:       [2023-12-21 Thu 08:50]
+#+filetags:   :law:meta:
+#+identifier: 20231221T085005
+
+* 1. Court Costs and Waivers
+#+BEGIN: denote-links :regexp "_costs" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240125T164237][1a  Court Costs Relating to Evictions]]
+- [[denote:20240126T082320][1b  Waivers of Filing Fees]]
+#+END:
+
+
+* 2. Court Rules
+#+BEGIN: denote-links :regexp "_cr" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240126T104605][2a  Presentation of Findings, Conclusions, and Judgment]]
+#+END:
+
+
+* EVIDENCE LAW
+- [[denote:20231221T083539][Judge may consider facts and common sense but not evidence outside the record]]
+- [[denote:20231221T084112][Judicial notice of court records]]
+

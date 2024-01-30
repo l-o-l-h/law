@@ -1,0 +1,55 @@
+#+title:      Presentation of Findings, Conclusions, and Judgment
+#+date:       [2024-01-26 Fri 10:46]
+#+filetags:   :cr:
+#+identifier: 20240126T104605
+
+* Presentation of Final Orders
+
+1. Either I. the parties stipulate CR 52(a)(5) or approve CR 54(e) proposed findings, conclusions, and judgment, or  II. the court tries the action upon the facts CR 52(a)(1) and then finds the facts and states its conclusions.  CR 54(a)(1).2. Then the presentation can occur CR 54(f).
+
+
+** CR 52. Decisions, Findings, and Conclusions
+
+*** CR 52(a). Requirements
+
+**** CR 52(a)(1) /Generally/:
+- In all actions tried upon the facts without a jury or with an advisory jury,
+  - the court shall find the facts specially
+  - and state separately its conclusions of law.
+- Judgment shall be entered
+  - pursuant to rule 58
+  - and may be entered at the same time as the entry of the findings of fact and the conclusions of law.
+
+
+**** CR 52(a)(2) /Specifically Required/:
+- Without in any way limiting the requirements of subsection (1),
+- findings and conclusions are required:
+
+***** (A) Temporary injunctions.
+- In granting or refusing temporary injunctions.
+
+***** (B) Domestic relations.
+- In connection with all final decisions in adoption, custody, and divorce proceedings, whether heard ex parte or not. ...
+
+***** (C) Other.
+- In connection with any other decision where findings and conclusions are specifically required by statute, by another rule, or by a local rule of the superior court.
+
+**** CR 52(a)(5): When Unnecessary. Findings of fact and conclusions of law are not necessary:(A) Stipulation. Where all parties stipulate in writing that there will be no appeal.
+
+*** CR 52(d): Judgment Without Findings, etc. A judgment entered in a case tried to the courtwhere findings are required, without findings of fact having been made, is subject to a motion to vacate within the time for the taking of an appeal. After vacation, the judgment shall not bereentered until findings are entered pursuant to this rule.
+
+** CR 54
+
+*** CR 54(a)
+
+**** CR 54(a)(1): Judgment. A judgment is the final determination of the rights of the parties in theaction and includes any decree and order from which an appeal lies. A judgment shall be inwriting and signed by the judge and filed forthwith as provided in rule 58.
+
+**** CR 54(d)(1): Costs, Disbursements, Attorneys’ Fees, and Expenses. Costs and Disbursements. Costs and disbursements shall be fixed and allowed asprovided in RCW 4.84 or by any other applicable statute [e.g. RCW 36.18.020]. If the party to whom costs are awardeddoes not file a cost bill or an affidavit detailing disbursements within 10 days after the entry ofthe judgment, the clerk shall tax costs and disbursements pursuant to CR 78(e).
+
+*** CR 54(e): Preparation of Order or Judgment. The attorney of record for the prevailing partyshall prepare and present a proposed form of order or judgment not later than 15 days after theentry of the verdict or decision, or at any other time as the court may direct. Where the prevailingparty is represented by an attorney of record, no order or judgment may be entered for theprevailing party unless presented or approved by the attorney of record.
+
+*** CR 54(f): Presentation. (2) Notice of Presentation. No order or judgment shall be signed or entered until opposingcounsel have been given 5 days' notice of presentation and served with a copy of the proposedorder or judgment unless: ... (B) Approval. Opposing counsel has approved in writing the entry of the proposed order orjudgment or waived notice of presentation.
+
+**** CR 54(f)(2)
+
+***** CR 54(f)(2)(C): After verdict, etc. If presentation is made after entry of verdict or findings and whileopposing counsel is in open court.
