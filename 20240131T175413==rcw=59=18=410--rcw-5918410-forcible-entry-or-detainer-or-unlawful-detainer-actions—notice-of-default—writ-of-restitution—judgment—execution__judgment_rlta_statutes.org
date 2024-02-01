@@ -1,0 +1,44 @@
+#+title:      RCW 59.18.410 Forcible entry or detainer or unlawful detainer actions—Notice of default—Writ of restitution—Judgment—Execution.
+#+date:       [2024-01-31 Wed 17:54]
+#+filetags:   :judgment:rlta:statutes:
+#+identifier: 20240131T175413
+
+* RCW 59.18.410 Forcible entry or detainer or unlawful detainer actions—Notice of default—Writ of restitution—Judgment—Execution.
+
+1. If at trial the verdict of the jury or, if the case is tried without a jury, the finding of the court is in favor of the landlord and against the tenant,
+   - judgment shall be entered for the restitution of the premises;
+     - and if the proceeding is for unlawful detainer after neglect or failure to perform any condition or covenant of a lease or agreement under which the property is held, or after default in the payment of rent,
+   - the judgment shall also declare the forfeiture of the lease, agreement, or tenancy.
+   - The jury, or the court, if the proceedings are tried without a jury,
+     - shall also assess the damages arising out of the tenancy occasioned to the landlord by any forcible entry, or by any forcible or unlawful detainer, alleged in the complaint and proved at trial,
+     - and, if the alleged unlawful detainer is based on default in the payment of rent, find the amount of any rent due,
+     - and the judgment shall be rendered against the tenant liable for the forcible entry, forcible detainer, or unlawful detainer for the amount of damages thus assessed, for the rent, if any, found due, and late fees if such fees are due under the lease and do not exceed $75 in total.
+   - The court may award statutory costs.
+   - The court may also award reasonable attorneys' fees as provided in RCW 59.18.290.
+2. When the tenant is liable for unlawful detainer after a default in the payment of rent,
+   - execution upon the judgment shall not occur until the expiration of five court days after the entry of the judgment.
+   - Before entry of a judgment or until five court days have expired after entry of the judgment,
+     - unless the tenant provides a pledge of financial assistance letter from a government or nonprofit entity, in which case the tenant has until the date of eviction,
+       - the tenant or any subtenant, or any mortgagee of the term, or other party interested in the continuance of the tenancy,
+       - may pay into court or to the landlord
+         - the amount of the rent due,
+         - any court costs incurred at the time of payment,
+         - late fees if such fees are due under the lease and do not exceed $75 in total,
+         - and attorneys' fees if awarded,
+       - in which event any judgment entered shall be satisfied and the tenant restored to his or her tenancy.
+     - If the tenant seeks to restore his or her tenancy after entry of a judgment,
+       - the tenant may tender the amount stated within the judgment as long as that amount does not exceed the amount authorized under subsection (1) of this section.
+     - If a tenant seeks to restore his or her tenancy and pay the amount set forth in this subsection with funds acquired through an emergency rental assistance program provided by a governmental or nonprofit entity,
+       - the tenant shall provide a copy of the pledge of emergency rental assistance provided from the appropriate governmental or nonprofit entity and have an opportunity to exercise such rights under this subsection,
+         - which may include a stay of judgment and provision by the landlord of documentation necessary for processing the assistance.
+       - The landlord shall accept any pledge of emergency rental assistance funds provided to the tenant from a governmental or nonprofit entity before the expiration of any pay or vacate notice for nonpayment of rent for the full amount of the rent owing under the rental agreement.
+       - The landlord shall accept any written pledge of emergency rental assistance funds provided to the tenant from a governmental or nonprofit entity after the expiration of the pay or vacate notice if the pledge will contribute to the total payment of both the amount of rent due, including any current rent, and other amounts if required under this subsection.
+       - The landlord shall suspend any court action for 14 court days after providing necessary payment information to the nonprofit or governmental entity to allow for payment of the emergency rental assistance funds.
+       - By accepting such pledge of emergency rental assistance, the landlord is not required to enter into any additional conditions not related to the provision of necessary payment information and documentation.
+       - If a judgment has been satisfied, the landlord shall file a satisfaction of judgment with the court.
+       - A tenant seeking to exercise rights under this subsection shall pay an additional $50 for each time the tenant was reinstated after judgment pursuant to this subsection within the previous 12 months prior to payment.
+       - If payment of the amount specified in this subsection is not made within five court days after the entry of the judgment, the judgment may be enforced for its full amount and for the possession of the premises.
+3. (a) Following the entry of a judgment in favor of the landlord and against the tenant for the restitution of the premises and forfeiture of the tenancy due to nonpayment of rent,
+   - the court, at the time of the show cause hearing or trial, or upon subsequent motion of the tenant but before the execution of the writ of restitution,
+   - may stay the writ of restitution upon good cause and on such terms that the court deems fair and just for both parties.
+   - In making this decision, the court shall consider evidence of the following factors:
