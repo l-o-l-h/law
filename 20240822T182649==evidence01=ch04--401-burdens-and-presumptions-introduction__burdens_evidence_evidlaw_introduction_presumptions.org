@@ -1,0 +1,29 @@
+#+title:      4.01: Burdens and Presumptions--Introduction
+#+date:       [2024-08-22 Thu 18:26]
+#+filetags:   :burdens:evidence:evidlaw:introduction:presumptions:
+#+identifier: 20240822T182649
+
+* Introduction
+Evidence law does not determine which party has a "burden of proof"
+with respect to a particular issue, nor is the /level/ of that burden a
+function of the types of rules we normally associate with "evidence
+law".
+
+The same can be said of presumptions, which concerns not particular
+classed of evidence, but the effect certain evidence is to have if
+certain conditions are satisfied.
+
+** Understandings
+One must approach the subject with at least three understandings:
+1. courts often describe issues involving burdens of proof and
+   presumptions using variable and ill-defnied terms;
+2. courts often use the same term to mean different things and do not
+   indicate clearly which meaning is intended in a particular context;
+   and
+3. even where courts have reached consensus about the meaning of
+   certain terms, some key unresolved questions remain.
+
+
+With these admonitions, we approach this chapter with the modest goals
+of setting forth some basic principles and pointing out where some of
+the land mines are buried.

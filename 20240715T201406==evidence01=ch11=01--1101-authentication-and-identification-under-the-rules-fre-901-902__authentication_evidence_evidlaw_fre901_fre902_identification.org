@@ -1,0 +1,73 @@
+#+title:      11.01 Authentication and Identification Under the Rules [FRE 901, 902]
+#+date:       [2024-07-15 Mon 20:14]
+#+filetags:   :authentication:evidence:evidlaw:fre901:fre902:identification:
+#+identifier: 20240715T201406
+
+* Authentication - FRE 901
+Any tangible item that a lawyer intends to offer into evidence must first be *authenticated*.
+This is not the same as a determination that the item is authentic. That is the trier of fact's role.
+Authentication allows evidence to be admitted into evidence.  Someone must then decide based upon the evidence if the item is authentic.
+*Authentication* - the judge's call - requires only enough extrinsic evidence to establish a /prima facie/ case that the item is what it purports to be ("reasonable likelihood.")
+If the evidence persuades the judge that a reasonable jury could find the item t obe what the proponent claims it to be, that is enough.
+As a practical matter, the judge looks only to the proponent's evidence.
+
+** FRE 901(a)
+Requires the lawyer to present evidence "sufficient to support a finding that the matter in question is what its proponent claims."
+
+** Examples
+The following are questions of *authentication*.
+
+- Is the computer offered into evidence the very computer that was stolen from the victim?
+- Is the white powder being offered into evidence the same powder that was found when the police searched the defendant?
+- Is the letter containing an offer to sell corn one that was sent by the person alleged to be the offeror?
+- A party to a telephone conversation may not testify to the contents of that conversation or even establish the existence of the call without sufficient identification of the party on the other end of the line (*viva voce* evidence).
+
+* Self-Authenticating Items - FRE 902
+Some items are /self-authenticating/.
+FRE 902 lists twelve items that will be admitted into evidence without any extrinsic evidence of authenticity:
+- official
+- public
+- acknowledged
+- newspapers
+- trade inscriptions
+- commercial paper
+- certified business records
+
+* Extrinsic Evidence of Authentication - FRE 901(b)
+Most items require extrinsic evidence of authenticity.
+
+FRE 901(b) contains ten illustrations of the kind of extrinsic evidence that meets the rule's authentication and identification requirements.
+
+1) Testimony of a Witness with Knowledge. Testimony that an item is what it is claimed to be.
+
+2) Nonexpert Opinion About Handwriting.  A nonexpert’s opinion that handwriting is genuine, based on a familiarity with it that was not acquired for the current litigation.
+
+3) Comparison by an Expert Witness or the Trier of Fact. A comparison with an authenticated specimen by an expert witness or the trier of fact.
+
+4) Distinctive Characteristics and the Like. The appearance, contents, substance, internal patterns, or other distinctive characteristics of the item, taken together with all the circumstances.
+
+5) Opinion About a Voice. An opinion identifying a person’s voice — whether heard firsthand or through mechanical or electronic transmission or recording — based on hearing the voice at any time under circumstances that connect it with the alleged speaker.
+
+6) Evidence About a Telephone Conversation. For a telephone conversation, evidence that a call was made to the number assigned at the time to:
+   (A) a particular person, if circumstances, including self-identification, show that the person answering was the one called; or
+   (B) a particular business, if the call was made to a business and the call related to business reasonably transacted over the telephone.
+
+7) Evidence About Public Records. Evidence that:
+   (A) a document was recorded or filed in a public office as authorized by law; or
+   (B) a purported public record or statement is from the office where items of this kind are kept.
+
+8) Evidence About Ancient Documents or Data Compilations. For a document or data compilation, evidence that it:
+   (A) is in a condition that creates no suspicion about its authenticity;
+   (B) was in a place where, if authentic, it would likely be; and
+   (C) is at least 20 years old when offered.
+
+9) Evidence About a Process or System. Evidence describing a process or system and showing that it produces an accurate result.
+
+10) Methods Provided by a Statute or Rule. Any method of authentication or identification allowed by a federal statute or a rule prescribed by the Supreme Court.
+
+* Division of Labor - FRE 104(a), (b)
+The division of labor contemplated by Rule 104(a) and (b) applies to authentication.
+- The judge decides whether the "authentication" is sufficient for an item to be admitted into evidence.
+- The jury decides whether the evidence is sufficient to decide that the item is, in fact, "authentic."
+- "The jury, not the reviewing court, weights the credibility of the evidence and resolves any conflicts in the evidence presented."
+- "*Authentic*" - the jury's call - is about the comparative persuasive power of defendant's expert handwriting testimony and the defendant's testimony that the letter is a forgery as opposed to the plaintiff's opinion that the handwriting is the defendant's.

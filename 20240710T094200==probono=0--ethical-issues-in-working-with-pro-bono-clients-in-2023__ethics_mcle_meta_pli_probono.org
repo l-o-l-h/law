@@ -1,0 +1,16 @@
+y#+title:      Ethical Issues in Working With Pro Bono Clients in 2023
+#+date:       [2024-07-10 Wed 09:42]
+#+filetags:   :ethics:mcle:meta:pli:probono:
+#+identifier: 20240710T094200
+
+* Course Materials
+#+BEGIN: denote-links :regexp "_probono" :sort-by-component signature :reverse-sort nil :id-only nil
+- [[denote:20240710T080608][probono=1  ethical-issues-in-working-with-pro-bono-clients-2023-10-24]]
+- [[denote:20240710T080654][probono=h1  handout-1-interpreter-translator-confidentialty-rules-agreement]]
+- [[denote:20240710T080637][probono=h2  handout-2-release-of-information-for-pro-bono-placement-agreement]]
+- [[denote:20240710T080813][probono=h3  handout-3-working-with-pro-bono-clients-article]]
+- [[denote:20240710T080623][probono=h4  handout-4-how-to-get-started-with-pro-bono-service-article]]
+- [[denote:20240710T080759][probono=h5  handout-5-working-effectively-with-clients-who-have-mental-disabilities-and-challenging-behaviors-article]]
+- [[denote:20240710T080706][probono=h6  handout-6-language-challenges-for-effective-and-ethical-client-representation-article]]
+- [[denote:20240710T080743][probono=h7  handout-7-the-promise-and-potential-pitfalls-of-limited-scope-representation-and-unbundled-legal-services-article]]
+#+END:

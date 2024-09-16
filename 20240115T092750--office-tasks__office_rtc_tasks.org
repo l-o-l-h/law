@@ -1,0 +1,10 @@
+#+title:      Office Tasks
+#+date:       [2024-01-15 Mon 09:27]
+#+filetags:   :office:rtc:tasks:
+#+identifier: 20240115T092750
+
+* TASK Obtain Complaint for Heston v. Christensen
+- State "TASK"       from              [2024-01-15 Mon 09:48]
+Heston v. Christensen involved a lawsuit filed by a tenant against a landlord which involved twelce complaints originally, but was amended into ten.  The tenant won all ten.  Obtain the amended complaint from Westlaw in the LawLibrary.
+
+Search for 39271-6-III, and go to Filings=>Second Amended Complaint

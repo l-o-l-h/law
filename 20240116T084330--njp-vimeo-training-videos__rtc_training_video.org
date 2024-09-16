@@ -1,0 +1,13 @@
+#+title:      NJP Vimeo Training Videos
+#+date:       [2024-01-16 Tue 08:43]
+#+filetags:   :rtc:training:video:
+#+identifier: 20240116T084330
+
+* TASK Watch NJP HTF Vimeo Training Videos
+- State "TASK"       from              [2024-01-16 Tue 08:42]
+  [[mu4e:msgid:MW4PR14MB4553CFCB694254ADECA380E2DC6F2@MW4PR14MB4553.namprd14.prod.outlook.com][[HTF] Reminder about Vimeo hosting for HTF trainings]]
+
+
+https://vimeo.com/showcase/10402430
+
+pwd: HTF-tr@iningS23*

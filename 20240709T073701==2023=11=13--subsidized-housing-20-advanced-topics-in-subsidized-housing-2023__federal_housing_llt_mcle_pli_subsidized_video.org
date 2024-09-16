@@ -1,0 +1,976 @@
+#+title:      Subsidized Housing 2.0--Advanced Topics in Subsidized Housing 2023
+#+date:       [2024-07-09 Tue 07:37]
+#+filetags:   :federal:housing:llt:mcle:pli:subsidized:video:
+#+identifier: 20240709T073701
+
+* Program
+:PROPERTIES:
+:RECORDED: November 13, 2023
+:PLI-#:    360297
+:END:
+
+* Resources
+
+** Course Handbook
+[[denote:20240709T072822][2023=11=13  360294-subsidized-housing-20-2023-echb]]
+
+** Slides
+[[denote:20240709T072649][Admissions and Tenant Screening in Federally Assisted Housing]]
+
+[[denote:20240709T072705][FHEO Complaint Form]]
+
+[[denote:20240709T072720][Tenant Protections in Admissions Cases]]
+
+[[denote:20240709T072732][Consumer Protections in Admissions Cases]]
+
+[[denote:20240709T072744][Tenant Screening Report Example]]
+
+** Transcripts
+
+*** Opening Remarks
+
+CHRISTINA THOMPSON: But now I'd like to transition to the program proper. But I'd first like to welcome the chair of the Subsidized Housing 2.0 Advanced Topics in Subsidized Housing 2023 Program, Deborah Thrope. Deborah is the deputy director of the National Housing Law Project, and her work focuses on federal, state, and local policy advocacy to preserve affordable housing and tenants rights.
+
+She provides training and technical assistance to advocates working with low income tenants and serves as an advisor and the editor of an HLP seminal publication, HUD Housing Programs Tenants Rights. She's testified before Congress about increasing economic mobility in the housing choice voucher program and improving living conditions for public housing residents. Before joining NHLP, she was a senior attorney at the law foundation of Silicon Valley and represented clients with disabilities facing eviction and civil commitment.
+
+I'm really thrilled to have Deb back to chair the program again this year. She's put together a wonderful faculty to share their expertise with you. And it's my pleasure to hand the program over to her. Thank you.
+
+DEOBRAH THROPE: Great. Thank you so much, Christina. Really excited to be here with all of you today, in person and online. So again, my name is Deborah Thrope, and I'm the deputy director of the National Housing Law Project. And we are a federal policy advocacy organization focused on the preservation of affordable housing and tenants rights.
+
+We also administer a field network. We're up to over 2,000 mostly legal services attorneys but also other housing advocates and organizers, working in the field, directly representing tenants. And we provide technical assistance and training to advocates nationwide.
+
+So Christina mentioned when she was introducing me. But NHLP provides a number of resources for advocates and attorneys working in the field, including the Green Book. So I'm just going to put in a quick plug for the Green Book. Because everything we're going to talk about today is covered in the Green Book, which we call it the Green Book for short in the field. But it's essentially a treatise on tenants rights in the HUD housing programs. And it's a really important resource for everybody working in this area.
+
+What we're bringing you today the program is the second part of a two-part series that we do with PLI every few years. The first part I just want to flag for about 30% of you that are new or attorneys is an intro to the federally assisted housing programs. And you can find that on demand. So if you're interested after today's program and you want some background, you can go ahead on demand and watch part one of the series, which provides an overview of not just the HUD programs, but also the tax credit programs and the rural housing programs under the USDA.
+
+And so I should say it also includes outlines of each of these programs. So really good primer if you're working with tenants in any of those types of housing. So today though, we're going to dig a little bit deeper into one aspect of subsidized housing is the second part of more advanced topics in federally assisted housing. And that is we're going to focus on admissions and tenant screening.
+
+So the agenda is the first session, I'm going to hand it over in a minute to Eric, Lila, and Abby, and they're going to provide an overview of the eligibility criteria for admissions into the major federal housing programs. And what they're going to do is lay the groundwork for the rest of the day. In our second session, we're going to talk about legal protections available to housing applicants under the Fair Housing Act, VAWA, and other laws. And then session three will provide an overview of consumer protections available to tenants seeking affordable housing, including issues related to tenant screening.
+
+So we have a really awesome group of panelists today, both from within NHLP, my colleagues, but also from other organizations. And so we really wanted to provide panelists with expertise in the area and also some on the ground experience for people that are working directly with tenants. So before I hand it over, I just want to say we're really excited to bring you this program in particular. Because expanding housing access is really one of the key parts of NHLP's mission and probably one of the a key part of the work a lot of you are doing.
+
+So we hope you learn a lot. But we also hope that this will encourage more tenants and advocates to challenge unfair and oftentimes illegal tenant admission procedures. And of course, given the affordable housing shortage nationwide, it's really critical to enforce the rights of people and the application process. Because oftentimes, right, there's no other affordable housing options for families in the community.
+
+And so we hope you learn a lot. But also we hope this program inspires you all to go out and represent applicants seeking affordable housing. So as Christina said for all the sessions, you all can do questions online. And then at the end of each session-- so we're going to let the presenters go through their slides. And then at the end, I will be here all morning moderating the questions both online. And then for folks that are here, they can raise their real hand. And we can answer questions from folks in the room as well.
+
+So I really appreciate you all joining us today. Excited to present our first panel. And I'm going to turn it over to Lila, Abby, and Eric now. Thanks so much.
+
+*** Admissions and Tenant Screening in Federally Assisted Housing
+
+LILA GITESTANI: Thanks, Deb. My name is Lila Gitestani. And I'm a staff attorney with the National Housing Law Project. And this morning, the first session will be on admissions, and tenant screening, and federally assisted housing. And before we go into some of the basics of admissions policies and some of these programs, I'm going to have my co-presenters introduce themselves. So I'll first hand it off to Eric.
+
+ERIC G. DUNN: Excuse me. Hi, I'm Eric Dunn. I'm the litigation director with NHLP. And I'm based in Richmond, Virginia.
+
+ABBY KHODAYARI: And hi, my name is Abby Khodayari. I'm a staff attorney at Bay Area Legal Aid in our Contra Costa County Office in Richmond, California.
+
+LILA GITESTANI: So for this session, I'll do a brief review of some of the general admissions criteria for applicants to public housing, the Housing Choice Voucher Program, and the low income housing tax credit program. We'll then hear practical tips from Abby and Eric on how to handle denial cases.
+
+So first, we'll turn to the public housing program, which houses over a million households in the country. So usually, to obtain a public housing, applicants will be placed on a waiting list. And then tenants are selected from that waiting list. Waiting lists can establish the order in which housing offers are made to qualified applicants.
+
+And these lists can be site based or agency wide. Public housing authorities, which I'll refer to as PHAs throughout the presentation, have the flexibility to keep the waitlists open indefinitely or to keep them open for a period of time.
+
+The tenant selection and assignment plan TSAP incorporates written tenant selection policies and procedures developed by the PHA and is used to help ensure establish-- to help ensure that tenants are selected for occupancy in accordance with HUD requirements and established PHAs policies and preferences. The TSAP must be consistent with federal non-discrimination and equal opportunity requirements. And the next session will delve into these Fair Housing protections further.
+
+PHAs can create local preferences for applicants meeting certain criteria, for example, preferences for working families, persons with disabilities, or survivors of DV. This means that those applicants that meet that criteria for preferences will have a better position on the waiting list. The preferences must be based on local housing needs and priorities as determined by the PHA.
+
+And preferences are only-- preferences are only used to establish the order of applicants on the waiting list. They do not impact eligibility for applicants who are otherwise ineligible for the program. However, often a preference will be necessary to have a realistic chance of securing housing given how large the waiting list pool can be.
+
+The PHA must consider three factors when determining the eligibility of the household. And please ignore the typo that says there are four factors. The first factor is that the applicant must meet HUD's definition of a family.
+
+So PHAs have discretion in defining what constitutes a family, but must be-- their definition must be consistent with federal law and can't be considered-- and they can't consider actual or perceived sexual orientation, gender identity, or marital status. And the definition of family includes families with children, or without children, a single person, elderly families, near elderly families, and disabled families. And those are further defined by statute.
+
+The second eligibility factor is that households annual income cannot exceed the established income limits in the jurisdiction. HUD establishes income limits by family size for the area in which the PHA is located and publishes those limits annually in a HUD notice. And generally, public housing is limited to those with an income below 80% of the area median income.
+
+And for the third factor, each applicant in the household must have citizenship or be an eligible-- or have an eligible immigration status with supporting documentation. So families with at least one member that is a US citizen or has eligible immigration status may be eligible for partial or prorated assistance. And those families are referred to as mixed families.
+
+And PHAs are required to verify immigration status through the US Citizenship and Immigration Services, CIS. When a PHA denies or terminates assistance due to lack of citizenship or eligible immigration status, the PHA must send a written notice to the household with certain required information. And additionally, applicants must disclose and document the Social Security number of all family members except for the ineligible non-citizen members.
+
+And moving on to tenant screening, which I guess could be considered the fourth factor, but eligibility includes that the PHA can screen families for suitability for tenancy. PHA may only consider information that is accurate and is relevant to predicting an applicant's likely future behavior as a tenant. And the PHA's admission and continued occupancy policy, the ACOP, details its applicant selection policies.
+
+PHAs may consider certain relevant aspects of an applicant's tenancy history, behaviors, financial, and criminal conviction history, such as their past performance, meeting financial obligations, which includes rent, a record that may affect the health, safety, or welfare of other tenants, such as disturbances of neighbors, destruction of property, housekeeping habits. And the PHA may also consider criminal history.
+
+If there is relevant, unfavorable information regarding any screening criteria, the PHA must consider the time, nature, and extent of the applicant's conduct, including the seriousness of the offense. So PHA may also consider whether excluding a particular member of the household with the unfavorable information and allowing the remaining members to be admitted would resolve the PHA's concerns.
+
+Additionally, the PHA may identify, in their policies, how, when, and under what circumstances mitigating factors will be considered. For example, a willingness to participate in counseling or other social services may indicate a likely favorable change in future conduct.
+
+PHAs are to keep in mind that certain screening criteria, for example, screening criteria that are based on an applicant's criminal record are likely to disproportionately impact minority applicants.
+
+Where a screening policy has an unjustified discriminatory effect such as policy or practice-- such a policy or practice is unlawful under Title VI and the Fair Housing Act. So a screening policy can be unlawful even if it is not intended to be discriminatory. And like I mentioned previously, the next session will go into more detail on some Fair Housing concerns in the admissions process.
+
+HUD does encourage PHAs to seek policies that strikes a balance between resident safety and reentry needs of formerly incarcerated individuals and others with criminal histories, so when reviewing the criminal history record of an applicant.
+
+PHA policy must comply with federal law, federal non-discrimination statutes which may include an individualized assessment of a person's criminal record and reentry needs. There is an absolute ban if any household member is subject to a lifetime sex offender registration requirement or if their member is convicted of the manufacture of meth on the premises of a federally assisted housing.
+
+There is also a category of mandatory bans subject to exceptions-- if any household member was evicted from federally assisted housing within the last three years for drug related criminal activity, if a member is currently illegally using a controlled substance or if a household member currently uses controlled substances or alcohol that interferes with health, safety, or right to peaceful enjoyment of the premises by other residents.
+
+If the PHA denies assistance, there are certain procedural requirements that they must abide by. So if the PHA denies assistance, they must provide prompt notification to the household, a basis for that determination, an opportunity for an informal hearing. They also must provide notices of your rights under VAWA. And a notice that a person with a disability can request a reasonable accommodation.
+
+And if there is a denial due to criminal history, the PHA must provide an opportunity to dispute the accuracy and relevance of that record and must be provided a copy of that criminal record. We're going to move on to our polling question.
+
+So in this polling question, Tammy applied for public housing but was denied for prior criminal history. Tammy received notice of her denial but did not receive a copy of the record. Is the housing authority required to provide a copy of the criminal record to Tammy?
+
+So the first answer is yes, the PHA must provide a copy of the criminal record if it is the basis for the denial. The second option is, no, the PHA is only required to provide an opportunity to dispute the record. So I'll give you a second to respond.
+
+OK, moving on to the answer. The best answer is, a, yes. HUD regulations require that before a PHA denies admissions on the basis of a criminal record, the PHA must notify the household of the proposed action, provide a copy of the criminal record, and an opportunity to dispute the accuracy and relevance of that record. And I believe most of you answered this question correctly.
+
+Next, moving on to the Housing Choice Voucher Program, which is also referred to as Section 8. And more than 5 million people in 2.3 million low income families use vouchers to obtain housing throughout the country.
+
+So similarly to the public housing program, tenants are selected from a waiting list. So usually to obtain a voucher, applicants will be placed on a waiting list. And then tenants are selected from that waiting list. And waiting lists establish the order in which vouchers are offered to qualified applicants.
+
+When PHAs open the waiting list, they need to provide a public notice. And that notice must state where and when to apply. The notice must be published in a local newspaper of general circulation and some other media. And it must comply with Fair Housing requirements. And if there are any limitations on who can apply, that should be included in the notice.
+
+And if the PHA determines that the existing waiting list contains an adequate pool for use of their available funds, they can stop accepting new applications or only accept those that meet certain criteria. And again, just like the public housing program, the PHA can adopt preferences for certain applicants that meet certain criteria.
+
+And the PHA's administrative plan incorporates any local preferences adopted by the PHA. So some examples of preferences are working families, persons with disabilities, or survivors of domestic violence. And these preferences must be based on local housing needs and priorities as determined by the PHA.
+
+And again, these preferences for certain types of applicants are only used to establish the order of applicants on the waiting list. So if the applicant meets the criteria for preference, they will be better positioned on the waiting list. And having a preference does not impact your eligibility for an applicant who is otherwise ineligible.
+
+And so practically, often, a preference will be necessary to have any realistic chance of securing housing given how large the waitlist can be. And when selecting amongst tenants with the same preferences for admission, the PHA can select based on the date and time of the application or a drawing of some other random technique.
+
+So for the voucher program, there are four factors that the PHA must consider when determining eligibility of the household. And again, the family must meet the HUD's definition of a family. And just like in the public housing program, the PHAs have discretion in defining what constitutes a family, but it must be consistent with federal law.
+
+And again, a definition of family includes families with children, without children, a single person, elderly families, near elderly families, and disabled families. And again, those types of families are further defined by statute.
+
+For the voucher program, household income cannot exceed the established limits in the jurisdiction. And HUD publishes those income limits by family size in each area-- for the area in which the PHA is located. And publishes those limits annually in a HUD notice.
+
+Generally, the limit is 50% of area median income. But PHAs do have an income targeting requirement, where 75% of new households admitted each year must have extremely low incomes, which is defined as incomes up to the poverty line or 30% of the local median, whichever is higher.
+
+And other new households may have incomes up to 80% of the area median. And each applicant in the household must have citizenship or an eligible immigration status with supporting documentation.
+
+And again, mixed families may exist in the program. So those are families where not all of the family members are citizens or have eligible immigration status. And so those families may be eligible for partial or prorated assistance. And PHAs are required to verify eligible immigration status through CIS.
+
+There are restrictions on student eligibility. And per the HOTMA changes that came out this year, those regulations are changing. And HUD is to come out with more guidance on the limitations of student eligibility. And additionally, applicants must disclose and document the Social Security number of all family members except for ineligible noncitizens.
+
+Moving on to criminal history, so PHAs are required to conduct criminal background screening. And again like with the public housing program, there is an absolute ban if any household members are subject to lifetime sex offender registry or convicted of manufacture of meth on the premises of federally assisted housing.
+
+There is a mandatory ban, subject to exceptions, if any household member was evicted from federally assisted housing within the last three years for drug related criminal activity, or currently illegally using a controlled substance, or are currently using controlled substance or alcohol that interferes with the health, safety, or right to peaceful enjoyment of the premises by other residents.
+
+PHAs can screen applicants for suitability. And there are permissive reasons for denial where PHA has discretion. For example, if there's a violation of the family program-- of the family program obligations, eviction from federally assisted housing in the last five years, prior termination by a housing authority, debt to a housing authority, and certain criminal or quasi criminal acts.
+
+And the PHA should consider the circumstances in making their determination to deny assistance. And a review of the PHA's admin plan will provide far more information about their suitability criteria.
+
+And again, when, considering criminal history or any of this prior history, the PHA should consider when making their decisions, such as the seriousness of the case, the extent of participation, or culpability of the individual family members, mitigation circumstances related to the disability of a family member, the effect of the denial on other family members that were not involved.
+
+And for drug related issues, the PHA should consider whether the individual is no longer engaged in the behavior or if they've completed a rehabilitation program. And the PHA can require that the members who participated in or were culpable to not reside in the unit.
+
+And there are procedural requirements. If the PHA is denying assistance, they must provide prompt written notice of the decision to the household-- to the applicant, which includes a brief statement of the reasons, and a right to request an informal review, and how to arrange for it.
+
+And finally, we'll look at the low income housing tax credit program, also referred to as the LIHTC program, which is not a HUD housing program, but it's one of the greatest resources for creating housing with below market rent in the country currently.
+
+So the LIHTC program is unique. Like I mentioned, it's not a HUD housing program. And it doesn't have as many eligibility requirements. So the program is primarily administered by the state tax credit agencies. So it'd be important to review your qualified allocation plan for your state, which may include more details on eligibility or other requirements for the program.
+
+And eligibility is determined by the area median gross income, which is based on the income limitations required under the medium set aside test applicable to the subject building. And the owner agrees to these set asides at the outset.
+
+So income cannot exceed 50% of the AMI under a 20-50 test, if the owner must-- which means that the owner must rent at least 20% of the units to individuals whose income is 50% or less of average median gross income.
+
+Or the building might have the-- might follow under the 40-60 test, which means that the owner must rent at least 40% of its units to individuals whose income is 60% or less of the AMI. There is also the average income test, where the owner must rent at least 40% of its units-- sorry.
+
+I'll move on to-- there are some restrictions on full-time students as well in the program, where it applies when the unit is occupied exclusively by full-time students. There are no citizenship requirements in the LIHTC program. And they cannot discriminate against voucher holders.
+
+Owners are not prohibited from using criteria that are common in private market rate housing when looking at suitability criteria for tenants. And they can look at things as such as credit scores, income minimums, or prior history. And some states qualified allocation plans reward less restrictive screening.
+
+And the procedural requirements for this program-- there are no federal notice requirements beyond those required by the FCRA. And though they're not required by statute, appeals procedures are common in LIHTC properties.
+
+And before we wrap up this portion, just pointing out that there are some additional resources out there if you are assisting a tenant in one of these programs. We have the Green Book. NHLP's Green Book goes over a lot of the requirements for these programs. And also the HUD guidebook, so for public housing, for multifamily housing program, as well as the voucher program guidebook provides a lot of details on the eligibility requirements. And NHLP has an advocate's guide to tenants' rights in the LIHTC program.
+
+And I only briefly mentioned earlier about HOTMA. But in 2016, the Housing Opportunity Through Modernization Act of 2016 referred to as HOTMA was signed into law. And some of those provisions were self-implementing, but the other sections required HUD to implement regulations.
+
+And HUD has slowly published implementation notices in the past several years for various sections of HOTMA. And in January of this year, HUD published new regulations for sections 102, 103, and 104, which govern important aspects of income and asset regulations for HUD housing programs, including how income and assets are calculated, new rules for over income tenants in public housing, and guidance on recertifying tenant income that will impact all HUD tenants.
+
+And a few of those significant changes are to the asset requirements for people applying or residing in public housing and other HUD housing programs. And further HUD guidance is forthcoming on that, as well as major changes to how student financial assistance will be calculated. And again, there will be further HUD guidance coming out on that.
+
+And those new rules are in effect as of January 2024, but the PHAs don't need to implement these changes until January of 2025. And NHLP did a presentation and prepared materials on HOTMA changes. So we have a web page and a webinar that went into those changes as well.
+
+And I'll be handing it off to Abby and Eric to discuss fighting denials and practical tips. So I think we have some questions prepared to discuss fighting denials. So I will read off the questions and give you an opportunity to answer them.
+
+So in discussing public housing denials, what is your typical process for handling a public housing denial case? And do you visit the PHA to review the file or request documents to be sent?
+
+ABBY KHODAYARI: Should I go first?
+
+LILA GITESTANI: You can go first.
+
+ABBY KHODAYARI: OK. Yes, I think a file review is usually a good first step. I also think best practice is going to conduct the file review in person at the housing authority. They usually have a paper file for these types of cases, that'll generally be a small file. You can request that they be sent electronically. But it's hard to be sure that everything has been scanned into that electronic file. So a best practice is to go in person.
+
+But also to be aware that when you do go in person, there might be some documents that exist electronically only that might be-- if it's relevant to your situation, email correspondence between the applicant and their worker or and a worker. A call log, for instance, the housing authority that I work with mostly keeps an electronic call log when the tenants or prospective tenants call. So it's good to request those documents.
+
+Something to be aware of would be fees associated with a file review. Sometimes there are fees for obtaining copies. So when you go to conduct a file review, you can bring-- I usually bring sticky tabs to tab the papers I want copies of. But ask ahead for what payment method they accept. Sometimes it's a check. And you need to be ready to have that.
+
+You can also treat this as a fact gathering meeting. Sometimes the person you meet with will be able to answer some questions about the situation or about what happened. So that'll be sometimes helpful to go in person as well.
+
+One exception to the fees that I was mentioning earlier and I think Lila mentioned it as well is if the denial is based on alleged criminal activity based on a criminal record. In that instance, the PHA would need to provide a free copy of that criminal record that they're relying on. They can't charge the tenant for that. And I'll pass it to Eric.
+
+ERIC G. DUNN: Yeah, I would largely echo what Abby just said. I've always gone and done these file reviews in person. I think it's absolutely essential to at least get a copy of that file before you represent a tenant in one of these cases.
+
+And yeah, by going in person, you can make sure that they're not withholding anything. I've certainly had situations where PHAs have picked out the documents that they thought were relevant and then sent those to me. And then later, I see the full file, there's additional things in there that maybe the housing authority didn't want me to see. So I definitely would urge people to go in person if at all possible.
+
+I will say that in these admission and denial cases, there's typically not going to be huge accordion binder like you might have in a termination case or something where somebody's been living in the housing for a significant period of time. So it might be more practical in terms of the number of documents to have them sent. But you want to make sure you're getting everything.
+
+It helps to the extent you can familiarize yourself with what note-taking system the PHA uses. So you can make sure that you know that there's electronic notes you've asked for. That there's some kind of print out of their electronic notes in there.
+
+If you don't see it, you can verify that they don't have any or they can go back and print those out. I think, a lot of times, maybe this is intentional, but I think it's more they just don't think about the electronically stored information in producing these files.
+
+LILA GITESTANI: All right. And are there any particular requests about the hearing that you typically make, such as the timing, or whether it should be in person, in video?
+
+ABBY KHODAYARI: Yes. One thing that comes to mind with that question is asking to record the hearing. They're not always automatically going to be recorded. And you'll want to have a record in case you need to appeal something that occurs in that hearing.
+
+So I will try to ask ahead of time. But it's OK if you don't get too ahead of time to record it myself just on my cell phone. Some PHAs, I've heard, will have recording equipment ready. But even so, it's helpful to make your own recording so you can have access to it sooner, make your own transcript if needed.
+
+You'll also, as we mentioned, want to conduct your file review before the hearing. It's really essential to see all of the information that the housing authority relied upon to make their decision. So you'll want to be able to conduct that prior to your hearing. If there's not time, it is absolutely OK to request a different date. I'll object in writing to the date. And you can just say that the reason is that you didn't have adequate time to conduct that file review. And that should be OK.
+
+Some other things about the hearing-- the tenant or a potential tenant is entitled to interpretation and language services. This is another thing where it's helpful to ask ahead of time. But if you didn't get a chance to, it is still totally fine to request at the hearing to have interpretation services and language services. And to make sure that those services are adequate once they are provided. Just take the time to check in with your client to make sure that that's working for them. And yeah, I think that's it for now.
+
+ERIC G. DUNN: Yeah, before these hearings, I will try to exercise as many of my clients procedural rights as I possibly can, because every time you're making a request that exercises one of these rights, you're giving the housing authority a chance to screw it up. And that can give you an issue if you need to appeal the case, provide leverage to challenge the result if it doesn't go your way.
+
+So anything that looks like an opportunity to ask the PHA to-- whether it's to record the hearing, to change the location of the hearing, to change the date and time of the hearing, to provide documents or information ahead of time.
+
+Any of those requests that you can make, you're going to try to make those in writing ahead of time for six or however many things in some letter. And then that you're really preparing something that you may have to use as an exhibit in court if you need to litigate that later.
+
+With recording, keep in mind that a lot of PHAs are good about recording the actual testimony. They'll have a voice recorder or some kind of device to record that, but they may not preserve the exhibits. And a lot of times, that's really important information. So make sure that you don't ask only just to record the spoken testimony and arguments of the hearing, but that they actually preserve the exhibits as well.
+
+I've personally never had a housing authority refuse to record the hearing, but if they were to do so, there's really no reason that you couldn't use a smartphone or some kind of voice recorder of your own to make sure that you can keep a record of the hearing.
+
+There can be some pretty significant disputes as far as the date and time of the hearing and the location. I've had PHAs try to schedule a hearing at the extreme far end of town so that my client's witnesses can't get there, or schedule it for a time that conflicts with my client's work schedule, or something that can make a big difference.
+
+And so those can be really important arrangements to try to make sure that you have the hearing at a time and location that is practical and convenient for your client. And housing authority is not willing to agree on a satisfactory date and time. That's something that you have the right to take to the hearing officer.
+
+So it's certainly fair game to ask the housing authority ahead of time, who is the hearing officer? And how can I get a hold of that person, if you have a dispute of that kind, as well as sometimes you may want to argue that the person is not impartial or challenging who the hearing officer is. So you certainly need to identify the hearing officer ahead of time, if you ask for it. And it may be necessary to contact that person.
+
+I think something I've certainly experienced with these hearings, with the interpretation, sometimes the interpreter that they sign might be a PHA staff person or someone who's not going to just simply interpret what's spoken for your client, but who's also going to be offering opinions. And you really need to take what they're offering you because you're going to-- not being that sort of thing.
+
+So be on the lookout for that kind of thing. Make sure that you talk to your client. And they're satisfied that the interpreter is just interpreting and not trying to pressure them or conflict with things you're telling your client.
+
+And something to be aware of, especially in smaller immigrant communities where everybody-- there's a good chance that they may know each other or know people in common. A lot of times, the interpreter may know or only be one or two connections from your client. And your client may be reluctant to share things with that person and so forth.
+
+So I wouldn't just blindly accept whatever interpreter they provide. I'd be on the lookout for those types of issues. If there happen to be witnesses from the housing authority that you want to call at the hearing, you can ask the housing authority to produce those people. And they have an obligation to do so.
+
+And housing authorities are obligated to keep a-- not a publicly available, but a file available to any applicants, or their attorneys, and so forth that you can review. So if you're not familiar with how this housing authority operates, you can ask to review that file at a time, and peruse some past decisions that they've issued, and get a feel for how those hearings have gone in the past. I will say some PHAs are not good about keeping that file, which may raise its own separate set of issues.
+
+DEBORAH THROPE: OK, thank you so much. So I just said to Lila-- so there are a few questions related to these responses. So I'm going to jump in, if that's OK from the audience. And then there are other questions that we'll address at the end of the presentation but because they're related and clarifying questions, but also raise some very interesting ideas here.
+
+So one is about the records themselves. So you all talked about the fact that for some housing programs, tenants have the right to receive a copy of the criminal record, if it was the basis for the denial. So one of the questions is around in the housing authority example. Are housing authority-- do they have-- housing authorities have any obligations with respect to the keeping the records themselves?
+
+Do they have to keep a criminal record separate from the rest of the admissions file so that the tenants-- so that the tenants request is explicit and that they only receive the record? Or what are maybe some of the mechanics about that from the housing authority's perspective? Or from your experience, do you just get the whole admissions records?
+
+Do you get the criminal record itself on behalf of the tenant? And then with the recognition that some of these records are now electronic. So from your experience, is it just that you as the advocate and/or the tenant are receiving just the record itself?
+
+ERIC G. DUNN: Well, I can go first on that. In my experience, the housing authority, when there's a denial for a criminal record is usually going to-- I mean, I haven't actually had them provide me the electronic-- like email me something that they've downloaded. They print everything out on paper. And they put it in a manila folder. And then you get it.
+
+So the criminal record would usually be in that file along with all the other stuff-- so the denial notice, and the tenant's application, and whatever else they're relying on, any correspondence or other things between the housing authority and the tenant.
+
+I will say that some housing authorities will purchase third party background checks, the same as a private landlord might purchase. And then they'll just print a copy of that out and put that in there. You could also request that report from the third party background screening company. And I will say that sometimes those will look quite a bit different.
+
+ABBY KHODAYARI: I agree. I think, generally, in my experience, it's been in the same file with everything else. And like, I think, Eric mentioned earlier, these files tend to be really small. Sometimes it'll only be the criminal record or what was relied upon for that denial.
+
+DEBORAH THROPE: OK, very helpful. So there's one more question that-- so this is about the accessing records of the housing authority. And these are issues, I will say, they come up all the time on our national listserv. So I'm glad people are asking some of them.
+
+So with respect to the records, can the housing authority or owner prohibit you as the attorney, let's say you're representing the tenant in the denial, from coming in with your phone and using your cell phone to take a picture of that file, which I know is what we used to do when I was in legal aid. We'd have to-- we actually had to go in. They usually wouldn't freely send us the documents. So we'd go in. And we'd go with our cell phone and take screenshots. So can they prohibit you from doing that?
+
+ERIC G. DUNN: I've never heard of any rule against that. And I mean, now you can even download a scanning app on your phone, and just scan it, and actually have a high quality electronic copy of the document. So not only have I never heard of there being any prohibition on that. And I don't think there would be any basis to have one, but I would actually strongly encourage people to do that.
+
+ABBY KHODAYARI: I was going to say the same thing, not that I know of, no prohibition. And I will say too just that the electronic thing is much newer. I think housing authorities have been slow to move to electronic records. And I've only actually experienced housing authorities being willing to send electronic records at all post pandemic. It just I think became a lot easier for them, but prior to that, they were not going to take the time to scan records. And like we said, probably better to go in person anyways.
+
+DEBORAH THROPE: OK, back to your questions.
+
+ERIC G. DUNN: I would just add that, in my opinion, the different impediments that PHAs sometimes put up to accessing files and getting copies of things, it raises a real due process problem. I think even for legal aid programs, I mean, courts are not going to be sympathetic to arguments that you shouldn't have to pay the $5, or $20, or even more money that they might charge to make copies of a tenant's file for one of these cases.
+
+But if you have somebody that's representing themselves, and they can't afford the copying charges, I mean, that can have a real significant impact on their ability to prepare for the hearing and have a meaningful opportunity to contest it. So I think PHAs need to be willing to waive those charges in some circumstances.
+
+And I think that if you have somebody that maybe comes in after the fact. They represented themselves. They couldn't really prepare because they tried to get copies of things. And they were quoted some price that they weren't able to pay. I think that's a good issue that advocates should be willing to take PHAs to task on.
+
+LILA GITESTANI: And what kind of prehearing investigations do you typically conduct?
+
+ABBY KHODAYARI: Yeah, so in addition to the file review, an in-depth interview of the client. This is really helpful for investigating and deciding whether to take it for hearing, but also to prepare for the hearing. You're going to want to-- especially if the tenant or the client is going to testify, to make sure they're really comfortable explaining the facts, explaining what happened around-- if there's a criminal history incident that they're using to rely on, or maybe a past eviction that they're comfortable talking about the circumstances around that, how long ago it was, timeline, what has happened since, any mitigating factors.
+
+So definitely, a lot of in-depth interviews with the client. Making sure that the evidence we've collected through the file review is accurate. So I'll go through that with them. Also talking to any other witnesses or people that might be involved if you can. If there are any other household members or other third parties that you might be thinking about calling as witnesses. It's really great to do interviews for them as s
+
+ERIC G. DUNN: And I would just add-- I don't know why this is, but these administrative hearings, in my experience, there's always been something magical about having documents. So you can have a witness come in and say that your client participated avidly in a rehabilitation program, and has really turned their life around, and they're a good citizen, and they're going to comply with all the rules, and everything.
+
+And that will go in one ear and out the other. But if they have a certificate of completing the rehabilitation course or something, somehow that has some huge impact on these hearing officers. So any documents that you can get to support your client's position, I think, is really helpful.
+
+Whether it's payment plans on debts, or any kind of documentation that they've paid fine, or that they've completed, ready to rent course, or whatever it is. Any kind of paper that you can turn in seems to really make a big practical difference, even though, legally, maybe it shouldn't necessarily.
+
+If the housing authority is using third party tenant screening companies, I would make sure that you not only get the copy of the tenant file from the PHA but also request it from that third party. And see if there's differences, see if there's things that you can dispute with that third party company. And especially if you can-- well, you shouldn't be relying on this report because, look, they've had to-- it was wrong. They've made changes or there's things under dispute.
+
+With third-party witnesses, keep in mind that, typically in these proceedings, You're, not going to have any kind of subpoena power. So you're not going to be able to compel them to show up. So that makes it especially important to try to get some written statement from them if you can, just in case they don't show up or they don't call in when they're supposed to. You'd rather have the live witness. But if you can't guarantee that they're going to be there, you want to make sure that you have something that's better than nothing.
+
+LILA GITESTANI: And do you have any tips for preparing your clients for these hearings?
+
+ERIC G. DUNN: Yeah, I think, as we were saying, doing an in-depth interview, making sure they're comfortable on all of the facts, and having a discussion on whether they want to testify, and pros and cons of that. If you determine or if they don't want to testify, they can always submit a declaration in writing as well. But it might not be quite as persuasive. It's good to practice asking questions, having them answer questions.
+
+A strategic thing to flag for clients too is that they can have a positive impact on the outcome By showing that they are sympathetic and have a lot of mitigating factors to consider. In a lot of these cases, the PHA has a lot of discretion to look at those mitigating circumstances. And sometimes, you'll go into this. And they won't have even been aware of a lot of the facts that you're bringing in. So it's a good opportunity for your client to educate them on the full story or the whole picture.
+
+And your client, I think, it's also good to acknowledge they might be really frustrated or have really good reason to be upset about the situation or angry with the housing authority. But you can remind them that the impact-- of the impact that their testimony could have on the outcome.
+
+I also think it's really helpful to put things in writing, maybe a list of the factual allegations, any legal issues from notices, or things that have come up in client meetings, or putting together even a written timeline, if timing is something that's important in your case.
+
+And really taking time to really, slowly go through this with your client and help them prepare because they rightfully, I think, can be really, really nervous going into this. Letting them know that you're there for them. You're going to help them through it. And making the decisions on strategically whether they should testify together.
+
+I think another thing to think about in terms of preparing clients is to help them set proper expectations for the hearing itself and the decision. With a lot of housing authorities, the administrative hearings, you're not really going to get a fair shake. And so if you've already informed your client ahead of time that, look, this is really just a kangaroo court here. We're probably going to have to file some lawsuit to get you into this housing.
+
+So Then you have the hearing. And the bad decision comes. They're not totally just wanting to give up at that point. So that's one thing. You still, of course, have to let them know that even if we might be looking at a longer game here, we need to put our best foot forward at the administrative hearing that gives us a chance to win at that stage unexpectedly.
+
+But even if we don't, we need a good record to go ahead to go ahead at the next step. So that way, even if things don't seem like going well at the hearing, we're still going to get all our evidence in. We're still going to put our best foot forward.
+
+ABBY KHODAYARI: One more thing I forgot too is making any reasonable accommodations beforehand if you can for your client. And I always let them know too, if you need to take a break, you need to stand up, use the restroom, whatever it is, ask me and we'll make that happen. I don't want them to feel the pressure to sit through this whole meeting in one sitting if they don't feel like they're up for that. Yeah, and then any other accommodations too. It's helpful to make it before, but you can make those requests at the hearing as well.
+
+LILA GITESTANI: And for informal hearing, regulations don't lay out those procedures. How does that impact your approach?
+
+ERIC G. DUNN: Well, think what that means practically is PHA, they can really vary in what these hearings actually look like, what the actual procedures are going to look like. There's two main categories that I've seen. One is you'll see PHAs that just treat the admission hearings the exact same way as they handle good grievance hearings for current tenants, especially people facing eviction.
+
+So you're going to have more of a adversarial type proceeding in front of a hearing officer where the PHA's got a representative, who's usually going to be the admissions person who processed the application and determined under the rules that your client wasn't suitable or wasn't eligible.
+
+And then you're on the other-- that's, I think, a good format. You can present your case. And you can ask questions if you want. But you're going to be basically in charge of that, presenting all the information you want the hearing officer to hear. And then they're going to render a decision.
+
+The other model I've seen is more like a meeting, where maybe with the admissions supervisor or somebody at the PHA. And they're the decision maker. So you're talking a more bilateral type proceeding directly with them. And what I don't like about that proceeding is that, usually, they're the ones asking the questions. They have more control over it and how it goes.
+
+I'm not sure if that's really an appropriate way to handle this, as opposed to the more adversarial type format, but I've actually never had a bad result from that kind of hearing. So I've never had to challenge it. And maybe as a practical matter, it does have some advantages.
+
+LILA GITESTANI: And what do you usually present at the hearing?
+
+ABBY KHODAYARI: Client testimony, supporting exhibits, evidence related to a reasonable accommodation, evidence related to whatever the denial was based on. Also, I think it's really, really valuable to submit a position statement prior to the hearing. If it's a strong case, you can even try to submit it a little further in advance if possible. And you might get a decision, a favorable decision without having to go through with the hearing.
+
+But even if you don't feel confident on the facts of your case, I think still very valuable to submit a position statement. A lot of times, the folks making the decision might not be familiar with the law. They might not have even been familiarized with the facts of the case. So it's really nice, I think, to write something assuming that they aren't familiar to lay out all the facts and the applicable laws.
+
+The position statement too, I wanted to say, is it's not evidence. So it's not on the same timeline as evidence. If the PHA tries to say it is, and it's late, or you can't submit it, that's something-- that's a good area of advocacy, somewhere to push back on. However, your own PHA might have a deadline internally. So just be sure to check on that when working on your position statement.
+
+ERIC G. DUNN: Yeah, I would echo that. I think submitting some written argument, whether it's in the form of a letter, or something that looks more like a legal brief, or whatever format it's in, is really critical to handling these cases. Because as Abby mentioned, you may be dealing with a hearing officer who has no legal background or ability to interpret and apply rules and policies to facts.
+
+So it can help them in understanding how these rules are supposed to work. So just as a practical matter, you can say a lot of this out loud at the hearing, but it's probably going to go in one ear and out the other, or they're not going to remember all of it, or they're not going to remember it the right way. So you really want to give them something to refer back to when they're actually trying to sit down and write this decision.
+
+It's just not realistic that they're going to hear you say that orally and then recall that information with the level of detail necessary to reproduce it in a ruling. And then if you do wind up having a negative decision in one of these cases, this is an easy way to show some judicial body what arguments you made, what information you presented for the administrative tribunal to consider.
+
+So you have that all in one nice package rather than having to go back to the record-- especially when a lot of times, it might be some electronic record. It might be poor quality, maybe the exhibits are missing. So that can really be invaluable if you wind up having to somehow challenge this judicially after the fact as well.
+
+LILA GITESTANI: So when looking at some typical kinds of evidence you rely on to challenge denials, what do you typically use to challenge criminal history denials?
+
+ABBY KHODAYARI: I would look, when doing research on the denial, first look to any local fair chance ordinances. And then after that look at the incident. And then any mitigating factors, so what has been happening since then. The type of crime, how long ago it was plays a big role. And then relevance for the housing and for the denial.
+
+ERIC G. DUNN: Yeah, under the 2016 HUD guidance on criminal history, as well as I think the 2015 guidance, which is directly-- which is written directly at subsidized housing providers, only convictions should be used as a basis to deny admission. I think there's a narrow exception if they have specific evidence that your client did the crime, even if there hasn't been a conviction.
+
+So if they broke into the PHA's office or something. And they have them on their own video or something like that. But in the vast majority of circumstances, they're going to need a conviction record. So if they're trying to deny your client based on nonconviction arrest record only, they shouldn't be doing that.
+
+In my personal experience, arguments based on rehabilitation and changed circumstances, whether your client's just older and more mature. Your client has more responsibilities now-- a family, a job, whatever, something acting as some check on their behavior, that type of evidence tends to be more successful than trying to minimize what the crime was or arguing that it didn't happen when there's a conviction or something like that.
+
+Not to say that those arguments are impossible, but generally speaking, a lot of times, you're going to be better off acknowledging that they did the crime. And then here's what they've done to put that behind them rather than arguing, well, it wasn't really that serious.
+
+And then any kind of character witness type information that you can bring in can be really valuable. It's not just your client saying they've changed, not just your client saying they're more mature, but here's a neutral third person who's observed them, who can say, oh, yeah. This person's been coming to church. And here are the different ways that I've seen this person mature and change their behavior over time.
+
+Or as I mentioned before, any kind of certificates or classes that they've completed to show that they're rehabilitated. I know a lot of times that stuff can seem really paternalistic and cringeworthy, but it can make a difference to these proceedings.
+
+DEBORAH THROPE: Great. So I was going to hop in again because we have a few questions related to criminal history in the Q&A box that we can cover. So Abby you mentioned, one of the first things you do in a case related to criminal activity or criminal history is check to see if there's a local fair chance ordinance.
+
+So there are-- so there are a number of fair chance ordinances popping up across the country. We have several here in California, which essentially prohibit what the landlord can consider in housing decision related to criminal history. Of course, the goal of expanding housing opportunities for people with a criminal history.
+
+And so this question is specifically about the City of Seattle's ordinance, but it could apply to any ordinance, any new ordinance that's written that's more expansive than the HUD rules. I also know-- I'll open it up to both of you, but I know, Eric, that you are familiar with the Seattle ordinance in particular.
+
+So when the city ordinance is more expansive and provides further protections than would otherwise be allowed in HUD housing, for example, the respect to the two categorical bans, what does the HUD policy preempt any local ordinance that would do that?
+
+ERIC G. DUNN: So I believe the Seattle ordinance specifically carves out the Seattle Housing Authority, which is unfortunate, but I think was necessary to get it passed. But as a general rule, I would say that if you have a municipal ordinance that would purport to prohibit the PHA from screening for the two statutory categorical bans that Lila mentioned earlier-- lifetime registered sex offender, or conviction for the manufacture of methamphetamine on the premises of federally assisted housing. I've never had a client with that, but those are the two absolute categorical bans.
+
+I think if a city tried to say, well, you can't screen for that PHA, I think that's preempted. And then there's a closer question on this issue of the way that the regulations are worded is that PHAs are supposed to have the discretion to deny for other types of criminal history even beyond those statutory categories.
+
+I think if the city passes a ordinance that says you can't consider any other criminal history, it makes that applicable to a PHA. Then that's basically the local jurisdiction saying you need to use the discretion in this manner. And I think they have the authority to do that.
+
+But I think there's a differing opinion on that somewhere that the effect that the PHA's supposed to have the unfettered ability to make that judgment. And the municipality can't make that judgment for them by ordinance. So I don't know that there's been a court case deciding that issue yet, but I think that's where the line would be drawn.
+
+DEBORAH THROPE: Thanks, Eric. Abby, did you have anything you wanted to add?
+
+ABBY KHODAYARI: No, I would echo that.
+
+DEBORAH THROPE: OK, great. Thanks. So one other question. So this is related to-- if you're representing someone in an admissions case with an open criminal case, the question is around is there any-- do you have any strategy around that? This is a really good question. I personally have not come across it in my practice, but how do you coordinate-- or do you have any tips on coordinating the criminal proceeding with any type of application hearing?
+
+ERIC G. DUNN: Well, this does tend to come up quite a bit in the evictions context, where you might have somebody who's facing criminal charges for something. And then the PHA's also trying to evict that household for the criminal activity. And of course, evictions move much more quickly than criminal prosecutions sometimes.
+
+And so there's a risk that the person's going to have to testify in the Civil eviction defense case and possibly incriminate themselves. And then that information can be used against them in the criminal trial. And most states have a balancing test that looks at whether they need to basically stay the civil proceeding to protect the person's right against self-incrimination.
+
+I'm not familiar with all the particulars on that. And I think it differs from state to state. I do think, in an admissions context, it's a different calculus because the person's not living in the housing yet. And so on one hand, the PHA wouldn't suffer any prejudice of any kind if they were to just, OK, yeah. We'll delay your application until after your criminal matter is resolved.
+
+On the other hand, under the HUD policies, the PHA is not supposed to be able to use a nonconviction record against your client. So if they've been arrested, they're being prosecuted, but they haven't yet been convicted, that may actually be something you want to take advantage of at that point in time to try to get them in before they potentially plead guilty to something or wind up being convicted after trial. I think that's something you really have to use your judgment as an advocate. I don't know if there's one-size-fits-all answer to a question like that. But it's a very good one.
+
+LILA GITESTANI: And our time is almost wrapping up. So I just want to get to a few questions before. But in terms of denials based on eviction, or negative rental history, or credit score, or housing debt to PHAs, how would you handle those cases differently in terms of the evidence that you present?
+
+ABBY KHODAYARI: Yeah, so there's a lot of similarities. I think I would look at how long ago it was. What for? Is there an argument to be made that it's not relevant to the current situation, especially if there's negative rental history, maybe rent debt owed?
+
+But if there's no eviction judgment, maybe arguing that it can't be used, and isn't relevant, or argue that they need to look more at a current situation, look at the person's income and ability to pay rent now rather than a default and rent that they had many years ago, and looking at the circumstances surrounding that.
+
+I would also try to see if there's any reasonable accommodation to be made to not consider that incident. Especially, I've seen this where there's an old eviction that comes up based on nuisance. And maybe there's an argument. You can make an accommodation request that this was based on a mental health issue or something similar. And yeah, I think I'll leave it there.
+
+ERIC G. DUNN: The one thing I would say with evictions is that, well, over 70% of evictions nationally are based on nonpayment of rent. So typically, lower income households are going to be rent burdened. They're paying more than 30%, often more than 50% of their income toward just rent and utilities. It doesn't leave a whole lot of money for a rainy day.
+
+So something bad happens, lost job, or slashed hours, or somebody moves out, or something. And all of a sudden, they're facing eviction. So now, they're having an opportunity to move into subsidized housing. I think it's really important to get across to the decision maker. That was their performance in paying rent when they were rent burdened. Look, they were paying 40%, or 50%, or 60% of their income toward the rent. Now, they're only going to be paying 30% of their income. So they'll actually be able to afford these things.
+
+And so they're much less likely to be evicted. It's really not fair or appropriate to assess their likelihood of paying the rent and meeting the financial obligations of the tenancy in a subsidized dwelling based on how they were doing as a rent burdened tenant in private housing. So I think that's a critical point to make with nonpayment type evictions.
+
+If there hasn't been any kind of eviction judgment, if it's just a case was filed or something, I would argue the same as with nonconviction criminal records. That's irrelevant. You shouldn't even be considering that. I think there's recently been some HUD guidance documents that basically take that position.
+
+I would treat behavioral evictions-- somebody being evicted for some kind of lease violation other than not paying something. I would basically treat that the same as criminal history. Look for things like rehabilitation, and changed circumstances, or other mitigating evidence of that nature.
+
+And then when it comes to things like credit and so forth, I think one of the most damaging things is going to be if the person owes money, especially to another PHA, certainly any kind of housing related debt, that's usually going to be the number one reason for denial of admission anywhere. And that includes public housing.
+
+So what can you do to try to satisfy the decision maker to admit your client despite that one possibility, some payment plan with the person they owe the money to. Even if your client's only making token payments, $10 a month or something, at least shows that they're not just ignoring that debt. They're doing something to deal with it. Sometimes, a Chapter 7 bankruptcy may be necessary to wipe out a large debt. I think we're out of time. I'll stop there. Thank you.
+
+LILA GITESTANI: And just to wrap up on a hopeful note, do you find these denial hearings to be reliable forums?
+
+ABBY KHODAYARI: Yeah, I do. I think sometimes you'll do a file review. And sometimes you will find that you don't have favorable facts. Sometimes there's a misunderstanding. The tenant, maybe when they applied, didn't understand the admissions criteria or something similar. But if you have a good set of facts, like we were saying, a lot of these denials are very-- the PHA has a lot of discretion. And they don't have the full set of facts or there are some mitigating factors that they aren't aware of that you can provide them with. So I do find them to be really, really effective in a lot of cases.
+
+ERIC G. DUNN: Yeah, I would agree. I can't actually recall ever being unsuccessful in one of these cases. And I've had very few where I had to do anything after the hearing to overturn a bad decision or anything. I would say, it's quite a contrast from the eviction and termination type context, where the administrative hearing is often-- you're going to get a bad decision and have to really fight it out in court later. I'd say, most of the time, you'll get a good-- at least in my experience, we've been able to get a good decision from the hearing officer. And the person just moves in.
+
+DEBORAH THROPE: So with that, you're going to win every time. We're going to leave it right there. But thank you. Please join me in thanking Lila, Abby, and Eric. This was a really excellent session that had a lot of great-- it set the stage for us with the law, but then also really incredibly, useful practical tips from all of you. So thank you so much. And I think we'll move on to the next. But thank you. And I think we go right into our second session. So thank you. Thank you all.
+
+*** Tenant Protections in Admissions Cases
+
+DEBORAH THROPE: So while they get set up, I will just review the next session, which is Tenant Protections in Admissions Cases. So now, we're going to get into all of the defenses that you can all use when you are representing a tenant who is applying for federally assisted housing and may be facing a denial based on a range of factors.
+
+So I'm very excited to invite, up here, Sarah, Tiffany, and Ugochi. And I believe-- is Sarah going first? Yes. OK, so my colleague Sarah will be presenting first on tenant protections in HUD housing admissions in particular. So welcome all. Thank you so much. And I'll be doing-- I did chime in earlier than the end last time. But generally, I will be monitoring the questions and present them at the end.
+
+SARAH BRANDON: Great, thank you so much, Deborah. So hello, everyone. Welcome back if you were here for the previous session. And again, as Debra was saying, the session is going to focus a little bit more in depth on the tenant protections that are available to applicants to HUD housing.
+
+So how do you vindicate someone's rights if they have been denied admission? And I am Sarah Brandon from the National Housing Law Project. And I'm going to let my co-panelists introduce ourselves. And then we'll get started.
+
+TIFFANY HICKEY: My name is Tiffany Hickey. I'm a staff attorney with Disability Rights California. We are California's protection and advocacy agency. We're a nonprofit that was founded in 1978. And we work to defend, advance, and strengthen the rights and opportunities of people with disabilities. I specifically work with our housing stability project. And we believe that sharing knowledge and connecting people to resources empowers people with disabilities to make the best housing decisions for themselves and advocates for themselves.
+
+UGOCHI ANAEBERE-NICHOLSON: Good morning or afternoon, depending on where you're watching us from. My name is Ugochi Anaebere-Nicholson. I use the pronouns she/her. I'm a staff attorney with the Public Interest Law Project.
+
+Founded in 1996, the Public Interest Law Project or PILP as we are shorthanded known is a statewide legal services support center that provides crucial litigation and advocacy support to local legal services and public interest programs throughout California. We do this by spearheading major litigation and drafting legislation to defend and protect the rights of low income families to subsistence aid, health care, and affordable housing.
+
+SARAH BRANDON: Thank you both. And again, I am Sarah Brandon. My pronouns are she/her. And I am a fellow at the National Housing Law Project. And NHLP advances housing justice for poor people and communities by strengthening and enforcing the rights of tenants and low income homeowners through increasing housing opportunities for underserved communities and preserving and expanding the nation's supply of safe and affordable homes.
+
+And we also host something called the Housing Justice Network, which is a network of over 2,000 legal aid, and other tenant advocates, as well as publishing resources on our website for advocates and tenants, including the Green Book, which is a treatise on tenants' rights in HUD housing.
+
+So we're going to kick things off with a quick polling question to just gauge people's familiarity. So the question is, how familiar are you with the various tenant protections that are available to HUD tenants in housing admissions cases? And as the results come in, I will say, you don't need to have any particular level of familiarity with the subject to get something out of the presentation. But it's great to know where people are coming from.
+
+It looks like we've stabilized that most people are somewhat here and there. Some people are quite familiar. And some of this might be knowledge that already, but we hope everybody will kind of gain something from this.
+
+So an overview of what we're going to talk about today in this section. We're going to focus on three substantive areas of law-- the Fair Housing Act or FHA, reasonable accommodations, and the Violence Against Women Act or VAWA. And the last presentation did focus a lot on procedural protections available to tenants or applicants when they're denied admissions. So this will focus a bit more on the substantive protections that you can use when forming an argument to challenge those denials.
+
+So I will begin with the Fair Housing Act. And before I get into the act, just a quick review of some of the tenant screening categories that are most likely to raise Fair Housing concerns. So you heard about being denied housing for criminal history, criminal records, eviction history, credit scores. Those are all potentially likely to raise concerns around Fair Housing Act violations.
+
+And they are some of the more common records that housing providers will screen for. And the housing providers may also screen out tenants based on something like their source of income, also rental that came up in the previous section. And so you'll want to pay attention to Federal Fair Housing protections versus local or state Fair Housing protections to see which of these types of records could be challengeable under those laws.
+
+So who does the Fair Housing Act protect? So under the federal law, these are the seven federally protected classes-- race, color, national origin, religion, disability, sex, which includes perceived gender identity and sexual orientation, and familial status, which includes families of minor children and pregnant people.
+
+So as we just discussed, the screening categories can be discriminatory when you are screened out for something that would disproportionately impact a member of protected class. And then another note that state and local law, as I said, might be different. So they may have additional protected classes. For instance, source of income as we just discussed can be protected in some states, but this is the federal floor, the bare minimum that, across the country, housing providers would need to abide by.
+
+So the Fair Housing Act applies relatively broadly. It applies in both HUD housing and in the private rental market and also both to the sale and rental of homes. Because this session is focused on tenants' rights and applications to HUD tenants, we're going to focus on the rental housing context. But just so you know, this is relatively broad.
+
+And the statute uses the word dwellings to describe covered housing. So that can include things like houses, apartments, university student housing. We have a list over here on the left side of the slide, as well as some of the things that are excluded from the definition of dwelling. But additionally, there are some important exemptions to coverage by the Fair Housing Act that are also listed on the right side of the slide.
+
+So you can take a look at that list. I want to call out a couple things. One of them is that the single family housing exemption is often described as anyone who doesn't use a broker to rent a single family home, but it's actually a little bit more accurate to use this rented without advertisement language because this applies to advertising of any kind.
+
+If you post an apartment application on Zillow, you advertise something on Craigslist in the newspaper, that property would be subject to Fair Housing Act coverage. So it's not just actually if someone hires a broker to rent their single family home out. It would be if it's a single family house posted anywhere for advertisement.
+
+Additionally, there are some exemptions for housing that's restricted to certain communities. So we've included 55+, 62+ communities. Those are pretty common and the rental housing context. But important to note that the exemption they're going to get will be for the protected class that's relevant to that restriction. So familial status here, those communities don't get any kind of exemption to discriminate by race, or sex, or any other protected class.
+
+So we've discussed where and to whom the Fair Housing Act applies, but what does it actually do? This is a non-exhaustive list of some of the prohibited discriminatory practices that the Fair Housing Act covers. At a high level, basically, the FHA prohibits discrimination in housing related transactions.
+
+So again, these are practices that might come up more often in rental context, a refusal to lease to somebody, to make housing unavailable, or a refusal to make a reasonable modification. Tiffany is going to go a lot more into that in the next section. Misrepresenting the availability of rental. All of these things would be prohibited if they disproportionately impact a member of protected class.
+
+So how would we actually vindicate a tenant's rights under the Fair Housing Act? There are a couple of different theories of liability. This slide has the full list-- disparate treatment and discriminatory effects liability. Discriminatory effects is an umbrella that covers a couple of different theories of liability as well. And we're going to go through each of these and their differences over the next few slide.
+
+I did just want to note that there are a couple of different ways you can bring these cases. The Fair Housing Act does have a private right of action, which is not true for every type of tenant protection. So these cases can either be brought through the courts on behalf of an applicant or administratively through filing a complaint with HUD.
+
+And if you're working with tenants or anyone who's applying to HUD housing and you think there might be a Fair Housing Act violation, the idea behind this training is to help you issue spot and identify those possible violations where they occur. But we definitely recommend getting in touch with the local Fair Housing center in your area. If you're thinking about bringing a case, they can be pretty resource intensive, relatively complex, as you'll see in the next few slides.
+
+So we're going to begin with disparate treatment, which is what people think of when they think about discrimination. It's intentionally treating some people differently than other people. The important thing about disparate treatment in the Fair Housing context is this intentional piece. So the plaintiff who's bringing the case needs to show that there is discriminatory intent.
+
+And there are a couple of ways to do that, either through direct evidence, which are often found in statements in video or audio recordings, but can also be reflected in documents or policies that are on housing providers website, for instance. Anything that gets at an intentional policy of discrimination based on protected class. It can be explicit. It can also be encoded language, getting at stereotypes. So relatively broad there.
+
+Alternatively, you can bring something called a similarly situated entity evidence, which is establishing a prima facie case of this intentional discrimination. And it most often comes up in the context of Fair Housing testers. I mentioned in the previous slide. Fair Housing centers will often send out testers to apply for different apartments or rental housing and get at whether there's discrimination occurring.
+
+So for instance, if a center sent out one Black tester and one white tester who have otherwise very similar backgrounds and records. And they both applied for the same use unit. And the housing provider used a very rigid screening protocol to deny the Black applicant, but then told the white applicant that they can perhaps work something out, or they're willing to look more into their background, or their context to give them a more favorable treatment, that can show that provider is intentionally treating people differently and more favorably based on race. So that's a way to show that a similarly situated entity would be treated differently and get a disparate treatment.
+
+So this is a quote from a recent case out of Michigan that shows an example of what it looks like for a plaintiff to bring a disparate treatment claim. And in the case, there is a Black applicant who applied for a rental unit.
+
+And the property manager initially did the background screening that the property has the protocol for and didn't find anything that raised any concerns. But they then went ahead and looked further into this person's background, did additional screening measures. So they were essentially screened twice. And on that second pass, they found a conviction history and denied the housing.
+
+So the plaintiff here is saying, hey, you can't be screening people twice based on whatever logic you're using. And the court said this is definitely a departure from the housing providers usual procedure. And it's evidence that there might be disparate treatment going on here. So they support the disparate treatment claim and are allowing it to move forward in the case.
+
+So that was a quick discussion of disparate treatment, which is, again, intentional discrimination. We're now going to move on to discriminatory effects liability, which are ways to challenge housing providers actions that might not be intentionally discriminatory or look discriminatory on their face, but they do still result in discrimination against certain protected classes.
+
+So discriminatory effects is this umbrella term that includes disparate impact and perpetuation of segregation. And I'm going to spend the rest of the time that I'm speaking to you discussing disparate impact theory. So it's a little bit more relevant to admissions cases.
+
+Perpetuation of segregation comes up less frequently, but you have a quick overview of this definition here. It usually comes up more with governmental entities. And it is basically what it sounds like-- actions that are tending to perpetuate a pattern of segregation in housing.
+
+So disparate impact. To bring a disparate impact claim, you need to follow a three-step test. And the first step is just establishing that there has been a disparate impact on a protected class. The plaintiff has the burden to prove this. And because of the nature of disparate impact claims, you have this facially neutral policy. It can be relatively complicated to establish a clear thread that this has had a disparate impact on a protected class. So typically, what we'll see with this step is the use of statistics to draw out that connection.
+
+So for example, if a housing provider has a policy that prohibits anyone with a conviction history or record from being accepted into the housing, plaintiff can use statistics to show that Black and Brown applicants are much more likely to have conviction records because of the way that this country incarcerates and arrests people of color than white applicants. And so therefore, screening out anybody with a conviction history just for that record is going to disproportionately harm people of color and harm people by race.
+
+There are plenty of national statistics on this connection. And HUD actually has some helpful guidance that these national statistics can be enough to bring a disparate impact claim. But typically, we're going to want to use state or local statistics. And that's usually preferred by the courts to say, specifically, here's where the harm is going to be disproportionately on members of protected classes here in this state or locality.
+
+So again, from this same case out of Michigan, this is a quote on their disparate impact claim. They brought both disparate treatment and disparate impact claims because this housing provider did have what's called a blanket ban on admitting anybody with a felony conviction on their record.
+
+So the plaintiff brought in both national statistics, as well as state, and county level data. And the court is here saying, that's enough to meet their burden at this step. There's plenty of evidence here that there might be a disparate impact on a protected class. So let me see. I'm going backwards, apologies.
+
+Step two, we are moving on to step two. So if the plaintiff is able to show a disparate impact on a protected class at step one, we're going to move to step two, where it's now the defendant housing providers job to show that even if this policy does have this disparate impact, it's justified because it's necessary to achieve a substantial legitimate interest.
+
+This can't be purely speculative or hypothetical. They have to support this claim with evidence. And so sticking with this ban on felony convictions. One thing that we will see are housing providers pointing vaguely to public safety as a justification. And HUD actually does also have some guidance around how this is not necessarily enough to pass this burden at step two. That you want to get really specific about why do you need this particular policy to further that interest.
+
+So if at step two the court decides that the housing provider does not have a substantial interest or this interest isn't justified, then that's it. You're done. That's your disparate impact claim. The plaintiff has been successful. But if the defendant, the housing provider is able to move through step two and show that their policy is justified, even though it has a disparate impact, there's a step three, where the burden shifts back to the plaintiff. So this is called the burden shifting framework.
+
+And it's now on the plaintiff to say, OK, but you can get at that necessary interest with a less discriminatory alternative. So this can seem a little challenging for a housing applicant who is not working inside the housing provider. But coming up with something like an individualized assessment or requiring further context and opportunity to explain the background around whatever record has led to the denial can be enough at this stage.
+
+So for example, we've been talking about conviction records a lot. But in eviction records context, if a housing provider has a policy that anybody with an eviction on their record is going to be denied housing, you could say, OK, well, that's going to have a disproportionate impact. And people should actually be able to come forward and explain the context behind this eviction.
+
+So I think in the previous section, we heard a lot of what that could look like, but something about the context of what they were able to pay at that time, or even something like the nature of the eviction record itself, if it was only a filing and not a judgment. Just providing this additional background can go a long way toward reducing the discriminatory impact of a policy.
+
+So if a plaintiff is able to do this and convince the court that there is a less discriminatory alternative, that's great. And you've succeeded in finding a disparate impact. And the policy is more likely to be overturned.
+
+So a couple of regulatory and guidance background information on the disparate impact theory. HUD has, over the last 10 years, had a few different iterations of their disparate impact rule. It's their discriminatory effects rule, but it does cover disparate impact. And the first version was promulgated in 2013 and established that three-part test that we just went over.
+
+That rule however faced challenges in court and was overturned by HUD in 2020. So it's been back and forth a bit. But as of March 2023, this reinstatement of HUD'S discriminatory effect standard went through. And as of September, in a case NAMIC v. HUD, which is the National Association of Mutual Insurance Companies, a federal district court upheld that rule. So this is the latest and greatest. This reinstatement is HUD's discriminatory effects rule.
+
+There is also some helpful guidance, as I've been referring to and the previous panelists referred to. This is a quick list. And this is all in your additional materials that came with the presentation. But HUD has put out a lot of very important Fair Housing guidance advising housing providers how not to run afoul of the Fair Housing Act, specifically around conviction histories.
+
+So some of these guidance pieces apply only to public housing authorities and owners of project based rental assistance, not landlords who accept Section 8 Housing Choice vouchers. So those are the PIH notices in 2015 and 2023. But all of these have similar, high level takeaways around blanket bans being likely very discriminatory as we discussed in the case in Michigan.
+
+Also that the use of arrests to deny someone housing is likely to have a disparate impact and be discriminatory. And emphasizing the importance of using individualized assessments and including consideration of evidence and mitigation. So I'm going to actually pass it over to Ugochi to share some examples of how she's used this guidance in her practice.
+
+UGOCHI ANAEBERE-NICHOLSON: Thank you, Sarah. Yes, we were able to use this guidance successfully in two cases. The first case involved a woman who was unhoused and who had a criminal legal history involving the theft of a shopping cart. And she was subsequently denied admission to her local PHA. We were able to successfully use the HUD guidance to challenge that admission denial, as well as our state anti-discrimination regulatory provisions.
+
+And then the second example involved a writ against a local public housing authority for failing to consider mitigating evidence of an individual who lives with mental health disabilities and who successfully obtained diversion under our state of California's Penal Code Section 1001.36. So we were able to use the HUD Fair Housing guidances in both these cases to admit, in one case, a woman to Section 8. And then in another case, obtain her voucher again.
+
+SARAH BRANDON: Thank you, Ugochi. That's very helpful context. So I'm actually going to turn it over to my co-panelist Tiffany to discuss reasonable accommodations.
+
+TIFFANY HICKEY: Thank you, Sarah. Excuse me. So a reasonable accommodation is a change to a rule policy practice or service that may be necessary to allow a person with a disability the equal opportunity to use and enjoy a dwelling, including the public and common use areas or an equal opportunity to obtain, use, or enjoy a housing opportunity.
+
+We're going to discuss these in more details in the next few slides. But first, you want to look at whether or not the request is feasible and whether the accommodation requested will give the tenant or the applicant the opportunity to use or enjoy the property. Also importantly, there has to be a nexus or a connection between the applicant's disability and the requested accommodation and the ability of the applicant to use or enjoy the housing or housing program.
+
+I do want to briefly mention that a reasonable modification is something that also comes up often in the housing context. A reasonable modification is a change to a structure. And the same legal rules apply to requesting a modification. But since we're focusing on admissions to subsidized housing programs, we're primarily going to refer to reasonable accommodations.
+
+So an important piece of a reasonable accommodation, this is a protection for a person with a disability. And since there are a lot of different definitions of disability, we are going to be discussing disability under the Fair Housing Act and the Americans with Disabilities Act today.
+
+For Fair Housing purposes, a disability is a physical or mental condition that substantially limits one or more major life activities, for example eating, sleeping, speaking, walking, standing, thinking, or concentrating. This also includes people who have a record or a history of a disability or are perceived by others to have a disability. So even if you don't identify as having a disability, if other people regard you or consider you to be disabled, you may also qualify to request a reasonable accommodation.
+
+It's important to note that the stringent federal disability benefits criteria for Supplemental Security Income, SSI or SSDI do not apply here. Really, it's just that you need to have a physical or mental condition that substantially limits one or more major life activities. So it's very broad.
+
+We do also want to note here on this slide that this does include people recovering from addiction. If they're completed or currently undergoing substance abuse treatment, but it does not include the current use of illegal substances. There's also some other exceptions we're going to get to later, including a direct threat to health and safety of others and if a tendency would result in substantial physical damage to property.
+
+Here, we're going to discuss the requirements in a little bit more detail. First, starting at the bottom of the slide, the format is anything that an applicant or a tenant wants. There is not a required format. However, of course, as legal advocates, we recommend requesting a reasonable accommodation in writing. That's helpful to keep a record of the request and help with filing a complaint later if needed.
+
+There are no magic words. You don't even have to say that you're requesting a reasonable accommodation. And public housing authorities cannot require a specific form or particular format, although most do have their own reasonable accommodation form that they will request you to use. Legally, they can't require you to.
+
+It's also important to note that a reasonable accommodation can be requested at any time from the beginning of the application to eviction. And this is under both federal and California law. If a disability is not obvious or readily apparent, a housing provider can ask for documentation to support the requested accommodation. This is usually referred to as verification of the disability.
+
+The verification is usually in the form of a doctor's letter, but it does not have to come from a medical professional. A non-medical service provider like a social worker, another reliable third party who knows about the person's disability, a peer support group member, or even an individual statement or proof that they receive disability benefits such as SSI or Social Security Disability Insurance could suffice.
+
+It's also important to know that the applicant does not need to disclose the disabling condition or a diagnosis. They only need to provide enough information to document the disability related need for the requested accommodation.
+
+The accommodation also needs to be reasonable and necessary. So some of the questions that we often look at are, is the request feasible? And will the accommodation give the tenant or the applicant the equal opportunity to use or enjoy the property? And again, it's very important that there is a nexus or connection between the disability and the requested accommodation.
+
+There are a few legal reasons for a housing provider or a housing authority to deny a reasonable accommodation request. First is direct threat. This is when there is a direct threat to the applicant's self or others. And this means a significant risk of bodily harm that would cause substantial physical or that would-- something that would cause substantial physical damage to the property.
+
+A decision to deny a reasonable accommodation based on direct threat cannot be based on stereotypes or generalized information about a particular disabling condition. For example, in California, we're seeing a lot of stereotypes and misconceptions about specific mental health diagnoses such as schizophrenia.
+
+The other context where this comes up often is for emotional support animal, reasonable accommodations, or service animals. For example, there are a lot of stereotypes around certain types of breeds or sizes of dogs. And a blanket ban on a particular breed or size is not allowed. There needs to be a specific threat related to a particular animal in order to deny that accommodation request for an emotional support animal.
+
+The housing program should also consider alternative accommodations that might mitigate whatever the threat is. Another legal reason to deny a reasonable accommodation request is a fundamental alteration of the program.
+
+The requested accommodation must fit within the program. For example, if applying for a subsidized housing program, asking for help with filling out the application form. Requesting for help with buying groceries is probably outside of the scope of a subsidized housing providers program. And that would be a legitimate denial for a fundamental alteration of the program.
+
+Finally, an undue financial burden is a third reason to legally deny a reasonable accommodation request. In looking at an undue financial burden denial, you need to look at the resources available. The undue burden must be actual and demonstrable and not speculative. And just because a reasonable accommodation would cost the provider or the program some money, that does not mean that there's an undue financial burden.
+
+For housing authorities, you can look at the annual plan, which includes information about the budget and any reserves available. That's a good way to see how much money the housing authority has available as additional funds. And if a few hundred dollars is going to break the bank, there are probably bigger issues that the housing authority needs to look at.
+
+So as Sarah mentioned, federally assisted housing providers are covered. And they must provide reasonable accommodations that would allow an applicant to meet the eligibility requirements for the program. And they need to also consider mitigating circumstances.
+
+So since we're focused on the admissions stage and applicants, I'm going to provide a few examples of common reasonable accommodations that I've seen and my colleagues and I have helped applicants with.
+
+One really common issue is that applicants will be sitting on a waitlist for many years before they get to the top. Throughout that time, there may be interim requests from the housing authority for updated information, whether it's financial information or contact information.
+
+And if an applicant doesn't respond within a timely manner, usually just a course of maybe five days, which is a very short period of time, that applicant will be removed from the wait list. And so often, if there is a disability related reason why it makes it difficult for the applicant to fill out the paperwork or to respond in a timely manner, you can request a reasonable accommodation to have them put back on the wait list in the position that they were at before.
+
+In particular, I've worked here in San Francisco for several years. The housing authority Section 8 waitlist, I believe, is over 10 years at this point. So getting kicked to the bottom of the waitlist can be very devastating for a lot of applicants.
+
+Something else that my colleagues have touched on is a disability related reason for a low credit score or a criminal history. For example, if an applicant's disability was related to a criminal conviction, explaining that. And requesting a reasonable accommodation to have that criminal history excused or not considered as a part of the application process would be a reasonable accommodation.
+
+For applicants with physical or mobility impairments, allowing an applicant to install a wheelchair ramp or grab bars into a unit before moving in would be a reasonable modification request that would be reasonable.
+
+One other thing to note that's not exactly a reasonable accommodation, but we wanted to flag for you all is that in California, there's a recent Supreme Court decision called Riley versus Marin Housing Authority, where the California Supreme Court ruled that IHSS, In-home Support Services, income to keep a family member with developmental disabilities at home should not be included in the family's annual income.
+
+The family's annual income for federally subsidized housing is important because that is the income that the 30% of the tenant's rent is based off of. And after this California decision, the federal government decided to actually update the regulations, so effective January 24.
+
+No payments made to a family to keep a family member with a disability at home. So in California, we have the IHSS program. But in your state, you probably have a similar program. Any of those payments made to a family member to care for a disabled family member, to keep them at home, will be excluded from the family's annual income. And that's Section 5.609(b)(19) as in boy. That will be effective January 2024.
+
+Here we have a hypo. Jane has a physical disability and uses a wheelchair. Jane got to the top of the Section 8 voucher list and was issued a voucher. After weeks of searching for a unit, Jane is unable to find a unit with a ramp and/or elevator so that she can get in and out of the unit in her wheelchair. She asks the housing authority for more time to find a unit but they say that she has had enough time and deny her requests.
+
+We want to make sure you're still all with us. So we've got a little poll. Do you think that the housing authority's denial of the request was proper? OK, it looks like almost everyone has gotten this one correct. The answer is no. First off, Jane didn't need to specify that she needed a reasonable accommodation request.
+
+And she could have probably explained a little bit more about why she needed more time. But it sounds like it's pretty clear based on her disability. And the housing authorities should have agreed to give her more time to find a unit that met her physical accessibility needs. And I think we'll pass it off to Ugochi. And if we have more time later, we can come back to part 2 of that hypo.
+
+UGOCHI ANAEBERE-NICHOLSON: Thank you. I will be speaking about the Violence Against Women Act. And so if I can have the next slide, please. The Violence Against Women Act, which has been the law in our country since 1994 provides housing protections for survivors of domestic violence, sexual assault, dating violence, and stalking who are applying for or living in federally assisted housing.
+
+This includes survivors who are actual or perceived regardless of sex, gender identity, sexual orientation, disability, and age or age, and who are victims of actual or threatened domestic violence, dating violence, sexual assault, or stalking, or who are an affiliated individual of the victim, such as a spouse, a child, or a person standing in loco parentis for a person who is not the biological parent of that child, and who is living in or seeking admission to a federally assisted housing and unit covered by VAWA.
+
+Those protections include but are not limited to nondiscrimination. It's illegal to deny admission to or assistance under or evict a person from a covered housing unit, where the survivor or a member of his or her household or their household has been a survivor of VAWA abuse. The notice of occupancy rights, the right to an emergency transfer, which is a transfer to a unit free from violence, and the right of confidentiality in the VAWA process. Next slide, please.
+
+So this is a laundry list of the covered housing that applies in the VAWA context. It's important to note that VAWA does not apply to market rate housing that is not subsidized. And in 2022, when it was reauthorized, VAWA added additional programs, including but not limited to the HUD-VASH program, the Transitional Housing for Homeless Veterans, National Housing Trust Fund, and transitional housing assistance grants for survivors of domestic violence, dating violence, sexual assault, and stalking, as well as a catch all provision for any other federal housing programs providing affordable housing to low and moderate income persons.
+
+So if we can have the next slide, please. And so the survivors' rights at admission. The PHA, landlords, and owners may not deny an applicant housing on the basis of or as a direct result of that applicant having been a survivor of domestic violence, dating violence, sexual assault, or stalking. This includes adverse factors resulting from the abuse.
+
+For example, in the event of a survivor who is experiencing economic abuse, an adverse factor might be improper bad credit history. And so the landlord cannot use that adverse factor to deny the tenant housing. Although the Fair Housing Act does not explicitly name survivors as a protected class, because the vast majority of survivors are female, discrimination against survivors can constitute sex discrimination. Next slide, please.
+
+We provide this slide here to help illustrate protections for survivors with disabilities. Section 504 of the Rehabilitation Act of 1973, which is codified at 29 USC 794, prohibits discrimination on the basis of disabilities in federally assisted housing programs or activities. It's important to note that HUD has regulatory guidance implementing the Rehabilitation Act at 24 CFR Part 8 and 24 CFR Part 9, which are being currently revised by HUD.
+
+This means that under the Rehab Act, for instance, that housing providers may not deny persons with disabilities the opportunity to participate in a program or activity because of their disability or accept a different kind or lesser program or service than what the housing provider provides to others without disabilities, even if separate programs exist. And for the California practitioners on the call, we have our own state corollary to the Rehabilitation Act codified at Government Code Section 11135. And we hope to have regulatory authority in the coming year. Next slide.
+
+So I'm going to read this example. Juana is a survivor of domestic violence. And she has a temporary domestic violence restraining order against her partner, which requires her to remain at least 100 yards away from her. She found a low income housing tax credit, LIHTC, apartment near her job and applied online for it.
+
+When she went to go and sign the lease, she took a copy of her restraining order and gave it to the landlord. The landlord told Juana that she doesn't want cops around the apartment complex and denied the apartment to Juana. This is a good example of denying an applicant the ability to rent an apartment based on her status as a protected person, as a survivor of domestic violence.
+
+Here, Juana has a domestic violence restraining order. And she presented that to the landlord in the application process. And instead of the-- instead of the landlord walking through the steps of VAWA, the landlord summarily denied Juana the opportunity to apply for the unit, indicating that she did not want cops around.
+
+Juana has several options available to her, including filing a HUD complaint against the landlord for not following the protocols under VAWA. And under VAWA 2022, there is a new office of gender violence. And the Fair Housing Employment Enforcement office can also accept these complaints. And there have been a couple of cases filed against housing providers and landlords who are violating the Violence Against Women Act, resulting in fines, fees, and Fair Housing training. Next slide.
+
+And so the purpose of this slide is to show the intersectionality between local and state laws that conflict with Federal Fair Housing protections. And those providers must first comply with federal law. As we've discussed in earlier presentations, including by my co-panelists, we have seen a number of these issues come forth in crime free programs and nuisance ordinances which restrict or indeed deny admissions based on the fact that someone has an intersection with the criminal legal system, as well as criminal history, ranging from arrests to convictions that may relate to their status as survivors.
+
+In my practice, I practice in Inland County, Inland counties, California. We have two entities, the city and the County of San Bernardino, where we have advocated against the crime free programs that they have in place that have restricted the ability of survivors to find housing in those two jurisdictions based on intersection with the criminal legal history. And I'll pass it to Sarah because we've done some state-- we have some forthcoming state legislation regarding the limiting use of these crime free programs and nuisance ordinances.
+
+SARAH BRANDON: Thanks, Ugochi. So yes, in California, starting next January, a new law is going to go into effect. So it was AB 1418. And this was recently passed. That is a law that just tackles these crime free housing programs and nuisance ordinances by going after key provisions of these types of policies and making those unenforceable.
+
+So this is going to, in the admissions context, as Ugochi was saying, include things like requiring landlords to deny people based on certain types of backgrounds, or records, and requirement to use a criminal background check in housing admissions. They've been very, very harmful to people all across the state.
+
+So this is a great example of both the importance for housing providers of complying with federal fair housing laws, but also the power of what states and localities can do to combat these harmful policies, which I think brings us to the next portion of this slide. Ugochi, I'll pass it back to you.
+
+UGOCHI ANAEBERE-NICHOLSON: Thank you. And so states-- fair housing laws may be more protective than what's allowed under federal law. We have a number of jurisdictions that have fair chance ordinances and regulations that limit what actually can be considered when looking at an applicant who has intersection with the criminal legal system and has criminal history.
+
+Not considering arrest or juvenile records for example and also considering mitigating circumstances such as the example that I provided earlier regarding my client who had mental health-- who lives with mental health disabilities and was able to successfully divert herself out of the criminal legal system. And being able to use that information in remaining housed and applying for housing.
+
+SARAH BRANDON: Thank you, Ugochi. Oh, go ahead, sorry.
+
+UGOCHI ANAEBERE-NICHOLSON: No problem. And then one other law that is coming forth in California in 2024 is Senate Bill 267, which will allow applicants in limited contexts, I believe it's in subsidized housing, to use alternative forms of credit to or alternative forms of payment to actually demonstrate that they have the ability to pay the rent.
+
+For a survivor of domestic violence, for example, or sexual assault, or dating violence, this can be critically important for them to obtain housing as they can use other methods to demonstrate that they have the ability to pay the rent in the event, for example, if they're a survivor of economic abuse and their credit history is less than stellar because of that abuse.
+
+SARAH BRANDON: Thank you. Apologies for stepping on you earlier, Ugochi. So that brings us to the end of our substantive portion of the presentation. I'm going to push this to our lovely question slide. I think we may have some that Deborah would want to walk us through.
+
+DEBORAH THROPE: Sure. Thanks so much. First of all, it was really excellent presentations from all of you. So thank you. And it flows perfectly from the first presentation, which as you noted, went through the procedure for challenging denials in federally assisted housing.
+
+So the first question I will throw out from the audience is around-- so it's interesting. It's two different types of policies. So I'm going to break the question up a little, because I think there's a lot of really important information in here. So first around first come first serve policies.
+
+So for example, this is a really important question because Tiffany noted. And a lot of types of federally assisted housing, there's really long waitlist now. So if you, let's say, want to access the Housing Choice Voucher Program in California, and also throughout the country, in many jurisdictions, the wait it's going to be 12 to 15 years. It's almost impossible to get on those waitlist alone because the waitlist actually closed.
+
+So hypothetical is a housing authority opens their waitlist. And tenants know that it's their-- families is not their one shot to get on this waitlist. And it might not be open again for three or four years. So can housing authorities have a first come, first serve policy, for example, with respect to getting on a waitlist? And have those been challenged? So I have a few thoughts on this as well, but I'm going to open it up to you all first.
+
+TIFFANY HICKEY: I think that is a really good question. As far as I know, they can have those types of policies. And most housing authorities will have a very complex prioritization. And I don't know if it's like a point system, but some-- they look at various factors and risk factors for applicants that then may come into play. But generally speaking, yes. But that's a very simple answer to a very complicated question. I'm curious about your thoughts.
+
+DEBORAH THROPE: Well, I mean, I think that's right. And I think that they-- I know there's been complaints. And there have been challenges against first come first policy because-- and I think that's right, Tiffany. There's certainly grounds to challenge something like that in the sense of you talked about reasonable accommodation requirements, and Fair Housing, all Fair Housing requirements, and other disability related requirements.
+
+It's certainly seems actionable in the sense that it would unfairly and disproportionately impact, for example, people with physical disabilities who may be-- I mean, I remember there were some story. I can't remember where it was, but where people were camping out when the waitlist opened. And so that clearly has a disproportionate impact on people with disabilities. Anybody else have anything they want to add?
+
+I'll go to the other half of that question, which is around residency preferences. So the same question was asking about whether or not-- we know residency requirements in the federally assisted housing programs are illegal, but residency preferences may be legal.
+
+So would there be grounds to challenge a residency preference that would disproportionately, let's say, impact people in a given community-- protected class in a given community? Ugochi, you look like you may be ready to speak on that.
+
+UGOCHI ANAEBERE-NICHOLSON: I think that there may be an opportunity to do that, going back to the presentation that we heard from Sarah. If the preference is administered in a way that this disproportionately impacts or disparately impacts a protected class. And I've definitely seen that with some PHAs, where certain groups are prioritized over others to the detriment of a protected classification.
+
+So I think it depends on how the PHA is administering the preference. As long as they're not doing it in a way that discriminates against a protected classification. I think there have been opportunities for them to try to use the preference, like if they're using a preference for veterans in a particular area but not impacting the ability of other protected classes to be able to apply for housing. That's how I've seen it in my practice.
+
+DEBORAH THROPE: You mentioned this Tiffany that the preferences issue in assisted housing now is a really interesting one because I know San Francisco has, I think it's like 12 preferences now for admissions or something, which is a lot, which means that if you're not part of a preference, if you don't fall into one of the preferences, it's unlikely that you will ever receive that housing subsidy. So it's a good question of thinking about how these preferences impact different types of families, people applying for the housing.
+
+TIFFANY HICKEY: Thinking back to the question about geographic preferences, another way that I've seen this come up is people move around a lot. And particularly if there's a 12, 15 year waitlist, you may be in a completely different geographic area by the time you get to the top of a waitlist. So I have seen clients who are living in one area and then get to the top of a waitlist and get a voucher, somewhere, hundreds of miles away.
+
+And that has become an issue in a couple of different ways, where I've seen reasonable accommodations become very helpful where most housing authorities will require that you use a voucher within their jurisdiction for at least a year. And then you're able to port to a different area.
+
+And the idea-- the entire idea of the Housing Choice Voucher Program is for people to be able to choose where they live. And be able to move around with it. But there's this competing balance of the housing authority serving a local-- a small jurisdiction and local area, and not wanting people to be able to shop around, and just apply to every waitlist possible, and get a voucher way up in a small county that has a very short waitlist. And then port it to somewhere like San Francisco with a very long waitlist.
+
+However, if there is a disability related reason why someone, for example, who gets a voucher up in Eureka or something. And they try to find a unit there, and cannot find a unit that meets their disability related needs, or perhaps they have specialists that they need to see where they live now.
+
+They can request that one-year requirement be waived as a reasonable accommodation and have the voucher ported sooner. I've seen that go both ways. And I've seen some decisions from HUD that I disagree with on that issue. But I have also seen some successful reasonable accommodations in that context as well.
+
+DEBORAH THROPE: Excellent, so now I'm going to ask a question, also from the audience. This is going to Ugochi. And then if others have thoughts chime in because it's about the Violence Against Women Act protections that you talked about. So how can a tenant fight back against or challenge, I would say, the forced-- if a tenant has a repayment plan because of damages that are a result of being a survivor?
+
+So let's say they're caused by damage caused by the abuser. If there's a situation where they might not be able to access victim assistance funds, or [INAUDIBLE], some other types of funding to pay it back, what are some ways you could challenge that denial if it's based on economic reasons but it's a result of the abusers actions?
+
+UGOCHI ANAEBERE-NICHOLSON: So one of the ways that you can do that is filing a specific form self-certifying the abuse. And that's HUD form 5380 and 5382. They're required to be provided to the tenant at three critical times-- admission, termination, or any type of indemnification. So in this type of context, the tenant could file that confidential form with the landlord detailing and explaining the nature of the situation, if they're seeking to invoke the VAWA protections.
+
+And I've done that, actually, on behalf of applicants who are denied housing because of conduct that occurred at their prior housing that may be related to their status as survivors. And the landlord is required to consider that. And if they need additional information, to ask the tenant to provide that information and deciding whether or not to move them through the admissions process. But they can't just say, oh, this happened. We learned about this. And you can't apply as a result of damages to your prior unit.
+
+DEBORAH THROPE: Great, thanks, Ugochi. I'll put in a quick plug for the resources on NHLP's website related to the housing rights of survivors of domestic violence, sexual assault, and stalking. Especially with the re-authorization of VAWA in 2022, we republished a number of materials on this topic. You can go to NHLP's website. And you'll see a page with a number of links that includes training specifically on this topic, but also written resources that cover a lot of the housing rights we discussed today.
+
+So I'm going to-- this is for everybody. So what are ways-- we talked a lot about of how housing providers can implement some of the protections in the Fair Housing Act, under VAWA, and under disability rights laws. How do you-- what are some tips you all have as to how advocates can work with the housing providers like local housing authorities to implement better policies, either in their planning processes or just on a practical level practical approaches?
+
+SARAH BRANDON: Yeah, that's a great question. And from what I've heard, I think bringing these issues to the attention of housing providers can go a long way. There are some who obviously are willfully trying to shut certain people out of housing. But I think there are a lot of housing providers that maybe are not aware of all of the laws and all of the rules around these issues.
+
+So advocates who can develop relationships with their housing authorities and bring awareness to what their clients are facing and the types of denials that they're seeing. I think providing trainings. All of these things can make a difference, certainly. I don't know if you have anything more specific.
+
+TIFFANY HICKEY: Something that I find helpful is that every housing authority has to go through an annual planning process and update their policies and procedures that relate to Section 8 and public housing. And there's always a public comment period related to that. So in addition to representing people in these cases, bringing these issues to their attention, there is actually a public rulemaking process that happens. And each housing authority has to go through it.
+
+So either attending those meetings or submitting written comments. If there are problematic policies that are in writing, that can be a great way to address them and get actual changes made. I do understand that there are a lot of housing authorities across the country. And so that takes a lot of advocacy because they are spread out. And there's a lot of work to be done there.
+
+UGOCHI ANAEBERE-NICHOLSON: In the time we have remaining, I would just add joining committees of the local public housing authority. For example, in my jurisdiction, we had meetings of our local continuum of care, where I was able to lift up issues that were impacting survivors of violence and people experiencing homelessness, for example, due to disability and other circumstances at the local meetings.
+
+And agending the agendas. And finding out what was on the agendas, so that I could provide information to our local PHA. So finding out what meetings that they're having. And as my co-presenter said and Deborah also said, commenting during the public rulemaking process. I can't stress that enough. They need to hear from us as advocates.
+
+DEBORAH THROPE: Great. And I'll add one more, which is every state has a qualified allocation plan process for the tax credit housing program. And that's another really great public planning process to get involved in, because you can-- there are states that have some tenant protections with respect to admissions policies in their state qualified allocation plans that govern those properties, those tax credit properties.
+
+So with that, I want to just thank Sarah, Tiffany, and Ugochi for a really excellent session. I learned a lot. And it was just-- it's so great to hear about how these different laws can impact both individual tenants' rights, but then also these laws that can help challenge discriminatory, and harmful screening policies, and admissions policies on behalf of housing providers, where you all are practicing.
+
+So huge thanks to our excellent presenters. We're going to take a 15-minute-- 15 minutes? Yes. 15 minutes, yes, break. We'll come back at, I guess, 12:00. Yeah, 11:30? OK, so 11:30 Pacific time. We'll get back together 12 minutes. And then we're going to talk about consumer protections for tenants applying for assisted housing. But thank you all very much. And we'll see you in 12 minutes.
+
+SARAH BRANDON: Thank you.
+
+*** Consumer Protections in Admissions Cases
+
+DEBORAH THROPE: Welcome back, everybody. I'm really excited for our third and last session today, which continues to build upon today's program related to tenants' rights and admissions, and specifically, the federally assisted housing program. So I'm excited that we have here, for the final session, Ariel Nelson and Stacey Tutt to touch upon consumer issues.
+
+So again, we've talked about procedural issues, tenant protections under Fair Housing Act, VAWA, and disability rights laws. And now, we're going to discuss specific consumer protections for applicants and tenants. So thanks so much. I think I'm handing it over to Ariel to kick us off. Welcome. Thank you. And if you all could introduce yourselves, that would be fantastic. Thank you.
+
+ARIEL NELSON: Sure. I'll go first. I can see you up there in real life, but let me know if I'm misinterpreting your cues from this distance. My name is Ariel Nelson. I'm a staff attorney at the National Consumer Law Center, and my work focuses on credit reporting and tenant and background screening. So that is what I will be telling you about today. And I'll pause to let Stacey introduce herself.
+
+STACEY TUTT: Hello, everyone. It's such a pleasure to be here. My name is Stacey Tutt. I'm a senior attorney with the National Housing Law Project, where I do focus on consumer protection issues that involve tenants and homeowners. So it's a real pleasure to be here today. First, we're going to go through, with everyone, a little bit of an introduction to tenant screening so you have a sense of what that process looks like.
+
+Then we're going to go through and talk a bit more about some claims that can be brought up when tenants are challenged and going through the admissions process, so potential claims under the Fair Credit Reporting Act. And then, next we're going to turn our attention to some trends that we're seeing in this area, including the use of portable tenant screening reports. So just to give you a little bit of an overview of what we're going to be touching on today. So now, I'm going to turn it back to Ariel to take us through a little bit of, what is tenant screening, and what can tenants expect in trying to find new housing?
+
+ARIEL NELSON: Great. Thanks, Stacey. And I should say, this is an overview. There are so many intricacies in this space. And so what we're really trying to do is just give you a sense of what tenant screening is, what are things you should be thinking of as you try to spot issues and potential claims. So with that, what is tenant screening? As I'm sure many of you know, either through your own personal experience or through your clients, many landlords use reports purchased from specialized tenant screening companies to screen their landlords and determine-- I mean, to screen their tenants and to determine whether or not to rent to them.
+
+And these reports now include a lot of information. So there is typically credit header information, which is someone's address history, names, also a credit report and possibly credit score. And that information comes from one of the big three credit bureaus, which are Experian, Equifax, and TransUnion. There's also a section of background information. And I sort of use that as a broad term to encompass criminal records, sex offender registry information, and OFAC list information. That's the terrorist watch list, is how you might have heard about that. It also includes housing court records, like eviction records, when available, rental payment history information, income employment verification, and also, more and more recommendations.
+
+And what I mean by recommendations is, often, these days, there's a first page of a report, which, as a side note, might sometimes be the only thing certain leasing agents see. And they call it a recommendation, but it's really something that says accept or decline, or accept with conditions, like a higher security deposit. Sometimes, it's a thumbs up or thumbs down, or a red light or a green light, or a numeric score.
+
+And so that that's generally what you'll see. There's some variation. And thank you for the next slide. Some of the major companies include these ones listed here. I won't read out this slide to you. But I will say that there is just a proliferation of these companies. You might have encountered some that aren't on this list. This is not exhaustive. And there's also a Consumer Financial Protection Bureau list that they put out every year that includes specifically tenant screening companies, but that list is also not exhaustive. Next slide, please.
+
+So a bunch of the next slides are just sort of sample potential reports. This one is from AppFolio. You can see on this one, up front is this credit score. And if you wouldn't mind just going through, maybe, the next slide slowly-- or not that slowly, but just to get a sense of the information. I'm not going to walk through all of it. But I just want you to get the idea of what could be on here. So next slide, please.
+
+STACEY TUTT: And Ariel, I just mentioned to our attendees, we do actually have this example as a handout. So that might be easier to look at than the slides. But we just wanted to take you through it so you have a sense of what you could be looking for in these tenant screening reports.
+
+ARIEL NELSON: Great. And you'll see, on this one, there is a rent payment summary. So this one does include rent payment history information. It says Rent Bureau. So in this case, we have an AppFolio sample report that includes Experian rent bureau information. So you can see how some of these companies actually use information from each other. This page also includes eviction history information. Criminal history is here, you can see. And then you'll see, starting here and for the next few slides, credit report information from Experian. Next slide, please.
+
+Criminal search, again. And this is credit and collection history. You can see how much information is there, how detailed it is. Next slide, please. And the next. And this one is a sample from-- it's MyRental. It used to be CoreLogic. Now, this company is called SafeRent Solutions. And this one I included mostly so that you can see this as a sample report that includes a SafeRent score. It also talks about percentage of people in a zip code that are rented to with this information. So just give you a sense of what the information that a landlord might see looks like. And all the companies are slightly different. So it's hard to be exact. But that's what some might look like and what the information typically is.
+
+So this next slide, you can see how big an issue tenant screening reports can be when it comes to accuracy, and also trying to fix issues, errors, and also just various other issues you might encounter with both a user of a report and also the tenant screening company. So by far, the biggest problem captured here is incorrect information on your report, followed by a problem with the company's investigation into the existing issue. So when you're trying to say, there's a problem here, I want it to be fixed, a lot of issues crop up there. Next slide, please.
+
+So I want to drill down into that first big error-- that big bar on the chart from the last slide, which is, what are some of the common errors we see on tenant screening reports? So one big issue is mixed files, which is really just-- that's a term you often hear in the credit reporting context. But here, we usually refer to when somebody else's record is on your report. And that's typically someone else's eviction record, someone else's criminal record is appearing on your report.
+
+And that often happens because tenant screening companies don't do a great job matching the potential tenant with the information in these records. It often can happen with people with common names, when these companies aren't using very many pieces of personally identifying information. So maybe they're only using first name, last name, date of birth. And that can lead to mixed files.
+
+And it also is exacerbated by what a lot of companies, if not all of them, use called fuzzy matching logic. So you might be using variations on a name, partial dates of birth. So for example, if someone's name is Robert, maybe it's capturing Roberto, Rob, Roberta, Robbie, or maybe someone's middle name is that. And it could also be a partial date of birth, or maybe even a date of birth within a year. So you can see how you might be overbroad when you're matching that way. You capture other people's information.
+
+Another type of common error is incomplete records. That might be, say, with an eviction record, you aren't capturing everything that's happening in that proceeding. Maybe, actually, the tenant won, but it seems like the case is still open. It can also happen with criminal records, too, as you might imagine.
+
+I also included misclassified or mislabeled records. That can be a big deal in the criminal context. Say a misdemeanor is misclassified as a felony, or a summary offense, which is less than a misdemeanor in some states, is misclassified as a misdemeanor. And you can imagine how an error like that could have a big impact because of a landlord's policy that anyone with a certain type of record is. Denied I will get into whether-- I'm sure you've already talked about whether that might be a Fair Housing Act violation. But you can see how that would have a big impact.
+
+Another category is obsolete information. And that's sort of a technical term under the Fair Credit Reporting Act, which we'll get into a little more later. But the general idea is that non-conviction records-- criminal records-- and eviction records that are older than seven years can't be reported. But we see lots of tenant screeners making the mistake of including these records which we call obsolete.
+
+You also see duplicates or repeated entries. So you might see a series of eviction records, but actually, it's the same proceeding. It's only one eviction case, but it looks like the tenant has many. And then the last one I'll mention here is the reporting of expunged or sealed records. We know that more and more states are sealing or expunging these types of records, but that doesn't necessarily mean the tenant screening company has successfully not reported them. They appear, and also has dire consequences. Next slide, please.
+
+So I won't go into too much detail here, but I just want to talk a little bit about some of the reasons these errors happen. One big one when we're talking about criminal or eviction records is, they are using stale data. And it could be that the tenant screening company is relying on a large database of records that they bought from somebody else and that database is not updated regularly. So they are just not capturing changes or expungements or things like that.
+
+And sort of an overlapping issue is they're not getting the records directly from the courthouse, a lot of the times. They are using these databases, and those introduce other errors, not just outdated information, but often, issues with completeness. Sometimes, the records also come from automated scraping of court websites. And that can ignore updated doc information. They might not be on the right page. They might just be getting this overview information that's not capturing the actual most up to date and detailed information.
+
+Sloppy matching practices, which I talked about before, this use of not enough personally identifying information, or maybe you do an initial match, and then you would hope there's a human that looks at this and says, actually, it's quite obvious that the potential tenant is a man, but this record belongs to a woman or something like that. And they don't have that sort of check. They just use this really basic matching practice.
+
+And then there can be clerical errors from courts that get translated into the data. That's the one I'm least concerned with, because it doesn't actually have to do with the tenant screener, but it can happen. Next slide, please.
+
+So now, I want to talk about what the Fair Credit Reporting Act can mean in this context. It's a federal law. It's enacted to promote accuracy, fairness, and privacy of information in the files of consumer reporting agencies. And that's the term that the statute uses. It is a broad term, and relevant for us. Generally, many tenant screening companies are consumer reporting agencies under the FCRA, and can screening reports are generally consumer reports.
+
+Sometimes, there are issues with whether a tenant screening company is actually covered. But usually, that's-- if you're talking about a big tenant screening company that was listed on one of the early slides, this is probably not going to be an issue. It can come up, in some circumstances, when you're talking about providers of records who might claim not to be consumer reporting agencies. But for our purposes, we'll say, generally, this isn't an issue.
+
+And landlords and housing providers are considered users who have a permissible purpose under the FCRA. And you have to have a permissible purpose to use a consumer report, which is why this matters. Again, that's not usually an issue in this kind of context. And I did want to note that what we're about to talk about with all these details under the FCRA and what steps you should be taking is actually really covered in a lot of detail in this article that I've linked here that you should have access to. And if not, you can Google that and it'll pop up. So that is even more detail than I'll give now. But it is captured elsewhere. So you can have it. Next slide, please.
+
+So the first thing to think about when someone has been denied housing, or even before they might apply for housing-- but in general, and they've been denied-- is getting the information that you need from the tenant screening company. So the Fair Credit Reporting Act has this disclosure requirement. A consumer reporting agency, including a tenant screening company, has to provide information about the consumer and their files on request. And that's only a small part of what's in the whole file, but that's what you need to get.
+
+And one thing to flag is that what consumers get from the tenant screening company doesn't usually contain these scores or recommendations or accept/deny recommendations that we talked about. It's usually just the underlying information. And there's some differences in the language that you use when you're talking to a tenant screening company.
+
+And this is a little more detailed than I think we want to get into here. But I did want to flag that, sometimes, terminology with some companies can be important. A file disclosure could be broader than what's on a report that a landlord gets, or a report might reflect that moment in time. It was created because of a landlord's criteria, and so the tenant screening company put it together. And so it's going to look, potentially, a little bit different than what a consumer would get when they send a file disclosure request to a company.
+
+And I will also back up and say that the Fair Credit Reporting Act requires a landlord, when it takes an adverse action, which can include denial of housing or also something like requiring a higher rent or a higher security deposit, they have to provide this notice that provides information about the tenant screening company and consumers' rights under the Fair Credit Reporting Act.
+
+And I will just flag that one issue we run into a lot in this space is that although there is a requirement to provide the notice, it is not privately enforceable. So a lot of times, we see landlords aren't complying. And so it's difficult, sometimes, for potential tenants to figure out what happened. But note that that does exist. The right does exist.
+
+And also, I should say that after an adverse action happens, the tenant can get a copy of the report for free. And also, with many of the tenant screening companies we're talking about, you can also get a free annual disclosure in the same way that you would from one of the big three credit bureaus. So there are a couple of ways to get free reports.
+
+One little note here is that there is no reason not to ask the landlord for a copy of the report. They don't have to provide that to the tenant, but sometimes, they will, or sometimes, some of these companies will provide the landlord and the tenant access to the report at the same time. And that can be really useful, because then you do see the score information or the recommendation information that the landlord saw. Next slide, please.
+
+So I will flag that, sometimes, getting information from a tenant screening company can be difficult because of identification requirements or reluctance to send disclosures to PO boxes, relatives, friends. And sometimes, applicants are steered to oral or telephonic disclosures instead of written disclosures. It's much better to get the written disclosure. It's also tricky because, sometimes, when you try to get a disclosure through their online portal, there are arbitration clauses attached to that which you want to avoid. So as we'll talk about, it's a lot better to do a lot of this in writing, the old-fashioned way.
+
+One other issue that we see in this context is that tenant screening companies that get their data from other sources will not disclose those sources, which can make it difficult to figure out the source of an error. For example, they'll say that, oh, we went to the courthouse and got this eviction record, when actually, they bought it from LexisNexis.
+
+And that, I would say, is contrary to the requirements of the Fair Credit Reporting Act. They have to disclose where they got their information. That is part of what needs to be included on disclosure. And I will say that the Consumer Financial Protection Bureau is aware of that. And you can see that they are thinking about this issue in this recent enforcement action against one of TransUnion's subsidiaries that's a tenant screening company. You have to provide the source of information.
+
+And the other thing that I wanted to flag is that some of you might be thinking about, well, if I have a client who struggled to get housing in the past, or we there's an error on a report from a prior attempt to get housing, they might want to preemptively get information. They might want to get a file disclosure before they even submit a rental application. But that might not be for the reasons we talked about, not what the landlord will actually see, because the landlord has their own criteria. So it's still useful to potentially do that, but it's not an exact science. And there are a lot of different companies out there.
+
+So once you have the information, the file disclosure, the report, it's important to look for the possible inaccuracies. Sometimes, your client will know exactly what the problem was, and sometimes, they won't, or sometimes there are more issues on the report than they may have realized. And one thing to flag in the context of the FCRA is that what you're looking for is objective inaccuracy. You can't use the FCRA to collaterally attack the validity of a consumer debt. And it has to just be pretty clearly an error. Next slide, please.
+
+The other important thing to do when you're talking about issues-- errors around eviction records and criminal records is to go and get the underlying record from the courthouse, and not a partial record, but whatever the process is of that jurisdiction for getting the actual, full record, you should do that. And I'm not being more specific here because it really varies from jurisdiction to jurisdiction. But that is an important piece of information for your own knowledge to understand what happened, and will also be important for when you dispute there. Next slide, please.
+
+So we have talked a little bit about some of these things. But I wanted to provide this sort of summation of how to think about filing this dispute-- or getting the information and then filing a dispute. So I'll go into detail a little more in a sec. But the first step is that after you get the information, the client should make a detailed dispute to the tenant screening company.
+
+And I will note that there is some difference of opinion among FCRA practitioners about whether the client should send the dispute or it should come from the lawyer. I feel like the consensus around the practitioners that I know best is that the client should do it. And some clients can really do it on their own. Sometimes, n helpful to have you work with them a little bit. But it can be pretty basic, although it should be detailed.
+
+The next thing that would happen is you should get the response to the dispute, or the client should, from the screening company. And if you don't get one, you should dispute it again. If the response from the tenant screening company is favorable, you should ask the screener to tell the landlord about the change. This can be a little tricky if the unit is already gone. But it's still worth doing this.
+
+It can also be helpful to try to make sure that this problem doesn't happen again. And part of that is asking for disclosures from other big players, other big tenant screening companies, or if you're in a market where you know there are a few tenant screening companies that seem to be the most common, I would recommend getting disclosures from them and disputing any if it's the same issue or any others as necessary.
+
+And also, it can be really important to dispute errors with the vendors. So this is partially why the source of information piece of this is really important, because if you realize there's actually an issue with what LexisNexis is saying about an eviction record, the same error might keep happening unless you try to actually fix that with LexisNexis. Next slide, please.
+
+We've got our polls. I don't know, Stacey, do you want to lead us, since you're in the room, on the polls?
+
+STACEY TUTT: Absolutely. So we did-- we wanted to get a little information from all of you to see if any of you have had experience in disputing information that is on credit reports. So I'm watching our poll numbers come in with this, and it does look like we have some experience in the audience her having done some disputed information on a credit report.
+
+We are curious, to those who have done the credit report, if you've disputed the information on a prospective tenant's report. So that is a question that we're also interested in knowing, because as Ariel mentioned, it can be helpful for some tenants to go ahead and obtain their credit report so they can look to see if there's any information that's there that they can go ahead and dispute, because what can happen in those circumstances is it can take a while to resolve these disputes, which actually leads us into our next poll question, which is, if you have done this, how long did it take to resolve the dispute?
+
+So we are interested in your direct experiences. And I'm watching the numbers come in and I laugh, because we see so many that took more than 61 days. And regrettably, that can often be the case. And so that's why when a tenant is looking and they know that they're going to need to be moving, it can be really helpful for them to take a look at their credit report and see what information is there, and then, hopefully, dispute anything before they actually begin the application process and may have an adverse action, i.e., a denial of their housing application, due to the information that was contained in their credit report.
+
+So thank you all for participating in our poll. Our next step that we're going to be doing here is talking about the dispute and reinvestigation process and what is happening there in this attempt to try to resolve the dispute.
+
+ARIEL NELSON: Yeah. And I just want to-- thinking about the polls-- want to remind everyone that most tenant screening companies, it's a little complicated about which ones, but I'll say many of them that you will be interacting with, they do have to give a free annual a free report every year. So you don't necessarily-- the client doesn't have to pay to get that disclosure to try to address the issue preemptively.
+
+So I want to just-- I'm not going to read everything on these slides. But I do want to flag that the dispute and reinvestigation procedure is in Section 1681. Like we said, the client should send a detailed dispute. And in that little article I referenced before, it has a lot of details about all of the information that should be included in dispute-- information about who the client is, how you should say, this is incorrect, and how you should attach underlying-- like, for example, the record you got from the courthouse to show that, actually, what's in the report is wrong.
+
+And the tenant screening company can delete or correct the disputed information. And that actually avoids-- if they do that, that avoids their duty to investigate the underlying issue. Otherwise, they have to go through this reasonable investigation process. And they are supposed to complete it within 30 days. And if it's not, if no determination is made within that period, then they have to delete or modify the information, and then they have to report the results of the reinvestigation. And like we talked about, the consumer can request that the FCRA, consumer reporting agency, update the users, which, in this case, would be the landlords, for example. Next slide, please.
+
+So I just want to flag that in the tenant screening context, we often have entities that might own their own databases of information that they're pulling from. And there are also companies that rely on third-party data vendors, others who own these databases. But even if the tenant screening company is a reseller, it is still treated as a consumer reporting agency and is covered by the Fair Credit Reporting Act. Exactly what they have to do is a little bit different, but they are not suddenly outside the scope of the Act.
+
+And I will say whether it's a reseller or someone that owns its own database, within five days of the completion of the reinvestigation, they have to tell the consumer about the result and provide a copy of the corrected report. Next slide, please.
+
+If, within 35 days, the client doesn't get any response about the dispute, they should resend the dispute letter, ideally, with more information if possible. And this can set you up for stronger claims down the road. Next slide, please. So now, the question is, you've gotten your information. You've sent your dispute.
+
+Is it time to file a case? It could be time to file a case if the inaccuracy is not corrected after a dispute, if, even further back in the process, you can't even get a copy of the report or the file after you've tried a bunch of times, or if you see the same fact pattern with the tenant screener coming up multiple times, like partial name matching, not picking up updates to records. It could be a good moment to go after them. Next slide, please.
+
+So there are a number of claims you can bring against tenant screening companies. And we don't have time to go into all of them, but I really just want to flag what they are. So I would say, to me, the biggest one, maybe mainstay of some of this work, is what we call an e(b) claim, a Section 1681e(b) claim.
+
+And that is the requirement that tenant screening companies have reasonable procedures to assure maximum possible accuracy. And this is the provision that you would use if there is any sort of inaccuracy, essentially.
+
+Another claim is a Section 1681c claim. And that is the provision that speaks to this obsolescence concept. If the tenant screening company is reporting adverse information, or records other than criminal convictions that are older than seven years, that is an obsolescence issue under this provision. There's also Section 1681i, which is the reasonable reinvestigation of a consumer's dispute. So if they fail to do that, you can have a claim under 1681i.
+
+And there's also Section 1681g claims, which are the failure to provide a file disclosure on request. And I've also included in here that the subsection that is about the failure to provide-- or the requirement that they provide the sources of the information in the report. So there's an array of claims. And as I'll talk about in a second, some of them can be easier than others. But I would say my overall recommendation, if this is your first foray into the FCRA world, is to talk to an experienced litigator.
+
+I don't know how many of you in the room are legal aid folks versus private attorneys, but there is a robust plaintiff-side FCRA bar. And we see lots of partnerships between organizations, and between private lawyers and legal aid lawyers, on these types of cases. So it can be really valuable to work together on these. Next slide, please.
+
+I just want to flag really quickly that lots of damages are available under the FCRA. The way you do it is, it's either a willful claim or a negligence claim. And you can see the differences there and the provisions relevant. Next slide, please.
+
+Before we change gears a little bit, I do want to point out some of the considerations and limitations in FCRA land. Like Stacey was really getting at, often, a housing unit is gone by the time the error is corrected, which might be why you want to think about this preemptively.
+
+And also, realize that the FCRA is not necessarily the only tool in your tool kit. We know lots of folks sometimes have success when a tenant ends up being represented by a lawyer and the lawyer tries to go through some sort of appeals process with the landlord, whether or not they actually say they have one. We've definitely worked with lots of folks where they got a legal aid lawyer and they were actually able to get the person into housing because they worked together to try to overcome whatever was in the tenant screening report.
+
+And that also gets to the idea that this is a narrow challenge that's mostly about errors and disclosure, making sure that what's in the report is right and getting that information. It's not a way to challenge overall tenant screening practices and the use of information. A lot of us in the community are often talking about what is actually useful for tenant screening purposes. And I would argue most of what's in a tenant screening report is not a useful indicator of whether someone will be a tenant who pays the rent and a good tenant.
+
+But that's not what the FCRA is about, unfortunately. It's much narrower. Also, it's not a strict liability statute. Even when it comes to errors, like you could see from the previous slide, the questions are about whether there are reasonable procedures to assure maximum possible accuracy. It's not just, there was an error. OK, that's a violation of the statute. The statute of limitations I just included in here so you can know.
+
+And there is also-- there are issues around qualified immunity around certain state law claims that you can see here, like torts for defamation, invasion of privacy. On the flip side, some state statutory claims may be available. It's possible that some state statutes are preempted by the Fair Credit Reporting Act. That is a complex area, but just to flag that it is possible that your state has a law on the books that a tenant screening company would say, actually, is preempted. And you might face that as a defense in litigation.
+
+Also, a big one is that there's no injunctive relief under the FCRA. I will say, though it's possible, in a settlement, if you are a nonprofit doing more impact-oriented claims, maybe there's a little more wiggle room. But there's no injunctive relief under the statute itself.
+
+And we won't get into it here, but I made it sound like all tenant screeners are covered. They generally are. It's not typically an issue, although if you're trying to sue an entity that is a records vendor or a data broker operating in this space, it's possible they will argue they're not a consumer reporting agency. The CFPB is going through a rulemaking right now that would potentially expand coverage to make it very clear that these entities are considered CRAs under the Fair Credit Reporting Act. So just to flag that. And I want to make sure that we have enough time for portable tenant screening.
+
+DEBORAH THROPE: We're doing great. Don't worry on time. We're doing just fine.
+
+ARIEL NELSON: Great. So I also just wanted to mention a few unfavorable legal interpretations, some of the hot issues going on in this space. Some courts have said that a consumer reporting agency does not have a duty to resolve what they are calling "legal disputes," only factual errors. And we would say that this is a made up distinction that doesn't exist under the FCRA. But there is bad case law on this. This is another thing that the CFPB is actively working on. So hopefully, it won't be an issue you have to think about for much longer. But it is out there.
+
+There's also a big case called Safeco, which says that for punitive damages or a willful violation, a plaintiff has to demonstrate the defendant knew or should have known that their conduct violated the statute. So that can add another barrier in your suit.
+
+And then there's also Ramirez. I'm not sure how many of you have been following all that the Supreme Court is up to in the Article III standing space, but its most recent pronouncement is the Ramirez case, which said that the denial of information alone might not be sufficient for Article III standing.
+
+And I'll say that this is most relevant when it comes to disclosure claims, those 1681g claims where you're saying the tenant screening company didn't give information. Standing isn't usually an issue where someone was actually denied housing. So these cases are usually a little bit more straightforward when it comes to this. But you should just be aware that there are a lot of standing issues arising generally in the FCRA context. And we already talked about FCRA coverage, so I will stop there.
+
+STACEY TUTT: Fabulous. And Ariel, thank you so much. It's so much information to cover when we think about tenant screening and the FCRA, the dispute process, and any potential claims. The next thing that we are going to be transitioning to is talking about applications and portable tenant screening reports that are available.
+
+But before I do so, I do want to pause, since we are going to be leaving the FCRA and talking about those portable tenant screenings, to see if we've had any questions from the audience that we should go ahead and pose about the FCRA or tenant screening before we move to the next topic.
+
+DEBORAH THROPE: There's a very friendly-- there's a comment, which is a friendly reminder, which I'll cover briefly and then I'll turn it back over to you. So basically-- I'm guessing this is probably a tenant attorney. But it's a reminder to not-- and this actually happened to me when I was a legal services attorney-- but to just be careful when you send your client to get records from the court, because if there's an open warrant-- the person asking the question was appreciative of all of a lot of the discussion we've been having around criminal records in particular.
+
+And it's a reminder just to be wary that if you send your clients to court to receive any documents, that if there's an open warrant, the court can actually take them into custody immediately. And it happens in eviction court, unfortunately, fairly often. But it certainly-- because the court clerks will look them up. So that's the reminder.
+
+And I actually, before you move on, I do have one additional question if there's time. So this is a lot of information around how to challenge the errors in a criminal-- sorry, excuse me-- in a tenant screening report. So Ariel, it's really helpful to hear you break it down, and what's in that record, and how to challenge it. I'm wondering, so also, as a former legal services attorney who, we wanted to take these cases. But what we would do is we had info sheets that we would provide to tenants so that they could do it on their own because we didn't have the capacity, necessarily. I'm looking at the slides, and I'm like, oh, my goodness. It's a lot to challenge these cases under-- to challenge these records if there's false information or misleading information.
+
+So I'm wondering, before you go on to the next segment, if you all have examples of best practices. We do have a lot of advocates on. We did a poll early on. So I'm wondering if you can there are models that you have or are there examples of best practices, particularly, in the advocate or legal services space, that are taking these cases.
+
+STACEY TUTT: Yeah. Ariel, do you want to take that one first, or would you like me to jump in?
+
+ARIEL NELSON: I guess I'll say a couple things, and Stacey, definitely chime in. I will say that it's a growing area, that some legal services folks have been taking these cases for a long time. For others, it's totally new. I will say that the folks out at Northwest Justice Project are a good example, Community Legal Services of Philadelphia. They have deep histories. Just a couple examples of folks doing these cases. I know Atlanta Legal Aid's another place where they're doing--
+
+And I will also say that the CFPB itself has been putting together some pretty good consumer-facing web pages that have information that says, what should I do if there's an error on my report? And it's very simple. It provides easy ways to click on things, see explanations, know what to do. So I think pointing clients to that can be helpful.
+
+And also just to flag that, a dispute can be very simple. It can be, to a tenant screening company, this is wrong. This is exactly what's wrong on my report. Here's the record. It can be written in extremely plain language and very straightforward, and that should be enough. So a lot of consumers can do that by themselves-- not everyone. It varies, of course. But I think there's space to do it yourself.
+
+STACEY TUTT: Yeah. And I would agree with you, Ariel. And one of the things I often would refer tenants to is, the CFPB does have an example dispute letters on their website. So it has this nice language and template which makes it easier for tenants to go ahead and put in the information they need that's specific to their dispute.
+
+But one thing I do encourage tenants to do is, kind of going back to your earlier point that you made about, a dispute is not an area in which you're doing something that's subjective as to whether or not that information is correct. So what I do encourage tenants to do is include the documentation that shows the information is actually inaccurate. That helps bring it into that objective inaccuracies of this.
+
+So for example, I was actually helping a homeowner in a situation with a credit report, and we had a letter from the mortgage servicer admitting that they had failed to properly credit the account with the information and the payments that the individual had made. And that was really helpful in trying to get that information removed from the credit report.
+
+And then the other tip I would have in this is that, again, this is one Ariel has already mentioned, but I can't say it enough, is that the first time I did an FCRA case, I partnered with a private attorney who worked with us and had extensive experience in doing this. So then that way, I ensured that I was navigating any of these pitfalls and could be made aware of that as I was taking the cases initially. And that's a little bit far afield from how to help tenants in disputing this information. But it is something that I'd recommend if you're going to be doing this and handling these FCRA cases.
+
+And then also, don't be leery with the tenants of them disputing it multiple times. In fact, it often can take multiple disputes for that to happen. And so I do encourage that when tenants do this-- I do give them tips on documenting that they've submitted the dispute. So then that way, they can do it through registered mail so they have a record of when it got submitted to the credit reporting agency, how long it took for them to get back to them, and if they haven't received a response on time, to keep disputing it.
+
+That only helps to strengthen your record and help to show that it's more willful, the failure to correct, or it's more willful that they have not done a reasonable investigation to verify this information. So just a few quick tips on that. But we are going to go ahead and move ahead, because I want to make sure we have a little bit of time to talk about, what is the process like when you're applying, and some of the barriers for tenants in finding new housing, and some of the trends we're seeing in this area.
+
+So one thing that we've been hearing a lot more about for our tenants, and a concern that we have, are the rising costs to even apply for housing, to be able to get admission into this rental market. What we found is that, on national average, it's costing tenants about $50 per application to even be considered for new housing. In fact, Zillow did a study and found that 26% of US renters who moved in the last two years actually cited anxiety for multiple application fees as being one of the biggest stressors in finding new rental housing.
+
+And so those fees are a barrier, because they're not refunded if the application is denied. And we also know that there can be some significant racial disparities in the ability to obtain new housing. And so we do see these racial disparities in how much it costs for persons of color to actually find a place that they can get approved for, so they're incurring these costs at a greater percentage.
+
+And that makes clients reluctant to apply. They may be concerned or trying to see where they may actually be able to get approved, which can actually perpetuate some of the disparities we see in ZIP codes and the kind of concentration, going back to that old redlining we heard in home ownership, in which tenants can then feel that they have to only look in particular areas out of fear of being rejected or having these rising costs that are going on.
+
+And so what we are starting to see, then, because of these growing trends in this, are some legislation that's been happening in order to address the rising application fees. And one thing that we've seen, which we're going to get into here in a moment, is in portable tenant screening reports. But I do want to mention some laws that are here that can help protect tenants in this area with application fees.
+
+And that includes in California. We actually have a statute that states that landlords can only charge for the actual cost in obtaining the screening reports and/or their reasonable time and value spent in trying to review and make those determinations. In fact, there was a cap. It was initially set at $30 in 1998, but could increase based upon adjustments in the actual cost for doing that. But the landlord, when they do their application and the screening of that, they actually have to return any costs that weren't actually incurred in doing the screening.
+
+Another trend, like I said, that we are starting to see is the use of what we call portable tenant screening reports. Now, those that are available does vary. These are often done through state laws. What we've given to you here is an example from Washington state in which what they do is that they allow a tenant to get this comprehensive, reusable report.
+
+Other states that have laws like this include-- Maryland and California have laws that allow for these portable tenant screening reports. And those laws can vary by state. So what we have, again, here, is Washington does allow for, in that credit report, that includes a criminal history check and all jurisdictions over the past seven years, eviction history over the past seven years, income and employment verification, as well as current address and rental history.
+
+Now, what happens with these portable tenant screening reports is they are supposed to be good for 30 days. So they're only valid for a short period of time. Also, oftentimes, what has to happen with the portable tenant screening reports is that it does need to-- the landlord needs to have independent access to that. So what I mean by that-- it's not just like the tenant prints up the report, walks in, and hands it to the landlord. The landlord can actually go through and view the report themselves through that third party who is providing the portable tenant screening report for the tenant.
+
+Also, with that part of the process is that the landlord can require, in some instances, that the tenant attest that nothing has changed on that credit report since it was originally run 30 days prior. So that allows that landlord to have a little bit of protections that there hasn't been some kind of change or something that's happened that would now disqualify that tenant from being approved.
+
+Now, one difference I'll just point out just to give a little bit of a comparison. In California, one thing that I think was really important-- because they did just recently pass, in California, this ability to do a portable tenant screening-- is they actually removed the-- they originally, when they proposed this, and this was in AB2559, when they had originally proposed their statute, they had included in there a criminal history check for over the past seven years.
+
+But I am happy to report, through the advocacy of legal services attorneys and others who are in this area sharing their experiences of their tenants and what they went through, we've actually been able, in California, to get that language adjusted so instead of having that seven-year rule, it now has it referencing laws related to the consideration of criminal history in housing, which I think is really important, because there are limitations on that, and it's nice to have the tenant screening reports actually reflect that information.
+
+Now, oftentimes, in these portable tenant screening reports, they will have a notification requirement. So the way that tenants are able to determine if a potential landlord will accept one of these portable tenant screening reports is if the property owners notify the applicant whether or not they will accept the comprehensive reusable tenant screening reports.
+
+Now, that can be included on the listing, the website, the application page, or other way to notify the tenants that they can use this report. Now, in the Washington statute, it actually required, if a property owner operates a website, that it be included in there.
+
+Now, one thing I will caution those is that not every state law is the same. In fact, in California, when the bill was originally proposed, they included a notification requirement that landlords had to indicate to tenants whether or not they'd accept these. And that actually was removed through the amendments in this statute. And so that's no longer applicable in California.
+
+But in Washington, the great thing about this is that because of the notification requirements that are there, it then prohibits landlords in Washington state who take the portable tenant screening reports to then charge applicants for an application fee if the tenant is providing that reusable report. So then they can't charge the applicant for application fees, or fees to access that report, or even the additional background checks.
+
+However, if the report is not comprehensive or valid, it will not be eligible for protection. And so in that case, the property owner could charge that. And so again, just letting you know about this development and making sure that you're looking for this information within your state laws as to what is required or not with these portable tenant screenings.
+
+And again, this is the other requirement that we often see that I mentioned earlier, which is that if a tenant is providing the portable tenant screening report, it is perfectly OK for that property owner to have the tenant go ahead and certify that that is comprehensive and none of these major changes, like bankruptcy or criminal history, things of that nature, are not contained in the report. And so then that's a way, again, to just strike some type of balance here in between the tenant and the landlord's needs in these circumstances.
+
+And so you may be asking yourself, who's doing this? How often is it? Is it prevalent? Is it really addressing the issues that we are seeing in and around these rising costs of application fees? And so what I did for that is I did want to take a look, see what some of the products that were out there. And I went on Zillow. And Zillow does actually offer a portable screening for tenants. And what's great about the Zillow one is that the online product, it only costs about $29. So that's lower than the national average we saw with portable tenant screenings, which is $50. And it actually allows for an unlimited number of rentals to look at that report. So it doesn't matter how many times you're applying. They can go that unlimited amount for looking at it. And it's good for 30 days. The landlord-- it's free to the landlord to go in and look at that portable screening report.
+
+And so that's just one example of where you can find portable tenant screening reports. There's also a company called myscreeningreport.com, and they do sell tenants a report that's good for 30 days. Their cost is a little bit higher. It's usually between $32 and $50. So it does vary on how much it can cost for tenants to have this.
+
+But I actually think that's only part of the question that we have here in looking at whether or not tenants want to be utilizing portable tenant screening reports or not. And that includes, how often are they accepted? So I've already mentioned that California and Washington vary on this. Washington has a notice requirement by which landlords have to state whether or not they're willing to accept these portable screening reports or not for tenants. And I would think, from the property or a landlord's perspective, there can be value to doing these portable tenant screening reports because it can open up their applicant pool, allow more people to apply, allow them this access to the reports without having additional costs that can be a barrier to some tenants in doing this.
+
+So I did a quick search to see, and I did-- and Zillow does have a feature if you're interested in looking in your own communities to see if this is a possibility or not, or what's there, that when you search through their rentals, you could go ahead and select whether or not there's this universal application that can be used in that. So I went ahead and I looked back at my old hometown, Normal, Illinois. And it's actually-- it's name is Normal, Illinois, though I always like to select it as my example because it is normal. It's in central Illinois. So it kind of hits that Midwestern average.
+
+And when I looked at that state to see the utilization of these kinds of reports, when I did a search just there of available rentals, I found 88 results. Now, when I screened it, though, for those that would take a universal report, there were only 11. So I think that's an important search to do, because if we're talking about 88 rental units and only 11 accept these reports, I think we have some concerns about this, of any concerns around disparate impact or that there may be only certain property types that allow for the utilization of these reusable tenant screening reports.
+
+And so I think this is an area that we need to carefully monitor to see what's happening with this and ensure that there's equal access and opportunity. I'd also want to mention that portable tenant screening reports aren't the only way to go about addressing the issues with the rising costs of applications. Again, I mentioned that California statute that actually limits what can be charged to the actual cost. And this can be really helpful in ensuring that our tenants have equal access and opportunity to all the rental housing that would be available to them.
+
+And so this is-- again, just wanted to give you an update on what we're seeing with the portable tenant screening reports and what is happening there. Now, we've also put together for you a number of additional resources that are going to be available to help you in handling these cases, in particular when you're trying to help tenants who may have some negative credit reporting or when they're being denied due to their criminal background.
+
+So within our presentation here, we do have a listing of these additional resources, which may be really helpful as you're trying to handle these cases and help tenants in these areas. So with that, I am going to make sure we pause here too so we can give everybody-- we only have a few minutes left. So I want to make sure we don't have any lingering questions from our attendees.
+
+DEBORAH THROPE: OK, great. So I'm going to kick off with this question. We may just have time for one, but that's OK. Maybe two. But this is really-- this has been great, especially to hear, for both of your presentations, around tenant screening.
+
+So the question is-- and I know this from doing federal policy advocacy. There are a lot of lawmakers interested in increasing the availability of positive-- positive-- rent reports. And we saw, Ariel, when you put up what was in the screen at the tenant screening document itself, that a lot of these tenant screeners actually are tracking every single month of rent reporting. So I'm curious to hear from both of you two national consumer law experts on, is there a way to provide greater access to those positive rent payment reports? And then similarly, what are, perhaps, some of the challenges with some of these policies and programs that provide for positive rent reporting?
+
+ARIEL NELSON: I can-- do you want to start, Stacey, or should I?
+
+STACEY TUTT: I think you should start, because I could talk for hours on this topic. So I'll let you go first.
+
+ARIEL NELSON: Oh, yeah, I think we both could. So I will just say, I am very concerned about rent reporting. It is often marketed as this way to address credit-invisible people, to address racial disparities in credit reporting. And it is not a panacea for those issues, and in fact, I think, can cause other issues.
+
+So there are a couple of safeguards that can potentially make it better, like opt-in only and positive payment history information only. I will say, I think it's possible that there can be some slightly better effects when we're talking about access to home ownership as opposed to the consequences for tenant screening. But just for purposes of this, I'm really, really worried about it.
+
+And I will also say that even if you do positive payment reporting only, what is going to happen if a landlord-- this becomes typical information on a report and someone is missing a couple of months of payment history? Is the landlord actually just going to make the negative inference that person didn't pay on time? Or sometimes, people catch up on the payments. Maybe something happened, but now, they're all square and they've paid their rent. So I just think that it's just one more thing that could end up being a major barrier to people getting housing. And Stacey, I'll let you go.
+
+STACEY TUTT: And I couldn't agree more. And I'm even the home ownership person. I'm the one who's trying to expand access to this. But what I can say on this positive rent reporting is, that is my concern, as well as this tipping point, that if we start opening up the door for this, at what point does it become expected that every tenant is going to be reporting their rent?
+
+And I think the thing we have to look at is the bigger picture. So many of our tenants are rent-burdened, that they are struggling to make these payments. So it wouldn't be expected that there may be occasions or incidences where they're a little bit late or behind on those payments. And that can then end up being very problematic.
+
+And most of the studies in this area have only used positive rent reporting with a very select group of subsidized tenants who have the benefits of a financial coach and are working on improving their credit in order to obtain home ownership. So they may see success in those programs, but there are a lot of guardrails there. And we're not concerned about this tipping point where it becomes an expectation that there's positive rent reporting.
+
+On that note, I think we are at time. So I'd better not keep anybody, because I know we've jammed a lot into this session, and we just really appreciate everybody being here.
+
+DEBORAH THROPE: And a huge thank you to Stacey and Ariel. This was an excellent overview of consumer protections for tenants. We really appreciate you both being here to present. And thank you to everybody who's watching in person and listening in online. This is a really packed program. But I am just so grateful to my colleagues and partners for helping us put on this session today. Thanks so much.
+
+SPEAKER: Yes, thank you so much, Deborah and Stacy, and all of our speakers today. Really wonderful presentations. I appreciate your time. Lots of great information. I do want to reiterate that you do have a wealth of resources in the course materials that were provided for the program. Many of the documents that have been referenced throughout the day are there.
+
+So take a look at those. You can download those from your PLI account, and also from the webcast viewer and in the room here today. So please do take advantage of those. And please do fill out your evaluation. We'd love to hear your thoughts about the program. We do add new topics based on what we hear from people from the feedback, so please do share your thoughts. And enjoy the rest of your day. Thank you all so much.
+
+DEBORAH THROPE: It's wonderful. Thank you.

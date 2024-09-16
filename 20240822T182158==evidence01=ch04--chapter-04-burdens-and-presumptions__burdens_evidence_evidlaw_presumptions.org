@@ -1,0 +1,32 @@
+#+title:      Chapter 04: Burdens and Presumptions
+#+date:       [2024-08-22 Thu 18:21]
+#+filetags:   :burdens:evidence:evidlaw:presumptions:
+#+identifier: 20240822T182158
+
+* 4.01: Introduction
+[[denote:20240822T182649][evidence01=ch04  4.01: Burdens and Presumptions--Introduction]]
+
+* 4.02: Burden of Proof--Two Meanings
+[[denote:20240822T190029][evidence01=ch04=02  4.02: Burdens and Presumptions--Burden of Proof: Two Meanings]]
+
+* 4.03: Burden of Persuasion
+
+* 4.04: --Defining Burdens of Persuations: Standards of Proof
+
+* 4.05: --Allocating the Burden of Persuasion Between the Parties
+
+* 4.06: Burden of Production
+
+* 4.07: Presumptions: Introduction
+
+* 4.08: --Presumptions Defined and Distinguished From Other Devices
+
+* 4.09: --Causing Presumptions to Take Effect
+
+* 4.10: --Rebutting Presumptions
+
+* 4.11: --The Problem of Conflicting Presumptions
+
+* 4.12: --Presumptions in Criminal Cases
+
+* 4.13: --The Federal Rules of Evidence and Presumption

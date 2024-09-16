@@ -1,0 +1,29 @@
+#+title:      Chapter 11: Authentication, Identification, and Exhbits
+#+date:       [2024-07-15 Mon 20:05]
+#+filetags:   :authentication:evidence:evidlaw:exhibits:hornbook:identification:
+#+identifier: 20240715T200522
+
+* 11.01 Authentication and Identification Under the Rules [FRE 901, 902]
+[[denote:20240715T201406][identification  11.01 Authentication and Identification Under the Rules [FRE 901, 902]]]
+
+* 11.02 Handling Exhibits in the Courtroom
+
+* 11.03 "Laying a Foundation" for a Variety of Exhibits
+
+* 11.04 "Real" Evidence -- "The Chain of Custody"
+
+* 11.05 Demonstrative Exhibits That Are Illustrative of Other Testimony
+
+* 11.06 Demonstrative Exhibits That Are Illustrative of Other Testimony -- Diagrams and Models
+
+* 11.07 Demonstrative Exhibits That Are Substantive
+
+* 11.08 Demonstrative Exhibits That Are Substantive -- Photography
+
+* 11.09 Demonstrative Exhibits That Are Substantive -- Sound Recordings and Other Conversations
+
+* 11.10 Demonstrative Exhibits That Are Substantive -- Documents
+
+* 11.11 The Special Problems of Computer Generated Exhibits
+
+* 11.12 The "Best Evidence" of the Contents of Writings, Recordings and Photographs [FRE 1001-1006]

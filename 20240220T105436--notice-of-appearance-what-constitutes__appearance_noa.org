@@ -1,0 +1,25 @@
+#+title:      Notice of Appearance -- What Constitutes
+#+date:       [2024-02-20 Tue 10:54]
+#+filetags:   :appearance:noa:
+#+identifier: 20240220T105436
+
+* What Amounts to an Appearance to Avoid a Default
+
+
+Skyler Clary skylerc@snocolegal.org via groups.nwjustice.org
+Feb 16, 2024, 2:51 PM (4 days ago)
+to Adam, Housing
+
+100% agree- the email is enough for notice before default.
+
+Here is some language I used recently in a similar case:
+
+A tenant that wishes to contest entry of a default judgment has recourse in the Civil Rules. Randy Reynolds & Assocs. v. Harmon, 193 Wn.2d 143, 159 (2019.) Default judgments are not favored in the law. Griggs v. Averbeck Realty, 92 Wn.2d 576, 581, 599 P.2d 1289, 1292 (1979).  A default judgment has been described as “one of the most drastic actions a court may take to punish disobedience to its commands.” Shepard Ambulance, Inc. v. Helsell, 95 Wn. App. 231, 237 (1999) The reason for this view is that "[i]t is the policy of the law that controversies be determined on the merits rather than by default." Dlouhy v. Dlouhy, 55 Wn.2d 718, 721, 349 P.2d 1073 (1960).
+
+The Supreme court has laid out two different tracks for assessing a motion to vacate a default judgment. If the defendant was entitled to notice before the default and did not receive notice, the default judgment is void. Tiffin v. Hendricks, 44 Wn.2d 837, 847, 271 P.2d 68 (1954). If other grounds for relief from the default are claimed, a four prong test is used. White v. Holm, 73 Wn.2d 348 (1968).
+
+. . .
+
+if a party entitled to notice under CR 55 does not receive such notice, the trial court lacks the authority to enter the judgment. An aggrieved party is entitled as a matter of right to have the order of default set aside and any resulting default judgment vacated. Tiffin v. Hendricks, 44 Wn.2d 837, 847, 271 P.2d 683 (1954); Hous. Auth. v. Newbigging, 105 Wn. App. 178, 190, 19 P.3d 1081 (2001). A trial court holds a nondiscretionary duty to vacate a void judgment. Allstate Ins. Co. v. Khani, 75 Wn. App. 317, 323, 877 P.2d 724 (1994). There is no time limit to bring a motion to vacate a void judgment. Ahten v. Barnes, 158 Wn. App. 343, 350, 242 P.3d 35 (2010). A party can wait several years to vacate a void default judgment. Brenner v. Port of Bellingham, 53 Wn. App. 182, 188, 765 P.2d 1333 (1989);
+
+Under CR 55(a)(3), once a party appears in an action the movant “shall” serve that party “with a written notice of motion for default and the supporting affidavit at least 5 days before the hearing on the motion.” Under RCW 4.28.210, a party appears in a proceeding when it gives written notice of appearance. Absent a formal notice of appearance as contemplated in RCW 4.28.210, a party may still substantially comply with the appearance requirements. “Any appearances for any purpose in the action shall be for all purposes under this rule 55.” CR55(a)(2). A court must examine whether a defendant's conduct after receipt of the summons was designed to and, in fact, did apprise the plaintiff of the defendant's intent to litigate the case. Morin v. Burris, 160 Wn.2d at 755; Meade  v. Nelson, 174 Wn. App. at 749. “Mere intent to defend is not enough. The defendant must go beyond merely acknowledging that a dispute exists and instead acknowledge that a dispute exists in court.” Servatron, Inc. v. Intelligent Wireless Prods., Inc., 186 Wn. App. 666, 675-676.

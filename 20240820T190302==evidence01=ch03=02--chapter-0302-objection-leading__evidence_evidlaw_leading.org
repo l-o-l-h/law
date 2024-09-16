@@ -1,0 +1,9 @@
+#+title:      Chapter 03.02: Objection, Leading
+#+date:       [2024-08-20 Tue 19:03]
+#+filetags:   :evidence:evidlaw:leading:
+#+identifier: 20240820T190302
+
+* 3.02: Objection, Leading
+Leading questions are prohibited on direct examination, except for those questions that are preliminary, transitional, about non-controversial metters, or asked of an uncooperative witness or a witness designated in Rule 611(c).
+
+A question is leading when its words or its context suggest the answer to the witness.

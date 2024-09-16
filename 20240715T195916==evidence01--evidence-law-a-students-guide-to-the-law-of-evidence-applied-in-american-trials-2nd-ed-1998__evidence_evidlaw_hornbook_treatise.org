@@ -1,0 +1,40 @@
+#+title:      Evidence Law: A Student's Guide to the Law of Evidence Applied in American Trials (2nd Ed 1998)
+#+date:       [2024-07-15 Mon 19:59]
+#+filetags:   :evidence:evidlaw:hornbook:treatise:
+#+identifier: 20240715T195916
+
+* Preface
+
+* Presenting Evidence at Trial: An Overview
+
+* Procedures for Offering and Opposing Evidence in a Common Law Trial
+
+* Objections to the Form of the Question or Answer
+[[denote:20240820T184143][evidence01  Chapter 03: Objections to the Form of the Question or the Answer]]
+
+* Burdens and Presumptions
+
+* Relevancy and its Limits
+
+* Competen cy
+
+* The Hearsay Rule and Its Exceptions
+
+* Evidentiary Privileges
+
+* Impeachment and Rehabilitation of Witnesses
+
+* Opinion Evidence & Expert Testimony
+
+* Authentication, Identificaiton, and Exhibits
+[[denote:20240715T200522][evidence01=ch11  Chapter 11: Authentication, Identification, and Exhbits]]
+
+* Appellate Review of Rulings on Objections
+
+* Appendix A -- Federal Rules of Evidence
+
+* Appendix B -- Researching Evidence Law
+
+* Cases
+
+* Statutes and Rules

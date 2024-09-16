@@ -1,0 +1,36 @@
+#+title:      Chapter 03: Objections to the Form of the Question or the Answer
+#+date:       [2024-08-20 Tue 18:41]
+#+filetags:   :evidence:evidlaw:form:objection:
+#+identifier: 20240820T184143
+
+* 3.01: The Rules of the Game
+[[denote:20240820T184712::#h:278B53FF-D791-4410-8B12-21AA215D1B34][evidence01=ch03=01=er611  Chapter 03.01: The Rules of the Game::Rule 611]]
+
+* 3.02: Object, Leading
+[[denote:20240820T190302][evidence01=ch03=02  Chapter 03.02: Objection, Leading]]
+
+* 3.03: Objection, Calls for a Narrative
+
+* 3.04: Move to Strike, The Answer is Nonresponsive
+
+* 3.05: Objection, Assumes Facts Not in Evidence
+
+* 3.06: Objection, Argumentative
+
+* 3.07: Objection, Counsel is Harassing the Witness
+
+* 3.08: Objection, Compound Question
+
+* 3.09: Objection, Vague (or Ambiguous or Confusing)
+
+* 3.10: Objection, Misstates the Evidence
+
+* 3.11: Objection, Asked and Answered; Objection, Cumulative
+
+* 3.12: Objection, Improper Opinion (or Speculative or Too General)
+
+* 3.13: Objection, The Document Speaks for Itself
+
+* 3.14: Objection, Lack of Personal Knowledge
+
+* 3.15: One Non-Objection -- Self-Serving
