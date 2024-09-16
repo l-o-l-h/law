@@ -1,0 +1,350 @@
+#+title:      104 Wash.App. 680 M H 2 Co. v. Hwang (2009)
+#+date:       [2024-02-05 Mon 09:31]
+#+filetags:   :case:judgment:rlta:ud:
+#+identifier: 20240205T093146
+
+* BRIEF
+
+[8] Regarding the February through March 2000 rental defaults, the Hwangs were served with a 10–day notice to pay rent or quit the premises. They tendered the two newer months rent prior to the 10 days, but this amount was improperly rejected as insufficient. MH2 then filed this unlawful detainer action at the end of the 10 day period incorrectly seeking both the older and newer rents.
+
+In an unlawful detainer action, the trial court is limited to either
+- (1) entering a judgment in favor of the defendant by dismissing the action with prejudice, or
+- (2) rendering a judgment in favor of the plaintiff.
+  - _Sundholm v. Patch_, 62 Wash.2d 244, 246, 382 P.2d 262 (1963).
+
+
+As noted, the incidental issue of whether rents are due is customarily decided at the same time. Munden, 105 Wash.2d at 45, 711 P.2d 295.
+
+
+* CASE
+
+M H 2 Co. v. Hwang
+Court of Appeals of Washington, Division 3, Panel Five. | February 1, 2001 | 104 Wash.App. 680 | 16 P.3d 1272
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Leda v. Whisnand, Wash.App. Div. 1, May 11, 2009
+
+washington Citation:
+
+M H 2 Co. v. Hwang, 104 Wn. App. 680, 16 P.3d 1272 (2001)
+
+All Citations:
+
+104 Wash.App. 680, 16 P.3d 1272
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 5, 2024 at 11:28 AM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Leda v. Whisnand, Wash.App. Div. 1, May 11, 2009
+104 Wash.App. 680
+Court of Appeals of Washington,
+Division 3,
+Panel Five.
+MH2 COMPANY, Appellant,
+v.
+Sun M. HWANG and Kyongmi K. Hwang, Respondents.
+No. 19308–0–III.
+|
+Feb. 1, 2001.
+Synopsis
+Commercial landlord sued tenants for unlawful detainer, seeking $36,917.10 in unpaid rent and taxes, and also requesting double rent damages. The Superior Court, Yakima County, Michael Schwab, J., found that tenants were not guilty of unlawful detainer, and that landlord was not entitled to double rent damages. Landlord appealed. The Court of Appeals, Brown, J., held that: (1) because landlord accepted later rental payments after tenants’ default, statutory remedy of forfeiture under unlawful detainer statute was no longer available to landlord, and statute’s doubling provisions did not apply to older non-continuing breach, and (2) newer rental defaults were properly cured.
+
+Affirmed.
+
+Procedural Posture(s): On Appeal.
+
+
+West Headnotes (10)
+
+
+[1]
+
+Appeal and ErrorDe novo review
+
+
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)2Particular Subjects of Review in General
+30k3162Conclusions of Law in General
+30k3166De novo review
+(Formerly 30k893(1))
+
+
+A trial court’s conclusions of law are reviewed de novo.
+3 Cases that cite this headnote
+
+
+
+[2]
+
+Landlord and TenantNature and form
+Landlord and TenantDamages and amount of recovery
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1781Nature and form
+(Formerly 233k288)
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1806Damages and amount of recovery
+(Formerly 233k291(14))
+
+
+An unlawful detainer action is a summary proceeding designed primarily to facilitate recovery of possession of real property and incidentally related issues such as rent. West’s RCWA 59.12.030.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+Landlord and TenantActions for Unlawful Detainer
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1780In general
+(Formerly 233k287.1)
+
+
+Relief under the unlawful detainer statute requires: (1) the tenant’s breach; (2) notice to the tenant of the existence of a breach together with an opportunity to correct; and (3) failure by the tenant to correct the breach. West’s RCWA 59.12.030(4).
+1 Case that cites this headnote
+
+
+
+[4]
+
+Landlord and TenantDefenses and grounds of opposition in general
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1787Defenses and grounds of opposition in general
+(Formerly 233k290(3))
+
+
+Generally, if a tenant fails to pay rent and the landlord accepts later rental payments, the breach is not wiped out; rather, the landlord has merely waived a right under the unlawful detainer statute to declare forfeiture for the nonpayment, and such a waiver does not waive a continuing breach or any future non-continuing breaches. West’s RCWA 59.12.030.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+Landlord and TenantDefenses and grounds of opposition in general
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1787Defenses and grounds of opposition in general
+(Formerly 233k290(3))
+
+
+Under the unlawful detainer statute, a landlord who accepts later rental payments after the tenant’s default may later declare forfeiture for an older, continuing breach or any new breach. West’s RCWA 59.12.030.
+1 Case that cites this headnote
+
+
+
+[6]
+
+Landlord and TenantDefenses and grounds of opposition in general
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1787Defenses and grounds of opposition in general
+(Formerly 233k290(3))
+
+
+Where a landlord accepts later rental payments after the tenant’s default, the statutory remedy of forfeiture under the unlawful detainer statute is no longer available to the landlord, and the statute’s doubling provisions do not apply to the older non-continuing breach. West’s RCWA 59.12.030.
+1 Case that cites this headnote
+
+
+
+[7]
+
+Landlord and TenantStatutory provisions
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1782Statutory provisions
+(Formerly 233k289)
+
+
+Since the unlawful detainer statute is in derogation of common law, it must be construed in favor of the tenant. West’s RCWA 59.12.030.
+1 Case that cites this headnote
+
+
+
+[8]
+
+Forcible Entry and DetainerJudgment
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k38Judgment
+179k38(.5)In general
+
+
+In an unlawful detainer action, the trial court is limited to either (1) entering a judgment in favor of the defendant by dismissing the action with prejudice, or (2) rendering a judgment in favor of the plaintiff. West’s RCWA 59.12.030.
+1 Case that cites this headnote
+
+
+
+[9]
+
+Landlord and TenantDefenses and grounds of opposition in general
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1787Defenses and grounds of opposition in general
+(Formerly 233k290(3))
+
+
+Where commercial landlord accepted later rental payments after tenant’s first default, no statutory unlawful detainer occurred for newer, two-month rental defaults, as tenants properly tendered two months rent in response to landlord’s notice to pay or quit, and tenants subsequently paid rents into court’s registry, plus more than enough to cover taxes. West’s RCWA 59.12.030.
+1 Case that cites this headnote
+
+
+
+[10]
+
+Appeal and ErrorSubstantial Evidence
+Appeal and ErrorJudgment in General
+
+
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)10Sufficiency of Evidence
+30k3459Substantial Evidence
+30k3460In general
+(Formerly 30k1010.1(6), 30k846(6))
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)12Judgment in General
+30k3541In general
+(Formerly 30k846(6))
+
+
+On appeal, the trial court’s findings of fact must support its conclusions of law; the findings must be supported by substantial evidence.
+4 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+**1273 *681 Robert E. Lawrence–Berrey, Jr., Finney, Falk & Lawrence–Berrey, Yakima, for appellant.
+Robert J. Reynolds, Yakima, for respondent.
+Opinion
+
+BROWN, J.
+
+In this unlawful detainer action, MH2 Company appeals the trial court’s conclusion that Sun M. Hwang and Kyongmi K. Hwang were not guilty of unlawful detainer. Further, MH2 contends the trial court was statutorily *682 required to award it double rent damages. We affirm, because certain older rental defaults were not subject to unlawful detainer and certain newer rental defaults were properly cured.
+
+
+
+FACTS
+MH2 entered into a commercial lease for a convenience store/gas station with Gregory and Karen Patterson. Paragraph 22 of the lease provided general language for “NONWAIVER OF BREACH” without specific provision for nonwaiver of forfeiture after acceptance of subsequent rent. The Pattersons assigned their interest to the Hwangs in January 1995. Rent was set at $6,250 payable on the first day of each month in advance. The Hwangs did not pay rent for December 1996 and January 1999 without action by MH2. The Hwangs acknowledge their December 1996 rent check was returned for insufficient funds, but contended MH2 agreed to apply the Hwangs’ $5,000 security deposit toward the rent and that they paid another $1,000 several months later to apply toward the balance owing. Regarding the January 1999 rent, the Hwangs asserted MH2 waived payment because they were forced to pay for certain gas tank repairs causing loss.
+
+The Hwangs did not pay rent on February 1 and March 1, 2000. On March 8, 2000, MH2 posted an Amended Notice to Pay Rent or Quit Premises on the property citing the four months and the failure to pay certain taxes called for under the lease. One week later, the Hwangs tendered $12,500 in rent by depositing it to a MH2 account, but MH2 rejected and returned it as insufficient. On March 21, the Hwangs were served a summons and complaint for unlawful detainer. MH2 requested $36,917.10 in unpaid rent and taxes. It also requested double rent damages.
+
+The findings were silent as to why the December 1996 and January 1999 payments were not timely paid or why MH2 did not act. Finding of Fact 5 states:
+*683 More than eleven days have elapsed since the date of service of said notice, the defendants above named have not paid the rent due nor surrendered possession of the premises and are now unlawfully detaining the same.
+Finding of Fact 9 states:
+Because of the defendants’ tender of rent in the amount of $12,500 on March 15, 2000, and the timely payment of all sums as required into the registry of the court, defendants were not holding the premises in unlawful detainer, and it would be inappropriate and inequitable to double the monetary damages found still due by the court.
+
+The trial court concluded the Hwangs had not unlawfully detained the premises but that MH2 had not waived its right of entitlement to past due rent. The court further concluded it had “discretion whether to double the past due rent found owing” and elected not to double it.
+
+The record shows that after the show cause hearing, on order, the Hwangs paid into the court’s registry $22,500, representing two months rent and $10,000 toward the taxes. By the time judgment was entered, the Hwangs had paid a total of $40,500 into the court’s registry. The judgment included MH2’s $31,250 “for the past due unpaid rent” and $6,382.28 for unpaid taxes, together with $4,485 in attorney fees and $294 in costs for a total of $42,411.28. After deducting ordered direct payment of the difference with accrued **1274 interest, the net judgment to MH2 was $300. MH2 appealed.
+
+
+
+ISSUE
+Did the trial court err by concluding the Hwangs had not under chapter 59.12 RCW unlawfully detained MH2’s commercial premises and by denying double damages for rents found due?
+
+
+
+ANALYSIS
+[1] [2] [3] A trial court’s conclusions of law are reviewed de novo.  *684 City of Seattle v. Megrey, 93 Wash.App. 391, 393, 968 P.2d 900 (1998). In Conclusion of Law 2, the trial court concluded, “[d]efendants are notunlawfully detaining as provided in RCW 59.12, the real property owned by plaintiff.” An unlawful detainer action under chapter 59.12 RCW is a summary proceeding designed primarily to facilitate recovery of possession of real property and incidentally related issues such as rent. Munden v. Hazelrigg, 105 Wash.2d 39, 45, 711 P.2d 295 (1985). Relief under the unlawful detainer statute requires: (1) the tenant’s breach; (2) notice to the tenant of the existence of a breach together with an opportunity to correct; and (3) failure by the tenant to correct the breach. RCW 59.12.030(4); Wilson v. Daniels, 31 Wash.2d 633, 643, 198 P.2d 496 (1948).
+
+[4] [5] The parties’ dispute is largely due to the failure to clearly distinguish between two problems, first the older unpaid rent, and second the newer rental defaults. Generally, if a tenant fails to pay rent and the landlord accepts later rental payments, the breach is not wiped out; the landlord has merely waived a right under the statute to declare forfeiture for the nonpayment. Wilson, 31 Wash.2d at 643, 198 P.2d 496. Such a waiver does not waive a continuing breach or any future noncontinuing breaches. Id. Therefore, a landlord may later declare forfeiture for an older, continuing breach or any new breach. Id.
+
+[6] [7] This is logical because possession is no longer an issue after acceptance of advance rent for the forthcoming month. Accordingly, the statutory remedy of forfeiture under chapter 59.12 RCW is no longer available to the landlord, and the statute’s doubling provisions do not apply to the older noncontinuing breach. The sole remaining remedy is under the lease’s default provisions. Here, it is worth noting that the nonwaiver provisions in paragraph 22 do not contain specific language regarding retention of the right of forfeiture after acceptance of subsequent rents. See Wilson, 31 Wash.2d at 642, 198 P.2d 496. Since the statute is in derogation of common law, it must be construed in favor of the tenant. Id. at 643–44, 198 P.2d 496. Thus, we believe Finding of Fact 5 pertains solely to defaults under the lease rather than statutory unlawful *685 detainer, and for the reasons discussed below that wording is incorrect but inconsequential. In any event, MH2 cannot claim statutory doubling for the older rent defaults because it could not invoke statutory forfeiture.
+
+[8] Regarding the February through March 2000 rental defaults, the Hwangs were served with a 10–day notice to pay rent or quit the premises. They tendered the two newer months rent prior to the 10 days, but this amount was improperly rejected as insufficient. MH2 then filed this unlawful detainer action at the end of the 10 day period incorrectly seeking both the older and newer rents. In an unlawful detainer action, the trial court is limited to either (1) entering a judgment in favor of the defendant by dismissing the action with prejudice, or (2) rendering a judgment in favor of the plaintiff. Sundholm v. Patch, 62 Wash.2d 244, 246, 382 P.2d 262 (1963). As noted, the incidental issue of whether rents are due is customarily decided at the same time. Munden, 105 Wash.2d at 45, 711 P.2d 295.
+
+[9] Given the above, we conclude the trial court properly decided that rents were due under the lease for the older rental defaults and that no statutory unlawful detainer occurred for the newer rental defaults. The latter conclusion was correct because the Hwangs properly tendered two months rent in response to the notice and subsequently paid the rents into the court’s registry, plus more than enough to cover the taxes. It follows that under Sundholm, the unlawful detainer should have been dismissed and the **1275 tendered sums held in the court’s registry paid to MH2. And, under Munden, because possession was no longer an issue, the court properly ordered judgment as well for the older rents due under the lease together with attorney fees and costs as prevailing party. No rent doubling provision is in the lease. Thus, doubling was not an available remedy, either under the statute or the lease.
+
+[10] On appeal, the trial court’s findings of fact must support its conclusions of law; the findings must be supported by substantial evidence. Landmark Dev., Inc. v. City of Roy, 138 Wash.2d 561, 573, 980 P.2d 1234 (1999). Here, the *686 findings are not clear when discussing the old defaults compared to the new ones, resulting in some confusion. Compounding this problem, respondents prepared the findings and conclusions, and appellant prepared the judgment. Nevertheless, the court’s findings are supported by substantial evidence; as discussed above, the conclusions properly follow.
+
+In Finding of Fact 9 relating to the newer rental defaults, the trial court found “it would be inappropriate and inequitable to double the monetary damages found still due by the court.” Equitable principles are irrelevant. Similarly, it is unnecessary to discuss whether or not the court had discretion to award double damages.
+
+Both parties request attorney fees. The Hwangs’ request for fees under the lease is granted. Because MH2 did not prevail here, it is not entitled to attorney fees.
+
+
+
+CONCLUSION
+We hold the trial court did not err in any of the ways alleged by MH2 and affirm.
+
+KURTZ C.J., and SCHULTHEIS, J., concurring.
+All Citations
+104 Wash.App. 680, 16 P.3d 1272
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

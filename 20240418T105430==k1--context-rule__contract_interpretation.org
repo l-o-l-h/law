@@ -1,0 +1,19 @@
+#+title:      Context Rule
+#+date:       [2024-04-18 Thu 10:54]
+#+filetags:   :contract:interpretation:
+#+identifier: 20240418T105430
+
+* Context Rule in Contract Interpretation
+
+- /Landes v. Cuzdey/, 26 Wash. App. 2d 1043 (2023) [UNPUBLISHED]
+
+
+- Extrinsic evidence to determine meaning of specific words and terms used in a contact
+---------------------------------------------------------------------------------------
+
+[U]nder  the  context  rule,  we  can  consider  extrinsic  evidence  to
+determine  the  meaning  of  specific   words  and  terms  used  in  a
+contract. /Viking  Bank v. Firgrove Commons  3, LLC/, 183 Wn.  App. 706,
+713, 334 P.3d 116 (2014).
+
+- Landes v. Cuzdey, 26 Wn. App. 2d 1043 (2023)

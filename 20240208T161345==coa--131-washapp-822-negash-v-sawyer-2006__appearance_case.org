@@ -1,0 +1,230 @@
+#+title:      131 Wash.App. 822 Negash v. Sawyer (2006)
+#+date:       [2024-02-08 Thu 16:13]
+#+filetags:   :appearance:case:
+#+identifier: 20240208T161345
+
+* BRIEF
+
+
+* CASE
+
+Negash v. Sawyer
+Court of Appeals of Washington, Division 1. | March 6, 2006 | 131 Wash.App. 822 | 129 P.3d 824
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+washington Citation:
+
+Negash v. Sawyer, 131 Wn. App. 822, 129 P.3d 824 (2006)
+
+All Citations:
+
+131 Wash.App. 822, 129 P.3d 824
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 8, 2024 at 6:10 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+131 Wash.App. 822
+Court of Appeals of Washington,
+Division 1.
+Elleni NEGASH, Appellant,
+v.
+Charles SAWYER and “Jane Doe” Sawyer, and all other tenants, Respondent.
+No. 54745–3–I.
+|
+March 6, 2006.
+Synopsis
+Background: Landlord served unlawful detainer summons and complaint to tenant pursuant to alternative service statute, and tenant responded by seeking further notice of proceedings. After granting landlord writ of restitution, the Superior Court, King County, Joan Lukasik, J., ruled it did not have personal jurisdiction over tenant for award of monetary damages. Landlord appealed.
+
+[Holding:] The Court of Appeals, Dwyer, J., held that as matter of first impression, tenant did not submit to jurisdiction by his response.
+
+Affirmed.
+
+Procedural Posture(s): On Appeal.
+
+
+West Headnotes (4)
+
+
+[1]
+
+AppearanceProceedings Constituting Appearance
+Landlord and TenantJurisdiction
+
+
+31Appearance
+31k7Proceedings Constituting Appearance
+31k8In General
+31k8(1)In general
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1792Jurisdiction
+(Formerly 233k291(6.5))
+
+
+Tenant who responded to unlawful detainer summons and complaint, which had been served pursuant to alternative service provision of Residential Landlord-Tenant Act, by seeking further notice of proceedings but not requesting affirmative relief, did not submit to court’s personal jurisdiction, and thus court had no authority to award landlord monetary damages; tenant’s response was merely his notice of appearance designed to prevent entry of a default judgment. West’s RCWA 59.18.055.
+3 Cases that cite this headnote
+
+
+
+[2]
+
+Forcible Entry and DetainerTrial of title and right of possession
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k6Nature and Form of Remedy
+179k6(2)Trial of title and right of possession
+
+
+The unlawful detainer statutes create a special, summary proceeding for the recovery of possession of real property. West’s RCWA 59.18.010 et seq.
+1 Case that cites this headnote
+
+
+
+[3]
+
+Forcible Entry and DetainerStatutory provisions
+Landlord and TenantStatutory provisions
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k2Statutory provisions
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1782Statutory provisions
+(Formerly 233k289)
+
+
+Unlawful detainer statutes are in derogation of the common law and are strictly construed in favor of the tenant. West’s RCWA 59.18.010 et seq.
+1 Case that cites this headnote
+
+
+
+[4]
+
+CourtsEstoppel arising from submitting to or invoking jurisdiction
+
+
+106Courts
+106INature, Extent, and Exercise of Jurisdiction in General
+106I(A)In General
+106k37Waiver of Objections
+106k37(3)Estoppel arising from submitting to or invoking jurisdiction
+
+
+Under rule that a defendant personally submits to the jurisdiction of the court by requesting affirmative relief, “affirmative relief” is relief for which defendant might maintain an action independently of plaintiff’s claim and on which he might proceed to recovery, although plaintiff abandoned his cause of action or failed to establish it.
+3 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+**825 Scott R. Nelson, Attorney At Law, Gerald Robison, Seattle, WA, for Appellant.
+Charles Sawyer, Seattle, WA, pro se.
+Jane Doe Sawyer, Seattle, WA, pro se.
+John Rongerude, Shoreline, WA, for Amicus Curiae.
+Opinion
+
+DWYER, J.
+
+*823 ¶ 1 Landlord Elleni Negash served her tenant Charles Sawyer with an unlawful detainer summons and complaint pursuant to RCW 59.18.055, the alternative service provision of the Residential Landlord–Tenant Act of 1973, chapter 59.18 RCW. Sawyer responded with a letter requesting that legal information be sent to the address subject to eviction. Sawyer did not appear at the subsequent show cause hearing and the court granted Negash’s writ of restitution. However, because RCW 59.18.055 limits the court’s jurisdiction to restoring possession of the premises “until such time as jurisdiction over the defendant ... is obtained,” and Sawyer’s response to service did not constitute a submission to the court’s jurisdiction, the court correctly ruled that it did not have personal jurisdiction over Sawyer and, thus, properly reserved ruling on Negash’s request for monetary damages. Negash appeals; we affirm.
+
+
+
+*824 FACTS
+¶ 2 Elleni Negash served a three-day notice to terminate tenancy upon Charles Sawyer and “Jane Doe” Sawyer (“Sawyer”). Sawyer did not comply with the statutory notice and Negash prepared a summons and complaint for unlawful detainer. After several unsuccessful attempts at service, Negash requested, and the trial court entered, an order allowing service by alternative means pursuant to RCW 59.18.055.
+
+¶ 3 Prior to the deadline on the summons, Sawyer delivered a written response to Negash’s attorney stating that Negash would not accept Sawyer’s rental payments, that she instructed him to move out of the apartment, that he intended to move out, and that further legal papers should be sent to the address that was the subject of the unlawful detainer action.1
+
+1
+
+The record is unclear regarding the original recipient of Sawyer’s response to service. At oral argument, Negash’s attorney stated that it was delivered to him. He filed the letter with the court with a cover sheet entitled “Answer.”
+
+
+¶ 4 The court subsequently granted Negash’s motion for a show cause hearing pursuant to RCW 59.18.370, notice of which was served upon Sawyer by mail. Sawyer did not appear at the hearing. The court granted Negash’s writ of restitution, but “reserved” ruling on her claims for unpaid rent, attorney’s fees, and costs.
+
+¶ 5 Negash appealed, asserting that the court erred in finding that it did not have jurisdiction over Sawyer for the purpose of awarding monetary damages.2
+
+2
+
+Negash’s attorney accurately anticipated that Sawyer would not respond to this appeal and brought a motion requesting that attorney John Rongerude be allowed to represent the interests of tenants in this matter. This court denied the motion to appoint Mr. Rongerude, but granted him permission to appear as amicus curiae, which he did.
+
+
+
+
+ANALYSIS
+[1] ¶ 6 This case raises an issue of first impression: where a tenant is served with an unlawful detainer summons and *825 complaint under RCW 59.18.055, and the tenant’s response requests only that related legal papers be sent to a specific address, is the response sufficient to confer on the court the authority to award monetary damages against the tenant in a subsequent writ of restitution proceeding.
+
+¶ 7 Negash contends that the trial court erred by ruling that it did not have authority to enter a money judgment against Sawyer because of the method of service employed. That method is authorized by RCW 59.18.055, which provides, in pertinent part:
+When service on the defendant or defendants is accomplished by this alternative procedure, the court’s jurisdiction is limited to restoring possession of the premises to the plaintiff and no money judgment may be entered against the defendant or defendants until such time as jurisdiction **826 over the defendant or defendants is obtained.3
+
+3
+
+RCW 59.18.055, in its entirety, provides:
+(1) When the plaintiff, after the exercise of due diligence, is unable to personally serve the summons on the defendant, the court may authorize the alternative means of service described herein. Upon filing of an affidavit from the person or persons attempting service describing those attempts, and the filing of an affidavit from the plaintiff, plaintiff’s agent, or plaintiff’s attorney stating the belief that the defendant cannot be found, the court may enter an order authorizing service of the summons as follows:
+(a) The summons and complaint shall be posted in a conspicuous place on the premises unlawfully held, not less than nine days from the return date stated in the summons; and
+(b) Copies of the summons and complaint shall be deposited in the mail, postage prepaid, by both regular mail and certified mail directed to the defendant’s or defendants’ last known address not less than nine days from the return date stated in the summons.
+When service on the defendant or defendants is accomplished by this alternative procedure, the court’s jurisdiction is limited to restoring possession of the premises to the plaintiff and no money judgment may be entered against the defendant or defendants until such time as jurisdiction over the defendant or defendants is obtained.
+(2) This section shall apply to this chapter and chapter 59.20 RCW.
+
+
+[2] [3] ¶ 8 We agree with the trial court’s application of this unique statutory provision. “The unlawful detainer statutes create a special, summary proceeding for the recovery of possession of real property.” Hous. Auth. of Seattle v. Silva, 94 Wash.App. 731, 734, 972 P.2d 952 1999) (citing *826 Hous. Auth. of Everett v. Terry, 114 Wash.2d 558, 563, 789 P.2d 745 (1990)); MH2 Co. v. Hwang, 104 Wash.App. 680, 684, 16 P.3d 1272 (2001). Unlawful detainer statutes are in derogation of the common law and are strictly construed in favor of the tenant. Canterwood Place L.P. v. Thande, 106 Wash.App. 844, 848, 25 P.3d 495 (2001) (citing Terry, 114 Wash.2d at 563, 789 P.2d 745; Silva, 94 Wash.App. at 734, 972 P.2d 952; Wilson v. Daniels, 31 Wash.2d 633, 643–44, 198 P.2d 496 (1948)).
+
+¶ 9 Negash concedes that a landlord’s remedy is generally limited to restoration of the premises when this special service statute is utilized. However, she argues that the statutory limitation ceased to apply when Sawyer responded to the summons and complaint. First, Negash contends that Sawyer’s response was an “appearance” because it operated to preclude a default judgment. Second, Negash argues that the last phrase in RCW 59.18.055, “until such time as jurisdiction over the defendant or defendants is obtained,” was triggered by Sawyer’s response, thereby submitting Sawyer personally to the court’s jurisdiction. In this regard, Negash maintains that, even though Sawyer was never personally served, his limited response operated as a request for affirmative relief because, at the show cause hearing, he was “entitled to present his defenses and even obtain judgment against the landlord for his costs and attorney’s fees.” Reply Br. of Appellant at 5–6.
+
+¶ 10 Construing the statute in favor of the tenant compels a narrow characterization of Sawyer’s response. We view the writing to be nothing more than a pro se defendant’s notice of appearance designed to prevent entry of a default judgment. In light of that notice of appearance, Negash correctly set a show cause hearing pursuant to RCW 59.18.370.
+
+[4] ¶ 11 However, the mere fact that Sawyer responded in such a fashion that a motion for default was precluded and a show cause hearing was necessitated does not compel a finding that his response constituted a voluntary submission *827 to the personal jurisdiction of the court. While a party personally submits to the jurisdiction of the court by requesting affirmative relief, In re Marriage of Parks, 48 Wash.App. 166, 170, 737 P.2d 1316 (1987), Sawyer’s appearance did not constitute such a request. Affirmative relief is defined as “[r]elief for which defendant might maintain an action independently of plaintiff’s claim and on which he might proceed to recovery, although plaintiff abandoned his cause of action or failed to establish it.” Grange Ins. Ass’n v. State, 110 Wash.2d 752, 765–66, 757 P.2d 933 (1988) (quoting Black’s Law Dictionary 56 (5th ed.1979)). A defendant who files a cross claim, for example, seeks affirmative relief and thereby waives the defense of lack of personal jurisdiction. Kuhlman **827 Equip. Co. v. Tammermatic, Inc., 29 Wash.App. 419, 425, 628 P.2d 851 (1981) (foreign corporation that filed a cross claim for indemnity against Washington corporation invoked the jurisdiction of Washington court). Similarly, a defendant personally submits to a court’s jurisdiction by asking the court to enforce previously adjudicated rights. Livingston v. Livingston, 43 Wash.App. 669, 672, 719 P.2d 166 (1986) (party who asks court to enforce visitation seeks affirmative relief). Sawyer made no such request.
+
+¶ 12 In this unique statutory context, Sawyer’s limited response did not constitute a personal submission to the court’s jurisdiction. We note, however, that “[a] show cause hearing is not the final determination of the rights of the parties in an unlawful detainer action.” Carlstrom v. Hanline, 98 Wash.App. 780, 788, 990 P.2d 986 (2000). Negash may continue to litigate her claims for damages against Sawyer after personal service is accomplished.
+
+¶ 13 In sum, where a tenant responds to service pursuant to RCW 59.18.055 by requesting notice of further proceedings, but does not request affirmative relief, the court’s *828 authority is restricted to determining proper possession of the premises.
+
+¶ 14 Affirmed.
+
+WE CONCUR: APPELWICK, A.C.J. and ELLINGTON, J.
+All Citations
+131 Wash.App. 822, 129 P.3d 824
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

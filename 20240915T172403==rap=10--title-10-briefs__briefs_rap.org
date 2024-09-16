@@ -1,0 +1,253 @@
+#+title:      TITLE 10 - Briefs
+#+date:       [2024-09-15 Sun 17:24]
+#+filetags:   :briefs:rap:
+#+identifier: 20240915T172403
+
+* 10.1 - Briefs Which May Be Filed
+
+** (a) Scope of Title.
+
+The rules in this title apply only to the briefs referred to in this
+rule, unless a particular rule indicates a different application is
+intended.
+
+** (b) Briefs Which May Be Filed in Any Review.
+
+The following briefs may be filed in any review:
+- (1) a brief of appellant or petitioner,
+- (2) a brief of respondent, and
+- (3) a reply brief of appellant or petitioner.
+
+** (c) Reply Brief of Respondent.
+
+If the respondent is also seeking review, the respondent may file a
+brief in reply to the response the appellant or petitioner has made to
+the issues presented by respondent's review.
+
+** (d) [Reserved; see rule 10.10]
+
+** (e) Amicus Curiae Brief.
+
+** (f) Briefs in Cases Involving Cross Review.
+
+** (g) Briefs in Consolidated Cases and in Cases Involving Multiple Parties.
+
+** (h) Other Briefs.
+
+** References
+Rule 13.7, Proceedings (in Supreme Court) After Acceptance of Review
+(of Court of Appeals decision), (a) Procedure; Rule 16.10, Personal
+Restraint Petition--Briefs.
+
+* 10.2 - Time for Filing Briefs
+
+** (a) Brief of Appellant or Petitioner.
+
+The brief of an appellant or petitioner should be filed with the
+appellate court within 45 days after the report of proceedings is
+filed in the appellate court; or, if the record on review does not
+include a report of proceedings, within 45 days after the party
+seeking review has filed the designation of clerk's papers and
+exhibits in the trial court.
+
+** (b) Brief of Respondent in Civil Case.
+
+The brief of a respondent in a civil case should be filed with the
+appellate court within 30 days after service of the brief of appellant
+or petitioner.
+
+** (c) Brief of Respondent in Criminal Case.
+
+** (d) Reply Brief.
+
+A reply brief of an appellant or petitioner should be filed with the
+appellate court within 30 days after service of the brief of
+respondent unless the court orders otherwise.
+
+** (e)  [Reserved; see rule 10.10.]
+
+** (f) Brief of Amicus Curiae.
+
+** (g) Answer to Brief of Amicus Curiae.
+
+** (h) Service of Briefs.
+
+At the time a party files a brief, the party should serve one copy on
+every other party and on any amicus curiae, and file proof of service
+with the appellate court
+
+** (i) Sanctions for Late Filing and Service.
+
+The appellate court will ordinarily impose sanctions under rule 18.9
+for failure to timely file and serve a brief.
+
+** References
+
+Rule 18.6, Computation of Time, (c) Filing by mail
+
+* 10.3 - Content of Brief
+
+** (a) Brief of Appellant or Petitioner.
+
+*** (1) Title Page.
+
+A title page, which is the cover
+
+*** (2) Tables
+
+A table of contents, with page references, and a table of cases
+(alphabetically arranged), statutes and other authorities cited, with
+references to the pages of the brief where cited.
+
+*** (3) Introduction
+
+A concise introduction. This section is optional. The introduction
+need not contain citations to the record for authority.
+
+*** (4) Assignments of Error
+
+A separate concise statement of each error a party contends was made
+by the trial court, together with the issues pertaining to the
+assignments of error.
+
+*** (5) Statement of the Case
+
+A fair statement of the facts and procedure relevant to the issues
+presented for review, without argument. Reference to the record must
+be included for each factual statement.
+
+*** (6) Argument
+
+The argument in support of the issues presented for review, together
+with citations to legal authority and references to relevant parts of
+the record. The argument may be preceded by a summary. The court
+ordinarily encourages a concise statement of the standard of review as
+to each issue.
+
+*** (7) Conclusion
+
+A short conclusion stating the precise relief sought.
+
+*** (8) Appendix
+
+An appendix to the brief if deemed appropriate by the party submitting
+the brief. An appendix may not include materials not contained in the
+record on review without permission from the appellate court, except
+as provided in rule 10.4(c).
+
+** (b) Brief of Respondent.
+
+The brief of respondent should conform to section (a) and answer the
+brief of appellant or petitioner. A statement of the issues and a
+statement of the case need not be made if respondent is satisfied with
+the statement in the brief of appellant or petitioner. If a respondent
+is also seeking review, the brief of respondent must state the
+assignments of error and the issues pertaining to those assignments of
+error presented for review by respondent and include argument of those
+issues.
+
+** (c) Reply Brief.
+
+A reply brief should conform with subsections (1), (2), (6), (7), and
+(8) of section (a) and be limited to a response to the issues in the
+brief to which the reply brief is directed.
+
+** (d) [Reserved; see rule 10.10.]
+
+** (e) Amicus Curiae Brief.
+
+** (f) Answer to Brief of Amicus Curiae.
+
+** (g) Special Provision for Assignments of Error
+
+** (h) Assignments of Error on Review of Certain Administrative Orders.
+
+** References
+
+- Form 5, Title Page for all Briefs and Petition for Review;
+- Form 6, Brief of Appellant;
+- Rule 3.4, Title of Case and Designation of Parties;
+- Rule 18.1, Attorney Fees and Expenses, (b) Argument in brief.
+
+* 10.4 - Preparation and Filing of Brief by Party
+
+** (a) Format of Brief.
+
+** (b) Length of Brief.
+
+** (c) Text of Statute, Rule, Jury Instruction, Exhibit, or the Like.
+
+** (d) Motion in Brief.
+
+** (e)  Reference to Party.
+
+** (f)  Reference to Record.
+
+** (g) Citation Format.
+
+** (h) Unpublished Opinions. [Reserved. See GR 14.1.]
+
+* 10.5 - Reproduction and Service of Briefs
+
+** (a) Reproduction of Brief.
+
+The appellate court clerk may arrange for the economical reproduction
+of each brief and bill the party or amicus filing the brief for the
+cost of reproduction.  If the clerk reproduces a brief, the clerk will
+reproduce only the number of copies deemed necessary by the
+commissioner or clerk. The party or amicus must pay the cost of
+reproduction of the brief within 10 days after receiving the bill from
+the clerk.
+
+** (b) Distribution of Brief.
+
+A party filing a brief must serve it in accordance with rules 10.2(h)
+and 18.5(a). The state law librarian shall determine how many copies
+of briefs from the Supreme Court and the Court of Appeals are to be
+transmitted to the State Law Library. The briefs will be transmitted
+by the clerks and provided at no cost to the State Law Library.
+
+** (c) Notice to Appellant in Criminal Case When Defendant is Appellant.
+
+* 10.6 - Amicus Curiae Brief
+
+* 10.7 - Submission of Improper Brief
+
+If a party submits a brief that fails to comply with the requirements
+of Title 10 and RAP 18.17, the appellate court, on its own initiative
+or on the motion of a party, may (1) order the brief returned for
+correction or replacement within a specified time, (2) order the brief
+stricken from the files with leave to file a new brief within a
+specified time, or (3) accept the brief. The appellate court will
+ordinarily impose sanctions on a party or counsel for a party who
+files a brief that fails to comply with these rules.
+
+* 10.8 - Additional Authorities
+
+** (a) Generally.
+
+A party or amicus curiae may file a statement of additional
+authorities. The additional authorities must relate to a point made in
+the briefing or at oral argument.
+
+** (b) Contents.
+
+The statement must include argument explaining the reasons for the
+additional authorities and must include a pinpoint citation either to
+the pertinent page of the brief or to a point argued orally. The body
+of the statement must not exceed 350 words (word processing software)
+or one page (typewritten or handwritten). The statement of additional
+authorities shall be accompanied by a certificate of compliance as set
+forth in RAP 18.17(b).
+
+** (c) Response.
+
+Any response to the statement of additional authorities must be filed
+within seven days after the statement is filed and also must be
+limited to 350 words (word processing software) or one page
+(typewritten or handwritten). The response shall be accompanied by a
+certificate of compliance as set forth in RAP 18.17(b).
+
+* 10.9 - Corresponding Briefs on CD-ROM
+
+* 10.10 - Statement of Additional Grounds for Review

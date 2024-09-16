@@ -1,0 +1,30 @@
+#+title:      Attorney Fees Lodestart Method
+#+date:       [2024-02-12 Mon 17:21]
+#+filetags:   :attyfees:lodestar:
+#+identifier: 20240212T172128
+
+Attorney fees awards “should be based on more than just estimation or
+conjecture.” Austin v. U.S. Bank, 73 Wn.App. 293, 310, 869 P.2d 404
+(1994). Washington courts have been clear that this state follows the
+“lodestar” methodology for determining attorney fee awards, and this
+methodology requires documentation of the work performed. McGreevy
+v. Oregon Mut. Ins. Co., 90 Wn.App. 283, 291–92, 951 P.2d 798
+(1998). Minimally, such documentation must include the number of hours
+worked, the type of work performed, and the category of attorney who
+performed the work. McGreevy, 90 Wn.App. at 292. Because Klein's
+attorney provided no such documentation, Klein's attorney fee award
+was improper and we reverse, crediting Klein's award back to Kendall.
+
+- Kendall v. Klein, 131 Wn. App. 1035 (2006)
+
+
+To enable court to determine if number of hours expended is reasonable
+in arriving at lodestar figure for attorney fees award, attorneys must
+provide reasonable documentation of work performed, which includes, at
+minimum, number of hours worked, type of work performed, and category
+of attorney who performed work.
+
+
+- McGreevy v. Oregon Mut. Ins. Co., 90 Wn. App. 283, 951 P.2d 798
+  (1998), disapproved of by Panorama Vill. Condo. Owners Ass'n Bd. of
+  Directors v. Allstate Ins. Co., 144 Wn.2d 130, 26 P.3d 910 (2001)

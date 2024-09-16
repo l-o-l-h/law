@@ -1,0 +1,10 @@
+#+title:      RAP
+#+date:       [2024-08-04 Sun 11:07]
+#+filetags:   :meta:rap:
+#+identifier: 20240804T110711
+
+* List of RAP
+#+BEGIN: denote-links :regexp "_rap" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240801T104634][rap=9  TITLE 9 - Record on Review]]
+- [[denote:20240915T172403][rap=10  TITLE 10 - Briefs]]
+#+END:

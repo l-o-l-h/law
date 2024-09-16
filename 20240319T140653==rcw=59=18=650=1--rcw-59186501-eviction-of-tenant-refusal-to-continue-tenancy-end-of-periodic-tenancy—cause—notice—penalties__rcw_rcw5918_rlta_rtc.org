@@ -1,0 +1,91 @@
+#+title:      RCW 59.18.650(1) Eviction of tenant, refusal to continue tenancy, end of periodic tenancy—Cause—Notice—Penalties
+#+date:       [2024-03-19 Tue 14:06]
+#+filetags:   :rcw:rcw5918:rlta:rtc:
+#+identifier: 20240319T140653
+
+* RCW 59.18.650 Eviction of tenant, refusal to continue tenancy, end of periodic tenancy—Cause—Notice—Penalties
+
+** 1. [Allowed Notices to End Periodic Tenancies]
+
+*** a. [General prohibition against ending tenancies; exceptions allowed in this subsection 1]
+- A landlord may not
+  - evict a tenant,
+  - refuse to continue a tenancy, or
+  - end a periodic tenancy
+- except for the causes enumerated in subsection (2) of this section and
+- *as otherwise provided in this subsection.*
+
+*** b. [Prohibition against ending term lease that morphs into M-T-M; exceptions allowed]
+- If a landlord and tenant enter into a rental agreement that
+  - provides for the tenancy to continue
+  - for an indefinite period on a month-to-month or periodic basis
+  - after the agreement expires,
+- the landlord may not end the tenancy
+  - except for the causes enumerated in subsection (2) of this section;
+
+- however, a landlord may end such a tenancy
+  - at the end of the initial period of the rental agreement without cause
+  - only if:
+
+**** i. [Allowed Termination without Cause of M-T-M following term lease]
+- At the inception of the tenancy,
+  - the landlord and tenant entered into a rental agreement between six and 12 months; and
+
+**** ii. [60 days' notice before end of initial lease period]
+- The landlord has provided the tenant
+  - before the end of the initial lease period
+  - at least 60 days' advance written notice ending the tenancy,
+  - served in a manner consistent with RCW 59.12.040.
+
+*** c. [Termination of specified term without morphing into M-T-M]
+- If a landlord and tenant
+- enter into a rental agreement
+- for a specified period
+  - in which the tenancy
+  - by the terms of the rental agreement
+  - does not continue for an indefinite period on a month-to-month or periodic basis
+  - after the end of the specified period,
+  - the landlord may end such a tenancy without cause upon expiration of the specified period only if:
+
+**** i. [Only term leases]
+- At the inception of the tenancy,
+- the landlord and tenant entered into a rental agreement of
+  - 12 months or more for a specified period, or
+  - the landlord and tenant
+    - have continuously and
+    - without interruption
+    - entered into successive rental agreements
+    - of six months or more
+    - for a specified period since the inception of the tenancy;
+
+**** ii. [60 days' notice prior to end of current term]
+- The landlord has provided the tenant
+- before the end of the specified period
+- at least 60 days' advance written notice
+  - that the tenancy will be deemed expired at the end of such specified period,
+  - served in a manner consistent with RCW 59.12.040; and
+
+**** iii. [Never been a M-T-M tenancy; exception]
+- The tenancy has not been
+  - for an indefinite period on a month-to-month or periodic basis
+  - at any point since the inception of the tenancy.
+
+- However,
+  - for any tenancy of an indefinite period in existence as of May 10, 2021,
+  - if the landlord and tenant enter into a rental agreement between May 10, 2021, and three months following the expiration of the governor's proclamation 20-19.6 or any extensions thereof,
+    - the landlord may exercise rights under this subsection (1)(c) as if the rental agreement was entered into at the inception of the tenancy
+    - provided that the rental agreement is otherwise in accordance with this subsection (1)(c).
+
+*** d. [Prohibition against terminating all other tenancies not allowed under 1(b) or (c)]
+- For all other tenancies of a specified period not covered under (b) or (c) of this subsection,
+- and for tenancies of an indefinite period on a month-to-month or periodic basis,
+  - a landlord may not end the tenancy except for the causes enumerated in subsection (2) of this section.
+- Upon the end date of the tenancy of a specified period, the tenancy becomes a month-to-month tenancy.
+
+*** e. [Nothing prohibits LLs and Ts from entering into legal lease agreements]
+- Nothing prohibits a landlord and tenant from
+  - entering into subsequent lease agreements that
+  - are in compliance with the requirements in subsection (2) of this section.
+
+*** f. [Tenant may end a tenancy with a 20-day notice]
+A tenant may end a tenancy for a specified time by providing notice in writing not less than 20 days prior to the ending date of the specified time.

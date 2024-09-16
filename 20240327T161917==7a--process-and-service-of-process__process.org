@@ -1,0 +1,9 @@
+#+title:      Process and Service of Process
+#+date:       [2024-03-27 Wed 16:19]
+#+filetags:   :process:
+#+identifier: 20240327T161917
+
+“Process” is defined as a “summons or writ, esp[ecially] to appear or respond in court.” BLACK'S LAW DICTIONARY 1399 (10th ed. 2014). However, “ ‘[s]ervice of process refers to a formal delivery of documents that is legally sufficient to charge the defendant with notice of a pending action.’ ” Larson v. Kyungsik Yoon, 187 Wn. App. 508, 515, 351 P.3d 167 (2015) (quoting Volkswagenwerk Aktiengesellschaft v. Schlunk, 486 U.S. 694, 700, 108 S. Ct. 2104, 100 L. Ed. 2d 722 (1988)).
+
+
+Mandawala v. Era Living at ATP, 15 Wn. App. 2d 1005 (2020)

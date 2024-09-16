@@ -1,0 +1,222 @@
+#+title:      48 Wash.2d 890 Little v. Catania (1956)
+#+date:       [2024-02-21 Wed 09:29]
+#+filetags:   :case:insufficient:notice:rlta:
+#+identifier: 20240221T092948
+
+* BRIEF
+
+* CASE
+
+Little v. Catania
+Supreme Court of Washington, Department 1. | May 17, 1956 | 48 Wash.2d 890 | 297 P.2d 255
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Follow by Gasser v. Jet Craft Limited, Nev., July 15, 1971
+
+washington Citation:
+
+Little v. Catania, 48 Wn.2d 890, 297 P.2d 255 (1956)
+
+All Citations:
+
+48 Wash.2d 890, 297 P.2d 255
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 6, 2024 at 8:10 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Follow by Gasser v. Jet Craft Limited, Nev., July 15, 1971
+48 Wash.2d 890
+Supreme Court of Washington, Department 1.
+Bryce LITTLE and Willie V. Little, his wife, Respondents,
+v.
+Tony CATANIA and Jane Doe Catania, his wife, Appellants.
+No. 33455.
+|
+May 17, 1956.
+Synopsis
+Unlawful detainer action in which defendants were served with a 12-day summons. The Superior Court, King County, Roger J. Meakim, J., entered judgment adverse to defendants, and defendants appealed. The Supreme Court, Finley, J., held that, where three-day notice was neither pleaded nor proved in unlawful detainer action, any judgment of unlawful detainer was erroneous and that, even if plaintiff had strictly complied with statutory requirements for an unlawful detainer action, it would have been error for trial court to have determined ownership of property located on the premises.
+
+Judgment reversed, and cause remanded with instructions to dismiss.
+
+
+
+West Headnotes (6)
+
+
+[1]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+(Formerly 233k291(1))
+
+
+Giving a statutory three-day notice is condition precedent to an unlawful detainer action and is fact to be established upon trial before court may pronounce a judgment of unlawful detainer. RCW 59.12.070, 59.12.080, 59.12.130.
+1 Case that cites this headnote
+
+
+
+[2]
+
+Landlord and TenantIssues, proof, and variance
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1800Issues, proof, and variance
+(Formerly 233k291(17))
+
+
+Where three-day notice was neither pleaded nor proved in unlawful detainer action, any judgment of unlawful detainer was erroneous. RCW 59.12.070, 59.12.080, 59.12.130.
+
+
+
+
+[3]
+
+Landlord and TenantTrial
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1803Trial
+(Formerly 233k291(16))
+
+
+Even if plaintiff had strictly complied with statutory requirements for an unlawful detainer action, it would have been error for trial court to have determined ownership of property located on the premises. RCW 59.12.070, 59.12.080, 59.12.130.
+
+
+
+
+[4]
+
+Landlord and TenantJurisdiction
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1792Jurisdiction
+(Formerly 233k291(6.5), 233k291(61/2))
+
+
+Where defendant tenants were brought into court on unlawful detainer action under special 12-day summons, and trial court announced that it was treating action as an ordinary lawsuit, defendants had no reason to appear specially and object to court’s jurisdiction and could not, after court’s announcement, remove themselves from the case and return by way of special appearance, and, therefore, defendants, by making a general appearance and by failing to move against the summons or complaint, did not waive all defects and invoke general jurisdiction of the court. RCW 59.12.070, 59.12.080, 59.12.130.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+Landlord and TenantSummons or other process
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1797Summons or other process
+(Formerly 233k291(7.5), 233k291(71/2))
+
+
+Special 12-day summons was wholly insufficient to give court jurisdiction of the parties in a general proceeding, but court obtained jurisdiction only for limited statutory purpose, namely, to determine issue of possession in unlawful detainer action. RCW 59.12.070, 59.12.080, 59.12.130.
+12 Cases that cite this headnote
+
+
+
+[6]
+
+Landlord and TenantJurisdiction
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1792Jurisdiction
+(Formerly 233k291(6.5), 233k291(61/2))
+
+
+Having obtained limited jurisdiction for purpose of determining issue of possession in unlawful detainer action, court could not transform special statutory proceedings into an ordinary lawsuit and determine issues and grant relief therein as though action was a general proceeding. RCW 59.12.070, 59.12.080, 59.12.130.
+9 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*891 **255 Raymond C. Brumbach, Seattle, for appellants.
+**256 J. B. Pennington, Seattle, for respondents.
+Bryce Little, pro se.
+Opinion
+
+FINLEY, Justice.
+
+This is an action for unlawful detainer. The defendants were served with a twelveday summons, as prescribed by RCW 59.12.070 and RCW 59.12.080. It stated in part that ‘This is an unlawful detainer action for the recovery of the immediate possession of real property * * *’ The defendants appeared on March 1, 1955, the return date. The presiding judge set the case for an early trial, and on April 6, 1955, the action came on for hearing. This was in accordance with RCW 59.13.130, which reads, in part:
+‘* * * Actions under this chapter shall take precedence over all other civil actions.’
+
+The plaintiffs alleged in their complaint that the defendants were in possession of the premises in question, and that they were in default in the payment of rent. Plaintiffs asked for immediate possession of the premises, and that the reasonable rental thereof be fixed at $225 per month, and continue ‘during such time as the defendants shall continue in unlawful and wrongful possession of said premises and that said amount be doubled pursuant to *892 statute.’ Incidental to ousting defendants from possession, the court was asked to determine the ownership of certain equipment and furniture located on the premises. The statutory three-day notice was neither pleaded nor proved. The trial judge was cognizant of this fact and, at the close of the case, he announced, ‘I am treating this as an ordinary lawsuit, even though he doesn’t have a twenty day summons, because you gentlemen came in here and did it.’ The trial court then (a) held that the plaintiffs were entitled to immediate possession of the premises, (b) determined the ownership of the equipment and furniture located on the premises, and (c) held that $125 per month constituted a reasonable rental for the storage of defendants’ equipment located on the premises. The defendants have appealed.
+[1] [2] [3] The giving of the statutory three-day notice is a condition precedent to an unlawful detainer action. It is a fact to be established upon the trial before the court may pronounce a judgment of unlawful detainer. In the case at bar, the three-day notice was neither pleaded nor proved; therefore, any judgment of unlawful detainer was erroneous. State ex rel. Robertson v. Superior Court, 95 Wash. 447, 164 P. 63; Davis v. Palmer, 39 Wash.2d 219, 235 P.2d 151. Even if the respondents had complied strictly with the statutory requirements for an unlawful detainer action, it would have been error for the trial court to have determined the ownership of the property located on the premises. See: Provident Mut. Life Ins. Co. v. Thrower, 155 Wash. 613, 285 P. 654, and cases cited.
+
+[4] The respondents argue that the appellants waived all defects and invoked the general jurisdiction of the court by making a general appearance and failing to move against the summons or the complaint. However, the appellants were brought into court under a special twelve-day summons, and, in view of the nature of the summons and complaint, they had no reason to appear specially and object to the court’s jurisdiction. Furthermore, after the trial court had announced that it was treating the action *893 as an ordinary lawsuit, the appellants could not then remove themselves from the case and return by way of a special appearance. State ex rel. Seaborn Shipyards Co. v. Superior Court, 102 Wash. 215, 172 P. 826.
+
+[5] [6] The special summons employed was wholly insufficient to give the court jurisdiction of the parties in a general proceeding. Jeffries v. Spencer, 86 Wash. 133, 149 P. 651; State ex rel. Seaborn Shipyards Co. v. Superior Court, supra. The court obtained jurisdiction of the parties for a limited statutory purpose only—namely, to determine the issue of possession in an unlawful detainer action. Having obtained that limited jurisdiction, the court could not transform the special statutory proceedings into an ordinary lawsuit, and determine the issues and grant relief therein as though the action was a general proceeding.
+
+In Young Women’s Christian Ass’n v. Lapresto, Mo.App., 169 S.W.2d 78, 80, the Missouri court made a statement which is pertinent to the problem now before us:
+**257 ‘As much as we regret to reverse a case for what on first impression may be called a technicality, on the other hand the very thing which instills in the mind of the thinking person a confidence and respect for the courts is the fact that they jealously guard against acting in any matter where jurisdiction may be lacking and is not apparent upon the face of the record. * * *’
+
+The judgment appealed from is reversed and the cause remanded with instructions to dismiss. The parties hereto will be left to the enforcement of such rights as they may have in some more appropriate proceeding, as to which we express no opinion.
+HAMLEY, C. J., and SCHWELLENBACH, DONWORTH and OTT, JJ., concur.
+All Citations
+48 Wash.2d 890, 297 P.2d 255
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

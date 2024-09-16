@@ -1,0 +1,9 @@
+#+title:      Contracts
+#+date:       [2024-04-18 Thu 10:59]
+#+filetags:   :contract:
+#+identifier: 20240418T105908
+
+* Contracts
+#+BEGIN: denote-links :regexp "=k" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240418T105430][k1  Context Rule]]
+#+END:

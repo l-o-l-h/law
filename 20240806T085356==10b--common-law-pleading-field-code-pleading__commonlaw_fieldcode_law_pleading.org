@@ -1,0 +1,59 @@
+#+title:      Common Law Pleading - Field Code Pleading
+#+date:       [2024-08-06 Tue 08:53]
+#+filetags:   :commonlaw:fieldcode:law:pleading:
+#+identifier: 20240806T085356
+
+The following comes from _Thoma v. C. J. Montag & Sons, Inc._, 54 Wash.2d 20 (1959)
+
+* Common Law Pleading
+Common-law pleading never existed in the territory of Washington. It
+was abolished by the first territorial legislature. Laws of 1854,
+chapter 5, § 36, p. 138; Rem.Rev.Stat. § 255; RCW 4.32.010. The
+separate plea in abatement does not and never did exist in
+Washington. Wallin v. Massachusetts Bonding & Ins. Co., 152 Wash. 272,
+277 P. 999. Such matters must be raised by answer. Wallin
+v. Massachusetts Bonding & Ins. Co., supra.
+- _Thoma v. C. J. Montag & Sons, Inc._, 54 Wash.2d 20 (1959)
+
+* Field Code Pleading
+ Under the Field code, which is the only form of pleading ever known
+ in either the territory or the state of Washington, the only
+ pleadings upon the part of a defendant are (1) the demurrer, and (2)
+ the answer. RCW 4.32.020; Laws of 1854, § 37, p. 139.
+ -
+
+** Answer
+RCW 4.32.080  (Laws of 1854,  § 44, p.  139) provides that  the answer
+must contain (1) a general or  specific denial, and (2) a statement of
+any new matter constituting a defense or counterclaim.
+
+Judge Clark (Clark on Code Pleading, 2d Ed., pp. 601603) declares that
+the common-law plea in abatement was abolished by the Field code and
+survives in only two code states, Connecticut and Indiana. Such is the
+substance of our decision in Wallin v. Massachusetts Bonding &
+Ins. Co., supra.
+
+** Motion for Summary Judgment
+The summary judgment procedure authorizes a speaking motion for the
+purpose of such motion only. Rule of Pleading, Practice and Procedure
+19, 34A Wash.2d 81, *26 as amended, effective November 1, 1955.
+
+Defects not appearing upon the face of a pleading may not be raised by
+motion or demurrer but must be pleaded by answer or reply according to
+the circumstance. Affidavits in support of, or in opposition to, a
+plea in abatement are unauthorized.
+
+The summary judgment device may not be used to try a question of fact
+but is limited to those instances in which there is no genuine dispute
+of fact. Moore declares: ‘The function of the summary judgment is to
+avoid a useless trial; and a trial is not only not useless but
+absolutely necessary where there is a genuine issue as to any material
+fact. In ruling on a motion for summary judgment the court's function
+is to determine whether such a genuine issue exists, not to resolve
+any existing factual issues. * * *’ 6 Moore's Fed. Practice, 2d Ed.,
+210, § 56.15(1).
+
+See, also, Fountain v. Filson, 336 U.S. 681, 69 S.Ct. 754, 93
+L.Ed. 971; Associated Press v. United States, 326 U.S. 1, 65
+S.Ct. 1416, 89 L.Ed. 2013; Sartor v. Arkansas Natural Gas Corp., 321
+U.S. 620, 64 S.Ct. 724, 88 L.Ed. 967.

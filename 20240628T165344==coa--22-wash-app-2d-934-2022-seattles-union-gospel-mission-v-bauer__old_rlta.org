@@ -1,0 +1,256 @@
+#+title:      22 Wash App 2d 934 (2022) Seattles Union Gospel Mission v. Bauer
+#+date:       [2024-06-28 Fri 16:53]
+#+filetags:   :old:rlta:
+#+identifier: 20240628T165344
+
+
+Seattle’s Union Gospel Mission v. Bauer
+Court of Appeals of Washington, Division 1. | August 1, 2022 | 22 Wash.App.2d 934 | 514 P.3d 710
+
+PUBLISHED OPINION
+
+Seattle’s Union Gospel Mission v. Bauer, 22 Wn. App. 2d 934, 514 P.3d 710 (2022)
+
+                          22 Wash.App.2d 934
+             Court of Appeals of Washington, Division 1.
+
+SEATTLE’S UNION GOSPEL MISSION, a Washington nonprofit corporation, Respondent,
+                                  v.
+           Rebecca BAUER, a Washington Resident, Appellant.
+                            No. 83185-2-I
+                                  |
+                         Filed August 1, 2022
+
+* Brief
+
+** Procedure
+Trial court held that the plaintiff could not proceed with an eviction during the COVID-19 pandemic moratorium and dismissed the unlawful detainer action.
+The Defendant requested an OLD, but the trial court denied the request.
+The Defendant appealed.
+CofA overruled the TC and ordered the OLD.
+
+** Facts
+- Plaintiff operated a transitional housing program and sought to evict a tenant for holding over during the COVID-19 pandemic moratorium.
+- Defendant denied that plaintiff had the right to evict because of the moratorium.
+- Plaintiff argued that it was exempt from the RLTA and could proceed with the eviction.
+- Court found that the plaintiff was exempt from the RLTA but could not evict, and dismissed the case.
+- Defendant then requested an OLD to prevent tenant screening services from report the unlawful detainer action..
+- Court disagreed and denied the request for the OLD.
+- The Defendant appealed.
+- CofA ruled that the court had the equitable power to order an OLD, and should have.
+
+** Issues
+1. Did the TC have authority to enter an OLD?
+2. If the TC had authority, should it have entered an OLD?
+
+** Rules
+- RCW 59.18.367(1).  Under this rule, the TC has discretion to enter an OLD (the word "may" denotes the trial court holds discretion).
+- “If the trial court’s ruling is based on an erroneous view of the law or involves application of an incorrect legal analysis it necessarily abuses its discretion.” /Dix v. ICT Grp., Inc., 160 Wash.2d 826, 833 (2007).
+- “Where there is a substantive legal right ... and the procedure prescribed by statute for the enforcement of such right is inadequate or the ordinary and usual legal remedies are unavailing, it is the province of equity to afford proper relief, unless the statutory remedy is exclusive.” Rummens v. Guar. Tr. Co., 199 Wash. 337, 347, 92 P.2d 228 (1939).
+
+** Analysis
+Public policy considerations and impact on tenants means that ordinarily a court should exercise its discretion to enter an OLD where the plaintiff's case was without basis in law or fact.
+
+The CofA stated that the issue was not whether the Plaintiff was or was not subject to the RLTA, but rather whether the TC had authority to enter the OLD and then whether it should have based upon policy considerations (the Plaintiff's lack of legal ground to bring the action, and the negative impact of the eviction case on the Defendant).
+
+The TC has equitable authority to enter an OLD, and it ordinarily should when the Plaintiff's case is without factual or legal basis.
+
+In this case the Plaintiff did not have the right to bring the action, and the Defendant had the right to not be evicted.  Even though there were underlying facts to show that the Defendant may not have been a model tenant, nevertheless under the facts of the case, those facts were irrelevant.  The TC should have granted the OLD to the Defendant.
+
+The CofA found that the case was "improperly brought", the TC had equitable authority to enter an OLD, and it should have.
+
+In this case the eviction moratorium brought a remedy of no eviction, but did not address the issue of an OLD.  Therefore, the TC has equitable authority and the obligation to fulfil the public policy of protecting tenants.  The remedy of allowing an OLD is designed to limit the negative impact of the wrongly-brought eviction case against the tenant.
+
+"Therefore, the court should have exercised its equitable power to prohibit tenant screening services from using the unlawful detainer action against Bauer." 
+
+** Conclusion
+
+
+* Case
+
+Seattle’s Union Gospel Mission v. Bauer, 22 Wn. App. 2d 934, 514 P.3d 710 (2022)
+
+** Synopsis
+Background: Landlord, which operated transitional housing program, filed unlawful detainer action seeking to evict tenant for allegedly holding over in her possession of apartment. The Superior Court, King County, John R. Ruhl, J., 2021 WL 5430138, granted summary judgment for tenant on ground that city’s eviction moratorium during COVID-19 pandemic suspended landlord’s right to evict her, but denied tenant’s request for order of limited dissemination, which would have prohibited tenant screening services from reporting the unlawful detainer action. Tenant appealed.
+ 
+Holdings: The Court of Appeals, Smith, Acting C.J., held that:
+ 
+[1] tenant’s request for order of limited dissemination was not moot, and
+ 
+[2] order of limited dissemination was authorized under trial court’s equitable powers.
+ 
+Reversed in part and remanded.
+ 
+Procedural Posture(s): On Appeal; Other.
+
+** West Headnotes (6)
+
+[1]
+
+Landlord and TenantJudgment and enforcement thereof
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1804Judgment and enforcement thereof
+
+
+Tenant’s request in unlawful detainer action for order of limited dissemination to prevent tenant screening services from using existence of unlawful detainer action in report about tenant was not rendered moot by dismissal of landlord’s unlawful detainer action or by landlord’s alleged lack of intent to disseminate information about case to tenant screening services; fact of dismissal did not render relief ineffective, as order would prevent existence of action from being used in tenant screening report, order could have serious consequences on tenant’s future ability to access housing, and a screening service’s ability to include unlawful detainer action in report depended on whether court entered order, not on landlord’s sharing of information. Wash. Rev. Code Ann. § 59.18.367(3).
+1 Case that cites this headnote
+
+
+
+[2]
+
+ActionMoot, hypothetical or abstract questions
+
+
+13Action
+13IGrounds and Conditions Precedent
+13k6Moot, hypothetical or abstract questions
+
+
+A case becomes moot when a court can no longer provide effective relief.
+
+
+
+
+[3]
+
+Landlord and TenantJudgment and enforcement thereof
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1804Judgment and enforcement thereof
+
+
+Order of limited dissemination to prevent tenant screening services from using existence of improperly brought unlawful detainer action in report about tenant was authorized under trial court’s equitable powers, regardless of whether Residential Landlord Tenant Act applied, in action by landlord against alleged holdover tenant; city’s emergency order prohibited residential landlords from initiating unlawful detainer action except for certain health and safety reasons during COVID-19 pandemic, landlord initiated action anyway, emergency order provided remedy of establishing defense to any eviction actions and allowed court to grant continuance to time after moratorium, and that remedy was not exclusive and appeared inadequate to protect tenant from impact that unlawful detainer action’s existence could have on her future housing search. Wash. Rev. Code Ann. § 59.18.367(1).
+1 Case that cites this headnote
+
+
+
+[4]
+
+Landlord and TenantReview
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1805Review
+
+
+Because the Residential Landlord Tenant Act (RLTA) provides that the trial court “may” enter an order for limited dissemination of an unlawful detainer action in a report by a tenant screening service, the appellate court reviews the trial court’s decision whether to do so for abuse of discretion. Wash. Rev. Code Ann. § 59.18.367(1).
+2 Cases that cite this headnote
+
+
+
+[5]
+
+Landlord and TenantJudgment and enforcement thereof
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1804Judgment and enforcement thereof
+
+
+Given the public policy considerations and impact on tenants, ordinarily a trial court should exercise its discretion to enter an order for limited dissemination of an unlawful detainer action in a report by a tenant screening service where the plaintiff’s unlawful detainer case was without basis in fact or law. Wash. Rev. Code Ann. § 59.18.367(1).
+
+
+
+
+[6]
+
+EquityExistence of remedy at law and effect in general
+
+
+150Equity
+150IJurisdiction, Principles, and Maxims
+150I(B)Remedy at Law and Multiplicity of Suits
+150k43Existence of remedy at law and effect in general
+
+
+Where there is a substantive legal right and the procedure prescribed by statute for enforcement of such right is inadequate or the ordinary and usual legal remedies are unavailing, it is the province of equity to afford proper relief, unless the statutory remedy is exclusive.
+
+
+
+
+**711 Honorable John R. Ruhl, Judge
+
+** Attorneys and Law Firms
+Edmund Robert Witter, Attorney at Law, Yuan Ting, King County Bar Association, Sebastian Rand Stockpyle, Dashiell Milliman-Jarvis, Housing Justice Project, 1200 5th Ave., Ste. 700, Seattle, WA, 98101-1116, for Appellant.
+Nathaniel Lee Taylor, Abigail Jane St. Hilaire, Ellis Li & McKinstry PLLC, 1700 Seventh Ave., Ste. 1810, Seattle, WA, 98101, for Respondent.
+
+
+
+* PUBLISHED OPINION
+Smith, A.C.J.
+
+*936 ¶ 1 After the court dismissed Seattle’s Union Gospel Mission’s unlawful detainer action against Rebecca Bauer, it denied Bauer’s request for an order of limited dissemination, which would have prohibited tenant screening agencies from referencing the unlawful detainer action in reports about Bauer. Because the court believed it did not have authority to enter the order and we conclude that it did, we reverse in part and remand for the court to enter an order of limited dissemination.
+ 
+
+** FACTS
+¶ 2 In June 2021, Seattle’s Union Gospel Mission (UGM) filed a complaint for unlawful detainer seeking to evict Rebecca Bauer from its transitional housing program, Re:novo. UGM made several allegations that Bauer had engaged in unsafe and abusive conduct but ultimately based its action on Bauer’s failure to vacate the premises after the expiration of her term of residency. Bauer moved for summary judgment, contending that UGM failed to comply with procedural requirements of the Residential Landlord-Tenant Act of 1973 (RLTA), ch. 59.18 RCW, and that the Washington State and City of Seattle eviction moratoriums in response to the COVID-191 pandemic barred her eviction. She also asked the court to **712 enter an order limiting the dissemination of the unlawful detainer action under RCW 59.18.367. UGM responded to the motion, contending that the moratoria did not apply and that it was exempt from the requirements of the RLTA because Re:novo “is an intense religious program of which housing is only an incidental part.”
+ 
+1
+
+COVID-19 is the World Health Organization’s official name for “coronavirus disease 2019,” a severe, highly contagious respiratory illness that quickly spread throughout the world after being discovered in December 2019.
+
+
+*937 ¶ 3 The court granted summary judgment for Bauer on the grounds that Seattle’s eviction moratorium suspended UGM’s right to evict Bauer. However, it denied her request for an order of limited dissemination, concluding that Re:novo was exempt from the RLTA and that therefore, because the limited dissemination statute is part of the RLTA, Bauer was not entitled to such an order.
+ 
+¶ 4 Bauer appeals.
+ 
+
+** ANALYSIS
+¶ 5 Bauer contends that the court erred by concluding that Re:novo was exempt from the RLTA and that it therefore abused its discretion by denying an order for limited dissemination on those grounds. UGM contends that the issue is moot. We conclude that the issue is not moot. We also conclude, without reaching the issue of whether Re:novo is exempt from the RLTA, that the court abused its discretion when it failed to enter an order of limited dissemination.
+ 
+
+*** Mootness
+[1] [2]¶ 6 “A case becomes moot when a court can no longer provide effective relief.” Gronquist v. Dep’t of Corr., 196 Wash.2d 564, 569, 475 P.3d 497 (2020). Here, Bauer seeks an order for limited dissemination, which prevents tenant screening agencies from using the existence of the unlawful detainer action in a report about the tenant. RCW 59.18.367(3). But the fact that the unlawful detainer action was dismissed does not render the relief ineffective—orders for limited dissemination prevent the existence of the action, not just orders actually terminating tenancy, from being used in tenant screening reports. Renters may be “disqualified from the rental market almost entirely due to past eviction lawsuits” appearing on screening reports. Eric Dunn & Marina Grabchuk, Background Checks and Social Effects: Contemporary Residential Tenant-Screening Problems  *938 in Washington State, 9 SEATTLE J. SOC. JUST. 319, 320 (2010). This issue is therefore not “purely academic,” contrary to UGM’s contention; the relief Bauer seeks may have serious consequences on her future ability to access housing. Ctr. for Biological Diversity v. Dep’t of Fish & Wildlife, 14 Wash. App. 2d 945, 985, 474 P.3d 1107 (2020).
+ 
+¶ 7 Our analysis is not changed by the fact that at the hearing, “UGM’s counsel stated that, so far as he is aware, UGM has no current intention of disseminating information about this case to tenant screening service providers.” A tenant screening service’s ability to include an unlawful detainer action in its report does not depend on whether a landlord shares that information with the screening service, but on whether the court enters an order limiting dissemination of the action. See DUNN & GRABCHUK, supra, at 326 (“Tenant-screening reports also usually contain records concerning various forms of civil litigation, most of which are obtained directly from courts or court-maintained indices.... Most important are unlawful detainer (i.e., eviction) lawsuits.”). We therefore address Bauer’s appeal.
+ 
+
+*** Order for Limited Dissemination
+[3]¶ 8 Bauer contends that the court abused its discretion by declining to enter an order for limited dissemination of the unlawful detainer action. We agree.
+ 
+[4] [5]¶ 9 RCW 59.18.367(1) provides that “[a] court may order an unlawful detainer action to be of limited dissemination ... if ... [t]he court finds that the plaintiff’s case was sufficiently without basis in fact or law.” Because the court “may” enter an order for limited dissemination, we review the court’s decision whether to do so for abuse of discretion.2 **713 *939 Mainline Rock & Ballast, Inc. v. Barnes, Inc., 8 Wash. App. 2d 621, 625, 439 P.3d 676 (2019) (“The word ‘may’ denotes the trial court holds discretion.”). “A trial court abuses its discretion if its decision is manifestly unreasonable or based on untenable grounds or untenable reasons.” Id. at 626, 439 P.3d 676.
+ 
+2
+
+Bauer contends that rather than being discretionary, RCW 59.18.367 makes an order for limited dissemination mandatory when the unlawful detainer has no basis in fact or law. The statute provides that the court may enter the order if “(a) The court finds that the plaintiff’s case was sufficiently without basis in fact or law; (b) the tenancy was reinstated under RCW 59.18.410 or other law; or (c) other good cause exists for limiting dissemination of the unlawful detainer action.” RCW 59.18.367(1). Bauer contends this third open-ended basis indicates that the first two grounds make a limited dissemination order mandatory, but this contradicts the plain language of the statute, indicating that the court “may” enter the order for any of the listed reasons. *However, we agree with Bauer that given the public policy considerations and impact on tenants, ordinarily a court should exercise its discretion to enter an order for limited dissemination where the plaintiff’s case was without basis in fact or law.*
+
+
+¶ 10 In this case, the court stated that it “agree[d] with the defense request for an order limiting dissemination” but had to “give some thought” to the request because it had concluded that Re:novo was exempt from the RLTA. UGM did not object to entry of the order, and even offered that the court could “order – you know, limit dissemination without us conceding or the Court having to decide that [the RLTA] applies.” But ultimately, the court decided that, because “RCW 59.18.367 is part of the RLTA” and Re:novo was exempt from the RLTA, it would not enter a limited dissemination order. It therefore appears the court based its decision not to enter the order on its conclusion that it did not have authority to do so. For the reasons explained below, this conclusion is incorrect. We therefore conclude that the court abused its discretion.3  *940 Dix v. ICT Grp., Inc., 160 Wash.2d 826, 833, 161 P.3d 1016 (2007) (“If the trial court’s ruling is based on an erroneous view of the law or involves application of an incorrect legal analysis it necessarily abuses its discretion.”).
+ 
+3
+
+Bauer and UGM focus their briefing on the question of whether Re:novo is exempt from the RLTA under RCW 59.18.040(1). Because we conclude that the court had authority to enter the order regardless of whether the RLTA applies, we need not reach this issue. We note, however, that the legislature’s addition to the RLTA of provisions regarding transitional housing indicates that the provision of supportive and stabilizing services is not sufficient to establish that a housing program is exempt from the RLTA. See RCW 59.18.030(38) (defining “Transitional housing”), .650(2)(j) (enumerating a good cause reason to evict a tenant from transitional housing). We also note that there appear to be significant factual disputes in this case as to the extent of the religious nature of Re:novo housing, making it difficult to discern whether “residence is merely incidental to ... the provision of ... religious ... services.” RCW 59.18.040(1).
+
+
+¶ 11 Here, the court’s dismissal of the unlawful detainer action was based on its conclusion that Seattle’s eviction moratorium suspended UGM’s right to evict Bauer. UGM brought its unlawful detainer action based only on its allegation that Bauer was holding over in her possession of the apartment, but the eviction moratorium provided that “[a] residential landlord shall not initiate an unlawful detainer action ... unless the unlawful detainer action ... is due to actions by the tenant constituting an imminent threat to the health or safety of neighbors, the landlord, or the tenant’s or landlord’s household members.” Seattle Resolution 31938, Ex. B (Mar. 16, 2020), http://clerk.seattle.gov/~archives/Resolutions/Resn_31938.pdf [https://perma.cc/R8VN-AY9P]; City of Seattle, Office of the Mayor, Executive Order 2020-06, at 4 (June 3, 2020) (extending moratorium to Aug. 1, 2020), https://durkan.seattle.gov/wp-content/uploads/sites/9/2020/06/ Executive-Order-2020-06-Continued-Extension-of-COVID-19-Closures-and-Relief-Policies-signed.pdf [https://perma.cc/W36J-P64T]. *UGM did not have the right to bring that action before the moratorium expired, and conversely, Bauer had the right to not have that action brought against her, where it could then appear on tenant screening reports and hinder her ability to find housing.*
+ 
+[6]¶ 12 In such a case, the court had equitable authority to limit the dissemination of the improperly brought action. “Where there is a substantive legal right ... and the procedure prescribed by statute for the enforcement of such right is inadequate or the ordinary and usual legal remedies are unavailing, it is the province of equity to afford proper relief, unless the statutory remedy is exclusive.” Rummens v. Guar. Tr. Co., 199 Wash. 337, 347, 92 P.2d 228 (1939). Here, the emergency order prohibited residential landlords **714 from initiating an unlawful detainer action except for certain *941 reasons, and UGM initiated the action anyway. The emergency order provided a remedy of establishing a defense to any eviction actions, and noted that the court could grant a continuance for any eviction action to a time after the moratorium. Seattle Resolution 31938, Ex. B, § 1(c). This remedy does not appear to be exclusive and appears inadequate to protect Bauer from the impact that the unlawful detainer action’s existence could have on her future housing search. Therefore, the court should have exercised its equitable power to prohibit tenant screening services from using the unlawful detainer action against Bauer.
+ 
+¶ 13 We reverse in part and remand for the court to enter an order for limited dissemination.
+ 
+
+
+* Mann and Hazelrigg, JJ., concur.
+All Citations
+22 Wash.App.2d 934, 514 P.3d 710
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+

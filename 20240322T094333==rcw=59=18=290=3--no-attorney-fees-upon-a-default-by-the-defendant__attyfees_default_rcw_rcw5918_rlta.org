@@ -1,0 +1,118 @@
+#+title:      No Attorney Fees Upon a Default by the Defendant
+#+date:       [2024-03-22 Fri 09:43]
+#+filetags:   :attyfees:default:rcw:rcw5918:rlta:
+#+identifier: 20240322T094333
+
+* RCW 59.18.290
+Removal or exclusion of tenant from premises—Holding over or excluding landlord from premises after termination date—Attorneys' fees.
+
+** 3. [Attorney Fees Allowed in a Judgment; When Disallowed]
+Where the court has entered a judgment in favor of the landlord restoring possession of the property to the landlord, the court may award reasonable attorneys' fees to the landlord; however, the court shall not award attorneys' fees in the following instances:
+
+*** (a) [No Attorney Fees When a Tenant has Failed to Respond]
+If the judgment for possession is entered after the tenant failed to respond to a pleading or other notice requiring a response authorized under this chapter; or
+
+*** (b) [The Greater of Two Months of Rent or $1200]
+If the total amount of rent awarded in the judgment for rent is equal to or less than two months of the tenant's monthly contract rent or one thousand two hundred dollars, whichever is greater.
+
+* Engrossed Substitute Senate Bill 6378 -- 2020 Chapter 315 Section 7
+
+** Section 7
+
+*** (3)
+
+**** (a)
+If the judgment for possession is entered after the tenant failed to (( +appear+ )) _respond to a pleading or other notice requiring a response authorized under this chapter_;
+
+* Engrossed Substitute Senate Bill 5600 -- 2019 Chapter 356 Section 10
+
+** Section 10
+
+*** (3)
+
+**** (a)
+If the judgment for possession is entered after the tenant failed to appear; or
+
+* Memorandum of Points and Authorities
+
+** The Court has no authority to grant attorney fees when the defendant has failed to respond to a pleading or notice requiring a response.
+
+While Washington's RLTA used to allow for an award of attorney fees after a tenant made an "appearane" in a case, the law changed in 2020, disallowing an award of fees unless the
+tenant "responds" to a pleading or notice.
+
+RCW 59.18.290(3)(a) currently reads as follows:
+
+#+BEGIN_QUOTE
+Where  the court  has  entered a  judgment in  favor  of the  landlord
+restoring possession  of the property  to the landlord, the  court may
+award reasonable attorneys'  fees to the landlord;  however, the court
+shall not award attorneys' fees in the following instances:
+
+(a) If the judgment for possession  is entered after the tenant failed
+to  respond  to  a  pleading  or other  notice  requiring  a  response
+authorized under this chapter; or
+#+END_QUOTE
+
+The plain reading of the statute prohibits an award of attorney fees when the tenant has failed to "respond" to a pleading or notice requiring a response.
+While some argue that an "appearance" constitutes a response, both the legislature's history of amending this statute and case law prove differently.
+
+*** The Legislature Allowed an Appearance in 2019 C 356 Sec 10 but Amended the language to require a response in 2020 C 315 Sec 7
+
+In 2019 the Legislature amended RCW 59.18.290(2), which allowed reasonable attorney's fees, by placing some restrictions on when attorney's fees could be awarded and when not.
+These restrictions were placed into new subsections (3) and (4).
+
+Subsection (3) allowed the court to award reasonable attorneys' fees to a plaintiff when the court entered a judgment restoring possession of the property to the landlord, except
+when the tenant failed to "appear" or if the total judgment was less than the greater of two months of rent or $1200.  Clearly, an appearance under this statute was enough to
+give the court discretion to enter an award of attorney fees.
+
+However, in 2020 C 315 Sec 7, made after less than one year from the prior amendment, the legislature amended RCW 59.18.290(3) to prohibit an award of attorney fees
+when the tenant failed to "respond" to a pleading or notice requiring a response.  See ATTACHMENT 1 (strikeout and underlying in original).  The word "appear" was stricken,
+and the phrase "respond to a pleading or other notice requiring a response" was substituted.  This clearly evidences an intention to allow a tenant to enter an appearance
+and simultaneously disallow the award of attorney fees unless the tenant also "responds" to a pleading, e.g., either files an answer creating a contested hearing,
+or answers orally at the hearing, also creating a contested hearing.
+
+* Entering an Appearance Pursuant to RCW 4.28.210 is accomplished by answer, motion, or notice of appearance
+
+RCW 4.28.210 says:
+
+#+BEGIN_QUOTE
+Appearance; what constitutes
+
+A defendant appears in an action when he or she answers, demurs, makes any application for an order therein, or gives the plaintiff written notice of his or her appearance.
+After appearance a defendant is entitled to notice of all subsequent proceedings;
+but when a defendant has not appeared, service of notice or papers in the ordinary proceedings in an action need not be made upon him or her.
+Every such appearance made in an action shall be deemed a general appearance, unless the defendant in making the same states that the same is a special appearance.
+#+END_QUOTE
+
+Clearly, this statute proves that there is a difference between "answering" and "giving notice of appearance."  The purpose of an appearance is to demand service of papers and
+further to prevent default.  See _Negash v. Sawyer_, 131 Wash.App. 822 (2006 and _Castellon v. Rodriguez_, 4 Wash.App.2d 8 (2018) (both discussed below).
+The purpose of answering is to raise issues for resolution by judicial action and further acts as an appearance.  But an appearance can be made without answering, meaning
+that they are different acts.
+
+When the legislature said in RCW 59.18.290(3) that an award of attorney fees could be made after the tenant "appeared", any one of the acts given in RCW 4.28.210 would suffice to give
+the court authority to enter attorney fees.  But when the legislature struck the word "appears" and substituted instead the phrase beginning "responds", it removed the separate act
+of giving notice from that authority.
+
+* Entering an appearance in the case does not constitute a response to a pleading or notice requiring a response
+
+Washington's case law precedent supports this interpretation of the difference between "appearing" and "responding".
+
+In _Negash v. Sawyer_, 131 Wash.App. 822 (2006), the defendant entered an appearance, and the plaintiff claimed that this was a "response".  Here, the plaintiff made the following argument:
+"However, she argues that the statutory limitation ceased to apply when Sawyer responded to the summons and complaint," thereby preventing a default judgment
+because, at the show cause hearing, he was “entitled to present his defenses and even obtain judgment against the landlord for his costs and attorney’s fees."
+All that the defendant had done was enter an appearance in the case, which was brought under the alternative service statute, RCW 59.18.0550.
+The appellate court responded that entering an appearance did not constitute a "response".  It said,
+"We view the writing to be nothing more than a pro se defendant’s notice of appearance designed to prevent entry of a default judgment.
+In light of that notice of appearance, Negash correctly set a show cause hearing pursuant to RCW 59.18.370."  In other words, the purpose of an appearance is to prevent
+a default, not place any issues into controversy.
+
+In _Castellon v. Rodriguez_, 4 Wash. App. 2d 8 (2018), the court ruled that an appearance in the court proceeding did not constitute the defendant making "a responsive pleading
+or motion."  In _Castellon_, the defendant made two court appearances and spoke with the judge through an interpreter.  Later, the plaintiff entered judgment against the defendant
+without notice to him.  The defendant filed a motion to vacate, and the plaintiff argued that the defendant could no longer assert defenses based upon his prior appearances.  The court
+ruled that the defendant had not waived any defenses by making the appearances, because such was not "responding" to the allegations of the complaint."  The judgment was
+vacated.
+
+* Summary
+
+If a tenant has appeared but has neither filed an answer nor answered orally at a hearing, such as an order-to-show-cause hearing, then the court has no authority to enter an award of
+attorney fees to the prevailing landlord.

@@ -1,0 +1,18 @@
+#+title:      Collection and Charge-Off Account Dispute Letters
+#+date:       [2024-07-03 Wed 15:55]
+#+filetags:   :collection:credit:debt:validation:
+#+identifier: 20240703T155534
+
+* Credit Info Center
+
+https://www.creditinfocenter.com/collection-account-dispute-letters/
+
+Collection and charge-off accounts usually require two different dispute methods.
+
+** Verification Dispute Method
+
+The first is the verification dispute method where you are disputing directly with the credit bureau to verify that the information about the account on your credit report is accurate. This dispute method utilizes your rights under the Fair Credit Reporting Act (FCRA) where your dispute is sent to the credit bureau first and they (supposedly) forward it along to the original creditor or collection agency for verification.
+
+** Validation
+
+The second dispute method is called validation, where you send the letter to a collection agency asking them for supporting documentation that validates and confirms they have the legal right to demand payment. This dispute method involves leveraging the protections of the Fair Debt Collection Practices Act to force the collection agency to provide documentation that the debt is valid. It’s one of the more aggressive techniques against the collection agency. It includes writing dispute letters to the collection agency and if the collection agency is nonresponsive, it requires the threat of filing a lawsuit. To get more information on this dispute method, read our article which discusses debt validation.

@@ -1,0 +1,128 @@
+#+title:      Types of Accounts
+#+date:       [2024-02-29 Thu 15:12]
+#+filetags:   :accounts:
+#+identifier: 20240229T151211
+
+* What are Accounts in the Law?
+
+** West Key Number System 9. Account
+
+*** 9I Right of Action and Defenses
+
+**** 9 Key 1-10 Right of Action to an Account
+**** 9 Key 4 Fiduciary Relationshp
+
+***** Equitable Action
+
+when the trial of an issue of fact shall require the examination of a long account on either side; this on the principle, of course, that the proceeding was formerly cognizable in chancery and not subject to trial as an action at law;
+- Lindley v. McGlauflin, 57 Wash. 581, 585, 107 P. 355, 357 (1910)
+
+***** Partnership or Other Fidiciary Relationship is Sufficient but not Necessary
+
+The appellant has devoted a large space in his brief to the discussion of the question whether he and the respondent were in fact partners, apparently on the theory that this relation must be found to exist before a court of equity can exercise jurisdiction of an accounting between them; but such is not the rule. Courts of equity sometimes assume jurisdiction over an accounting between parties when a fiduciary relation exists between them, when otherwise it would not; but it is nowhere held that a partnership relation must exist in order to give such jurisdiction. Where fiduciary relations exist between the parties, whether of partnership or some other manner, courts of equity have always asserted jurisdiction over an accounting between them (1 Enc. L. & P. 740); and here clearly there was such a fiduciary relation. But as we have before indicated, we do not think even a fiduciary relation necessary in all cases to give a court of equity jurisdiction. *586 If the action involves a long and complicated account, as it did in this instance, the court has jurisdiction to try it in that manner which will do justice between the parties, regardless of the character of the legal relationship between them.
+
+- Lindley v. McGlauflin, 57 Wash. 581, 585–86, 107 P. 355, 357 (1910)
+
+**** 9 Key 5 Mutual Accounts
+
+An account is not “mutual” where the items are all charges against one party and in favor of another, or are all on one side although made up of debits and credits, and in such case equity will not take jurisdiction unless some special equitable feature is present.
+
+- Gatudy v. Acme Const. Co., 196 Wash. 562, 83 P.2d 889 (1938)
+
+**** 9 Key 6 Complicated Transactions or Circumstances
+
+Where assignees of vendor's interest had raised possibility that disallowable charges had been added to the account, where there was testimony to the effect that vendor's assignees' figures as to amounts due did not coincide with those of vendee's assignee, where it appeared that vendor's assignees' records had been casually kept, where there had been several assignments of both vendor's and vendee's interests in the real estate contract and where vendor's assignees had repeatedly refused vendee's assignee's requests for accounting to determine the amount due, trial court acted properly in requiring vendor's assignees to render an accounting of what vendee's assignee owed upon the contract.
+1
+
+- Corbin v. Madison, 12 Wn. App. 318, 529 P.2d 1145 (1974)
+
+
+If cause of action stated in complaint is strictly legal in its nature, that matters in the nature of an accounting may incidentally be involved in connection with the computation of damages does not change an action at law into an equitable accounting.
+1
+
+- Watkins v. Siler Logging Co., 9 Wn.2d 703, 116 P.2d 315 (1941)
+
+
+Pleadings examined and held to involve numerous and complicated items of mutual demand, so as to raise the question of an accounting cognizable in equity.
+
+- Garey v. City of Pasco, 89 Wash. 382, 154 P. 433 (1916)
+
+**** 9 Key 11 Action of Account
+**** 9 Key 12 Equitable Jurisdiction
+
+Generally, to give equity jurisdiction on the ground of complicated accounts, the complication must be substantial and so great that the matter could not properly and satisfactorily be unraveled and adjusted by a jury in a law action, and, unless such complexity appears, the mere fact that the case involves a long account or numerous items or that proof would be difficult is insufficient to warrant the interposition of equity, especially where there are no mutual items of accounts or other grounds for equitable jurisdiction.
+
+- Gatudy v. Acme Const. Co., 196 Wash. 562, 83 P.2d 889 (1938)
+
+
+An action for an accounting is one of equitable cognizance.
+
+- Garey v. City of Pasco, 89 Wash. 382, 154 P. 433 (1916)
+
+** West Key Number System 10. Open Account
+
+An “open account” is one in which some item of contract is not settled by the parties.
+
+- Gheen v. Constr. Equip. Co., 49 Wn.2d 140, 298 P.2d 852 (1956)
+
+
+The merchandise was sold at a specific price with a definite time for payment. The account was not unsettled or subject to future adjustment. It was not an open account as urged by defendant.
+We reach the same conclusion whether we consider it a claim for a liquidated amount, or an unliquidated amount ascertainable and determinable by mere computation. In either case, interest is allowed from the date payment *144 becomes due. It is a chose in action which bears interest at the statutory rate. RCW 19.52.010.
+
+- Gheen v. Constr. Equip. Co., 49 Wn.2d 140, 143–44, 298 P.2d 852, 855 (1956)
+
+
+‘The expression ‘outstanding and open account’ has a well-defined and well-understood meaning. In legal and commercial transactions it is an unsettled debt arising from items of work and labor, goods sold and delivered, and other open transactions, not reduced to writing, and subject to future settlement and adjustment. It is usually disclosed by the account books of the owner of the demand, and does not include express contracts or obligations which have been reduced in writing, such as bonds, bills of exchange, or promissory notes.'
+
+- Costello v. Bank of Am. Nat. Tr. & Sav. Ass'n, 246 F.2d 807, 812 (9th Cir. 1957)
+
+
+a requisite of an open book account is that it be treated as such by the transacting parties.
+
+- Costello v. Bank of Am. Nat. Tr. & Sav. Ass'n, 246 F.2d 807, 812 (9th Cir. 1957)
+
+
+We can only assume, therefore, that this is an ordinary open account as generally defined in the commercial world.3 In other words, it is an unsettled claim or demand made by the creditor which appears in his account books. It is not evidenced by any written document whereby the United States, the debtor, has promised to pay this claim at a certain time in the future; nor is there any binding acknowledgement by the United States of the correctness of the claim. Conceivably the amount claimed to be due is incorrect or is subject to certain defenses or counterclaims by the United States, necessitating further settlement or adjustment. Such a unilateral, unliquidated creditor's claim,
+
+- Smith v. Davis, 323 U.S. 111, 114, 65 S. Ct. 157, 159, 89 L. Ed. 107 (1944)
+
+
+Defendant argues that, since there was no open dispute between the parties until the spring of 1963, the account became an account stated for all charges made prior to 1963. With this contention we do not agree. No evidence was presented at trial that plaintiffs agreed to any of the charges made prior to 1963. The language in Shaw v. Lobe, 58 Wash. 219, 221, 108 P. 450, 451, 29 L.R.A.,N.S., 333 (1910), is quite apropos:
+The mere rendition of an account by one party to another does not show an account stated. There must be some form of assent to the account—that is, a Definite acknowledgment of an indebtedness in a Certain sum. * * * True assent may be implied from the circumstances and acts of the parties, but it must appear in some form. (Italics ours.)
+
+- Card v. W. Farmers Ass'n, 72 Wn.2d 45, 48, 431 P.2d 206, 208 (1967)
+
+
+In short, there are no facts in the record on which to base any *49 implied consent to any indebtedness in a certain sum. A running account will not be elevated to the status of an account stated in the absence of some assent, either expressed or implied, to an indebtedness in a sum certain.
+
+- Card v. W. Farmers Ass'n, 72 Wn.2d 45, 48–49, 431 P.2d 206, 208 (196)7
+
+
+Even assuming that there is some amount owing from plaintiffs to defendant on the running account, the burden remains on the claimant (defendant) to prove by competent evidence the amount of such indebtedness with reasonable accuracy. Fidelity & Deposit Co. of Maryland v. Standard Oil Co., 101 Ind.App. 301, 199 N.E. 169 (1936). The record here shows that, although Mr. Card had received monthly statements from defendants, these statements did not reflect such matters as reserves, patronage dividends, etc., and that, although the statements rendered to Mr. Card were, by his admission, ‘substantially correct,’ he would not admit to a certain (liquidated) balance because of claims he was making as to patronage dividends, reserve accounts and the like.
+
+- Card v. W. Farmers Ass'n, 72 Wn.2d 45, 49, 431 P.2d 206, 208 (1967)
+
+** West Key Number System 10. Verified Account
+** West Key Number System 10. Action on Account Key 16 Book Account or Book Debt
+
+An open book account is defined in Cal.Code Civ.Proc. § 337a as
+a detailed statement which constitutes the principal record of one or more transactions between a debtor and a creditor arising out of a contract or some fiduciary relation, and shows the debits and credits in connection therewith, and against whom and in favor of whom entries are made, is entered in the regular course of business as conducted by such creditor of fiduciary, and is ... on a card or cards of a permanent character, or is kept in any other reasonably permanent form and manner.
+
+- In re Roberts Farms Inc., 980 F.2d 1248, 1252 (9th Cir. 1992)
+
+
+The term ‘open book account’ is not defined in the statute. It is defined in 1 Ruling Case Law 207 as follows:
+‘The expression ‘outstanding and open account’ has a well-defined and well-understood meaning. In legal and commercial transactions it is an unsettled debt arising from items of work and labor, goods sold and delivered, and other open transactions, not reduced to writing, and subject to future settlement and adjustment. It is usually disclosed by the account books of the owner of the demand, and does not include express contracts or obligations which have been reduced in writing, such as bonds, bills of exchange, or promissory notes.'
+
+- Costello v. Bank of Am. Nat. Tr. & Sav. Ass'n, 246 F.2d 807, 812 (9th Cir. 1957)
+
+** West Key Number System 11. Account Stated
+
+To constitute an account stated, there must be a mutual agreement between the parties as to the allowance of their respective claims and as to the balance struck upon final adjustment of the whole account.
+
+- Shaw v. Lobe, 58 Wash. 219, 108 P. 450 (1910)
+
+
+An “account stated” is a manifestation of assent by debtor and creditor to a stated sum as an accurate computation of an amount due the creditor.
+
+- Spradlin Rock Products, Inc. v. Pub. Util. Dist. No. 1 of Grays Harbor Cnty., 164 Wn. App. 641, 266 P.3d 229 (2011)

@@ -1,0 +1,54 @@
+#+title:      CR 54 Judgments and Costs
+#+date:       [2024-02-03 Sat 11:29]
+#+filetags:   :cr:rtc:
+#+identifier: 20240203T112922
+
+* CR 54 JUDGMENTS AND COSTS
+:PROPERTIES:
+:CUSTOM_ID: h:E8189C68-CC9F-4671-927E-6FA95D74DF3C
+:END:
+
+- (a) *Definitions*.
+
+  - (1) /Judgment/.
+
+    A judgment is the final determination of the rights of the parties
+    in the  action and  includes any  decree and  order from  which an
+    appeal lies.  A judgment  shall be  in writing  and signed  by the
+    judge and filed forthwith as provided in rule 58.
+
+  - (2) /Order/.
+
+    Every direction of  a court or judge, made or  entered in writing,
+    not included in a judgment, is denominated an order.
+
+- (b) *Judgment Upon Multiple Claims or Involving Multiple Parties*
+
+- (c) *Demand for Judgment*.
+
+- (d) *Costs, Disbursements, Attorney's Fees, and Expenses*
+
+  - (1) /Costs and Disbursements/.
+
+    Costs and disbursements shall be fixed and allowed as provided in
+    RCW 4.84 or by any other applicable statute. If the party to whom
+    costs are awarded does not file a cost bill or an affidavit
+    detailing disbursements within 10 days after the entry of the
+    judgment, the clerk shall tax costs and disbursements pursuant to
+    CR 78(e).
+
+  - (2) /Attorneys' Fees and Expenses/.
+
+- (e) *Preparation of Order or Judgment*.
+
+- (f) *Presentation*
+
+  - (1) /Time/.
+
+  - (2) /Notice of Presentation/.
+
+    - (A) Emergency.
+
+    - (B) Approval.
+
+    - (C) After Verdict.

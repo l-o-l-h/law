@@ -1,0 +1,15 @@
+#+title:      OLD
+#+date:       [2024-04-17 Wed 14:48]
+#+filetags:   :old:
+#+identifier: 20240417T144801
+
+* TODO OLD to discuss
+SCHEDULED: <2024-04-22 Mon 09:00>
+:LOGBOOK:
+- State "TODO"       from              [2024-04-17 Wed 15:48] \\
+  Review these cases.
+:END:
+
+Hous. Auth. of Grant Cnty. v. Parker, 535 P.3d 516, No. 39089-6-III (Wash. Ct. App. September 21, 2023).
+Randy Reynolds & Associates v. Harmon 193 Wash.2d 143, 162 (2019) (internal citations omitted).
+Seattle's Union Gospel Mission v. Bauer, 22 Wash. App. 2d 934, 514 P.3d 710 (2022).

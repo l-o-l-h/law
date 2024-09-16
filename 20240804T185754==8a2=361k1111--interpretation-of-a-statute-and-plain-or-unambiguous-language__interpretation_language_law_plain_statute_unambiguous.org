@@ -1,0 +1,34 @@
+#+title:      Interpretation of a Statute and Plain or Unambiguous Language
+#+date:       [2024-08-04 Sun 18:57]
+#+filetags:   :interpretation:language:law:plain:statute:unambiguous:
+#+identifier: 20240804T185754
+
+* Statutes 361k1111 Plain language; plain, ordinary, common, or literal meaning
+
+- 361 Statutes
+  - 361III Construction
+    - 361III(C) Clarity and Ambiguity; Multiple Meanings
+      - 361k1107 Absence of Ambiguity; Application of Clear or Unambiguous Statute or Language
+        - 361k1111 Plain language; plain, ordinary, common, or literal meaning
+
+
+ If statute's provision has plain meaning or is unambiguous, statutory interpretation inquiry ends there.
+
+ Where a statute is unambiguous, its words must be given their plain
+ meaning and it will be presumed that the legislature's intent has
+ been clearly expressed.
+ - _Princeton Prop. Mgmt., Inc. v. Allen_, 550 P.3d 56 (Wash. Ct. App. 2024)
+
+
+* Statutes 361k1368 Plain language; plain, ordinary, common, or literal meaning
+
+- 361 STATUTES 22,102
+  - 361III Construction 15,573
+    - 361III(M) Presumptions and Inferences as to Construction 1,341
+      - 361k1366 Language 328
+        - 361k1368 Plain language; plain, ordinary, common, or literal meaning 87
+
+
+Where a statute is unambiguous, its words must be given their plain
+meaning and it will be presumed that the legislature's intent has been
+clearly expressed.

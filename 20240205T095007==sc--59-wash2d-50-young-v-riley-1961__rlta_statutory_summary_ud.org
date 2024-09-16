@@ -1,0 +1,261 @@
+#+title:      59 Wash.2d 50 Young v. Riley (1961)
+#+date:       [2024-02-05 Mon 09:50]
+#+filetags:   :rlta:statutory:summary:ud:
+#+identifier: 20240205T095007
+
+* BRIEF
+
+Court sits in unlawful detainer actions as special statutory tribunal to decide summarily issues authorized by statute and not as court of general jurisdiction with power to hear and determine other issues. RCWA 59.12.010 et seq.
+12 Cases that cite this headnote
+
+* CASE
+
+Young v. Riley
+Supreme Court of Washington, Department 1. | November 2, 1961 | 59 Wash.2d 50 | 365 P.2d 769
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+washington Citation:
+
+Young v. Riley, 59 Wn.2d 50, 365 P.2d 769 (1961)
+
+All Citations:
+
+59 Wash.2d 50, 365 P.2d 769
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 5, 2024 at 11:40 AM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+59 Wash.2d 50
+Supreme Court of Washington, Department 1.
+George YOUNG and Marta Young, his wife, Appellants,
+v.
+Maude RILEY (alias Maude Desmond), William H. Desmond and James Desmond, Respondents.
+No. 35948.
+|
+Nov. 2, 1961.
+Synopsis
+Landlords brought an action against a tenant for unlawful detainer, and the tenant claimed a set-off against rent due the landlords and sought a declaration of rights under a purported written lease. The Superior Court, King County, James W. Hodson, J., rendered a judgment adverse to the landlords, and they appealed. The Supreme Court, Foster, J., held that a tenant may not assert a set-off or counterclaim in an unlawful detainer action, and that the tenant was guilty of unlawful detainer.
+
+Judgment reversed and cause remanded with instructions.
+
+
+
+West Headnotes (7)
+
+
+[1]
+
+Landlord and TenantStatutory provisions
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1782Statutory provisions
+(Formerly 233k289)
+
+
+Purpose of statutory action for unlawful detainer is to preserve the peace. RCWA 59.12.010 et seq.
+3 Cases that cite this headnote
+
+
+
+[2]
+
+Landlord and TenantGrounds of action
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1786Grounds of action
+(Formerly 233k290(2))
+
+
+Statute dealing with action for unlawful detainer affords summary remedy for obtaining possession of property withheld by tenants who fail to pay rent within three days after service of statutory notice. RCWA 59.12.010 et seq.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+Landlord and TenantJurisdiction
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1792Jurisdiction
+(Formerly 233k291(.5), 233k291)
+
+
+Court sits in unlawful detainer actions as special statutory tribunal to decide summarily issues authorized by statute and not as court of general jurisdiction with power to hear and determine other issues. RCWA 59.12.010 et seq.
+12 Cases that cite this headnote
+
+
+
+[4]
+
+Landlord and TenantSet-off and counterclaim
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1789Set-off and counterclaim
+(Formerly 233k290(5))
+
+
+Tenant may not assert set-off or counterclaim in unlawful detainer action. RCWA 59.12.010 et seq.
+9 Cases that cite this headnote
+
+
+
+[5]
+
+Landlord and TenantDefenses and grounds of opposition in general
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1787Defenses and grounds of opposition in general
+(Formerly 233k290(3))
+
+
+Deposits of rent money without interest due in registry of court by tenant were not defense to unlawful detainer action. RCWA 59.12.010 et seq.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+Landlord and TenantDefenses and grounds of opposition in general
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1787Defenses and grounds of opposition in general
+(Formerly 233k290(3))
+
+
+Tenant was guilty of unlawful detainer, where tenant was served with statutory notice to pay rent or to vacate leased premises within three days, and she did neither, and her attorney wrote landlord’s attorney that rent would not be paid and would be retained by tenant to cover damage allegedly sustained by tenant because disturbed by occupancy of portion of the leased premises by one of landlords and her minor daughter. RCWA 59.12.010 et seq., 59.12.030(3), 59.12.170.
+
+
+
+
+[7]
+
+Landlord and TenantWhat constitutes breach of covenant
+
+
+233Landlord and Tenant
+233IVParticular Kinds of Tenancies and Attributes Thereof
+233IV(B)Assignment and Subletting
+233IV(B)2Restrictions as to Assignment or Subletting
+233k731What constitutes breach of covenant
+(Formerly 233k76(2))
+
+
+Tenant did not sublet by permitting her adult sons, who paid her, to live in family home.
+
+
+
+
+Attorneys and Law Firms
+*51 **770 James J. Keesling, Seattle, for appellants.
+Charles S. Helm, Seattle, for respondents.
+Opinion
+
+FOSTER, Judge.
+
+George Young and Marta Young, husband and wife, the plaintiffs in an action for unlawful detainer, appeal from a judgment granting Maude Riley, alias Maude Desmond,1 a set-off against rent due plaintiffs, and declaring rights under a purported written lease.
+1
+
+Respondent Maude Riley’s two adult sons were joined as defendants but the disposition made of the case renders the claims as to them immaterial, so Maude Riley is referred to as the sole respondent.
+
+
+The plaintiffs’ complaint alleged that a portion of the home in question was orally rented to defendant Maude Riley for one hundred fifty dollars a month, and that there was a default in payment of rent after statutory notice to pay rent or to vacate. The prayer was for a judgment for double the amount of the rent due and for restoration of possession.
+The answer pleaded possession under a written lease executed by the appellant wife alone, that respondent’s possession had been disturbed by the occupancy of a portion of the home by appellant wife and minor daughter, and that, as a result, respondent had been damaged thirty-five hundred dollars. The prayer in the answer was for dismissal of the complaint and for a judgment of thirty-five hundred dollars.
+The court found there was no default in the payment of rent and decreed that the lease was binding upon the appellant husband and the appellant community, and that the respondent had a right to renew the lease for an additional five years and had a valid option to purchase the property. The judgment directs the payment of nine hundred dollars delinquent rent deposited in the court’s *52 registry to the appellants but, however, without interest. The basis for the denial of interest was that, while the appellants were entitled to interest, the respondent was entitled to offset her damage.
+**771 [1] The court’s oral decision, its findings of fact and conclusions of law, and its judgment completely ignore the purpose of the statutory action for unlawful detainer, which is to preserve the peace.2
+
+2
+
+For a history of the action, see 2 Taylor’s Landlord and Tenant (9th ed.) 412, § 786; 1 Harper and James, The Law of Torts, 255, 260, § 3.15; Prosser on Torts (2d ed.), 98, § 23.
+
+
+[2] [3] The statute affords a summary remedy for obtaining possession of property withheld by tenants who fail to pay rent within three days after the service of statutory notice. Phillips v. Port Townsend Lodge, No. 6, F. & A. M., 8 Wash. 529, 36 P. 476. The right and remedy alike are statutory, and the procedural remedy is an integral part of the right itself.3 RCW 59.12. In an unlawful detainer action, the court sits as a special statutory tribunal to summarily decide the issues authorized by statute and not as a court of general jurisdiction with the power to hear and determine other issues. State ex rel. Seaborn Shipyards Co. v. Superior Court, 102 Wash. 215, 172 P. 826. RCW 59.12.170 provides that, upon a finding of default in the payment of rent, ‘* * * the judgment shall also declare the forfeiture of the lease, agreement or tenancy.’
+
+3
+
+Hinton v. Hotchkiss, 65 Ariz. 110, 116, 174 P.2d 749.
+
+
+[4] It is settled by an unbroken line of decisions that in such proceeding the defendant may not assert a set-off or counterclaim. Woodward v. Blanchett, 36 Wash.2d 27, 216 P.2d 228; Chung v. Louie Fong Co., 130 Wash. 154, 226 P. 726; Phillips v. Port Townsend Lodge, No. 6, F. & A. M., supra; Ralph v. Lomer, 3 Wash. 401, 28 P. 760.
+
+Whether there was a default or not in the payment of rent after the service of the statutory notice was the primary question for determination. The court found that there was no default in the rent at the time of the service of the statutory notice.
+*53 However, the uncontroverted evidence is: The May rent, which was paid when due, was returned to the respondent who retained it. On June 17, 1960, the rent for May and June in the sum of three hundred dollars was unpaid. On that day, June 17, 1960, respondent Maude Riley was served with the statutory notice to pay rent or to vacate the premises within three days. She did neither. Instead, on June 21, 1960, her attorney wrote to the appellants’ attorney that the rent would not be paid but that it would be retained to cover the respondent’s claimed damage. Thus it is that, at the time of the service of the notice to pay rent or to vacate the premises within three days, and at the end of such period, the respondent was in default in the payment of rent.
+[5] On July 28, 1960, one month’s rent in the sum of one hundred fifty dollars was deposited in the registry of the court, at which time there was due rent for the which time there was due rent for the months of May, June and July in the total sum of four hundred fifty dollars. Thereafter, on September 22, 1960, an additional one hundred fifty dollars was deposited in the registry of the court, and on October 26, 1960, the sum of six hundred dollars was likewise deposited. No interest due appellants was included in any of the deposits. Such deposits were not a defense. Armstrong v. Burkett, 104 Wash. 476, 177 P. 333, 180 P. 873; Ralph v. Lomer, supra.
+
+[6] RCW 59.12.030(3)4 defines unlawful detainer as the retention or possession **772 after written notice requiring the payment of the rent or the surrender of possession within three days after the service of the notice. The respondent was, therefore, guilty of unlawful detainer.
+
+4
+
+‘A tenant of real property for a term less than life is guilty of unlawful detainer either:
+‘When he continues in possession in person or by subtenant after a default in the payment of rent, and after notice in writing requiring in the alternative the payment of the rent or the surrender of the detained premises, served (in manner in RCW 59.12.040 provided) in behalf of the person entitled to the rent upon the person owing it, has remained uncomplied with for the period of three days after service thereof. The notice may be served at any time after the rent becomes due;’ RCW 59.12.030(3).
+
+
+*54 The appellants are entitled to the relief authorized by the following portion of RCW 59.12.170:
+‘If upon the trial the verdict of the jury or, if the case be tried without a jury, the finding of the court be in favor of the plaintiff and against the defendant, judgment shall be entered for the restitution of the premises; and if the proceeding be for unlawful detainer after neglect or failure to perform any condition or covenant of a lease or agreement under which the property is held, or after default in the payment of rent, the judgment shall also declare the forfeiture of the lease, agreement or tenancy. The jury, or the court, if the proceedings be tried without a jury, shall also assess the damages occasioned to the plaintiff by any forcible entry, or by any forcible or unlawful detainer, alleged in the complaint and proved on the trial, and, if the alleged unlawful detainer be after default in the payment of rent, find the amount of any rent due, and the judgment shall be rendered against the defendant guilty of the forcible entry, forcible detainer or unlawful detainer for twice the amount of damages thus assessed and of the rent, if any, found due. * * *’
+
+[7] We find the appellants’ claim that the respondent sublet by permitting her adult sons to live in the family home (for which they paid their mother) to be without merit.
+
+The judgment appealed from is reversed, and the cause is remanded with instructions to proceed in accordance with the views herein expressed.
+FINLEY, C. J., and HILL, WEAVER, and ROSELLINI, JJ., concur.
+All Citations
+59 Wash.2d 50, 365 P.2d 769
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

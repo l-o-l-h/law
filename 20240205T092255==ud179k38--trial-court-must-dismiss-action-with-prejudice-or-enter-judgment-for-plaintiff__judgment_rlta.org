@@ -1,0 +1,30 @@
+#+title:      Trial Court Must Dismiss Action with Prejudice or Enter Judgment for Plaintiff
+#+date:       [2024-02-05 Mon 09:22]
+#+filetags:   :judgment:rlta:
+#+identifier: 20240205T092255
+
+* Trial Court's Only Options are to enter judgment or dismiss with prejudice
+
+- Forcible Entry and DetainerDisplay Key Number Topics179k38Judgment
+
+In an unlawful detainer action, the trial court is limited to either (1) entering a judgment in favor of the defendant by dismissing the action with prejudice, or (2) rendering a judgment in favor of the plaintiff. West's RCWA 59.12.030.
+
+** TODO Citing Cases
+DEADLINE: <2024-02-05 Mon 17:00> SCHEDULED: <2024-02-05 Mon 13:00>
+:LOGBOOK:
+- State "TODO"       from              [2024-02-05 Mon 09:24] \\
+  Download and Study this case
+:END:
+1 Case that cites this headnote
+
+
+M H 2 Co. v. HwangEyeglasses – Previously viewed in last 30 days for current Client ID
+
+Court of Appeals of Washington, Division 3, Panel Five.February 1, 2001104 Wash.App. 68016 P.3d 1272 (Approx. 7 pages)
+
+*** Negative Treatment
+Leda v. Whisnand
+Most Negative
+207 P.3d 468, Wash.App. Div. 1
+
+REAL PROPERTY - Landlord and Tenant. Residential tenant was entitled to present sworn testimony at show cause hearing in unlawful detainer action.

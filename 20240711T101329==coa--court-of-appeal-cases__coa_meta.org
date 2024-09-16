@@ -1,0 +1,28 @@
+#+title:      Court of Appeal Cases
+#+date:       [2024-07-11 Thu 10:13]
+#+filetags:   :coa:meta:
+#+identifier: 20240711T101329
+
+* List of COA Cases
+#+BEGIN: denote-links :regexp "=coa" :sort-by-component title :reverse-sort nil :id-only nil
+- [[denote:20240221T093545][coa  102 Wash. App. 1047 Dollhouse Property Management, LLC v. University Used and Rare Books, Inc. (2000)]]
+- [[denote:20240205T093146][coa  104 Wash.App. 680 M H 2 Co. v. Hwang (2009)]]
+- [[denote:20050315T153028][coa  126 Wash. App. 382 Housing Authority of City of Pasco and Franklin County v. Pleasant]]
+- [[denote:20050315T153028][coa  126 Wash.App. 382 Housing Authority of City of Pasco and Franklin County v. Pleasant (2005)]]
+- [[denote:20060213T145030][coa  131 Wash.App. 1035 Kendall v. Klein]]
+- [[denote:20060213T145030][coa  131 Wash.App. 1035 Kendall v. Klein (2006)]]
+- [[denote:20240208T161345][coa  131 Wash.App. 822 Negash v. Sawyer (2006)]]
+- [[denote:20240213T085728][coa  149 Wash. App. 757 Commonwealth Real Estate Services v. Padilla (2009)]]
+- [[denote:20240203T135744][coa  167 Wash.App. 789 Angelo Property Co., LP v. Hafiz (2012)]]
+- [[denote:20240628T165344][coa  22 Wash App 2d 934 (2022) Seattles Union Gospel Mission v. Bauer]]
+- [[denote:20240628T181916][coa  28 Wash. App. 2d 335 (2023) Housing Authority of Grant County v. Parker]]
+- [[denote:20240628T181916][coa  28-wash-app-2d-335-2023-housing-authority-of-grant-county-v-parker]]
+- [[denote:20240628T181916][coa  28-wash-app-2d-335-2023-housing-authority-of-grant-county-v-parker]]
+- [[denote:20240203T144250][coa  3 Wash.App. 120 Kessler v. Nielsen (1970)]]
+- [[denote:20240203T123942][coa  4 Wash. App. 2d 8 Castellon v. Rodriguez (2018)]]
+- [[denote:20240208T075454][coa  72 Wash.App. 380 Bar K Land Co. v. Webb (1993)]]
+- [[denote:20240203T143130][coa  75 Wash.App. 317 Allstate Co. v. Khani (1994)]]
+- [[denote:20240213T092912][coa  Evicted Tenant Has Right to Trial on Issue of Possession]]
+- [[denote:20240516T072543][coa  No. 85225-6-I Watkins v. ESA Management, LLC]]
+- [[denote:20240213T091304][coa  Unlawful Detainer Statutory Process]]
+#+END:

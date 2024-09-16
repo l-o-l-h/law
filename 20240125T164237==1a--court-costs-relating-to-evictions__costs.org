@@ -7,6 +7,9 @@
 1. ... The court may award statutory costs.  The court may also award reasonable attorneys' fees as provided in RCW 59.18.290.
 
 
+* RCW 36.18.012(4)
+4. [@4] If the defendant serves or files an answer to an unlawful detainer complaint under chapter 59.18 or 59.20 RCW, the plaintiff shall pay before proceeding with the unlawful detainer action one hundred twelve dollars.
+
 * RCW 36.18.020 Clerk's fees, surcharges.
 2. [@2]Clerks of superior courts shall collect the following fees for their official services:
    - (a) In addition to any other fee required by law,
@@ -109,3 +112,31 @@ RCW 4.84.010 used to allow only for a reasonable process server fee.  This statu
 - If a cost bill is filed, the clerk shall enter as the amount to be recovered the amount claimed in such cost bill, and no motion to retax costs shall be considered unless the same be filed within six (6) days after the filing of the cost bill.
 
 - For purposes of this subsection (e), “cost bill” also includes affidavit detailing disbursements.
+
+
+* Costs are Statutory
+
+Right to costs is purely statutory.  State ex rel. Lemon v. Coffin
+(1958) 52 Wash.2d 894, 327 P.2d 741, opinion clarified 52 Wash.2d 894,
+332 P.2d 1096.  Costs, Fees, And Sanctions Key Number 544
+
+Costs, which are taxed by clerk, are not part of judgment at time it
+is rendered.  Hatzenbuhler v. Harrison (1957) 49 Wash.2d 691, 306
+P.2d 745.  Judgment Key Number 224
+
+Allowance of costs is governed by statute;  and prayer for them in
+complaint is not necessary.  Lujan v. Santoya (1952) 41 Wash.2d 499,
+250 P.2d 543.  Costs, Fees, And Sanctions Key Number 544;  Judgment
+Key Number 253(2)
+
+Costs are purely statutory and can be allowed only when statute gives
+them;  and there is no statute authorizing allowance of costs to
+acquitted defendant in criminal case.  State v. Pearl (1931) 163
+Wash. 268, 1 P.2d 315.
+
+Where new trial is granted and neither of parties prevail, matter of
+awarding costs should be held in abeyance to await final determination
+of cause.  Leach v. Erickson (1931) 161 Wash. 473, 297 P. 738.
+
+Costs follow as incident to judgment.  Briglio v. Holt & Jeffery
+(1916) 91 Wash. 644, 158 P. 347.

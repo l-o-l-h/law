@@ -1,0 +1,21 @@
+#+title:      Elements of an Action for an Accounting
+#+date:       [2024-02-29 Thu 16:36]
+#+filetags:   :accounts:
+#+identifier: 20240229T163651
+
+* ELEMENTS OF AN ACTION FOR AN ACCOUNTING
+
+1. Either
+   - a fiduciary relationship exists between the parties; or
+   - the account is so complicated that it cannot conveniently be taken in an action at law.
+2. And allegations that:
+   - the plaintiff has demanded an accounting from the defendant; and
+   - the defendant has refused to render it.
+
+
+- _Corbin v. Madison_, 12 Wn. App. 318, 327, 529 P.2d 1145, 1151–52 (1974)
+- _State v. Taylor_, 58 Wash.2d 252, 262, 362 P.2d 247, 253 (1961)
+- _Seattle Nat'l Bank v. School Dist._ 40, 20 Wash. 368, 55 P. 317 (1898)
+
+
+See [[denote:20240229T163150::#h:A819CE3D-9014-48B4-A0B3-D4D36C55749B][4b  Action for an Accounting::Elements of an Action for Accounting]]

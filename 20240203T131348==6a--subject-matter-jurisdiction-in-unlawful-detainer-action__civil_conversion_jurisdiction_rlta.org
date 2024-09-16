@@ -1,0 +1,87 @@
+#+title:      Subject Matter Jurisdiction in Unlawful Detainer Action
+#+date:       [2024-02-03 Sat 13:13]
+#+filetags:   :civil:conversion:jurisdiction:rlta:
+#+identifier: 20240203T131348
+
+* Trial Court's Jurisdiction in Unlawful Detainer Action is Limited to Statutory Matters
+** Summary Statutory Proceeding
+
+[See => [[denote:20240203T132026][sc  105 Wash.2d 39 Munden v. Hazelrigg 1985]]]
+
+- An unlawful detainer action is a summary statutory proceeding brought under RCW 59.12.030
+
+- to determine the right to possession as between landlord and tenant.
+  - _Munden_, 105 Wash.2d at 45, 711 P.2d 295
+
+- The action is a narrow one, limited to the question of possession
+  and related **810 issues such as restitution of the premises and
+  rent.
+  - Id.
+
+- A court presiding over an unlawful detainer action sits as a special
+  statutory tribunal, not as a court of general jurisdiction. _Granat
+  v. Keasler_, 99 Wash.2d 564, 570-71, 663 P.2d 830 (1983). As such,
+  the court lacks authority to address disputes unrelated to
+  possession.
+  - Id.
+
+
+[See => [[denote:20240203T133122][sc  99 Wash.2d 564 Granat v. Keasler (1983)]]]
+4 5
+- It has long been settled that counterclaims may not be asserted in an unlawful detainer action. Young v. Riley, 59 Wash.2d 50, 365 P.2d 769 (1961); Woodward v. Blanchett, 36 Wash.2d 27, 216 P.2d 228 (1950).
+
+- In so holding, the courts have acknowledged the Legislature's intent to create a summary procedure and limit the issue to the landlord's *571 right of possession.
+
+- In an unlawful detainer action, the court sits as a special statutory tribunal to summarily decide the issues authorized by statute and not as a court of general jurisdiction with the power to hear and determine other issues. Young, 59 Wash.2d at 52, 365 P.2d 769.
+
+
+_Granat v. Keasler_, 99 Wn.2d 564, 570–71, 663 P.2d 830, 834 (1983)
+
+** Trial Court Lacks Authority to Address Disputes Unrelated to Possession
+
+17 18 19 ¶ 22 An unlawful detainer action is a summary statutory
+proceeding, brought under RCW 59.12.030, “to determine the right of
+possession as between landlord and tenant.” _Munden_, 105 Wash.2d at 45,
+711 P.2d 295. “The action is a narrow one, limited to the question of
+possession and related **810 issues such as restitution of the
+premises and rent.” Id.
+
+A court presiding over an unlawful detainer action sits as a special
+statutory tribunal, not as a court of general jurisdiction. _Granat
+v. Keasler_, 99 Wash.2d 564, 570-71, 663 P.2d 830 (1983). As such, the
+court lacks authority to address disputes unrelated to possession. _Id_.
+
+[[denote:20240203T123942][coa  4 Wash. App. 2d 8 Castellon v. Rodriguez (2018)]]
+_Castellon v. Rodriguez_, 4 Wn. App. 2d 8, 18, 418 P.3d 804, 810 (2018)
+
+** Limited Statutory Jurisdiction Exhausted when Possession has been Determined
+
+**1092  ¶  51 Maged's  return  to  Angelo  of  both actual  and  legal
+possession  of the  property resolved  the “right  to possession”
+
+and extinguished the trial  court's narrow subject matter jurisdiction
+conferred by the unlawful detainer statute;
+
+========================================================================
+therefore,  the  trial  court  lacked  authority  to  issue  any  *822
+additional orders, rulings, and  factual determinations while the case
+remained an unlawful detainer action.
+========================================================================
+
+We reiterate, “[i]n  an unlawful detainer action, the court  sits as a
+special statutory  tribunal to summarily decide  the issues authorized
+by statute and  not as a court of general  jurisdiction with the power
+to hear and  determine other issues.”  Granat, 99 Wash.2d  at 571, 663
+P.2d 830.
+
+Accordingly, we vacate  (1) part four of the trial  court's August 15,
+2008  order,  concluding  the  “issue   of  legal  possession  to  the
+[property] is  not yet resolved”62; and  (2) all of the  trial court's
+orders, rulings,  and factual determinations entered  after August 15,
+including,  but not  limited to,  the trial  court's summary  judgment
+dismissal   with   prejudice    of   Maged's   constructive   eviction
+counterclaim, its final order and judgment in favor of Angelo, and its
+award to Angelo of attorney fees incurred after this date.63
+
+- _Angelo Prop.  Co., LP v. Hafiz_,  167 Wn. App. 789,  821–22, 274 P.3d
+  1075, 1092 (2012)

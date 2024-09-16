@@ -1,0 +1,22 @@
+#+title:      Affidavits of Service -- Valdity
+#+date:       [2024-05-31 Fri 17:13]
+#+filetags:   :affidavit:service:valid:
+#+identifier: 20240531T171321
+
+* Validity of Affidavits of Service
+The caselaw says that affidavits of service are presumptively accurate. On a motion to vacate as void, the movant bears the burden of clear & convincing evidence that service did not occur. So the affidavit will not be invalid on its face.  Your burden on a CR 60 is for the client to set forth in a declaration how the service was impossible; ie showing on the client on the lease, the data about how he was far away at the time of service, etc.
+
+
+
+“First and basic to any litigation is jurisdiction, and first and basic to jurisdiction is service of process.”  Dobbins v. Mendoza, 88 Wn. App. 862, 871, 947 P.2d 1229 (1997).  Service of the summons and complaint must be perfected in order to invoke personal jurisdiction over an opposing party.  Allstate Insurance Company v. Khani, 75 Wn. App. 317, 324 (1994); In re Marriage of Markowski, 50 Wn. App. 633, 635-36, 749 P.2d 754 (1988).  A court cannot enter a default judgment absent proper jurisdiction; such a default judgment is void.  Id.; CR 60(b)(5).  A judgment that is void is distinguished from a judgment that is merely voidable.  When a judgment is void, a court “must” vacate the judgment regardless of how much time has lapsed between the entry of the judgment and the motion to vacate the judgment.  Allstate, 75 Wn. App. at 323, 326 (1994); Brenner v. Port of Bellingham, 53 Wn. App. 182, 185 (1989) (vacating 16-year-old judgment as void for lack of jurisdiction).  This is a non-discretionary duty.  In re Marriage of Leslie, 112 Wn.2d 612, 620, 772 P.2d 1013 (1989).
+
+Although an affidavit of service is presumptively correct, the Court must set aside a default judgment if the challenging party demonstrates by clear and convincing evidence that the service was improper.  Woodruff v. Spence, 76 Wash. App. 207, 210, 883 P.2d 936, 938 (1994), as amended (1995).  Where a judgment is void for lack of service, the challenging party need not show a meritorious defense to the action before the court sets aside the judgment. Leen v. Demopolis, 62 Wash. App. 473, 477, 815 P.2d 269, 272 (1991)
+
+* Regular in Form and Substance
+There is an asterisk to Karen Phillips' true stemement of the law;  the return of service is presumptively valid if  "regular in form and substance."
+
+When the service document is not complete it's not valid,
+
+I presented that argument verbally at a show cause hearing when the declaration on file had the signature but not the printed name of the process server. The court stopped the hearing immediately. (Of course the commissioner just scheduled a new show cause hearing to give the plaintiff time to fix the service declaration.)
+
+Your case's declaration is not "regular in form and substance" because it does not identify the person served or the method of service. CR4(g)(7) says the affidavit of service "must state the time, place, and manner of service."  But you should back that up with a declaration from your client that there was no service on them and they dont have coresidents or overnight guests who could have accepted service. - not only did the plaintiff not meet their burden, you present clear and convincing evidence that could overcome a corrected return of service.

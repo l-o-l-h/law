@@ -1,0 +1,40 @@
+#+title:      Substitute Service of Process on Resident
+#+date:       [2024-08-27 Tue 12:22]
+#+filetags:   :evidence:process:service:substitute:
+#+identifier: 20240827T122219
+
+* Salts v. Estes, 133 Wash.2d 160 (1997)
+Service of process upon person who was temporarily in defendant's home
+to feed his dogs and take in his mail was insufficient under
+substitute service of process statute.
+
+ What the Legislature has not seen fit to do—change the wording of the
+ statute—we decline to do by judicial proclamation in the guise of
+ liberal construction.
+
+** Process 313k79 Leaving copy with member of family or other person
+Service of process upon person who was in defendant's home to
+temporarily feed defendant's dog and take in his mail during
+defendant's vacation was not sufficient under substitute service of
+process statute; person temporarily within defendant's home was not
+“resident” for purposes of statute. West's RCWA 4.28.080(15).
+
+Person is “resident,” for purposes of substitute service of process
+statute, if person is actually living in particular home. West's RCWA
+4.28.080(15).
+
+Mere presence of person in defendant's home or possession of premises,
+alone, is insufficient to satisfy residency requirement for substitute
+service of process statute. West's RCWA 4.28.080(15).
+
+* Weichert v. Cardwell, 117 Wash.2d 148 (1991)
+Defendant's adult child who was a overnight resident in and sole
+occupant of defendant's residence was “resident therein” capable of
+receiving substitute service.
+
+** Process 313k79 Leaving Copy with Member of Family or Other Person
+Test to determine validity of substitute service upon defendant's
+adult child who was overnight resident in, and sole occupant of,
+defendant's house was whether plaintiff desiring to actually inform
+defendant might reasonably adopt method of serving adult child. West's
+RCWA 4.28.080(14).

@@ -1,0 +1,22 @@
+#+title:      Wrongful Eviction
+#+date:       [2024-02-13 Tue 11:14]
+#+filetags:   :eviction:rlta:ud:wrongful:
+#+identifier: 20240213T111455
+
+* Wrongful Eviction
+
+RCW 59.18.650(4)
+
+(4) A landlord who removes a tenant or causes a tenant to be removed
+from a dwelling in any way in violation of this section is liable to
+the tenant for wrongful eviction, and the tenant prevailing in such an
+action is entitled to the greater of their economic and noneconomic
+damages or three times the monthly rent of the dwelling at issue, and
+reasonable attorneys' fees and court costs.
+
+* Cause of Action for Wrongful Eviction
+
+And an illegally evicted tenant can recover money damages. See, e.g.,
+RCW 59.18.650(4); RCW 59.18.380; RCW 59.18.290(1).
+
+- Hernandez v. Francis No. 39548-1-III [UNPUBLISHED]

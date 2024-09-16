@@ -1,0 +1,532 @@
+#+title:      No. 85225-6-I Watkins v. ESA Management, LLC
+#+date:       [2024-05-16 Thu 07:25]
+#+filetags:   :case:detainer:forcible:possession:
+#+identifier: 20240516T072543
+
+* Citation
+
+Watkins v. ESA Management, LLC
+Court of Appeals of Washington, Division 1. | April 29, 2024 | --- P.3d ---- | 2024 WL 1854475
+
+washington Citation:
+
+Watkins v. ESA Mgmt., LLC, 85225-6-I, 2024 WL 1854475 (Wash. Ct. App. Apr. 29, 2024)
+
+All Citations:
+
+--- P.3d ----, 2024 WL 1854475
+
+Search Details
+
+Search Query:
+
+85225-6-I
+
+* Summary
+
+* Decision
+
+** Synopsis
+
+Background: Former tenants brought action against landlord asserting forcible entry and detainer claims after landlord entered their unit, removed their belongings, and denied reentry. The Superior Court, King County, Brian M. McDonald, J., granted landlord’s motion to dismiss. Tenants appealed.
+
+Holdings: The Court of Appeals, Feldman, J., held that:
+
+[1] trial court was required to treat motion to dismiss as one for summary judgment and give tenants opportunity to present pertinent evidence;
+
+[2] genuine issue of material fact as to whether tenants were in peaceable and undisturbed possession preceding forcible entry precluded summary judgment; and
+
+[3] tenants were required to join any tenant or subtenant who resided at unit when complaint was filed as a party defendant.
+
+Reversed and remanded.
+
+Procedural Posture(s): On Appeal; Motion for Summary Judgment; Motion to Dismiss for Failure to State a Claim.
+
+
+** West Headnotes (19)
+
+
+*** [1]
+
+Court Commissioners Procedure
+
+
+105 Court Commissioners
+105k5 Procedure
+
+
+Generally, on appeal from the decision of a superior court revising the superior court commissioner’s order, Court of Appeals reviews the superior court’s ruling, not the commissioner’s.
+
+
+
+
+*** [2]
+
+Court Commissioners Procedure
+
+
+105 Court Commissioners
+105k5 Procedure
+
+
+When the superior court denies a motion for revision of superior court commissioner’s order, it adopts the commissioner’s findings, conclusions, and rulings as its own.
+
+
+
+
+*** [3]
+
+Appeal and Error Rules of court in general
+
+
+30 Appeal and Error
+30XVI Review
+30XVI(D) Scope and Extent of Review
+30XVI(D)3 Procedural Matters in General
+30k3192 Rules of court in general
+
+
+Application of a court rule to a particular set of facts is a question of law subject to de novo review.
+
+
+
+
+*** [4]
+
+Pretrial Procedure Availability of relief under any state of facts provable
+
+
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B)4 Pleading, Defects In, in General
+307Ak623 Clear and Certain Nature of Insufficiency
+307Ak624 Availability of relief under any state of facts provable
+
+
+Essential purpose of a motion to dismiss for failure to state a claim is to determine if a plaintiff can prove any set of facts that would justify relief. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+
+
+
+*** [5]
+
+Pretrial Procedure Matters considered in general
+
+
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B)6 Proceedings and Effect
+307Ak681 Matters considered in general
+
+
+Generally, in ruling on a motion to dismiss for failure to state a claim, the trial court may only consider the allegations contained in the complaint and may not go beyond the face of the pleadings. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+
+
+
+*** [6]
+
+Pretrial Procedure Matters considered in general
+
+
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B)6 Proceedings and Effect
+307Ak681 Matters considered in general
+
+
+In ruling on a motion to dismiss for failure to state a claim, a court may take judicial notice of public documents if their authenticity cannot be reasonably disputed and may likewise consider documents whose contents are alleged in a complaint even when such documents are not physically attached to the pleading. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+
+
+
+*** [7]
+:PROPERTIES:
+:CUSTOM_ID: h:7ABAE137-E1BD-4256-844D-A3AE09D54C98
+:END:
+
+Courts Construction and application of rules in general
+
+
+106 Courts
+106II Establishment, Organization, and Procedure
+106II(F) Rules of Court and Conduct of Business
+106k85 Operation and Effect of Rules
+106k85(2) Construction and application of rules in general
+
+
+A court rule must be given its plain meaning, and when the language is clear a court cannot construe it contrary to its plain language.
+
+
+
+
+*** [8]
+
+Summary JudgmentMotion to dismiss
+
+
+368H Summary Judgment
+368HVI Proceedings
+368HVI(A) In General
+368Hk272 Motion or Other Request
+368Hk278 Conversion of Other Motions
+368Hk278(2) Motion to dismiss
+
+
+Trial court in former tenants’ forcible entry and detainer action was required to treat landlord’s motion to dismiss for failure to state a claim as motion for summary judgment and give tenants a reasonable opportunity to present all material made pertinent to summary judgment motion, where landlord presented, and court did not exclude, a declaration that presented matters outside the pleading, including factual assertions regarding tenants’ purported intent to abandon the property. Wash. Super. Ct. Civ. R. 12(b), 12(b)(6), 56.
+
+
+
+
+*** [9]
+
+Summary Judgment Motion to dismiss
+
+
+368H Summary Judgment
+368HVI Proceedings
+368HVI(A) In General
+368Hk272 Motion or Other Request
+368Hk278 Conversion of Other Motions
+368Hk278(2) Motion to dismiss
+
+
+Although trial court in former tenants’ forcible entry and detainer action erred by failing to give tenants an opportunity to submit pertinent evidence when it converted landlord’s motion to dismiss into motion for summary judgment by accepting declaration that presented matters outside the pleading, court could imply tenants’ waiver of the error by their failure to present any argument, as better practice was for tenants to specifically object and cite the controlling portion of rule governing motions to dismiss. Wash. Super. Ct. Civ. R. 12(b)(6), 56.
+
+
+
+
+*** [10]
+
+Appeal and Error Review using standard applied below
+
+
+30 Appeal and Error
+30XVI Review
+30XVI(D) Scope and Extent of Review
+30XVI(D)13 Summary Judgment
+30k3555 Review using standard applied below
+
+
+Standard of review on appeal of summary judgment order is the same as for summary judgment in the trial court.
+
+
+
+
+*** [11]
+
+Summary Judgment In conjunction with right to judgment as matter of law
+
+
+368H Summary Judgment
+368HIII Grounds for Summary Judgment; Factors Considered
+368Hk42 Absence of Issue of Fact
+368Hk45 Genuine Issue or Dispute as to Material Fact
+368Hk45(2) In conjunction with right to judgment as matter of law
+
+
+A motion for summary judgment may be granted when there is no genuine issue as to any material fact and the moving party is entitled to a judgment as a matter of law. Wash. Super. Ct. Civ. R. 56.
+
+
+
+
+*** [12]
+
+Appeal and Error De novo review
+Appeal and Error Summary Judgment
+
+
+30 Appeal and Error
+30XVI Review
+30XVI(D) Scope and Extent of Review
+30XVI(D)13 Summary Judgment
+30k3554 De novo review
+30 Appeal and Error
+30XVI Review
+30XVI(F) Presumptions and Burdens on Review
+30XVI(F)2 Particular Matters and Rulings
+30k3950 Summary Judgment
+30k3951 In general
+
+
+The standard of review for a summary judgment order is de novo, viewing the facts and reasonable inferences in the light most favorable to the nonmoving party.
+
+
+
+
+*** [13]
+
+Summary Judgment Burden of Proof
+Summary Judgment Shifting burden
+
+
+368H Summary Judgment
+368HIV Ascertaining Whether Fact Issue Exists
+368Hk76 Burden of Proof
+368Hk77 In general
+368H Summary Judgment
+368HIV Ascertaining Whether Fact Issue Exists
+368Hk76 Burden of Proof
+368Hk78 Shifting burden
+
+
+Summary judgment motions are governed by a burden-shifting scheme; the moving party bears the initial burden to prove by uncontroverted facts that there is no genuine issue of material fact, and if the moving party satisfies its burden, then the burden shifts to the nonmoving party to set forth specific facts evidencing a genuine issue of material fact for trial. Wash. Super. Ct. Civ. R. 56.
+
+
+
+
+*** [14]
+
+Landlord and Tenant Trial
+Summary Judgment Termination of tenancy; eviction
+
+
+233 Landlord and Tenant
+233VIII Reentry and Recovery of Possession by Landlord
+233VIII(C) Actions for Recovery of Possession
+233k1758 Actions
+233k1769 Trial
+368H Summary Judgment
+368HV Particular Cases and Contexts
+368Hk189 Landlord and Tenant
+368Hk193 Termination of tenancy; eviction
+
+
+Genuine issue of material fact as to whether former tenants were in peaceable and undisturbed possession of the property for five days preceding forcible entry precluded summary judgment on their forcible entry and detainer claims against landlord. Wash. Rev. Code Ann. § 59.12.140.
+
+
+
+
+*** [15]
+
+Appeal and Error De novo review
+
+
+30 Appeal and Error
+30XVI Review
+30XVI(D) Scope and Extent of Review
+30XVI(D)4 Pleading
+30k3280 Failure to State Claim, and Dismissal Therefor
+30k3284 De novo review
+
+
+Court of Appeals reviews the trial court’s ruling on a motion to dismiss for failure to state a claim de novo.
+
+
+
+
+*** [16]
+
+Pretrial Procedure Availability of relief under any state of facts provable
+Pretrial Procedure Construction of pleadings
+
+
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B)4 Pleading, Defects In, in General
+307Ak623 Clear and Certain Nature of Insufficiency
+307Ak624 Availability of relief under any state of facts provable
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B)6 Proceedings and Effect
+307Ak679 Construction of pleadings
+
+
+On motion to dismiss for failure to state a claim, factual allegations are accepted as true, and unless it appears beyond doubt that the plaintiff can prove no set of facts consistent with the complaint that would entitle him or her to relief, the motion to dismiss must be denied. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+
+
+
+*** [17]
+
+Pretrial Procedure Construction of pleadings
+Pretrial Procedure Presumptions and burden of proof
+
+
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B) 6Proceedings and Effect
+307Ak679 Construction of pleadings
+307A Pretrial Procedure
+307AIII Dismissal
+307AIII(B) Involuntary Dismissal
+307AIII(B) 6Proceedings and Effect
+307Ak682 Evidence
+307Ak683 Presumptions and burden of proof
+
+
+On motion to dismiss for failure to state a claim, the court must assume the truth of facts alleged in the complaint, as well as hypothetical facts, viewing both in the light most favorable to the nonmoving party. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+
+
+
+*** [18]
+
+Landlord and Tenant Joinder and intervention
+
+
+233 Landlord and Tenant
+233VIII Reentry and Recovery of Possession by Landlord
+233VIII(C) Actions for Recovery of Possession
+233k1758 Actions
+233k1762 Parties
+233k1762(6) Joinder and intervention
+
+
+Tenant or subtenant who occupied former tenants’ unit when complaint was filed was necessary party who had to be joined in order for former tenants to assert right to possess the property in their forcible entry and detainer action; it was statutory requirement that in order to be restored to the property described in the complaint, any tenant or subtenant in actual possession of premises when complaint was filed needed to be made a party defendant. Wash. Rev. Code Ann. §§ 59.12.090, 59.12.140; Wash. Super. Ct. Civ. R. 19.
+
+
+
+
+*** [19]
+
+Landlord and Tenant Self-Help
+
+
+233 Landlord and Tenant
+233VIII Reentry and Recovery of Possession by Landlord
+233VIII(B) Self-Help
+233k1735 In general
+
+
+No landlord, including one not governed by the Residential Landlord Tenant Act, may ever use nonjudicial, self-help methods to remove a tenant. Wash. Rev. Code Ann. § 59.18.290.
+
+
+
+
+** Honorable B. McDonald, Judge.
+Attorneys and Law Firms
+
+Daniel Frank Parker, Yuan Ting, Christina Eugenie Jaccard, King County Bar Association, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Edmund Robert Witter, Attorney at Law, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Ashleen Elisabeth O’brien, Housing Justice Project, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, for Appellants.
+
+Joseph Toups, Daniel Andrew Brown, Williams Kastner, 601 Union St. Ste. 4100, Seattle, WA, 98101-1368, for Respondent.
+
+
+
+
+** PUBLISHED OPINION
+
+Feldman, J.
+
+*1 ¶1 Allen Watkins and Janis Clark (appellants) filed a complaint asserting forcible entry and detainer claims against ESA Management LLC (ESA), which owned and managed the Extended Stay of America property where they resided before ESA entered the unit, removed their belongings, and denied reentry. ESA, in turn, filed a motion to dismiss the complaint, and the superior court granted that motion.
+
+In doing so, the trial court erred in two significant respects.
+
+1. First, the superior court erred by failing to treat ESA’s motion to dismiss as one for summary judgment and give appellants a reasonable opportunity to present pertinent evidence pursuant to CR 12(b)(6).
+
+2. Second, the superior court erred in granting ESA’s motion even though appellants effectively rebutted ESA’s substantive argument.
+
+
+We therefore reverse the superior court’s order of dismissal and remand the matter for further proceedings. Lastly, any tenant or subtenant in the actual occupation of the premises when appellants’ complaint was filed is a necessary party under RCW 59.12.060 and must be joined if they assert a right to possess the property.
+
+
+*** I.
+
+¶2 Appellants were hotel guests residing at an Extended Stay of America property in Tukwila, Washington owned and managed by ESA. In August 2022, ESA filed an unlawful detailer proceeding, claiming that appellants were substantially behind in their payment of rent. A show cause hearing was scheduled for October 18, 2022, but continued on two occasions and finally scheduled for December 2, 2022. _However, prior to the hearing, ESA purportedly concluded that appellants had abandoned the property. Based on this belief, ESA entered appellants’ unit, removed their belongings, and denied appellants reentry. Having engaged in self-help, ESA voluntarily dismissed its unlawful detainer action._
+
+¶3 Unable to reenter their unit, appellants filed the instant action for *forcible entry and detainer* on December 29, 2022 and filed a *writ of restitution* to return to the unit pending the result of the action. A commissioner set a hearing on the writ of restitution for January 23, 2023 and directed that ESA file a response by January 18 and appellants file a reply by January 20. Instead of complying with the briefing schedule, ESA filed a motion titled “DEFENDANT’S MOTION TO DISMISS” on January 23, 2023 and noted the motion for a hearing the same day. In its motion, ESA argued that appellants had abandoned the property and therefore were not in possession of the property as required to obtain relief under RCW 59.12.010 (forcible entry) and RCW 59.12.020 (forcible detainer). To support its abandonment argument, ESA attached to its motion a declaration of a general manager of the Extended Stay of America property asserting that appellants abandoned the premises following a “huge fight.” After ESA filed its motion, the court continued the hearing to February 1, 2023. Appellants then filed a responsive brief on January 30, 2023 titled “PLAINTIFF’S REPLY IN SUPPORT OF MOTION FOR WRIT OF RESTITUTION PURSUANT TO RCW 59.12.090 and RESPONSE TO DEFENDANT’S MOTION TO DISMISS.”
+
+*2 ¶4 At the hearing on February 1, 2023, a commissioner heard oral argument on ESA’s motion to dismiss despite appellants’ assertion that the motion had not properly been noted for decision and was, in effect, an untimely response to their motion for a writ of restitution.
+
+Addressing the merits of the motion to dismiss, and without permitting appellants to testify, the commissioner concluded that appellants had not provided a sufficient basis to rule in their favor on their underlying claims for forcible entry and detainer.
+
+The commissioner granted ESA’s motion to dismiss and declined to rule on ESA’s oral motion for a judgment for unpaid rent.
+
+Finally, appellants filed a motion for revision. A superior court judge denied the motion to revise, adopted the commissioner’s oral findings and rulings, and granted ESA’s motion to dismiss. Id. This timely appeal followed.
+
+
+*** II.
+
+**** A.
+
+¶5 Appellants claim that the superior court erred when it “converted ESA’s motion to dismiss into a motion for summary judgment without giving appellants an opportunity to submit pertinent evidence.” We agree.
+
+[1] [2] [3]¶6 “Generally, we review the superior court’s ruling, not the commissioner’s. But when the superior court denies a motion for revision, it adopts the commissioner’s findings, conclusions, and rulings as its own.” State ex rel. J.V.G. v. Van Guilder, 137 Wash. App. 417, 423, 154 P.3d 243 (2007) (citing In re Marriage of Stewart, 133 Wash. App. 545, 550, 137 P.3d 25 (2006)). As discussed below, the dispositive issue here is the proper application of CR 12(b)(6), which governs motions to dismiss. The application of a court rule to a particular set of facts is a question of law subject to de novo review. Wiley v. Rehak, 143 Wash.2d 339, 343, 20 P.3d 404 (2001).
+
+[4] [5] [6]¶7 The essential purpose of a CR 12(b)(6) motion to dismiss is “ ‘to determine if a plaintiff can prove any set of facts that would justify relief.’ ” Freedom Found. v. Teamsters Local 117 Segregated Fund, 197 Wash.2d 116, 139, 480 P.3d 1119 (2021) (quoting P.E. Sys., LLC v. CPI Corp., 176 Wash.2d 198, 203, 289 P.3d 638 (2012)). “Generally, in ruling on a CR 12(b)(6) motion to dismiss, the trial court may only consider the allegations contained in the complaint and may not go beyond the face of the pleadings.” Rodriguez v. Loudeye Corp., 144 Wash. App. 709, 725, 189 P.3d 168 (2008). But in ruling on a motion to dismiss, a court “may take judicial notice of public documents if their authenticity cannot be reasonably disputed” and may likewise consider “[d]ocuments whose contents are alleged in a complaint” even when such documents “are not physically attached to the pleading.” Id. at 725-26, 189 P.3d 168.
+
+¶8 The issue here is what procedural protections apply when a moving party submits with a CR 12(b)(6) motion, and the court does not exclude, documents that are not subject to judicial notice or attached to or referenced in the operative pleading. Addressing that issue, CR 12(b) states,
+If, on a motion asserting the defense numbered (6) to dismiss for failure of the pleading to state a claim upon which relief can be granted, matters outside the pleading are presented to and not excluded by the court, the motion shall be treated as one for summary judgment and disposed of as provided in rule 56, and all parties shall be given reasonable opportunity to present all material made pertinent to such a motion by rule 56.
+The rule is clear and unequivocal: if matters outside the pleading are presented to and not excluded by the court in deciding a motion to dismiss, the motion shall be treated as one for summary judgment and all parties shall be given reasonable opportunity to present pertinent evidence.
+
+[7]¶9 “A court rule ‘must be given its plain meaning, and when the language is clear a court cannot construe it contrary to its plain language.’ ” In re Carlstad, 114 Wash. App. 447, 455, 58 P.3d 301 (2002) (quoting City of Kirkland v. Ellis, 82 Wash. App. 819, 826, 920 P.2d 206 (1996)). Thus, for example, this court held in Zurich Services Corporation v. Gene Mace Construction that “once extrinsic evidence is admitted and considered, a motion on the pleadings should be converted to a motion of summary judgment” and “[i]n that event, all parties must be given reasonable opportunity to present all material made pertinent to such a motion by CR 56.” 26 Wash. App. 2d 10, 21, 526 P.3d 46 (2023) (quoting P.E. Sys., LLC v. CPI Corp., 176 Wash.2d at 206, 289 P.3d 638, and CR 12(c)). The court also recognized in Zurich that “affidavits ... are extrinsic evidence that may not be considered as part of the pleadings.” Id.
+
+*3 [8] [9]¶10 Here, the superior court was required to treat ESA’s motion to dismiss as a motion for summary judgment because ESA presented—and the court did not exclude—a declaration that presented matters outside the pleading, including factual assertions regarding appellants’ purported intent to abandon the property. Because ESA submitted this declaration and the superior court did not exclude it, the court was required by CR 12(b) to treat ESA’s motion as one for summary judgment and give appellants a reasonable opportunity to present all material made pertinent to such a motion by CR 56. The court erred when it failed to do so.1
+
+***** 1
+
+Although Appellants asserted at the February 1, 2023 hearing that ESA had not properly noted its motion to dismiss for decision, they did not argue that the court could not properly consider the attached declaration without treating the motion to dismiss as one for summary judgment and giving appellants a reasonable opportunity to present pertinent evidence. The better practice is to specifically object, citing the controlling portion of CR 12(b), as failure to do so could potentially constitute waiver. See e.g. Zurich, 26 Wash. App. 2d at 35, 526 P.3d 46 (“court may imply an otherwise unstated waiver ... where it appears affirmatively from the record no affected party was prejudiced”); Podbielancik v. LPP Mortg. Ltd. 191 Wash. App. 662, 666, 362 P.3d 1287 (2015) (“If a party fails to object to an affidavit or bring a motion to strike improper portions of an affidavit, any error is waived.”).
+
+
+
+**** B.
+
+¶11 The superior court’s procedural error, as recounted above, requires that the matter be remanded for summary judgment proceedings in accordance with the substantive and procedural requirements of CR 56. We need not do so here because appellants also argue, and we again agree, that dismissal of their claims “cannot be upheld under CR 12(b)(6) [or] CR 56.”
+
+[10] [11] [12]¶12 Because ESA’s motion was, in substance, a summary judgment motion, “the standard of review on appeal is the same as for summary judgment.” Blenheim v. Dawson & Hall Ltd., 35 Wash. App. 435, 438, 667 P.2d 125 (1983); Zurich, 26 Wash. App. 2d at 24, 526 P.3d 46. A motion for summary judgment may be granted when there is “no genuine issue as to any material fact and ... the moving party is entitled to a judgment as a matter of law.” Ramey v. Knorr, 130 Wash. App. 672, 685, 124 P.3d 314 (2005) (quoting CR 56). “The standard of review for a summary judgment order is de novo ... viewing the facts and reasonable inferences in the light most favorable to the nonmoving party.” Id.
+
+[13]¶13 Summary judgment motions are governed by “ ‘a burden-shifting scheme.’ ” Welch v. Brand Insulations, Inc., 27 Wash. App. 2d 110, 114, 531 P.3d 265 (2023) (quoting Bucci v. Nw. Tr. Servs., Inc., 197 Wash. App. 318, 326, 387 P.3d 1139 (2016)). “The moving party bears the initial burden ‘to prove by uncontroverted facts that there is no genuine issue of material fact.’ ” Id. (quoting Jacobsen v. State, 89 Wash.2d 104, 108, 569 P.2d 1152 (1977)). If the moving party satisfies its burden, then the burden shifts to the nonmoving party to “ ‘set forth specific facts evidencing a genuine issue of material fact for trial.’ ” Id. (quoting Schaaf v. Highfield, 127 Wash.2d 17, 21, 896 P.2d 665 (1995)).
+
+¶14 Three statutes govern proof of appellants’ claims. First, regarding forcible entry claims, RCW 59.12.010 states as follows:
+Every person is guilty of a forcible entry who either—(1) By breaking open windows, doors or other parts of a house, or by fraud, intimidation or stealth, or by any kind of violence or circumstance of terror, enters upon or into any real property; or—(2) Who, after entering peaceably upon real property, turns out by force, threats or menacing conduct the party in actual possession.
+*4 Second, the forcible detainer statute, RCW 59.12.020, states in relevant part:
+Every person is guilty of a forcible detainer who ... in the nighttime, or during the absence of the occupant of any real property, enters thereon, and who, after demand made for the surrender thereof, refuses for the period of three days to surrender the same to such former occupant. The occupant of real property within the meaning of this subdivision is one who for the five days next preceding such unlawful entry was in the peaceable and undisturbed possession of such real property.
+Lastly, RCW 59.12.140, titled “Proof in forcible entry and detainer,” states:
+On the trial of any proceeding for any forcible entry or forcible detainer the plaintiff shall only be required to show, in addition to a forcible entry complained of, that he or she was peaceably in the actual possession at the time of the forcible entry; or, in addition to a forcible detainer complained of, that he or she was entitled to the possession at the time of the forcible detainer.
+Thus, to obtain relief for forcible entry and detainer, appellants were required to show that (1) ESA entered their unit in their absence, (2) ESA refused to allow them to reenter the unit for three days, and (3) they were in peaceable and undisturbed possession of the property for five days preceding the forcible entry.
+
+¶15 ESA argued below that appellants’ claims failed as a matter of law because they abandoned the property and therefore were not in peaceable and undisturbed possession of the property for five days preceding the forcible entry. Construing RCW 59.12.140 (quoted above), our Supreme Court has held that a plaintiff, “on the question of possession, [is] only required to show that he was, for the period of five days next preceding... entry, in the peaceable and undisturbed possession of the property.” Randolph v. Husch, 159 Wash. 490, 495, 294 P. 236 (1930). The Court has also explained that to have peaceable and undisturbed possession “[i]t is not essential that there be a continuous personal presence on the land, but there must be exercised at least some actual physical control with the intent and apparent purpose of asserting dominion.” Id. at 496, 294 P. 236. “The true intent of the statute by these words and by the five-day limitation is to exclude a momentary or scrambling actual possession; not to describe a constructive possession.” Id.
+
+¶16 ESA’s motion to dismiss and accompanying declaration do not establish, as a matter of law, that appellants were not in peaceable and undisturbed possession of the property for five days preceding the forcible entry. The declaration states that on November 6 or 7, 2022 appellants got into a “huge fight” and police were called to the property to intervene. Then, shortly after the fight, appellants “left the Property.” Based on these events—leaving the property for a few days following a fight—ESA’s declarant summarily concludes that appellants “chose to voluntarily leave the Property.” This declaration, consisting entirely of self-serving speculation and bald assertion, falls well short of proving by uncontroverted facts that there is no genuine issue of material fact as to whether appellants abandoned the property.
+
+*5 ¶17 But even if ESA met its initial burden of production on summary judgment, appellants’ verified complaint sets forth specific facts evidencing a genuine issue of material fact for trial. While Washington courts have not squarely decided the issue, the Ninth Circuit has held that “a verified complaint may serve as an affidavit for purposes of summary judgment if it is based on personal knowledge and if it sets forth the requisite facts with specificity.” Moran v. Selig, 447 F.3d 748, 759, n.16 (9th Cir. 2006). We apply that rule here because the verified complaint sets forth the requisite facts with specificity and states, under penalty of perjury, that the statements in the complaint are true and correct. Thus, the complaint is in all material respects comparable to a declaration.
+
+¶18 As to the content of the verified complaint, it asserts that “Mr. Watkins was temporarily absent from his unit beginning on or about November 9, 2022. Mr. Watkins intended to return to his unit and left all his belongings inside the unit as well as his car in the parking lot.” These facts sufficiently rebut ESA’s abandonment argument because they show that appellants left their belongings in the unit, as well as a car in the parking lot, evidencing an intent to return and not abandon the unit. That is especially so when the assertions in the verified complaint are viewed in the light most favorable to appellants (the nonmoving parties), as required. See Ramey, 130 Wash. App. at 685, 124 P.3d 314.
+
+[14] [15] [16] [17]¶19 Indeed, not only does the record preclude dismissal, the commissioner’s oral ruling, which the superior court ultimately adopted, similarly recognizes an extant controversy regarding whether appellants were in peaceable and undisturbed possession at the time of the forcible entry:
+Counsel, I’m going to -- I am going to grant the motion to dismiss. I don’t believe at this point that you have sufficient basis here for this Court to either certify or rule on an unlawful detainer case given the facts that we have here. There may have been a difference of opinion about whether your clients had vacated voluntarily. They left their things there, and it’s -- that’s not an uncommon scenario when tenants leave. Sometimes they have no other place to go and they can’t take their things and they leave them. I don’t know, it’s speculation on my part. But I -- but it is not enough for me to say that this matter should go forward to trial.
+(Emphasis added.) Because there is a genuine issue of material fact as to whether appellants were in peaceable and undisturbed possession of the property for five days preceding the forcible entry, their claims were not properly subject to dismissal under CR 56. The superior court’s dismissal order, whether premised on CR 56 or CR 12, is accordingly reversed.2
+
+***** 2
+
+Although we review the trial court proceedings under CR 56, we would reach the same result even if we were to conclude that the superior court could properly decide ESA’s motion to dismiss under CR 12. “We review the trial court’s ruling on a motion to dismiss de novo. Factual allegations are accepted as true, and unless it appears beyond doubt that the plaintiff can prove no set of facts consistent with the complaint that would entitle him or her to relief, the motion to dismiss must be denied.” Becker v. Cmty. Health Sys., Inc., 184 Wash.2d 252, 257-58, 359 P.3d 746 (2015). Additionally, the court “must assume the truth of facts alleged in the complaint, as well as hypothetical facts, viewing both in the light most favorable to the nonmoving party.” Didlake v. State, 186 Wash. App. 417, 422, 345 P.3d 43 (2015). For the same reasons set forth above, the facts alleged in appellants’ verified complaint—accepted as true and viewed favorably to appellants—preclude dismissal under CR 12(b)(6) as well as CR 56.
+
+
+
+**** C.
+*6 ¶20 Finally, ESA argues that appellants cannot properly seek a writ of restitution to their former premises without joining the tenant currently residing in the unit as an indispensable party under CR 19 and controlling case law. Because this issue may recur on remand, we choose to address the issue and hold, consistent with ESA’s arguments, that appellants must comply with RCW 59.12.090.
+
+¶21 Under RCW 59.12.090, a
+plaintiff at the time of commencing an action of forcible entry or detainer or unlawful detainer, or at any time afterwards, may apply to the judge of the court in which the action is pending for a writ of restitution restoring to the plaintiff the property in the complaint described, and the judge shall order a writ of restitution to issue.
+(Emphasis added.) Here, appellants described the property for which they sought relief in their verified complaint as “15451 53rd Ave S, #110, Tukwila, WA 98188.” Because appellants specifically described their previous unit in their complaint, they may only be restored to that unit under RCW 59.12.090.
+
+[18]¶22 It necessarily follows that to maintain their forcible entry and detainer action, appellants must join the tenant or subtenant (if any) who occupied the specified unit when appellants’ complaint was filed if they assert a right to possess that property. Laffranchi v. Lim, 146 Wash. App. 376, 383, 190 P.3d 97 (2008), is instructive on this point. In Laffranchi, DeVore leased a four-bedroom house from Lim. Id. at 378, 190 P.3d 97. At the time the lease was signed, the property was subject to a deed of trust between Lim, as grantor, and Lender Homecomings Financial Network, Inc., as beneficiary. Id. at 379, 190 P.3d 97. When Lim failed to make payments on the obligation secured by the deed of trust, Laffranchi purchased the property at a trustee’s sale. Id. Laffranchi subsequently filed an eviction summons and complaint for unlawful detainer and served it at the property’s address with the caption “Tony Laffranchi v. Tomas Oscar Lim and Maida Lim, et al.” Id. at 379, 190 P.3d 97. Laffranchi obtained a writ of restitution directing the sheriff to remove the defendants and all others from the property. Id. at 380, 190 P.3d 97.
+
+¶23 On appeal, we held that “Laffranchi’s failure to join DeVore as a defendant deprived the court of subject matter jurisdiction under chapter 59.12 RCW.” Id. at 384, 190 P.3d 97.3 We applied RCW 59.12.060, which states: “[n]o person other than the tenant of the premises, and subtenant, if there be one, in the actual occupation of the premises when the complaint is filed, need be made parties defendant in any proceeding under this chapter ....” Applying that statutory requirement, we concluded that if DeVore continues to assert a right to possession, Laffranchi must join him as a party to maintain his unlawful detainer action. Laffranchi, 146 Wash. App. at 387, 190 P.3d 97.
+
+***** 3
+
+Although Laffranchi refers to “subject matter jurisdiction,” we have since clarified “[i]f the type of controversy is within the superior court’s subject matter jurisdiction, as it is here, then all other defects or errors go to something other than subject matter jurisdiction.” MHM & F, LLC v. Pryor, 168 Wash. App. 451, 460, 277 P.3d 62 (2012) (internal quotation marks omitted).
+
+
+[19]¶24 As in Laffranchi, we conclude that any tenant or subtenant in the actual occupation of the premises when appellants’ complaint was filed is a necessary party under RCW 59.12.060 and must be joined if they assert a right to possess the property. Accordingly, we remand the matter for further proceedings consistent with RCW 59.12.060 (if applicable).4
+
+***** 4
+
+ESA also argues that even if appellants did not abandon the premises, it is entitled to use self-help if no breach of the peace occurs. However, “no landlord, including one not governed by the [Residential Landlord Tenant Act], may ever use nonjudicial, self-help methods to remove a tenant.” Gray v. Pierce County Hous. Auth., 123 Wash. App. 744, 757, 97 P.3d 26 (2004). Further, RCW 59.18.290 states that it “is unlawful for the landlord to remove or exclude from the premises the tenant thereof except under a court order so authorizing.” Thus, we reject this argument.
+
+
+*** *7 ¶25 Reversed and remanded.
+
+WE CONCUR:
+Coburn, J.
+Smith, C.J.
+All Citations
+--- P.3d ----, 2024 WL 1854475
+End of Document

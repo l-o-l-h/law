@@ -1,0 +1,27 @@
+#+title:      Interpretation of a Statute
+#+date:       [2024-08-04 Sun 18:34]
+#+filetags:   :interpretation:law:statute:
+#+identifier: 20240804T183451
+
+* Question of Law Reviewed De Novo
+
+
+Statutory interpretation is a question of law.
+- _Statutes_ *361k1343* /Questions of law or fact/
+
+
+¶5 Interpretation of a statute presents a question of law reviewed de
+novo. _Ruvalcaba v. Kwang Ho Baek_, 175 Wash.2d 1, 6, 282 P.3d 1083
+(2012).
+- _R. Thoreson Homes, LLC v. Prudhon_, 197 Wn. App. 38, 41, 386 P.3d 1139, 1141 (2016)
+- _Appeal and Error_ *30k3173* /Statutory or legislative law/
+
+
+¶27 Statutory interpretation is a question of law. _City of Seattle
+v. Burlington N. R.R._, 145 Wash.2d 661, 665, 41 P.3d 1169 (2002). “The
+primary objective of any statutory construction inquiry is ‘to
+ascertain and carry out the intent of the Legislature.’ ” _HomeStreet,
+Inc. v. Dep't of Revenue_, 166 Wash.2d 444, 451, 210 P.3d 297 (2009)
+(quoting _Rozner v. City of Bellevue_, 116 Wash.2d 342, 347, 804 P.2d 24
+(1991)).
+- _Princeton Prop. Mgmt., Inc. v. Allen_, 550 P.3d 56, 61 (Wash. Ct. App. 2024)

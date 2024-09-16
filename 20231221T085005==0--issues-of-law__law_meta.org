@@ -9,14 +9,48 @@
 - [[denote:20240126T082320][1b  Waivers of Filing Fees]]
 #+END:
 
-
 * 2. Court Rules
 #+BEGIN: denote-links :regexp "_cr" :sort-by-component nil :reverse-sort nil :id-only nil
 - [[denote:20240126T104605][2a  Presentation of Findings, Conclusions, and Judgment]]
 #+END:
 
-
-* EVIDENCE LAW
+* 3. Evidence Law
 - [[denote:20231221T083539][Judge may consider facts and common sense but not evidence outside the record]]
 - [[denote:20231221T084112][Judicial notice of court records]]
 
+* 4. Accounts
+- [[denote:20240229T151211][4a  Types of Accounts]]
+- [[denote:20240229T163150][4b  Action for an Accounting]]
+- [[denote:20240229T163651][4a1  Elements of an Action for an Accounting]]
+- [[denote:20240229T172753][4c  Action on Account]]
+
+* 5. Declaratory Judgments Act Ch. 7.24 RCW
+- [[denote:20240229T165900][5a  Declaratory Judgments Act Overview]]
+
+* 6. Jurisdiction
+- [[denote:20240203T131348][6a  Subject Matter Jurisdiction in Unlawful Detainer Action]]
+
+* 7. Process and Service of Process
+#+BEGIN: denote-links :regexp "==7" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240327T161917][7a  Process and Service of Process]]
+- [[denote:20240531T171321][7b  Affidavits of Service -- Valdity]]
+- [[denote:20240827T122219][7c  Substitute Service of Process on Resident]]
+#+END:
+
+* 8. Statutory Interpetation
+#+BEGIN: denote-links :regexp "==8.*_law" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240804T183451][8a=30k3173  Interpretation of a Statute]]
+- [[denote:20240804T185123][8a1=361k1071  Interpretation of a Statute and Court's Duty]]
+- [[denote:20240804T185754][8a2=361k1111  Interpretation of a Statute and Plain or Unambiguous Language]]
+- [[denote:20240804T194100][8a3=233k1782  Statutory Interpretation in Eviction Cases is Strictly Construed]]
+#+END:
+
+* 9. Tenant Rights under RLTA
+#+BEGIN: denote-links :regexp "=9a.*law" :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240804T190642][9a  Tenant Rights Under the RLTA]]
+#+END:
+
+* 10. Pleading
+#+BEGIN: denote-links :regexp "=10.*_law.*_pleading" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil
+- [[denote:20240806T084333][10a=302iii  Pleading-Responses or Responsive Pleadings in General]]
+#+END:

@@ -1,0 +1,361 @@
+#+title:      64 Wash.2d 544 MacRae v. Way (1964)
+#+date:       [2024-02-03 Sat 14:51]
+#+filetags:   :jurisdiction:limited:possession:statutory:ud:
+#+identifier: 20240203T145119
+
+* BRIEF
+
+** PROCEDURE
+
+1. PL LL  brought action  in  UD and  the action  was dismissed.   PL
+  appealed.
+
+2. TC had  ruled that  the  notice to  pay or  vacate was  improperly
+  served.
+
+3. DEF T moved for the appeal to be dismissed based upon the statutory
+   controversy being at an end.
+
+4. SC dismissed the appeal.
+
+
+** FACTS
+
+1. PL was  actually a lessee under  a lease to another, and  DEF T was
+   its sublessee.
+
+2. PL attempted service of a notice  to pay or vacate on its sublessee
+   in possession.
+
+3. PL  surrendered its  possessory  interest  in the  premises  after
+  service of the notice but before its expiration.
+
+4. The O negotiated a new lease with a TP.
+
+5. Following the expiration of the pay or vacate period, PL instituted
+   the UD action.
+
+6. The  PL's  complaint  requested (a)  terminatino  of  the  tenancy
+  possession  to be  restored  to  it; (b)  writ  of restitution  for
+  delivery  of  possession;  (c)  recovery  of  back  rent;  and  (d)
+  reimbursement for costs and dispersements.
+
+7. PL's action came to trial.
+
+8. TC dismissed  the action for improper service of  the notice to pay
+   or vacate.
+
+9. Formal judgment of dismissal was entered.
+
+10. The new lessee  served the DEF in possession with  a notice to pay
+    or vacate upon  the TC dismissing the PL's action,  commenced a UD
+    action, received a judgment of restoration of the premises and for
+    back rent.  The DEF quit the premises.
+
+11. The DEF moved the SC to dismiss the appeal.
+
+
+** ISSUE
+
+The  issue raised  by the  motion  to dismiss  is:
+
+May an action for unlawful  detainer, pursuant to RCW 59.12.030(3), be
+maintained  by  a  plaintiff-lessor  who   has  conveyed  all  of  his
+possessory interest  in the  subject property to  a third  party after
+service of the statutory 3-day notice to pay rent or vacate and before
+expiration  of the  3-day period  and  commencement of  the action  by
+service and filing of the statutory summons and complaint.
+
+NO.
+
+
+** LAW
+
+Unlawful detainer actions are statutorily created summary proceedings,
+primarily designed for the purpose of hastening recovery of possession
+of real  property.
+
+- _Wilson v.  Daniels_, 31  Wash.2d 633, 198  P.2d 496;
+- _Woodward v. Blanchett_, 36 Wash.2d 27, 216 P.2d 228;
+- _Little v. Catania_, 48 Wash.2d 890, 297 P.2d 255;
+- _Muscatel v. Storey_, 56 Wash.2d 635, 354 P.2d 931;
+- _Young v. Riley_, 59 Wash.2d 50, 365 P.2d 769.
+
+
+The principal  subject matter of the  action is the possession  of the
+subject property.
+
+- _Stevens v. Jones_, 40 Wash. 484, 82 P. 754.
+
+
+In such  proceedings the  superior court sits  as a  special statutory
+tribunal, limited to deciding the primary issue of right to possession
+together  with the  statutorily  designated  incidents thereto,  i.e.,
+restitution  and rent  or damages.   It  does not  sit as  a court  of
+general civil jurisdiction.
+
+- _Stevens v. Jones_, supra;
+- _Young v.  Riley_, supra; *547
+- _Sundholm v.  Patch_, 62  Wash.2d 244, 382 P.2d  262.
+
+
+Such jurisdiction as the superior  court obtains arises out of service
+of  the statutory  summons.  It does  not arise  from  service of  the
+statutory notices, e.g., notice to quit, notice to pay rent or vacate.
+
+- State ex rel. Robertson v. Superior Court, 95 Wash. 447, 164 P. 63.
+
+
+In  Stevens v.  Jones,  supra, this  court was  faced  with a  similar
+problem in  that plaintiff had  conveyed all interest in  the property
+prior to commencement  of an analogous action.3 Under  such facts, the
+appeal   was  dismissed,   the   rationale  being   that,  since   the
+‘subject-matter of  the controversy was  the possession of  the land,’
+the controversy ‘ceased’ as between  the plaintiff and defendant, when
+plaintiff  gave  up  the  right  of possession.  With  regard  to  the
+plaintiff's  claim for  damages, analogous  to the  instant claim  for
+rent, we said (p. 40 Wash. 486, 82 P. p. 755):
+
+‘* * * Any  claim she may have had for damages could  be waged in this
+summary action  only as an  incident to  her right to  possession. The
+right to  damages is a personal  one, and when unaccompanied  with the
+right  to  recover possession  must  be  waged  in an  ordinary  civil
+action. * * *’
+
+** ANALYSIS
+
+In the instant  case, when plaintiff on June 1,  1962, surrendered his
+lessor's  interest  in the  premises  to  his  landlord, he  lost  his
+possessory right in  the property as against defendant.   His right to
+recover past due rent owing to him from the defendant was relegated to
+the  processes of  an  ordinary  civil action.   His  appeal from  the
+judgment dismissing his action in unlawful detainer avails him nought.
+Accordingly, we  do not reach the  points raised on the  appeal, i.e.,
+the validity  of the service upon  the defendant of the  notice to pay
+rent or vacate.
+
+
+* CASE
+
+MacRae v. Way
+Supreme Court of Washington, Department 2. | June 4, 1964 | 64 Wash.2d 544 | 392 P.2d 827
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+washington Citation:
+
+MacRae v. Way, 64 Wn.2d 544, 392 P.2d 827 (1964)
+
+All Citations:
+
+64 Wash.2d 544, 392 P.2d 827
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 3, 2024 at 4:49 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+64 Wash.2d 544
+Supreme Court of Washington, Department 2.
+Gordon S. MacRAE, Appellant,
+v.
+Jack Eugene WAY, Jr., Respondent.
+No. 36836.
+|
+June 4, 1964.
+Synopsis
+Unlawful detainer action by lessee-sublessor against sublessee for failure to pay rent. The Superior Court, King County, George H. Revelle, J., entered judgment dismissing action, and lessee-sublessor appealed. The Supreme Court held that action could not be maintained by lessee-sublessor who had conveyed all his possessory interest in leased property to third party after service of statutory 3-day notice to pay rent or vacate and before expiration of 3-day period and commencement of action by service and filing of statutory summons and complaint, and that lessee-sublessor lost his possessory right in leased property as against sublessee and his right to recover past due rent owed him by sublessee and was relegated to process of an ordinary civil action to collect past due rent, when lessee-sublessor surrendered his lessor’s interest in the premises to lessor.
+
+Motion to dismiss appeal granted.
+
+
+
+West Headnotes (6)
+
+
+[1]
+
+Landlord and TenantProper plaintiffs
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1795Parties
+233k1795(2)Proper plaintiffs
+(Formerly 233k291(4))
+
+
+Action for unlawful detainer could not be maintained by former lessor who had conveyed all his possessory interest in leased property to third party after service of statutory 3-day notice to pay rent or vacate and before expiration of 3-day period and commencement of action by service and filing of statutory summons and complaint. RCWA 59.12.030(3).
+2 Cases that cite this headnote
+
+
+
+[2]
+
+Forcible Entry and DetainerNature and Form of Remedy
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k6Nature and Form of Remedy
+179k6(1)In general
+
+
+Unlawful detainer actions are statutorily created summary proceedings, primarily designed for purpose of hastening recovery of possession of realty. RCWA 59.12.030(3).
+8 Cases that cite this headnote
+
+
+
+[3]
+
+Forcible Entry and DetainerTrial of title and right of possession
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k6Nature and Form of Remedy
+179k6(2)Trial of title and right of possession
+
+
+Principal subject matter of unlawful detainer action is possession of subject property. RCWA 59.12.030(3).
+2 Cases that cite this headnote
+
+
+
+[4]
+
+Landlord and TenantJurisdiction
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1792Jurisdiction
+(Formerly 233k291(6.5), 233k291(61/2))
+
+
+Superior Court sits as a special statutory tribunal in unlawful detainer action and is limited to deciding primary issue of right to possession, together with statutorily designated incidents such as restitution, rent, or damages. RCWA 59.12.030(3).
+14 Cases that cite this headnote
+
+
+
+[5]
+
+Landlord and TenantSummons or other process
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1797Summons or other process
+(Formerly 233k291(1))
+
+
+Superior Court’s jurisdiction in unlawful detainer action arises out of service of statutory summons, not statutory notices to quit, pay rent, or vacate. RCWA 59.12.030(3).
+1 Case that cites this headnote
+
+
+
+[6]
+
+Landlord and TenantNature and Form of Remedy
+
+
+233Landlord and Tenant
+233VIIRent
+233VII(B)Actions
+233k1530Nature and Form of Remedy
+233k1531In general
+(Formerly 233k217(1))
+
+
+Lessee-sublessor lost his possessory right in leased property as against sublessee and was relegated to process of an ordinary civil action to collect past due rent, when lessee-sublessor surrendered his lessor’s interest in the premises to lessor. RCWA 59.12.030(3).
+1 Case that cites this headnote
+
+
+
+Attorneys and Law Firms
+*545 **828 George R. LaBissoniere, Seattle, for appellant.
+Henry Opendack, James A. Alfieri, Seattle, for respondent.
+Opinion
+
+PER CURIAM.
+
+Plaintiff appeals from a judgment dismissing his action for unlawful detainer instituted under RCW 59.12.030(3), i.e., for failure to pay rent. The basis upon which the trial court dismissed the action was that the notice to pay rent or vacate was improperly served.
+
+On the date of the alleged service of the notice to pay or vacate, May 29, 1962,1 plaintiff’s possessory interest in the property involved was that of a lessee. Defendant was plaintiff’s sub-lessee. It is undisputed that on June 1, 1962, plaintiff surrendered his leasehold interest to his lessor, who, in turn, negotiated a lease with Consolidated Moving, Inc., a newly formed Washington corporation.
+
+1
+
+It is undisputed that defendant did not receive a copy of the notice until May 31, 1962, when it was delivered to him through the mail.
+
+
+On June 6, 1962, plaintiff commenced this action in unlawful detainer by serving and filing his complaint. He posted bond and concurrently secured the issuance and service of a writ of restitution. Thirteen days later an amended complaint was filed. The amended complaint prayed for (a) the termination of the tenancy and that possession be restored to plaintiff; (b) a writ of restitution directing the sheriff to deliver possession of the premises to plaintiff; (c) recovery of $300 in back rent; and (d) reimbursement for costs and disbursements to plaintiff.
+
+The cause came on for trial on June 29, 1962, at the conclusion of which the trial court orally announced its dismissal of the action upon the grounds heretofore stated. Formal judgment of dismissal was entered on July 27, 1962, from which plaintiff appeals.
+
+*546 On the day of the trial court’s oral decision, Consolidated Moving, Inc., served defendant with a notice to pay rent or vacate, and thereafter commenced an unlawful detainer action which resulted in a judgment **829 of restoration and for back rent from June 1, 1962. No appeal has been taken from Consolidated’s judgment, and defendant quit the premises before plaintiff’s notice of appeal in this action.
+
+[1] Following plaintiff’s notice of appeal, defendant moved to dismiss, and this court, after hearing arguments upon the motion, ordered it ‘passed to the merits.’2 The issue raised by the motion to dismiss is: May an action for unlawful detainer, pursuant to RCW 59.12.030(3), be maintained by a plaintiff-lessor who has conveyed all of his possessory interest in the subject property to a third party after service of the statutory 3-day notice to pay rent or vacate and before expiration of the 3-day period and commencement of the action by service and filing of the statutory summons and complaint.
+
+2
+
+Inadvertently counsel for the parties were notified that the motion had been denied. Upon discovery of the error, counsel were advised thereof and afforded an opportunity to submit additional written arguments.
+
+
+We answer the question in the negative.
+
+[2] [3] [4] [5] Unlawful detainer actions are statutorily created summary proceedings, primarily designed for the purpose of hastening recovery of possession of real property. Wilson v. Daniels, 31 Wash.2d 633, 198 P.2d 496; Woodward v. Blanchett, 36 Wash.2d 27, 216 P.2d 228; Little v. Catania, 48 Wash.2d 890, 297 P.2d 255; Muscatel v. Storey, 56 Wash.2d 635, 354 P.2d 931; Young v. Riley, 59 Wash.2d 50, 365 P.2d 769. The principal subject matter of the action is the possession of the subject property. Stevens v. Jones, 40 Wash. 484, 82 P. 754. In such proceedings the superior court sits as a special statutory tribunal, limited to deciding the primary issue of right to possession together with the statutorily designated incidents thereto, i.e., restitution and rent or damages. It does not sit as a court of general civil jurisdiction. Stevens v. Jones, supra; Young v. Riley, supra; *547 Sundholm v. Patch, 62 Wash.2d 244, 382 P.2d 262. Such jurisdiction as the superior court obtains arises out of service of the statutory summons. It does not arise from service of the statutory notices, e.g., notice to quit, notice to pay rent or vacate. State ex rel. Robertson v. Superior Court, 95 Wash. 447, 164 P. 63.
+
+In Stevens v. Jones, supra, this court was faced with a similar problem in that plaintiff had conveyed all interest in the property prior to commencement of an analogous action.3 Under such facts, the appeal was dismissed, the rationale being that, since the ‘subject-matter of the controversy was the possession of the land,’ the controversy ‘ceased’ as between the plaintiff and defendant, when plaintiff gave up the right of possession. With regard to the plaintiff’s claim for damages, analogous to the instant claim for rent, we said (p. 40 Wash. 486, 82 P. p. 755):
+3
+
+Examination of the transcript and briefs in Stevens v. Jones, 40 Wash. 484, 82 P. 754, reveals the action to have been pursued under the provisions of RCW 59.12.030(1) and (4).
+
+
+‘* * * Any claim she may have had for damages could be waged in this summary action only as an incident to her right to possession. The right to damages is a personal one, and when unaccompanied with the right to recover possession must be waged in an ordinary civil action. * * *’
+
+[6] In the instant case, when plaintiff on June 1, 1962, surrendered his lessor’s interest in the premises to his landlord, he lost his possessory right in the property as against defendant. His right to recover past due rent owing to him from the defendant was relegated to the processes of an ordinary civil action. His appeal from the judgment dismissing his action in unlawful detainer avails him nought. Accordingly, we do not reach the points raised on the appeal, i.e., the validity of the service upon the defendant of the notice to pay rent or vacate.
+
+The motion to dismiss the appeal is granted.
+All Citations
+64 Wash.2d 544, 392 P.2d 827
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

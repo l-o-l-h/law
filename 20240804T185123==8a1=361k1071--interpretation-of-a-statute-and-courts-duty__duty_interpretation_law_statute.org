@@ -1,0 +1,10 @@
+#+title:      Interpretation of a Statute and Court's Duty
+#+date:       [2024-08-04 Sun 18:51]
+#+filetags:   :duty:interpretation:law:statute:
+#+identifier: 20240804T185123
+
+* Court's Primary Duty
+
+Court's primary duty in interpreting any statute is to discern and implement the intent of the legislature.
+- Statutes 361k1071 Intent
+- 94 Cases that cite this headnote

@@ -1,0 +1,308 @@
+#+title:      62 Wash.2d 244 Sundholm v. Patch (1963)
+#+date:       [2024-02-05 Mon 09:36]
+#+filetags:   :judgment:rlta:ud:
+#+identifier: 20240205T093654
+
+* BRIEF
+
+[2] The restrictive nature of unlawful detainer actions is also indicated by the following quotation from Young v. Riley (1961), 59 Wash.2d 50, 52, 365 P.2d 769:
+‘In an unlawful detainer action, the court sits as a special statutory tribunal to summarily decide the issues authorized by statute and not as a court of general jurisdiction with the power to hear and determine other issues.’
+
+Thus, in an unlawful detainer action the trial court can either (1) enter a judgment in favor of the defendant by dismissing the action with prejudice, or (2) render a judgment in favor of the plaintiff pursuant to RCW 59.12.120 or RCW 59.12.170.
+
+
+* CASE
+
+Sundholm v. Patch
+Supreme Court of Washington, Department 2. | May 29, 1963 | 62 Wash.2d 244 | 382 P.2d 262
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+washington Citation:
+
+Sundholm v. Patch, 62 Wn.2d 244, 382 P.2d 262 (1963)
+
+All Citations:
+
+62 Wash.2d 244, 382 P.2d 262
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 5, 2024 at 11:35 AM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+62 Wash.2d 244
+Supreme Court of Washington, Department 2.
+H. N. SUNDHOLM, Appellant,
+v.
+Alvin W. PATCH and Katherine Patch, his wife, Respondents.
+No. 36570.
+|
+May 29, 1963.
+Synopsis
+Unlawful detainer action brought by landlord wherein tenants filed a cross-complaint seeking specific performance of an alleged contract for sale of the property. From a judgment of the Superior Court, King County, F. A. Walterskirchen, J., dismissing the complaint with prejudice and granting specific performance, the plaintiff appealed. The Supreme Court, Finley, J., held that trial court did not have power to order specific performance of the contract.
+
+Judgment affirmed in part and reversed in part.
+
+
+
+West Headnotes (3)
+
+
+[1]
+
+Landlord and TenantJurisdiction
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1792Jurisdiction
+(Formerly 233k291(6.5), 233k291(61/2))
+
+
+In unlawful detainer action brought by landlord wherein tenants filed cross-complaint requesting specific performance of oral contract for sale of premises, trial court did not have power to order specific performance of the contract. RCWA 59.12.120, 59.12.170.
+11 Cases that cite this headnote
+
+
+
+[2]
+
+Landlord and TenantJudgment and enforcement thereof
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1804Judgment and enforcement thereof
+(Formerly 233k291(17))
+
+
+In an unlawful detainer action brought by landlord against tenants, court can either enter a judgment in favor of tenants by dismissing the action with prejudice or render a judgment in favor of landlord pursuant to statute. RCWA 59.12.120, 59.12.170.
+9 Cases that cite this headnote
+
+
+
+[3]
+
+Landlord and TenantWeight and sufficiency
+
+
+233Landlord and Tenant
+233ICreation and Existence of the Relation
+233k520Evidence as to Relation
+233k524Weight and sufficiency
+(Formerly 233k18(3))
+
+
+Conflicting evidence as to whether relationship of the parties was that of landlord-tenant or vendee-vendor was sufficient to support determination that plaintiff, who alleged a landlord-tenant relationship, was not entitled to the relief sought in unlawful detainer action.
+
+
+
+
+Attorneys and Law Firms
+*244 **262 Stuart K. Nielsen, Seattle, for appellant.
+Warren Hardy, Seattle, for respondents.
+Opinion
+
+FINLEY, Judge.
+
+Mr. Sundholm, plaintiff-appellant, commenced this lawsuit as an unlawful detainer action. The summons and complaint complied with RCW 59.12.070 and RCW 59.12.080. Mr. and Mrs. Patch, defendants-respondents, were served with the required three-day notice, which is a condition precedent to the effectuation of an unlawful detainer action. Thus, there is no question that this action was initiated as, and was in fact and law an unlawful detainer action.
+[1] The complaint of plaintiff Sundholm alleged the existence of a landlord-tenant relationship and requested (a) restitution as to possession of the real estate, (b) the statutory doubling of arrearages in rent, and (c) costs. In their answer the defendants denied the existence of a landlord-tenant relationship and, by cross-complaint, alleged that they were the vendees, by virtue of an oral contract of the real property described in the plaintiff’s complaint, and the plaintiff was the vendor. In their cross-complaint defendants *245 requested the trial court to grant such equitable relief as would be necessary to enforce an alleged contract for the sale of the real property.
+
+The plaintiff objected to the trial court’s acting upon the request for affirmative relief in defendants’ cross-complaint. These objections were made both prior to the introduction of evidence and again after the trial court rendered its oral opinion. In connection with the second objection, the following colloquy took place:
+‘MR. NIELSEN: We have not submitted it as a case of equity.
+
+‘THE COURT: There is only one form of action in the State of Washington.
+
+‘MR. NIELSEN: The Supreme Court has said differently.
+
+‘THE COURT: It may have another chance to say to then. I am **263 satisfied this is an equity case. It is an equity case made so by the cross complaint.
+
+‘MR. NIELSEN: There is a case that specifically does not make it so unless the plaintiff joins.’
+
+The trial court thereafter entered judgment (1) dismissing plaintiff’s complaint with prejudice and awarding costs to the defendants, and (2) granting defendants’ request for specific performance of an oral contract which the trial court regarded as having been substantially performed and, consequently, not subject to the purview of the statute of frauds. The trial judge, in ordering the latter mentioned relief for the defendants, either was unaware of the very limited scope of his jurisdiction in special statutory unlawful detainer actions or was hoping to do some fireside equity, settling all the rights, and terminating the entire dispute between the parties. Admirable as the latter may be in terms of avoiding technicalities, unnecessary costs and delay, and multiplicity of lawsuits, this is simply not possible under the existing state statutes and the decisions of this court relative to actions for unlawful detainer.
+In Little v. Catania (1956), 48 Wash.2d 890, 893, 297 P.2d 255, the court stated:
+‘The special summons employed was wholly insufficient to give the court jurisdiction of the parties in a general proceeding. Jeffries v. Spencer, 86 Wash. 133, 149 P. 651; *246 State ex rel. Seaborn Shipyards Co. v. Superior Court, supra [102 Wash. 215, 172 P. 826]. The court obtained jurisdiction of the parties for a limited statutory purpose only—namely, to determine the issue of possession in an unlawfuly detainer action. Having obtained that limited jurisdiction, the court could not transform the special statutory proceedings into an ordinary lawsuit, and determine the issues and grant relief therein as though the action was a general proceeding.’ (Italics ours.)
+
+[2] The restrictive nature of unlawful detainer actions is also indicated by the following quotation from Young v. Riley (1961), 59 Wash.2d 50, 52, 365 P.2d 769:
+‘In an unlawful detainer action, the court sits as a special statutory tribunal to summarily decide the issues authorized by statute and not as a court of general jurisdiction with the power to hear and determine other issues.’
+
+Thus, in an unlawful detainer action the trial court can either (1) enter a judgment in favor of the defendant by dismissing the action with prejudice, or (2) render a judgment in favor of the plaintiff pursuant to RCW 59.12.120 or RCW 59.12.170.
+
+[3] In the instant case the evidence was strongly conflicting as to whether the relationship of the parties was that of landlord-tenant or vendee-vendor with respect to the real estate. Perhaps it is significant that the trial judge in his oral opinion, among other things, stated:
+‘If I have to choose between which one is telling the truth and which one is a perjurer, then Mr. Sundholm is the perjurer * * *’
+
+
+In any event, under the substantial evidence test or rule applicable to such situations, it can be said that the evidence in the record is sufficient to support the determination by the trial judge that the plaintiff is not entitled to the relief sought in this unlawful detainer action. Such a determination having been reached by the trial judge, the only alternative available to him was to enter judgment in favor of the defendant, dismissing the complaint with prejudice. Consequently, the portion of the trial court’s judgment which dismissed the plaintiff’s complaint with prejudice *247 and awarded costs to the defendant is affirmed. In all other respects the judgment of the trial court is reversed. The parties each having prevailed in part shall assume their own costs on appeal.
+OTT, C. J., and DONWORTH, WEAVER and HAMILTON, JJ., concur.
+All Citations
+62 Wash.2d 244, 382 P.2d 262
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+* CITING CASES
+
+        Treatment	Title	Date	Type	Depth	Headnote(s)
+
+Discussed by
+1.Dollhouse Property Management, LLC v. University Used & Rare Books, Inc.Quotes KeyCited case
+
+2000 WL 1469329, *2+, Wash.App. Div. 1
+
+Dollhouse Property Management filed a complaint for unlawful detainer against Caf' Mozart, Inc. and Robyne Rutherford. The trial court found Rutherford guilty of an unlawful...
+Oct. 02, 2000	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Cited by
+2.M H 2 Co. v. Hwang
+Recent views - .
+
+16 P.3d 1272, 1274+, Wash.App. Div. 3
+
+REAL PROPERTY - Landlord and Tenant. Older rental defaults were not subject to unlawful detainer.
+Feb. 01, 2001	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Cited by
+3.Housing Authority of City of Tacoma, Wash. v. Horn
+
+1998 WL 564072, *2, Wash.App. Div. 2
+
+The Tacoma Housing Authority (THA) filed an unlawful detainer action against Hea Horn and John Allison because Allison allegedly fired a rifle in the driveway of the apartment...
+Sep. 04, 1998	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Cited by
+4.Kelly v. Powell
+
+776 P.2d 996, 1000+, Wash.App. Div. 1
+
+Landlord sued for unlawful detainer, and tenants counterclaimed for specific performance of alleged option to purchase.   The Superior Court, King County, Donald Haley, J., entered...
+Aug. 07, 1989	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Cited by
+5.Snuffin v. Mayo
+
+494 P.2d 497, 499, Wash.App. Div. 2
+
+Action was brought for unlawful detainer by purchaser of agricultural land. The Superior Court, Kitsap County, Jay W. Hamilton, J., entered a judgment on October 16, 1970, in...
+Mar. 03, 1972	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Cited by
+6.Peoples Nat. Bank of Wash. v. Ostrander
+
+491 P.2d 1058, 1060, Wash.App. Div. 3
+
+Purchaser at trustee's sale brought unlawful detainer action against grantors of trust deed to obtain possession of real property and the grantors filed cross complaint by which...
+Dec. 15, 1971	Case
+—
+
+Mentioned by
+7.Parker v. Garcia
+
+399 P.2d 73, 74, Wash.
+
+Action to recover possession of certain property. The Superior Court, Skagit County, Charles F. Stafford, J., granted specific performance on cross complaint and ordered...
+Feb. 08, 1965	Case
+1Headnote Description
+P.2d
+
+Mentioned by
+8.Tuschoff v. Westover
+
+395 P.2d 630, 632, Wash.
+
+Three consolidated actions. The first was by landlords for alleged unlawful detainer. The second was by tenants for forcible entry and detainer, and the third was by tenants for...
+Oct. 08, 1964	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Mentioned by
+9.MacRae v. Way
+Recent views - .
+
+392 P.2d 827, 829, Wash.
+
+Unlawful detainer action by lessee-sublessor against sublessee for failure to pay rent. The Superior Court, King County, George H. Revelle, J., entered judgment dismissing action,...
+June 04, 1964	Case
+1Headnote Description
+P.2d
+
+Mentioned by
+10.Fife Properties v. Occupational Medical Clinic of Fife, Inc.
+
+1998 WL 856561, *4, Wash.App. Div. 2
+
+In this unlawful detainer action, the trial court found the tenant, Occupational Medical Clinic of Fife, Inc. (Clinic), in lawful possession of the leased premises and it awarded...
+Dec. 11, 1998	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Mentioned by
+11.Lees v. Wardall
+
+554 P.2d 1076, 1079, Wash.App. Div. 1
+
+Tenants filed a forcible entry action against their former landlords. The Superior Court, Kings County, Edward E. Henry, J., entered order dismissing action, and tenants appealed....
+Sep. 27, 1976	Case
+1Headnote Description
+2Headnote Description
+P.2d
+
+Mentioned by
+12.Hill v. Hill
+
+477 P.2d 931, 935, Wash.App. Div. 1
+
+Divorce wife sued former husband to recover possession of home and to recover rent due and for other relief. The Superior Court, King County, Docket No. D 10959, Frank H. Roberts,...

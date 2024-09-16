@@ -1,0 +1,25 @@
+#+title:      Declaratory Judgments Act Overview
+#+date:       [2024-02-29 Thu 16:59]
+#+filetags:   :declaratory:
+#+identifier: 20240229T165900
+
+* Ch. 7.24 RCW Declaratory Judgments Act
+** RCW 7.24.010 Authority
+
+Courts of record within their respective jurisdictions shall have power to declare rights, status and other legal relations whether or not further relief is or could be claimed. An action or proceeding shall not be open to objection on the ground that a declaratory judgment or decree is prayed for. The declaration may be either affirmative or negative in form and effect; and such declarations shall have the force and effect of a final judgment or decree.
+
+** RCW 7.24.020 Rights and Statuses Under Written Instruments, etc.
+
+A person interested under a deed, will, written contract or other writings constituting a contract, or whose rights, status or other legal relations are affected by a statute, municipal ordinance, contract or franchise, may have determined any question of construction or validity arising under the instrument, statute, ordinance, contract or franchise and obtain a declaration of rights, status or other legal relations thereunder.
+
+** RCW 7.24.080 Further Relief
+
+Further relief based on a declaratory judgment or decree may be granted whenever necessary or proper. The application therefor shall be by petition to a court having jurisdiction to grant the relief. When the application is deemed sufficient, the court shall, on reasonable notice, require any adverse party whose rights have been adjudicated by the declaratory judgment or decree, to show cause why further relief should not be granted forthwith.
+
+** RCW 7.24.090 Determination of Issues of Fact
+
+When a proceeding under this chapter involves the determination of an issue of fact, such issue may be tried and determined in the same manner as issues of fact are tried and determined in other civil actions, in the court in which the proceeding is pending.
+
+** RCW 7.24.100 Costs
+
+In any proceeding under this chapter, the court may make such award of costs as may seem equitable and just.

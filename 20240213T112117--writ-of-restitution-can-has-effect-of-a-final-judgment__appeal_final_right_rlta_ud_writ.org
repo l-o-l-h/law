@@ -1,0 +1,39 @@
+#+title:      Writ of Restitution Can Has Effect of a Final Judgment
+#+date:       [2024-02-13 Tue 11:21]
+#+filetags:   :appeal:final:right:rlta:ud:writ:
+#+identifier: 20240213T112117
+
+* Show Cause Treated as a Final Ruling
+
+Mr. Hernandez alternatively contends the superior court’s order
+directing the issuance of a writ of restitution is not appealable as a
+matter of right because it is not a “final judgment.” See RAP
+2.2(a)(1).
+
+This claim has some facial appeal. “A show cause hearing is a summary
+proceeding to determine the question of possession pending suit; it is
+not a final determination of the parties’ rights.” Kiemle & Hagood
+Co. v. Daniels, 26 Wn. App. 2d 199, 211, 528 P.3d 834 (2023).
+
+But here, the parties and the superior court treated the show cause
+determination as a final ruling. After denying Ms. France’s motion for
+reconsideration, the court asked Mr. Hernandez’s attorney if they were
+requesting any further orders or additional action. The attorney did
+not make any requests.
+
+Given the superior court resolved all of Mr. Hernandez’s apparent
+concerns, we must review the issuance of the writ of restitution
+because, “in effect,” it substantively “discontinue[d] the action.”
+- RAP 2.2(a)(3);
+- see Herdson v. Fortin, 26 Wn. App. 2d 628, 635, 530 P.3d 220 (2023)
+  (noting that finality is a matter of substance and not form);
+- see also Klee v. Snow, 27 Wn. App. 2d 19, 26-27, 531 P.3d 788 (2023)
+  (treating issuance of a writ of restitution as a final judgment).
+
+
+Mr. Hernandez may not unilaterally prevent Ms. France from obtaining
+appellate review of her eviction simply because he declined to
+formally prosecute his case to final judgment.
+
+
+- Hernandez v. France, No. 39548-1-III (2024) [UNPUBLISHED]

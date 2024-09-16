@@ -1,0 +1,22 @@
+#+title:      Evicted Tenant Has Right to Trial on Issue of Possession
+#+date:       [2024-02-13 Tue 09:29]
+#+filetags:   :possession:right:rlta:trial:ud:
+#+identifier: 20240213T092912
+
+* Voluntary Dismissal of Unlawful Detainer Action Under CR 41(a)(1)(B).
+
+A tenant dispossessed by writ of restitution has a right to a trial on
+the issue of possession under both the unlawful detainer statute (RCW
+59.12.130) and the Residential Landlord–Tenant Act (RCW 59.18.380 and
+.410).
+- Munden v. Hazelrigg, 105 Wash.2d 39, 45, 711 P.2d 295 (1985);
+- Housing Auth. v. Pleasant, 126 Wash.App. 382, 389, 109 P.3d 422 (2005).
+
+
+The issue is not moot merely because the tenant no longer has
+possession; a displaced tenant who does not concede the right of
+possession is entitled to have that right determined.
+- Pleasant, 126 Wash.App. at 389, 109 P.3d 422.
+
+
+- Triune Family Charitable Remainder Unitrust v. Pfeifer, 157 Wn. App. 1045 (2010)

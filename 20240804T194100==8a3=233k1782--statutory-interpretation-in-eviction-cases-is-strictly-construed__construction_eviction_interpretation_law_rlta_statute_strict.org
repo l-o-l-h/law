@@ -1,0 +1,20 @@
+#+title:      Statutory Interpretation in Eviction Cases is Strictly Construed
+#+date:       [2024-08-04 Sun 19:41]
+#+filetags:   :construction:eviction:interpretation:law:rlta:statute:strict:
+#+identifier: 20240804T194100
+
+* Eviction Statutes are Strictly Construed in Favor of the Tenants
+
+** Landlord and Tenant 233k1782 Statutory provisions
+
+- 233 LANDLORD AND TENANT 4,612
+  - 233VIII Reentry and Recovery of Possession by Landlord 852
+    - 233VIII(D) Actions for Unlawful Detainer 664
+      - 233k1782 Statutory provisions 40
+
+Unlawful detainer statutes are strictly construed in favor of the tenant.
+
+¶29 The unlawful detainer statutes, chapters 59.12 and 59.18 RCW, are
+strictly construed in favor of the tenant. _Randy Reynolds & Assocs.,
+Inc. v. Harmon_, 193 Wash.2d 143, 156, 437 P.3d 677 (2019).
+- _Princeton Prop. Mgmt., Inc. v. Allen_, 550 P.3d 56, 62 (Wash. Ct. App. 2024)

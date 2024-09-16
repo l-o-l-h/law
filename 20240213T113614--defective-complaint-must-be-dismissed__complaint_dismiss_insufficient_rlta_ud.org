@@ -1,0 +1,24 @@
+#+title:      Defective Complaint Must be Dismissed
+#+date:       [2024-02-13 Tue 11:36]
+#+filetags:   :complaint:dismiss:insufficient:rlta:ud:
+#+identifier: 20240213T113614
+
+* A Complaint that is Defective Must Be Dismissed (No Right to Amend)
+
+Mr. Hernandez also contends dismissal is an inappropriate remedy
+because Ms. France did not expressly move for dismissal at the show
+cause hearing.
+
+But a party may always raise their opponent’s “failure to establish
+facts upon which relief can be granted” for the first time on
+appeal. RAP 2.5(a)(2).
+
+And here, dismissal is the proper remedy for that error.
+- See Brewer, 25 Wn. App. 2d at 858;
+- see also Sundholm, 62 Wn.2d at 246-47 (holding, where plaintiff was
+  “not entitled to the relief sought” in their complaint, “the only
+  alternative available” to the court was to dismiss the complaint
+  with prejudice).
+
+
+- Hernandez v. France, No. 39548-1-III (2024) [UNPUBLISHED]

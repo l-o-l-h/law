@@ -1,0 +1,32 @@
+#+title:      Nature of Unlawful Detainer Action
+#+date:       [2024-04-18 Thu 10:46]
+#+filetags:   :cause:ud:nature:
+#+identifier: 20240418T104654
+
+* Discussion of General Nature of an Unlawful Detainer Action
+
+- /Landes v. Cuzdey/, 26 Wash. App. 2d 1043 (2023) [UNREPORTED]
+
+- Summary Proceeding
+Chapter 59.12 RCW  governs unlawful detainer actions and  allows for a
+summary proceeding that provides an  expedited means for landlords and
+tenants  to   resolve  competing   claims  to  possession   of  leased
+property. /Angelo Prop.  Co. v. Hafiz/, 167 Wn. App.  789, 808, 274 P.3d
+1075  (2012).
+
+- Alternaative action to ejectment
+An unlawful detainer action is an alternative to the common law action
+of ejectment. /River Stone Holdings NW, LLC v. Lopez/, 199 Wn. App.  87,
+92, 395 P.3d  1071 (2017).
+
+- Limited to issues relating to possession of property, restitution, rent
+Unlawful detainer actions are  “limited to resolving questions related
+to possession of  property and related issues like  restitution of the
+premises and  rent.”  /Id./
+
+- Issues unrelated to possession not allowed
+Issues  unrelated to  possession  cannot be  resolved  in an  unlawful
+detainer action;  those issues  must be addressed  in a  general civil
+action.  /Angelo Prop./, 167 Wn. App. at 809.
+
+- Landes v. Cuzdey, 26 Wn. App. 2d 1043 (2023)

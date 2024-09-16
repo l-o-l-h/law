@@ -1,0 +1,254 @@
+#+title:      99 Wash.2d 564 Granat v. Keasler (1983)
+#+date:       [2024-02-03 Sat 13:31]
+#+filetags:   :case:jurisdiction:rlta:
+#+identifier: 20240203T133122
+
+* BRIEF
+
+* CASE
+
+Granat v. Keasler
+Supreme Court of Washington, En Banc. | May 19, 1983 | 99 Wash.2d 564 | 663 P.2d 830
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Concurring Opinion
+All Citations
+
+washington Citation:
+
+Granat v. Keasler, 99 Wn.2d 564, 663 P.2d 830 (1983)
+
+All Citations:
+
+99 Wash.2d 564, 663 P.2d 830
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 3, 2024 at 3:28 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+99 Wash.2d 564
+Supreme Court of Washington, En Banc.
+Frank GRANAT, Jr., Respondent,
+v.
+William KEASLER, Appellant.
+No. 48917–3
+|
+May 19, 1983.
+Synopsis
+Moorage owner brought unlawful detainer action against floating home owners. The Superior Court, King County, Stephen M. Reilly, J., held unconstitutional a section of city’s ordinance regulating the eviction of floating home tenants from their moorages and granted partial summary judgment in favor of moorage owner, floating home owners appealed, and the appeal was transferred from the Court of Appeals. The Supreme Court, Dore, J., held that: (1) section of city ordinance which governed the eviction of floating home tenants from their moorages and which required that moorage owner locate another lawful moorage site within the city for displaced floating home owner was a deprivation of moorage owner’s property without just compensation, in violation of State and Federal Constitutions, since moorage owner was prohibited from the intended use of the property, but not the floating home owner, and (2) counterclaims may not be asserted in an unlawful detainer action.
+
+Affirmed and remanded.
+
+Procedural Posture(s): On Appeal; Motion for Summary Judgment.
+
+
+West Headnotes (5)
+
+
+[1]
+
+Municipal CorporationsPresumptions and burden of proof
+
+
+268Municipal Corporations
+268IVProceedings of Council or Other Governing Body
+268IV(B)Ordinances and By-Laws in General
+268k122.1Evidence
+268k122.1(2)Presumptions and burden of proof
+(Formerly 268k122(2))
+
+
+Any ordinance passed is presumed constitutional, and party challenging the classification has heavy burden of overcoming the presumption of its constitutionality.
+6 Cases that cite this headnote
+
+
+
+[2]
+
+StatesLimitations on exercise of police power
+
+
+360States
+360IStatus, Powers, and Functions
+360I(A)In General
+360k308Government Powers
+360k310Police Power
+360k310(5)Limitations on exercise of police power
+(Formerly 360k21(2), 92k1066, 92k81)
+
+
+An exercise of police power is subject to judicial review and must pass the test of reasonableness.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+Eminent DomainWaters and Water Courses;  Flooding
+
+
+148Eminent Domain
+148INature, Extent, and Delegation of Power
+148k2What Constitutes a Taking;  Police and Other Powers Distinguished
+148k2.17Waters and Water Courses;  Flooding
+148k2.17(1)In general
+(Formerly 148k2(10))
+
+
+Section of city ordinance which governed the eviction of floating home tenants from their moorages and which required that moorage owner locate another lawful moorage site within the city for displaced floating home owner was a deprivation of moorage owner’s property without just compensation, in violation of State and Federal Constitutions, since moorage owner was prohibited from the intended use of the property, but not the floating home owner. West’s RCWA Const. Art. 1, § 16; U.S.C.A. Const.Amend. 5.
+6 Cases that cite this headnote
+
+
+
+[4]
+
+Forcible Entry and DetainerDefenses
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k12Defenses
+179k12(1)In general
+
+
+Counterclaims may not be asserted in an unlawful detainer action.
+21 Cases that cite this headnote
+
+
+
+[5]
+
+Forcible Entry and DetainerNature and Form of Remedy
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k6Nature and Form of Remedy
+179k6(1)In general
+
+
+In an unlawful detainer action, court sits as a special statutory tribunal to summarily decide the issues authorized by statute, and not as a court of general jurisdiction with the power to hear and determine other issues.
+21 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*564 **830 Perkins, Coie, Stone, Olsen & Williams, Lawrence B. Ransom, Seattle, for appellant.
+*565 **831 Olwell, Boyle & Hattrup, Clinton H. Hattrup, Rodney T. Harmon, Seattle, for respondent.
+Opinion
+
+DORE, Justice.
+
+This appeal raises the issue of the constitutionality of Seattle ordinance 109280 § 3, regulating the eviction of floating home tenants from their moorages. The City of Seattle initially enacted a houseboat ordinance, 107012, in December 1977, prohibiting the eviction of houseboats under certain circumstances and providing for nonbinding arbitration of moorage rents. Section 2(6) of the original ordinance explicity provided there could be no eviction unless
+The floating home owner is directed by the moorage owner to remove his or her home from its moorage site by a written notice given at least six months prior to the demanded date of removal where the purpose of such demand for removal is to permit the moorage owner to personally occupy such moorage site with a floating home to be used as such owner’s residence, provided that such demand for removal is not contrary to any existing lease agreement between the moorage owner and such floating home owner and that such moorage owner locates for the displaced floating home owner another lawful moorage site within The City of Seattle.
+(Italics ours.)
+
+A unanimous court in Kennedy v. Seattle, 94 Wash.2d 376, 617 P.2d 713 (1980) held section 2 of Seattle ordinance 107012 unconstitutional, stating at pages 386–87, 617 P.2d 713:
+Sections 2(5) and (6) deprive the moorage owner of any personal use of the moorage and in effect give a houseboat owner a perpetual right to use the moorage. We hold section 2 of Seattle ordinance No. 107012 to be unconstitutional.
+
+Prior to the announcement of the Kennedy decision, the Seattle City Council passed ordinance 109280 amending and superceding the first ordinance. The City Council then amended the eviction provisions once more by ordinance 109630.
+
+Section 3(6) of ordinance 109280 provides:
+*566 The floating home owner is directed by the moorage owner to remove his or her home from its moorage site by a written notice given at least four months prior to the demanded date of removal where the purpose of such demand for removal is to permit the moorage owner to convert the moorage site to a personal or other non-commercial use or to personally occupy such moorage site with a floating home to be used as such owner’s residence, provided that such demand for removal is not contrary to any existing lease agreement between the moorage owner and such floating home owner and that such moorage owner locates another lawful moorage site within the City for the displaced floating home owner.
+Section 14 of ordinance 109280 contains a severability clause.
+
+
+I
+Respondent Granat is the owner of submerged property at 2201 Fairview Avenue East on Lake Union in Seattle. Appellants Keasler and Douglas own houseboats moored on Granat’s moorage facility, renting the space at the rate of $195 per month. Granat also operates a houseboat moorage facility at 2321 Fairview Avenue East, also on Lake Union.
+
+When Granat demanded an increase in rent in September 1980, tenants Keasler and Douglas filed petitions seeking review by the Seattle hearing examiner of the reasonableness of the demanded moorage fee increase, pursuant to sections 5–9 of ordinance 109380. On October 4 and 15, 1980, Keasler and Douglas received letters from Granat demanding the removal of their houseboats from his moorage by February 1, 1981. Granat wanted to switch the houseboats at the 2201 moorage owned by the tenants with two houseboats owned by Granat which were moored at the 2321 moorage.
+
+The tenants wrote Granat that they did not intend to move and did not recognize the validity of the notice given to them. **832 Granat then commenced an unlawful detainer action against them. A motion and cross-motion for summary judgment were heard by Judge Reilly on July 22, 1981. The tenants raised ordinance 109280 as a defense to *567 the action, citing the sections of the ordinance which limit the reasons for which a moorage owner may lawfully demand and bring about the removal of a floating home from a moorage site. Granat countered that the ordinance, as applied to the specific facts of the case, imposed an unconstitutional taking of his property without compensation. Granat argued that the eviction provisions of the ordinance were designed to protect against the danger of eviction of a houseboat with no place to go, emphasizing that in the present case he was offering tenants alternative moorage sites. Judge Reilly held section 3 of ordinance 109280, which contained language identical to that contained in section 2 of the ordinance under attack in Kennedy, was unconstitutional as a taking of private property without compensation, and granted partial summary judgment for Granat.
+
+In an oral opinion, Judge Reilly gave the basis for his partial summary judgment as follows: (1) the City could not constitutionally require Granat to relocate Douglas and Keasler; (2) section 3 of the ordinance prevented a landlord from removing a tenant’s houseboats to make room for his own houseboats, and (3) section 3 of the ordinance was unconstitutional because it prevented Granat from using the site to rent out his houseboats, while nothing prevented tenants from renting out their houseboats. There were two factual issues which then remained: whether the eviction was timely mailed, and whether Granat had commenced the action vindictively against Keasler for exercising his rights, a violation of section 4 of the ordinance.
+
+At trial before Judge Dixon on July 30, 1981, Keasler struck his retaliation defense, and testimony was taken concerning the service of the eviction notices. Judgments adverse to the defendants were entered on August 20, 1981. The judgments authorized the issuance of a writ of restitution, but were not conditioned upon Granat’s providing alternative moorage sites. The appeal was transferred from the Court of Appeals to this court under RAP 4.2(a)(2) and (4). On March 17, 1982, Granat and Douglas negotiated a *568 settlement and Douglas’ appeal was dismissed. The case Granat v. Keasler continues here.
+
+
+II
+We first address the issue of whether section 3 of Seattle ordinance 109280, as amended by ordinance 109630, imposes an unconstitutional taking of private property without just compensation.
+
+[1] [2] Any ordinance passed is presumed constitutional and the party challenging the classification has the heavy burden of overcoming the presumption of its constitutionality. Yakima Cy. Deputy Sheriff’s Ass’n v. Board of Comm’rs, 92 Wash.2d 831, 835, 601 P.2d 936 (1979). An exercise of the police power, as is present here, is subject to judicial review and must pass the test of reasonableness. Petstel, Inc. v. County of King, 77 Wash.2d 144, 459 P.2d 937 (1969). In Petstel, we held that to meet the judicial test of reasonableness, a regulation under the police power (1) must be reasonably necessary in the interest of the public health, safety, morals and the general welfare, (2) must be substantially related to the evil sought to be cured, and (3) the classes of businesses, products or persons regulated, or the various classes within the legislation must be reasonably related to the legitimate object of the legislation.
+
+[3] The Petstel court then went on to note at page 155:
+
+These ... tests represent the limits of judicial review of legislative enactments under the police power. The courts will not examine the motives of the legislative body; they will not require factual justification for the legislation if it can reasonably be presumed; and the courts will not weigh the wisdom of the particular legislation enacted.
+In Kennedy v. Seattle, supra, this court examined the provisions of ordinance **833 107012, the predecessor to the ordinance now at issue. There the court found the eviction requirement of the ordinance unconstitutionally prohibitory and confiscatory. The Kennedy court was presented with the issue of whether the ordinance was a valid exercise of the police power or a taking or damaging of private *569 property for public use in violation of Const. Art. 1, § 16, and the fifth amendment to the United States Constitution. This court there followed the test established in Maple Leaf Investors, Inc. v. Department of Ecology, 88 Wash.2d 726, 731, 565 P.2d 1162 (1977):
+The question essentially is one of social policy which requires the balancing of the public interest in regulating the use of private property against the interests of private landowners not to be encumbered by restrictions on the use of their property.
+See also Peterson v. Department of Ecology, 92 Wash.2d 306, 596 P.2d 285 (1979). The Kennedy court found the limitations on the use by the moorage owner to be so restrictive as to amount to a taking of unconstitutional dimensions, stating that to require a landlord to locate a nonexistent moorage for a houseboat owner before the residence of the landlord can be moved to the property is not reasonable. Kennedy, 94 Wash.2d at 386, 617 P.2d 713.
+
+More recently, this court faced the issue of the constitutionality of section 5 of ordinance 109280, as amended by ordinance 109986, in Jeffery v. McCullough, 97 Wash.2d 893, 652 P.2d 9 (1982). Addressing the rent control provisions of the ordinance, we held that moorage owners had not been denied property without just compensation.
+
+In Department of Natural Resources v. Thurston Cy., 92 Wash.2d 656, 669, 601 P.2d 494 (1979), this court upheld a regulation which protected the habitat of bald eagles, stating that a determination of whether a particular regulation imposed an unconstitutional taking of private property for public use involved a consideration of “the type of encumbrance imposed” and “whether the owner is thereby prevented from making a profitable use of the property”. In Carlson v. Bellevue, 73 Wash.2d 41, 435 P.2d 957 (1968), cited by the court in the above case, this court adopted the following rule related to “taking” analysis:
+[T]o sustain an attack upon the validity of a zoning ordinance, an aggrieved property owner must show that if the ordinance is enforced the consequent *570 restrictions on his property preclude its use for any purpose to which it is reasonably adapted. He is required to show that there is no possibility for profitable use under the restrictions of the ordinance, or alternatively that the greater part of the value of the property is destroyed by it, although there may be some slight use remaining. Adaptability, it has been declared, envisages economic as well as functional use, and assumes not the most profitable use, but that some permitted use can be profitable.
+Carlson, at 51, 435 P.2d 957 (quoting 8 E. McQuillin, Municipal Corporations § 25.45, 117 (3d ed. rev. 1965)).
+
+Granat argues that Carlson, Peterson, Department of Natural Resources, Petstel, and Maple Leaf are all distinguishable because the challenged land use regulations in those cases prohibited everyone from using the land in the manner sought by the landowner. Here, Granat argues, the landlord is prohibited from the intended use of the property, but not the tenant. We agree.
+
+We hold that section 3 of ordinance 109280 is a deprivation of property without just compensation and violates the fifth amendment of the United States Constitution and article 1, section 16 of the Washington State Constitution.1
+
+1
+
+In light of our declaration regarding the unconstitutionality of section 3 of ordinance 109280, that section obviously cannot be used as an affirmative defense in an unlawful detainer action.
+
+
+
+III
+We next address the issue of whether counterclaims may be asserted as an affirmative defense in an unlawful detainer action. In its order of partial summary **834 judgment, the trial court struck the tenants’ counterclaims, dismissing them without prejudice.
+
+[4] [5] It has long been settled that counterclaims may not be asserted in an unlawful detainer action. Young v. Riley, 59 Wash.2d 50, 365 P.2d 769 (1961); Woodward v. Blanchett, 36 Wash.2d 27, 216 P.2d 228 (1950). In so holding, the courts have acknowledged the Legislature’s intent to create a summary procedure and limit the issue to the landlord’s *571 right of possession. In an unlawful detainer action, the court sits as a special statutory tribunal to summarily decide the issues authorized by statute and not as a court of general jurisdiction with the power to hear and determine other issues. Young, 59 Wash.2d at 52, 365 P.2d 769.
+
+
+IV
+We hold section 3 of Seattle ordinance 109280 unconstitutional as it deprives moorage landlords of property without just compensation, thus violating the fifth amendment to the United States Constitution and article 1, section 16 of the Washington State Constitution.
+
+We affirm Judge Reilly’s order under date of July 24, 1981 and Judge Dixon’s judgment under date of August 20, 1981, as such order and judgment pertain to Keasler.
+
+The case is remanded to the superior court for issuance of a writ of restitution directed to Keasler, restoring the possession of the property at 2201 Fairview Avenue, East, Seattle, Washington to the plaintiff.
+
+The plaintiff is awarded his statutory costs.
+
+WILLIAM H. WILLIAMS, C.J., and ROSELLINI, STAFFORD, BRACHTENBACH, DOLLIVER, DIMMICK and PEARSON, JJ., concur.
+
+
+UTTER, Justice (concurring).
+
+I concur in the result reached by the majority. I seriously question, however, whether the facts of this case amount to a “taking” or “damaging” as prohibited by Const. art. 1, § 16. I would prefer to follow the approach of the New York court in Fred F. French Investing Co., Inc. v. New York, 39 N.Y.2d 587, 350 N.E.2d 381, 385 N.Y.S.2d 5 (1976). There the court held that regulations which require the owner of private property to keep it as parks, without buildings and open for public use, did not amount to a taking because they did not enrich the City in its “enterprise capacity”. Liability was found, however, on the ground that the regulations unreasonably deprived the owner of property rights in the land, thereby depriving him of private property without due process. For an excellent discussion of the problems involved in our current approach *572 to unconstitutional takings of private property without just compensation, see Stoebuck, Police Power, Takings, and Due Process, 37 Wash. & Lee L.Rev. 1057 (1980).
+
+All Citations
+99 Wash.2d 564, 663 P.2d 830
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

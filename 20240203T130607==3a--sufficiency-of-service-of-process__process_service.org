@@ -1,0 +1,17 @@
+#+title:      Sufficiency of Service of Process
+#+date:       [2024-02-03 Sat 13:06]
+#+filetags:   :process:service:
+#+identifier: 20240203T130607
+
+* Party Attacking Sufficiency of Service Process needs Clear and Convincing Evidence
+
+[See => [[denote:20240203T123942][coa  4 Wash. App. 2d 8 Castellon v. Rodriguez]]]
+
+The party attacking the sufficiency of the service carries the burden to show by clear and convincing *17 proof that it was improper. Allen v. Starr, 104 Wash. 246, 247, 176 P. 2 (1918); Leen v. Demopolis, 62 Wash. App. 473, 478, 815 P.2d 269 (1991).
+
+
+Castellon v. Rodriguez, 4 Wn. App. 2d 8, 16–17, 418 P.3d 804, 809 (2018)
+
+
+- _Allen v. Starr_, 104 Wash. 246, 247, 176 P. 2 (191)
+- _Leen v. Demopolis_, 62 Wash. App. 473, 478, 815 P.2d 269 (1991)

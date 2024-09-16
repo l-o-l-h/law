@@ -1,0 +1,36 @@
+#+title:      Julie Marie Heston v. Ed L. Christensen
+#+date:       [2024-06-21 Fri 11:40]
+#+filetags:   :coa:rtc:ud:
+#+identifier: 20240621T114006
+
+PUBLISHED -- MAY 23, 2024
+
+* Procedure
+Former T sued former LL for 12 causes of action, including SOID and wrongful withholding of security deposit.
+TC granted SJ on 10 of the 12 claims.
+LL appealed.
+COA affirmed.
+
+* Facts
+- T obtained RA
+- LL was asked to sign the TRAP, but refused.
+- LL then demanded full payment of rent or he would begin eviction action.
+- T surrendered the premises a few months later.
+- T requested return of her security deposit
+- LL retained the security deposit as part of the final accounting
+- LL also demanded interest on unpaid rent
+
+* Claims
+1. SOID - RCW 59.18.255
+2. Illegal charges and late fees - RCW 59.18.625
+10. [@10] Wrongful retention of security deposit - RCW 59.18.280
+11. Dismissed
+12. Dismissed
+
+
+- SJ moved for 1-10
+- TC entered judgment for T against LL for counts 1-10
+- Atty fees - RCW 59.18.255, .280, and .625
+- SOID judgment for 4.5 times monthly rent
+- Late charges judgment 2.5 times monthly rent (Counts 2-9)
+- Security deposit charge

@@ -1,0 +1,10 @@
+#+title:      Statutory Interpretation Plain Meaning Rule
+#+date:       [2024-05-16 Thu 07:52]
+#+filetags:   :construction:statutory:
+#+identifier: 20240516T075244
+
+* Plain Meaning Rule
+
+[[denote:20240516T072543::#h:7ABAE137-E1BD-4256-844D-A3AE09D54C98][Watkins v. ESA Management, LLC [2024-04-26 Fri] No. 85225-6-I, 2024 WL 1854475]]
+
+A court rule must be given its plain meaning, and when the language is clear a court cannot construe it contrary to its plain language.

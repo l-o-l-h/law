@@ -1,0 +1,132 @@
+#+title:      102 Wash. App. 1047 Dollhouse Property Management, LLC v. University Used and Rare Books, Inc. (2000)
+#+date:       [2024-02-21 Wed 09:35]
+#+filetags:   :construction:rlta:statute:strict:unpublished:
+#+identifier: 20240221T093545
+
+* BRIEF
+
+* CASE
+
+Dollhouse Property Management, LLC v. University Used & Rare Books, Inc.
+Court of Appeals of Washington, Division 1. | October 2, 2000 | Not Reported in P.3d | 102 Wash.App. 1047
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+UNPUBLISHED OPINION
+All Citations
+
+washington Citation:
+
+Dollhouse Prop. Mgmt., LLC v. Univ. Used & Rare Books, Inc., 102 Wn. App. 1047 (2000)
+
+All Citations:
+
+Not Reported in P.3d, 102 Wash.App. 1047, 2000 WL 1469329
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 6, 2024 at 2:59 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+102 Wash.App. 1047
+NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+Court of Appeals of Washington, Division 1.
+DOLLHOUSE PROPERTY MANAGEMENT, LLC, Appellant,
+v.
+UNIVERSITY USED AND RARE BOOKS, INC., Defendant,
+and
+Caf’ Mozart, Inc. and Robyne Rutherford, Respondents.
+No. 45716–1–I.
+|
+Oct 2, 2000.
+Appeal from Superior Court of King County, Docket No. 99–2–17055–5, judgment or order under review, date filed 11/17/1999; Larry Jordan, Judge.
+Attorneys and Law Firms
+John P. Mele, Ryan Swanson & Cleveland, Seattle, WA, for appellant(s).
+David C. Hall, Seattle, WA, for respondent(s).
+
+
+
+
+UNPUBLISHED OPINION
+ELLINGTON.
+*1 Dollhouse Property Management filed a complaint for unlawful detainer against Caf’ Mozart, Inc. and Robyne Rutherford. The trial court found Rutherford guilty of an unlawful detainer but did not issue a writ of restitution, nor award double rent. In an unlawful detainer action the court has no discretion, but is limited to deciding the primary issue of right to possession together with the statutorily designated incidents thereto, i.e., restitution and rent or damages. Because the trial court did not comply with the statutorily mandated remedies for unlawful detainer, we reverse and remand.
+
+
+
+FACTS
+Dollhouse Property Management (‘Dollhouse’) owns the building located at 4215 University Way N.E., Seattle. The first floor of the building is devoted to retail space and the upper floors are divided into 13 residential apartments. In July 1998, Respondents Caf’ Mozart, Inc. and Robyne Rutherford (collectively ‘Rutherford’) leased the first floor from Dollhouse pursuant to an approval of assignment of the lease.
+
+The intent of the parties in entering into the lease was for Rutherford to operate a coffee house on the premises, selling coffee beverages and limited food items and offering some incidental entertainment. Rutherford built a stage on the premises and began presenting musical performances such as jazz and rock bands, drummers, flamenco dancing, and amplified music. The resulting noise disturbed the peace of the residential tenants on the floors above. Rutherford operated a caf’ causing hot water shortages for the residential tenants.
+
+On June 17, 1999, Rutherford was served with a written notice that she was in violation of the lease based on: (a) exceeding the scope of permissible use by conducting theatrical and musical performances on the premises; (b) creating excessive noise that disturbed the peace of Dollhouse’s residential tenants; and (c) constructing a stage, removing pipe insulation, and making excessive use of Dollhouse’s hot water without its permission. The written notice informed Rutherford that she was to bring her use of the premises into compliance with her obligations under the lease within 10 days of service, or in the alternative, she was to vacate the premises.
+
+Rutherford failed to bring herself into compliance and continued to violate the lease after the expiration of the 10–day notice. On July 21, 1999, Dollhouse filed an unlawful detainer action alleging that Rutherford had violated the lease, that Rutherford had been served with statutorily required written notice and that Rutherford had neither cured nor vacated within the 10–day period. Dollhouse requested termination of the lease, restitution of the premises, damages for unpaid rent, attorney fees under the lease, and all allowable costs. Trial was conducted on October 18, 1999.
+
+The trial court determined that Rutherford had violated her lease by conducting musical/theatre performances that created excessive noise and disturbed the peace of others, and by excessive use of Dollhouse’s hot water for her restaurant operations. The construction of the stage was not found to be a violation of the lease. The trial court also found that Rutherford had not brought herself into compliance with the lease but continued her violations after the expiration of the 10–day notice period. The trial court then relied on its ‘equitable power’ to craft a remedy because it believed that Rutherford acted in good faith. The trial court determined that Rutherford may use the premises for operation of a coffee house, not a restaurant, and must install, at her own expense, a hot water heater to supply every use other than the restroom.
+
+*2 The court trial court prohibited any sort of entertainment that creates noise that is audible to the residential tenants, interfering with their reasonable use and quiet enjoyment.
+
+The trial court concluded that Dollhouse was the prevailing party and awarded it attorney fees based on the percentage of the issues on which Dollhouse prevailed. The trial court ordered Rutherford to pay Dollhouse $6,250, representing the five months of unpaid rent that had accrued since Dollhouse’s notice, but denied double rent damages.
+
+
+
+DISCUSSION
+Neither party has provided a verbatim report of proceedings, and although respondent has assigned error to the trial court’s finding that she breached her lease through her excessive use of hot water, her failure to provide this court with a record on appeal that would enable the court to evaluate her claim precludes review of any alleged error. Bulzomi v. Department of Labor & Indus., 72 Wn.App. 522, 524, 864 P.2d 996 (1994). Therefore, the trial court’s findings of fact are verities and binding upon this court. Morris v. Woodside, 101 Wn.2d 812, 815, 682 P.2d 905 (1984).
+
+A trial court’s conclusions of law are reviewed de novo. City of Seattle v. Megrey, 93 Wn.App. 391, 393, 968 P.2d 900 (1998). Here, the trial court concluded that although it found the defendant guilty of unlawful detainer, it could exercise its equitable powers and fashion a remedy other than that called for by the statute.
+
+Relief under the unlawful detainer statute requires: (1) the tenant’s breach; (2) notice to the tenant of the existence of a breach together with opportunity to correct; and (3) failure by the tenant to correct the breach. The tenant is then guilty of unlawful detainer, and the landlord is entitled to possession. Wilson v. Daniels, 31 Wn.2d 633, 643, 198 P.2d 496 (1948); RCW 59.12.030(4).
+
+Dollhouse commenced this lawsuit as an unlawful detainer action. The summons and complaint complied with RCW 59.12.070 and RCW 59.12 .080. Rutherford was served with the required 10–day notice. Rutherford failed to correct the breaches and Dollhouse appropriately filed an action for unlawful detainer requesting termination of the lease, restitution of the premises, damages for unpaid rent, attorney fees under the lease, and all allowable costs. There is no question that this action was initiated as, and was in fact and law, an unlawful detainer action. Sundholm v. Patch, 62 Wn.2d 244, 382 P.2d 262 (1963).
+
+An unlawful detainer action is a narrow one, limited to the question of possession and related issues such as restitution of the premises and rent. Kessler v. Nielsen, 3 Wn.App. 120, 472 P.2d 616 (1970); First Union Mgmt., Inc. v. Slack, 36 Wn.App. 849, 679 P.2d 936 (1984). In an unlawful detainer action, the trial court must either (1) enter a judgment in favor of the defendant by dismissing the action with prejudice, or (2) render a judgment in favor of the plaintiff pursuant to RCW 59.12.120 or RCW 59.12.170. Sundholm, 62 Wn.2d at 246.
+
+*3 The trial court here found Rutherford guilty of unlawful detainer. Rather than imposing the remedies as set forth in RCW 59.12.170, however, the court exercised its ‘equitable powers’ and declined to order the writ of restitution, forfeiture, and the double damages the statute requires. This exercise of equitable powers is not permitted by the statute.
+
+A trial court may not afford equitable relief for parties in an unlawful detainer action except when facts excuse a tenant’s breach. First Union Mgt. Inc., 36 Wn.App. at 854. See, e.g., Foisy v. Wyman, 83 Wn.2d 22, 515 P.2d 160 (1973) (affirmative defense of breach of implied warranty of habitability goes directly to issue of rent due and owing); Income Props. Inv. Corp. v. Trefethen, 155 Wash. 493, 284 P. 782 (1930) (rent cannot be recovered where landlord by his own acts has deprived the lessees of the beneficial use of the property); Andersonian Inv. Co. v. Wade, 108 Wash. 373, 378–79, 184 P. 327 (1919) (if facts exist that excuse a defendant’s breach, defendant ought to be permitted to show them before ouster).
+
+The above authorities support the trial court’s finding that the construction of the stage by Rutherford was not a breach. Had that been the only claim of breach, the trial court could have dismissed the action for unlawful detainer. But the court also found Rutherford was in breach in regard to the excessive noise and excessive use of hot water. Rutherford is therefore guilty of unlawful detainer and the remedy is not discretionary.
+
+Equity abhors forfeiture. John R. Hansen, Inc. v. Pacific Int’l Corp., 76 Wn.2d 220, 228, 455 P.2d 946 (1969). In avoiding forfeiture here, the trial court may have been trying to avoid technicalities, unnecessary costs and delays, and multiplicity of lawsuits. Admirable though it may be, such ‘fireside equity’ is ‘simply not possible under the existing state statutes and the decisions of this court relative to actions for unlawful detainer.’ Sundholm, 62 Wn.2d at 245.
+
+The unlawful detainer code reflects equity’s abhorrence of forfeiture:
+The court may relieve a tenant against a forfeiture of a lease and restore him to his former estate, as in other cases provided by law, where application for such relief is made within thirty days after the forfeiture is declared by the judgment of the court, as provided in this chapter ....
+RCW. 59.12.190. This statute gives Rutherford the right to equitable balancing after, not before, the forfeiture. Dollhouse correctly argues that the trial court had no discretion to award single damages for the five months of unpaid rent that accrued during the unlawful detainer. If a landlord prevails in an unlawful detainer action, the court is required to award double damages. RCW 59.12.170. The award of double damages is not discretionary. Armstrong v. Burkett, 104 Wash. 476, 479, 177 P. 333 (1918). The trial court fashioned a remedy outside the provisions of RCW 59 .12.170. While equitable relief from forfeiture may follow the unlawful detainer judgment under RCW 59.12.190, it may not precede it. We therefore reverse.
+
+*4 Dollhouse is the prevailing party and entitled to reasonable attorney fees under the lease as well as attorney fees on appeal.
+
+Reversed and remanded for entry of a writ of restitution, declaration of forfeiture, award of double damages for unpaid rent, and award of attorney fees at trial and on appeal.
+
+All Citations
+Not Reported in P.3d, 102 Wash.App. 1047, 2000 WL 1469329
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

@@ -1,0 +1,57 @@
+#+title:      Court Must Dismiss Action if Service of Summons is Deficient
+#+date:       [2024-08-30 Fri 10:24]
+#+filetags:   :jurisdiction:service:ud:
+#+identifier: 20240830T102414
+
+* Discourse on Nature of Summary Proceeding
+
+** Kessler v. Nielsen, 3 Wash.App. 120 (1970)
+
+The statutory action for unlawful detainer is a creation of the
+legislature and is a procedure unknown to the common law. Indeed, the
+common law action of ejectment *123 is separate from and in addition
+to the action for unlawful detainer.
+- Petsch v. Willman, 29 Wash.2d 136, 185 P.2d 992 (1947);
+- 1 H. Tiffany, Real Property s 180 (B. Jones 3d ed. 1939).
+
+The statutory action is summary,
+- MacRae v. Way, Supra;
+- Young v. Riley, 59 Wash.2d 50, 365 P.2d 769 (1961);
+- Petsch v. Willman, Supra,
+
+and the plaintiff must strictly adhere to the statutory
+procedure. Failure to follow the statute defeats the court’s
+jurisdiction,
+- Sowers v. Lewis, 49 Wash.2d 891, 307 P.2d 1064 (1957);
+- 33 Wash.L.Rev. 165 (1958),
+
+which is in any event limited.
+- Little v. Catania, 48 Wash.2d 890, 297 P.2d 255 (1956);
+- Young v. Riley,59 Wash.2d at 52, 365 P.2d at 771:
+  - The right and remedy alike are statutory, and the procedural
+    remedy is an integral **619 part of the right itself. RCW
+    59.12. In an unlawful detainer action, the court sits as a special
+    statutory tribunal to summarily decide the issues authorized by
+    statute and not as a court of general jurisdiction with the power
+    to hear and determine other issues.
+
+The purpose of the statutory action is to preserve the peace,
+- Young v. Riley, Supra,
+
+by limiting the common law right of personal reentry.
+- Woodward v. Blanchett, 36 Wash.2d 27, 216 P.2d 228 (1950).
+
+In such an action there is only one issue before the court—the right to possession. The statutory incidents are dependent on this right.
+- MacRae v. Way, 64 Wash.2d at 546, 392 P.2d at 829:
+  - In such proceedings the superior court sits as a special statutory
+    tribunal, limited to deciding the primary issue of right to
+    possession together with the statutorily designated incidents
+    thereto, I.e., restitution and rent or damages.
+
+- Accord, Motoda v. Donohoe, 1 Wash.App. 174, 459 P.2d 654 (1969);
+- Muscatel v. Storey, 56 Wash.2d 635, 354 P.2d 931 (1960);
+- Petsch v. Willman, Supra;
+- Stevens v. Jones, 40 Wash. 484, 82 P. 754 (1905).
+
+Rent or damages may only be recovered under the statute when there is a right to possession. When this right is not present, the damages or rent *124 must be recovered in an ordinary civil action.
+- Stevens v. Jones, Supra.

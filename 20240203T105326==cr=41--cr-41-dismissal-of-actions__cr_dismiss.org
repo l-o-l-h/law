@@ -1,0 +1,142 @@
+#+title:      CR 41 Dismissal of Actions
+#+date:       [2024-02-03 Sat 10:53]
+#+filetags:   :cr:dismiss:
+#+identifier: 20240203T105326
+
+* CR 41 DISMISSAL OF ACTIONS
+:PROPERTIES:
+:CUSTOM_ID: h:75C5F8D7-304D-4C16-B1DF-9ACB1A8265B0
+:END:
+
+- (a) *Voluntary Dismissal*
+
+  - (1) /Mandatory./
+
+    Subject  to the  provisions  of rules  23(e)  [dismissal of  class
+    action]  and  23.1  [derivative  actions],  any  action  shall  be
+    dismissed by the court:
+
+    - (A) By Stipulation.
+
+      When all parties who have appeared so stipulate in writing; or
+
+    - (B) By Plaintiff Before Resting.
+
+      Upon motion of the plaintiff  at any time before plaintiff rests
+      at the conclusion of plaintiff’s opening case.
+
+  - (2) /Permissive/.
+
+    After plaintiff  rests after  plaintiff’s opening  case, plaintiff
+    may move  for a  voluntary dismissal  without prejudice  upon good
+    cause shown and upon such terms  and conditions as the court deems
+    proper.
+
+  - (3) /Counterclaim/.
+
+    If a  counterclaim has been  pleaded by  a defendant prior  to the
+    service upon  the defendant  of plaintiff's motion  for dismissal,
+    the  action  shall  not   be  dismissed  against  the  defendant's
+    objection  unless   the  counterclaim   can  remain   pending  for
+    independent adjudication by the court.
+
+  - (4) /Effect/.
+
+    Unless otherwise stated  in the order of  dismissal, the dismissal
+    is without prejudice,  except that an order  of dismissal operates
+    as an  adjudication upon the  merits when obtained by  a plaintiff
+    who has  once dismissed an action  based on or including  the same
+    claim in any court of the United States or of any state.
+
+- (b) *Involuntary Dismissal; Effect*
+
+  For failure  of the plaintiff to  prosecute or to comply  with these
+  rules or any order of the  court, a defendant may move for dismissal
+  of an action or of any claim against him or her.
+
+  - (1) /Want of Prosecution on Motion of Party/.
+
+    Any civil action shall be dismissed, without prejudice, for want
+    of  prosecution whenever  the plaintiff,  counterclaimant, cross
+    claimant, or third  party plaintiff neglects to  note the action
+    for trial  or hearing within  1 year after  any issue of  law or
+    fact has  been joined, unless the  failure to bring the  same on
+    for  trial or  hearing was  caused by  the party  who makes  the
+    motion  to dismiss.  Such motion  to dismiss  shall come  on for
+    hearing only after 10 days' notice  to the adverse party. If the
+    case is  noted for trial before  the hearing on the  motion, the
+    action shall not be dismissed.
+
+  - (2) /Dismissal on Clerk's Motion/.
+
+    - (A) ...
+
+    - (B) ...
+
+    - (C) ...
+
+    - (D) ...
+
+  - (3) /Defendant's Motion after Plaintiff Rests/.
+
+    After the plaintiff,  in an action tried by the  court without a
+    jury, has completed the presentation of evidence, the defendant,
+    without waiving  the right  to offer evidence  in the  event the
+    motion is  not granted, may move  for a dismissal on  the ground
+    that upon the facts and the law the plaintiff has shown no right
+    to relief.
+
+    The court  as trier  of the  facts may  then determine  them and
+    render judgment against  the plaintiff or may  decline to render
+    any judgment until  the close of all the evidence.
+
+    If  the  court  renders  judgment  on  the  merits  against  the
+    plaintiff, the  court shall  make findings  as provided  in rule
+    52(a).
+
+    Unless the court in its order for dismissal otherwise specifies,
+    a dismissal under this subsection and any dismissal not provided
+    for  in  this   rule,  other  than  a  dismissal   for  lack  of
+    jurisdiction, for improper venue, or for failure to join a party
+    under rule 19, operates as an adjudication upon the merits.
+
+- (c) *Dismissal of Counterclaim, Cross Claim, or Third Party Claim*
+
+  The  provisions  of  this  rule   apply  to  the  dismissal  of  any
+  counterclaim,  cross  claim,  or  third  party  claim.
+
+  A voluntary dismissal  by the claimant alone  pursuant to subsection
+  (a)(1) of  this rule shall be  made before a responsive  pleading is
+  served or, if there is none,  before the introduction of evidence at
+  the trial or hearing.
+
+- (d) *Costs of Previously Dismissed Action*
+
+  If  a plaintiff  who  has  once dismissed  an  action  in any  court
+  commences an action  based upon or including the  same claim against
+  the same defendant, the court may make such order for the payment of
+  taxable  costs of  the action  previously dismissed  as it  may deem
+  proper  and  may  stay  the  proceedings in  the  action  until  the
+  plaintiff has complied with the order.
+
+- (e) *Notice of Settlement*
+
+  If a case is settled after it  has been assigned for trial, it shall
+  be the  duty of the  attorneys or of any  party appearing pro  se to
+  notify the  court promptly of  the settlement. If the  settlement is
+  made within 5  days before the trial date, the  notice shall be made
+  by  telephone or  in  person.  All notices  of  settlement shall  be
+  confirmed in writing to the clerk.
+
+* Effect of Dismissal without Prejudice under CR 41(a)(1)(B)
+
+The effect of a CR 41(a)(1)(B) dismissal is to leave the parties as if
+the action had never been brought.
+- Wachovia SBA Lending, Inc. v. Kraft, 165 Wash.2d 481, 492, 200 P.3d 683 (2009).
+
+
+“No substantive issues are resolved, and the plaintiff may refile the
+suit.” Id.
+
+
+- Triune Family Charitable Remainder Unitrust v. Pfeifer, 157 Wn. App. 1045 (2010)

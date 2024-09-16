@@ -1,0 +1,83 @@
+#+title:      Action on Account
+#+date:       [2024-02-29 Thu 17:27]
+#+filetags:   :accounts:
+#+identifier: 20240229T172753
+
+* West 10 Action on (Open) Account
+* West 11 Account Stated
+
+** Definition of Account Stated 11 K 1
+
+¶ 12 An account stated is “ ‘a manifestation of assent by debtor and creditor to a stated sum as an accurate computation of an amount due the creditor.’ ” *436 Sunnyside Valley Irrigation Dist. v. Roza Irrigation Dist., 124 Wash.2d 312, 315, 877 P.2d 1283 (1994) (quoting Restatement (Second) of Contracts § 282(1), at 386 (1981)). There must be some form of assent to the account, although that assent may be implied from the circumstances and acts of the parties. Sunnyside Valley Irrigation, 124 Wash.2d at 316, 877 P.2d 1283 (quoting Shaw v. Lobe, 58 Wash. 219, 221, 108 P. 450 (1910)). An account stated is an admission of the facts asserted and a promise by the debtor to pay the sums indicated.4 Sunnyside Valley Irrigation, 124 Wash.2d at 315, 877 P.2d 1283.
+
+- Associated Petroleum Products, Inc. v. Nw. Cascade, Inc., 149 Wn. App. 429, 435–36, 203 P.3d 1077, 1081 (2009)
+
+
+¶ 13 Associated relies on Sunnyside Valley Irrigation, 124 Wash.2d 312, 877 P.2d 1283. In that case, a debtor paid invoices to the creditor over about eight years. Sunnyside Valley Irrigation, 124 Wash.2d at 317, 877 P.2d 1283. During that period, the debtor “had some concerns about the billing” and “made inquiries about the sums indicated,” but it ultimately paid the bills without protest. Sunnyside Valley Irrigation, 124 Wash.2d at 317, 877 P.2d 1283. The trial court granted summary judgment to the creditor, finding that the debtor had each year “expressly or impliedly consented and agreed” to the bills and was thus precluded from contesting the amount of those bills by the doctrine of account stated. Sunnyside Valley Irrigation, 124 Wash.2d at 316, 877 P.2d 1283 (emphasis omitted). Our Supreme Court affirmed, holding that “payment, together with a failure to objectively manifest either protest or an intent to negotiate the sum at some future time, does establish an account stated.” Sunnyside Valley Irrigation, 124 Wash.2d at 316–17 n. 1, 877 P.2d 1283.
+
+- Associated Petroleum Products, Inc. v. Nw. Cascade, Inc., 149 Wn. App. 429, 436, 203 P.3d 1077, 1081 (2009)
+
+
+*865 ACCOUNT STATED
+6
+7
+8
+An account stated requires (a) a writing evidencing that a final balance of an account was rendered and (b) evidence of mutual assent that the amount stated is a final balance to date. M.T. Deaton & Co. v. Leibrock, 114 Idaho 614, 616, 759 P.2d 905 (Ct.App.1988). Washington law and the Restatement (Second) of Contracts § 282(1) (1981) are in accord. See, e.g., Sunnyside Valley Irrigation Dist. v. Roza Irrigation Dist., 124 Wash.2d 312, 315, 877 P.2d 1283 (1994). To establish an account stated, an invoice must set forth the state of the account between the parties and the balance owed. Deaton, 114 Idaho at 616, 759 P.2d 905. More than a “mere memorandum” is required. But an invoice is sufficient if it is plain on its face that it is intended to be a final settlement up to date. Needs v. Hebener, 118 Idaho 438, 442–43, 797 P.2d 146 (Ct.App.1990).
+9
+10
+11
+A written account becomes an account stated if the other party to the transaction acquiesces in its correctness. Deaton, 114 Idaho at 616, 759 P.2d 905. Assent may be implied from failure to object within a reasonable amount of time. Id.; Argonaut Ins. Cos. v. Tri–West Constr. Co., 107 Idaho 643, 646, 691 P.2d 1258 (Ct.App.1984). And, once an account stated is established, it becomes a new contract. Needs, 118 Idaho at 443, 797 P.2d 146.
+12
+Parrott was then entitled to judgment on a showing (a) that it submitted invoices for services rendered, and (b) that the Rudes did not object to these invoices within a reasonable time.
+
+- Parrott Mech., Inc. v. Rude, 118 Wn. App. 859, 865, 78 P.3d 1026, 1029 (2003), as corrected (Apr. 6, 2004)
+
+
+III. ACCOUNT STATED
+3
+4
+The contract doctrine of “account stated” was the basis for the trial court's basic ruling that the County could not charge Rustlewood an additional prospective fee for water and sewer costs paid years earlier. This doctrine is a method for determining the amount of a debt, generally asserted as a defense in a contract action. Northwest Motors, Ltd. v. James, 118 Wash.2d 294, 304, 822 P.2d 280 (1992), citing Goodwin v. Northwestern Mut. Life Ins. Co., 196 Wash. 391, 410, 83 P.2d 231 (1938). Typically, periodic residential utility debts do not constitute an account stated because single item liquidated debts for a sum certain do not often *798 qualify for this defense. 6 ARTHUR LINTON CORBIN, CORBIN ON CONTRACTS, § 1304 (1962).
+
+- Rustlewood Ass'n v. Mason Cnty., 96 Wn. App. 788, 797–98, 981 P.2d 7, 13 (1999)
+
+
+Accounts stated generally concern open accounts, where the amount a party owes at a given moment is difficult, if not impossible, to fix precisely. CORBIN, § 1303. When a party in such a financial relationship presents an accounting and the other party assents to its correctness, the accounting is accepted as the debt owed; this agreement, explicit or implicit, constitutes an account stated.7 CORBIN, § 1303. Mutual assent to the accounting is necessary. As explained by the Washington Supreme Court, “[I]t must be mutually agreed between the parties that the balance struck thereon is the correct amount due from the one party to the other on the final adjustment of their mutual dealings to which the account relates.” Shaw v. Lobe, 58 Wash. 219, 221, 108 P. 450 (1910).
+
+- Rustlewood Ass'n v. Mason Cnty., 96 Wn. App. 788, 798, 981 P.2d 7, 13 (1999)
+
+
+The mere rendition of an account by one party to another does not show an account stated. There must be some form of assent to the account—that is, a definite acknowledgment of an indebtedness in a certain sum. 1 Enc. L. & P. 688–693. True assent may be implied from the circumstances and acts of the parties, but it must appear in some form.
+
+- Shaw v. Lobe, 58 Wash. 219, 221, 108 P. 450, 451 (1910)
+
+*** Account Stated is Customarily Asserted as a Defense in a Contract Action
+Moreover, the doctrine of account stated is usually asserted as a defense in contract actions;
+
+- Rustlewood Ass'n v. Mason Cnty., 96 Wn. App. 788, 800, 981 P.2d 7, 14 (1999)
+
+
+*** Account Stated is an Independent Contracts
+Account stated is itself independent contract that is enforceable without regard to underlying transactions on which it is based.
+
+- Eimco-BSP Serv. Co. v. Valley Inland Pac. Constructors, Inc., 626 F.2d 669 (9th Cir. 1980)
+
+** Defenses to a Claim of Account Stated
+
+The doctrine of account stated is subject to the rules of mistake and fraud.
+
+- Spradlin Rock Products, Inc. v. Pub. Util. Dist. No. 1 of Grays Harbor Cnty., 164 Wn. App. 641, 266 P.3d 229 (2011)
+
+
+¶ 15 Second, in Sunnyside Valley Irrigation, the debtor made no allegation of fraud, mistake, or accident to explain its failure to protest. Here, Northwest claims that its failure to learn of the additional invoice charges was an excusable unilateral mistake. Specifically, it asserts that it mistakenly believed that the invoices it paid would be consistent with the contract it had negotiated with Associated.
+
+- Associated Petroleum Products, Inc. v. Nw. Cascade, Inc., 149 Wn. App. 429, 437, 203 P.3d 1077, 1082 (2009)
+
+
+¶ 16 The effect of an account stated as a promise is subject to the rules on mistake. Restatement (Second) of Contracts § 282 cmt. c, at 387; cf. Ryan v. Dowell, 86 Wash. 76, 82, 149 P. 343 (1915) (where debtor claims that accounts stated were established by fraud, clearly not estopped from showing the truth). Unilateral mistake entitles a party to reform a contract only if the other party engaged in fraud or inequitable conduct. Gammel v. Diethelm, 59 Wash.2d 504, 507, 368 P.2d 718 (1962) (quoting Kaufmann v. Woodard, 24 Wash.2d 264, 270, 163 P.2d 606 (1945)). But a unilateral failure to know or discover facts does not bar the mistaken party from avoiding or reforming the contract unless his fault amounts to a failure to act in good faith or in accordance with reasonable standards of fair dealing. Wash. Mut. Sav. Bank v. Hedreen, 125 Wash.2d 521, 530, 886 P.2d 1121 (1994) (quoting Restatement (Second) of Contracts § 157, at 416 (1979)). A party has engaged in fraud or inequitable conduct if it conceals a material fact that it has a duty to disclose to the other party. *438 Wash. Mut. Sav. Bank, 125 Wash.2d at 526, 886 P.2d 1121 (citing Kelley v. Von Herberg, 184 Wash. 165, 174, 50 P.2d 23 (1935)).
+
+- Associated Petroleum Products, Inc. v. Nw. Cascade, Inc., 149 Wn. App. 429, 437–38, 203 P.3d 1077, 1082 (2009)
+
+
+In action by attorney against corporation to recover fees, corporation's evidence that attorney caused certain improper personal and farm-related expenses to be paid by the corporation was improperly excluded on the ground that attorney's bills constituted accounts stated as matter of law where testimony was proffered by the corporation which might have shown that attorney fraudulently listed improper charges in the statements, existence of attorney-client relationship between the parties not only entitled corporation to assert its lack of knowledge of improper charges but also required attorney to show fairness and voluntariness of transaction, and corporation could have shown that statements included amounts for which it was not liable.
+
+- Davis & Cox v. Summa Corp., 751 F.2d 1507 (9th Cir. 1985)

@@ -1,0 +1,199 @@
+#+title:      40 Wash. 484 Stevens v. Jones (1905)
+#+date:       [2024-02-03 Sat 15:29]
+#+filetags:   :incidentals:jurisdiction:possession:statutory:ud:
+#+identifier: 20240203T152929
+
+* BRIEF
+
+** FACTS
+1. PL LL brought action for detainer against DEF Ts to recover
+   possession of the premises occupied by the Ts.
+
+2. The complaint  alleged possession by the Ts and  notice to quit and
+   surrender, thus showing a prima facie case for right to recover.
+
+3. The DEF Ts answered that PL had conveyed her interest by warranty
+   deed to third parties.
+
+4. The PL admitted the conveyance.
+
+5. The TPs intervened, alleging that they held title and a right to
+   possession.
+
+6. The DEFs moved to strike the complaint in intervention, which the
+   court granted.
+
+7. The court considererd the complaint, answer, and reply and granted
+   a judgment upon the pleadings.
+
+8. A judgment of dismissal was granted.
+
+9. PL and TP appealed.
+
+10. Uncontroverted facts in the appeal revealed that the TP had served
+    the DEF with a notice to quit and surrender, and the DEF had done
+    so, meaning that the DEF had yielded possession of the premises to
+    the TP owners.
+
+
+** ANALYSIS
+
+1. The subject matter of the controversy was possession of the land.
+
+2. Both parties admitted that possession had been turned over to the
+   TP.
+
+3. Therefore, the controversy has ceased between the parties.
+
+
+** RULE
+
+1. Any claim for damages can be waged in the summary action (unlawful
+   detainer action) only as incident to the right to possession.
+
+2. The right to damages is a personal one, and when unaccompanied with
+   the right to recover possession must be waged in an ordinary civil
+   action.
+
+
+** DECISION
+
+1. Because there is no longer any controversy between the parties (PL
+   LL and DEF T) except as to costs, there cannot be an appeal.
+
+* CASE
+
+Stevens v. Jones
+Supreme Court of Washington. | November 14, 1905 | 40 Wash. 484 | 82 P. 754
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+washington Citation:
+
+Stevens v. Jones, 40 Wash. 484, 82 P. 754 (1905)
+
+All Citations:
+
+40 Wash. 484, 82 P. 754
+
+Search Details
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+February 3, 2024 at 5:27 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+DISMISSAL
+
+Status Icons:
+
+
+
+Inline KeyCite:
+
+No citations in this document have KeyCite information. No charge will be incurred.
+
+
+
+
+40 Wash. 484
+Supreme Court of Washington.
+STEVENS
+v.
+JONES et al.
+Nov. 14, 1905.
+Synopsis
+Appeal from Superior Court, Skagit County; Geo. A. Joiner, Judge.
+
+Action by Rachel Stevens against William Jones and wife. A. J. Lawson and wife intervene. From a judgment of dismissal, plaintiff and interveners appeal. Dismissed.
+
+
+
+West Headnotes (3)
+
+
+[1]
+
+Appeal and ErrorRelating to Costs
+
+
+30Appeal and Error
+30IIIDecisions Reviewable
+30III(E)Nature, Scope, and Effect of Decision
+30k119Relating to Costs
+
+
+The Supreme Court will not entertain an appeal after the main controversy has ceased, for the mere purpose of determining matters of costs.
+1 Case that cites this headnote
+
+
+
+[2]
+
+Forcible Entry and DetainerDamages
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k30Damages
+179k30(1)In General
+
+
+A claim for damages can be waged in an action for forcible entry and detainer only as an incident to the right to possession, and, if there is no right to recover possession, any claim for damages must be asserted in an ordinary civil action.
+6 Cases that cite this headnote
+
+
+
+[3]
+
+Forcible Entry and DetainerDismissal
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k42Review
+179k43Appeal and Trial De Novo
+179k43(6)Dismissal
+
+
+Where it was admitted on appeal from a judgment of dismissal in an action of forcible entry and detainer that defendants had yielded possession to interveners, and plaintiff conceded that interveners were entitled to possession there was no longer any controversy between the parties, and the appeal will be dismissed.
+4 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*485 **755 Million & Houser, for appellant Stevens.
+Hurd & Brickey, for appellants Lawson.
+Smith & Brawley, for respondents.
+Opinion
+
+PER CURIAM.
+
+The plaintiff, Rachel Stevens, brought this suit under the forcible entry and detainer law, to recover possession of certain real estate from the defendants, William and Anna Jones. The complaint alleged such facts concerning the possession of the defendants and notice to quit and surrender as show a prima facie right to recover. The defendants answered that, prior to the commencement of the suit, the plaintiff had, by warranty deed, conveyed the land to A. J. and Emily Lawson. The plaintiff replied, admitting such conveyance. The Lawsons then asked and obtained leave to intervene in the action. Their complaint in intervention alleges that the land has been conveyed to them, and that they are entitled to the possession thereof. The defendants moved to strike the complaint in intervention, which motion was granted; and thereupon the court, in consideration of the complaint, answer, and reply, granted a motion interposed by defendants for judgment upon the pleadings. Judgment of dismissal was entered and costs against the plaintiff were awarded to the defendnats. The plaintiff and also the interveners have appealed.
+
+We shall not discuss the legal questions involved in the appeal, for the following reasons: Respondents’ brief, in answer to that of appellants Lawson, interveners below, contains the following statement: ‘The respondents knew that appellant, Stevens, had parted with her title, that they were so longer her tenants, but were the tenants of the Lawsons. And they had a perfect right under the law to retain possession of the premises until their landlord made some demand or gave them some notice that he desired possession, before they can be mulcted in costs and damages. Had the appellants Lawson done this, the possession would have been delivered immediately, as the respondents did so immediately upon such request being made.’ *486 The above statement was repeated in oral argument, and was not controverted, either by reply brief or at the time of the oral argument: It therefore stands admitted that respondents have yielded possession to the appellants Lawson. The subject-matter of the controversy was the possession of the land, and, inasmuch as it stands admitted that possession has been yielded to the Lawsons, the controversy has therefore ceased as between them and respondents. Appellant, Stevens, concedes that the Lawsons were entitled to possession when she commenced her suit. Any claim she may have had for damages could be waged in this summary action only as an incident to her right to possession. The right to damages is a personal one, and when unaccompanied with the right to recover possession must be waged in an ordinary civil action. There is, therefore, no longer any controversy between respondents and any of the appellants in this action. Certainly no controversy remains, unless it pertains to questions of costs in the case; and this court has repeatedly refused to entertain appeals, after the main controversy ceased, for the mere purpose of determining matters of costs.
+
+The appeal is therefore dismissed.
+
+All Citations
+40 Wash. 484, 82 P. 754
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.

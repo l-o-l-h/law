@@ -1,0 +1,35 @@
+#+title:      Adverse Action Notice
+#+date:       [2024-07-11 Thu 10:36]
+#+filetags:   :action:adverse:notice:rcw:
+#+identifier: 20240711T103641
+
+* Adverse Action Notice
+
+Name
+Address
+City/State/Zip Code
+
+This notice is to inform you that your application has been:
+
+- [ ] Rejected
+- [ ] Approved with conditions:
+- [ ] Residency requires an increased deposit
+- [ ] Residency requires a qualified guarantor
+- [ ] Residency requires last month's rent
+- [ ] Residency requires an increased monthly rent of $........
+- [ ] Other:
+
+
+Adverse action on your application was based on the following:
+
+- [ ] Information contained in a consumer report (The prospective landlord must include the name, address, and phone number of the consumer reporting agency that furnished the consumer report that contributed to the adverse action.)
+- [ ] The consumer credit report did not contain sufficient information
+- [ ] Information received from previous rental history or reference
+- [ ] Information received in a criminal record
+- [ ] Information received in a civil record
+- [ ] Information received from an employment verification
+
+
+Dated this ..... day of ........, ....(year)
+
+Agent/Owner Signature"

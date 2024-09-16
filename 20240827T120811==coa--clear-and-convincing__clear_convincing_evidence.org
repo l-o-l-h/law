@@ -1,0 +1,12 @@
+#+title:      Clear and Convincing
+#+date:       [2024-08-27 Tue 12:08]
+#+filetags:   :clear:convincing:evidence:
+#+identifier: 20240827T120811
+
+* Vukich v. Anderson, 97 Wn. App. 684, 690, 985 P.2d 952, 955–56 (1999)
+Significantly, Mr. Anderson's evidence in the form of the lease,
+tenant's statement, California bank account, California home purchase,
+is not refuted. Mr. Anderson's **956 statements are internally
+consistent and directly refute Mr. Vukich's evidence. In other words
+it is _clear and convincing_.
+- Vukich v. Anderson, 97 Wn. App. 684, 690, 985 P.2d 952, 955–56 (1999)

@@ -1,0 +1,21 @@
+#+title:      Must a UD Case be Dismissed with Faulty Summons or Notice?
+#+date:       [2024-08-31 Sat 08:04]
+#+filetags:   :authority:dismiss:insufficient:jurisdiction:process:service:ud:
+#+identifier: 20240831T080414
+
+* Issue
+Must the Superior Court sitting in an unlawful detainer action dismiss a case when there has been either insufficient process (CR 12(b)(4)) or insufficient service of process (CR 12(b)(5))?
+
+* Short Answer
+Yes
+
+* Cases
+- _Christensen v. Ellsworth_, 162 Wash.2d 365 (2007)
+- _Housing Authority of City of Seattle v. Bin_, 163 Wash.App.367 (2011)
+- _Housing Authority of City of Everett v. Kirby_, 154 Wash.App. 842 (2010)
+- _Lange v. Whelan_, 157 Wash.App.1052 (2010) (Unpublished)
+- _Tacoma Rescue Mission v. Stewart_, 155 Wash.App. 250 (2010)
+- _Community Investments, Ltd. v. Safeway Stores, Inc._, 36 Wash.App.34 (1983)
+- _Hall v. Feigenbaum_, 178 Wash.App. 811 (2014)
+- _Truly v. Heuft_, 138 Wash.App. 913 (2007)
+- _MHM & F, LLC v. Pryor_, 168 Wash.App. 451 (2012)

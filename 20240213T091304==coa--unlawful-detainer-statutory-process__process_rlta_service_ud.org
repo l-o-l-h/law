@@ -1,0 +1,36 @@
+#+title:      Unlawful Detainer Statutory Process
+#+date:       [2024-02-13 Tue 09:13]
+#+filetags:   :process:rlta:service:ud:
+#+identifier: 20240213T091304
+
+* Method of Service of Process in Unlawful Detainer is Mandatory
+
+To obtain unlawful detainer jurisdiction, the landlord must prove the
+tenant was properly served with a statutory unlawful detainer summons;
+_compliance with the statutory method of process is mandatory._
+- Christensen v. Ellsworth, 162 Wash.2d 365, 372, 173 P.3d 228 (2007);
+- Truly, 138 Wash.App. at 918, 158 P.3d 1276;
+- Canterwood Place LP v. Thande, 106 Wash.App. 844, 847, 25 P.3d 495 (2001);
+- see Terry, 114 Wash.2d at 564, 789 P.2d 745.
+
+- Triune Family Charitable Remainder Unitrust v. Pfeifer, 157 Wn. App. 1045 (2010)
+
+
+* Noncompliance with Statutory Method of Process Results in No Jurisdiction
+
+Any noncompliance with the statutory method of process prevents the
+superior court from acquiring subject matter jurisdiction over the
+unlawful detainer proceeding.
+- Christensen, 162 Wash.2d at 372, 173 P.3d 228.
+
+
+Lack of jurisdiction “renders the superior court powerless to pass on
+the merits” of the case.
+- Skagit Surveyors & Eng'rs, LLC v. Friends of Skagit County, 135 Wash.2d 542, 556, 958 P.2d 962 (1998).
+
+
+Dismissal without prejudice is the limit of what a court may do.
+- Hous. Auth. v. Kirby, 154 Wash.App. 842, 850, 226 P.3d 222 (2010).
+
+
+- Triune Family Charitable Remainder Unitrust v. Pfeifer, 157 Wn. App. 1045 (2010)

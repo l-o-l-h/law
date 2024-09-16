@@ -1,0 +1,43 @@
+#+title:      Tenant Rights Under the RLTA
+#+date:       [2024-08-04 Sun 19:06]
+#+filetags:   :law:rights:rlta:tenant:
+#+identifier: 20240804T190642
+
+* Rights Given to Tenants under the RLTA
+
+¶26 The scope of RCW 59.18.230(1)(b) is significant because RLTA provides many rights to tenants, including, but not limited to, the following:
+- _Princeton Prop. Mgmt., Inc. v. Allen_, 550 P.3d 56, 61 (Wash. Ct. App. 2024)
+
+
+• RCW 59.18.370. SHOW CAUSE HEARING
+  - The right to have a show cause hearing held no less than seven days and not more than 30 days after the landlord obtains an order for the hearing.
+
+• RCW 59.18.380. STAY WRIT OF RESTITUTION
+  - The right to stay the execution of a writ of restitution within three days after the writ of restitution was served by paying the past due, and current, rent.
+
+• RCW 59.18.390. DELAY OF THREE DAYS BETWEEN SERVICE OF WRIT AND EXECUTION
+  - The right to three days between the service of the writ of restitution and execution of the writ.
+
+• RCW 59.18.650. JUST-CAUSE EVICTION
+  - The right to be evicted only for certain specified reasons.
+
+• RCW 59.18.650(2)(a). POV NOTICE
+  - The right to a 14-day notice of eviction after a default in the payment of rent.
+
+• RCW 59.18.650(2)(a). RIGHT TO CURE
+  - The right to cure a default in the payment of rent within the 14-day notice period.
+
+• RCW 59.18.650(2)(b). NOTICE OF BREACH OF LEASE
+  - The right to a 10-day notice after a breach of a lease or rental agreement, or a tenant obligation imposed by law, other than one for monetary damages.
+
+• RCW 59.18.650(2)(c). NOTICE OF WASTE OR NUISANCE
+  - The right to a three-day notice of eviction after committing or permitting waste or nuisance upon the premises.
+
+• RCW 59.18.650(6)(b). NOTICE OF SPECIFIC FACTS AND CIRCUMSTANCES
+  - The right to have a notice of eviction identify the facts and circumstances with enough specificity so as to enable the tenant to prepare a defense.
+
+• RCW 59.18.410(2). RIGHT TO RESTORE TENANCY
+  - The right to restore a tenancy after defaulting in the payment of rent within five days of entry of judgment by following certain procedures.
+
+• RCW 59.18.410(3). RIGHT TO REQUEST A REPAYMENT PLAN
+  - The right to request a repayment plan after forfeiture of the tenancy due to nonpayment of rent.

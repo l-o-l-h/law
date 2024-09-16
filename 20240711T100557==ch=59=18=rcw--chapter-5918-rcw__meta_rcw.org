@@ -1,0 +1,17 @@
+#+title:      Chapter 59.18 RCW
+#+date:       [2024-07-11 Thu 10:05]
+#+filetags:   :meta:rcw:
+#+identifier: 20240711T100557
+
+* Ch 59.18 RCW
+#+BEGIN: denote-links :regexp "_rcw5918" :sort-by-component signature :reverse-sort nil :id-only nil
+- [[denote:20240203T121128][rcw=59=18=055  RCW 59.18.055 Alternative Procedure--Court's Jurisdiction Limited]]
+- [[denote:20240711T103144][rcw=59=18=257  RCW 59.18.257 Screening of prospective tenants -— Notice to prospective tenant -— Costs -— Adverse action notice -— Violation]]
+- [[denote:20240711T095237][rcw=59=18=260  RCW 59.18.260 Moneys paid as deposit or security for performance by tenant -— Written rental agreement to specify terms and conditions for retention by landlord -— Written checklist required]]
+- [[denote:20240711T092719][rcw=59=18=270  RCW 59.18.270 Moneys paid as deposit or security for performance by tenant —- Deposit by landlord in trust account -— Receipt -— Remedies under foreclosure -— Claims]]
+- [[denote:20240709T180454][rcw=59=18=280  RCW 59.18.280 Remedies for landlord's failure to make refund]]
+- [[denote:20240322T094333][rcw=59=18=290=3  No Attorney Fees Upon a Default by the Defendant]]
+- [[denote:20240131T171854][rcw=59=18=380  RCW 59.18.380 Unlawful Detainer Actions--Writ of Restitution--Answer--Order]]
+- [[denote:20240131T175413][rcw=59=18=410  RCW 59.18.410 Forcible entry or detainer or unlawful detainer actions—Notice of default—Writ of restitution—Judgment—Execution.]]
+- [[denote:20240319T140653][rcw=59=18=650=1  RCW 59.18.650(1) Eviction of tenant, refusal to continue tenancy, end of periodic tenancy—Cause—Notice—Penalties]]
+#+END:

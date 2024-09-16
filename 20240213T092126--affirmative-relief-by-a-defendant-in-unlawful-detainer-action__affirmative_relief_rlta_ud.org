@@ -1,0 +1,30 @@
+y#+title:      Affirmative Relief by a Defendant in Unlawful Detainer Action
+#+date:       [2024-02-13 Tue 09:21]
+#+filetags:   :affirmative:relief:rlta:ud:
+#+identifier: 20240213T092126
+
+Triune is correct that a party may waive the defense of lack of
+jurisdiction by seeking affirmative relief, thereby invoking the
+jurisdiction of the court.
+- See In re Marriage of Parks, 48 Wash.App. 166, 170, 737 P.2d 1316 (1987).
+
+
+Affirmative relief is defined as “ ‘[r]elief for which defendant might
+maintain an action independently of plaintiff's claim and on which he
+might proceed to recovery, although plaintiff abandoned his cause of
+action or failed to establish it.’ “ Negash v. Sawyer, 131
+Wash.App. 822, 827, 129 P.3d 824 (2006) (quoting Grange Ins. Ass'n
+v. State, 110 Wash.2d 752, 765–66, 757 P.2d 933 (1988)).
+
+
+Ms. Pfeifer did request judgment for her costs and attorney fees, but
+presenting defenses and requesting judgment for costs and attorney
+fees against the landlord is not a request for affirmative relief.
+- See id. at 826–27, 129 P.3d 824.
+
+
+Ms. Pfeifer did not waive her lack of jurisdiction defense. Dismissal
+without prejudice was the proper remedy at the August 12 hearing.
+
+
+- Triune Family Charitable Remainder Unitrust v. Pfeifer, 157 Wn. App. 1045 (2010)

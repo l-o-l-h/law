@@ -1,0 +1,25 @@
+#+title:      Summons in Unlawful Detainer Action
+#+date:       [2024-02-13 Tue 09:24]
+#+filetags:   :requirements:rlta:summons:ud:
+#+identifier: 20240213T092405
+
+b. Requirements for unlawful detainer summons.
+
+A summons served by a landlord in an unlawful detainer action must
+comply with RCW 59.12.070 and .080.
+
+RCW 59.12.070 provides in pertinent part: A summons must be issued as
+in other cases, returnable at a day designated therein, which shall
+not be less than seven nor more than thirty days from the date of
+service.  (Emphasis added.)
+
+Former RCW 59.12.080 (1927) provides in pertinent part: The summons
+must state the names of the parties to the proceeding, the court in
+which the same is brought, the nature of the action, in concise terms,
+and the relief sought, and also the return day; and must notify the
+defendant to appear and answer within the time designated or that the
+relief sought will be taken against him.  (Emphasis added.)
+
+
+- Triune Family Charitable Remainder Unitrust v. Pfeifer, 157
+  Wn. App. 1045 (2010)

@@ -1,0 +1,61 @@
+#+title:      Plaintiff Has Burden to Prove Right to Possession
+#+date:       [2024-02-13 Tue 11:26]
+#+filetags:   :burden:possession:proof:right:rlta:ud:
+#+identifier: 20240213T112607
+
+* Plaintiff Must Prove Right to Possession by Preponderance
+
+A landlord bringing an unlawful detainer action has the burden of
+proving their right to possession by a preponderance of the
+evidence.
+- Duprey v. Donahoe, 52 Wn.2d 129, 135, 323 P.2d 903 (1958);
+- see also FPA Crescent Assocs., LLC v. Jamie’s LLC, 190 Wn. App. 666,
+  675, 360 P.3d 934 (2015) (“‘The possession of a tenant is originally
+  lawful, and is so presumed until the contrary appears.’”) (quoting
+  Duprey, 52 Wn.2d at 135).
+
+
+- Hernandez v. France, No. 39548-1-III (2024) [UNPUBLIHSED]
+
+** Minimum Required Elements
+:PROPERTIES:
+:CUSTOM_ID: h:4E7622B2-B487-489B-8E5D-F0BB450B19F0
+:END:
+At a minimum, this burden includes
+- establishing the existence of the tenancy “and the terms thereof.”
+  - Gabalis v. Campbell, 185 Wash. 387, 388, 55 P.2d 615 (1936);
+  - see also Hous. Auth. v. Pleasant, 126 Wn. App. 382, 392, 109 P.3d
+    422 (2005) (faulting landlord for furnishing “no competent
+    evidence regarding a lease at all”);
+  - Brewer v. Hill, 25 Wn. App. 2d 844, 857-58, 525 P.3d 987 (2023)
+    (dismissing unlawful detainer action because plaintiff furnished
+    no evidence that he had leased the premises to the defendant).
+
+
+Here, Mr. Hernandez failed to meet his burden to produce evidence in
+support of his unlawful detainer claim against Ms. France.
+
+Mr. Hernandez’s asserted cause for eviction was that he
+was “the owner” of the property, he had “elect[ed] to sell” the
+property, and Ms. France had “continue[d] in possession” after the
+expiration of a 90-day notice to vacate. RCW 59.18.650(2)(e).
+
+** Required Evidence
+
+Given these allegations, he needed to proffer evidence that
+- (1) he owned the home,
+- (2) he and Ms. France had a landlord-tenant relationship; and
+- (3) he had given Ms. France at least 90 days’ notice of her need to vacate.4
+
+
+But Mr. Hernandez did not produce any evidence in support of the first
+two elements. While Mr. Hernandez attached a copy of the 90-day notice
+to his complaint, he never produced any evidence that he owned the
+home or that he was Ms. France’s landlord.
+
+
+
+Mr. Hernandez’s failure to meet his burden of proof should have
+resulted in dismissal of the unlawful detainer action.
+- See, e.g., Brewer, 25 Wn. App. 2d at 857-58;
+- Sundholm v. Patch, 62  Wn.2d 244, 246-47, 382 P.2d 262 (1963)

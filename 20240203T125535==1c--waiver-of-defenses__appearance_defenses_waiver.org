@@ -1,0 +1,38 @@
+#+title:      Waiver of Defenses
+#+date:       [2024-02-03 Sat 12:55]
+#+filetags:   :appearance:defenses:waiver:
+#+identifier: 20240203T125535
+
+* A Party has not waived any defenses by making an Appearance
+
+[See => [[denote:20240203T123942][coa  4 Wash. App. 2d 8 Castellon v. Rodriguez]]]
+
+Waiver
+5 6 7 8
+¶ 15 The Castellons argue that regardless of the validity of service, Mr. Rodriguez has waived this issue. Under the Superior Court Civil Rules, a defendant will waive the defense of personal jurisdiction if it is not raised in a responsive motion or pleading. CR 12(h)(1). However, waiver does not occur merely by virtue of a defendant's voluntary appearance in court. CR 4(d)(5); Kuhlman Equip. Co. v. Tammermatic, 29 Wash. App. 419, 422, 628 P.2d 851 (1981) (court rules “have abolished the distinction between special and general appearances”). In addition to the waiver standards set by court rule, Washington courts recognize common law waiver if a defendant acts in a manner inconsistent with a jurisdictional defense or is dilatory in asserting the defense. Lybbert v. Grant County, 141 Wash.2d 29, 39, 1 P.3d 1124 (2000). So long as there are no disputed facts, our review of a waiver claim is de novo. See id. at 40, 1 P.3d 1124.
+
+
+Castellon v. Rodriguez, 4 Wn. App. 2d 8, 15, 418 P.3d 804, 808 (2018)
+
+
+[COURT RULE WAIVER]
+9
+¶ 16 Here, Mr. Rodriguez never waived his personal jurisdiction defense pursuant to the terms of the court rules. Although Mr. Rodriguez made two court appearances prior to entry of judgment, he never filed a responsive pleading or motion. Mr. Rodriguez first raised his personal jurisdiction defense in his motion to vacate judgment. Prior to that time, Mr. Rodriguez never sought any form of substantive relief from the court or any other party. Given these circumstances, the court rules permit Mr. Rodriguez to assert a personal jurisdiction defense.
+
+
+Castellon v. Rodriguez, 4 Wn. App. 2d 8, 15, 418 P.3d 804, 808 (2018)
+
+
+[COMMON LAW WAIVER]
+10 11
+¶ 17 The record also lacks evidence of common law waiver. Mr. Rodriguez never took any action inconsistent *16 with his personal jurisdiction defense, such as making a request for affirmative relief. When Mr. Rodriguez appeared in court in September 2016, he merely requested an interpreter and responded to the court's inquiries. This conduct **809 was responsive, not affirmative. Waiver does not occur in such circumstances. French v. Gabriel, 116 Wash.2d 584, 806 P.2d 1234 (1991) (memorandum filed in response to motion for summary judgment in which defendant claimed to be entitled to dismissal was insufficient to waive personal jurisdiction); Negash v. Sawyer, 131 Wash. App. 822, 826-27, 129 P.3d 824 (2006) (limited appearance with no request for affirmative relief was insufficient to waive personal jurisdiction defense).
+
+
+Castellon v. Rodriguez, 4 Wn. App. 2d 8, 15–16, 418 P.3d 804, 808–09 (2018)
+
+
+[NO DILATORY ACTION]
+Nor was Mr. Rodriguez particularly dilatory in asserting his personal jurisdiction defense. The concern regarding dilatory conduct is that a defendant will lie in wait and mask the problems with service of process until after expiration of the statute of limitations. Lybbert, 141 Wash.2d at 40, 1 P.3d 1124. Such concerns are not present here. Mr. Rodriguez is a monolingual Spanish speaker. During the period prior to his assertion of lack of personal jurisdiction, Mr. Rodriguez was unrepresented by counsel. The Castellons have not pointed to any tactical advantage Mr. Rodriguez could have gained by delaying his personal jurisdiction defense. Given these circumstances, Mr. Rodriguez should not be prohibited from raising his personal jurisdiction claims by the doctrine of common law waiver.
+
+
+Castellon v. Rodriguez, 4 Wn. App. 2d 8, 16, 418 P.3d 804, 809 (2018)

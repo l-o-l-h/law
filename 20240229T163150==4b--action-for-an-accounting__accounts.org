@@ -1,0 +1,38 @@
+#+title:      Action for an Accounting
+#+date:       [2024-02-29 Thu 16:31]
+#+filetags:   :accounts:
+#+identifier: 20240229T163150
+
+* ACTION FOR AN ACCOUNTING
+
+** Elements of an Action for Accounting
+:PROPERTIES:
+:CUSTOM_ID: h:A819CE3D-9014-48B4-A0B3-D4D36C55749B
+:END:
+
+The requisites to an action for an accounting are concisely set forth in _State v. Taylor_, 58 Wash.2d 252, 262, 362 P.2d 247, 253 (1961), which quoted with approval the following language from _Seattle Nat'l Bank v. School Dist._ 40, 20 Wash. 368, 55 P. 317 (1898):
+
+#+begin_quote
+In general, a complaint for an accounting must show by specific
+averments that there is a fiduciary relation existing between the
+parties, Or that the account is so complicated that it cannot **1152
+conveniently be taken in an action at law. And it must allege that the
+plaintiff has demanded an accounting from the defendant, and the
+latter's refusal to render it, in order to state a cause of action.
+#+end_quote
+(Italics ours.)
+
+- Corbin v. Madison, 12 Wn. App. 318, 327, 529 P.2d 1145, 1151–52 (1974)
+
+
+The record in this regard revealed that the defendants by their actions had raised the possibility that disallowable charges had been added to the account, there was testimony to the effect that the parties' figures as to the amounts due did not coincide, it appeared that defendants' records had been casually kept, and there had been *328 several assignments of both the vendor's and vendee's interest in the real estate contract. The record further revealed that the defendants had repeatedly refused plaintiffs' requests for an accounting to determine the amount due. Under these circumstances it is our opinion that the trial court was acting well within the scope of its equitable powers when the accounting was required, and there is substantial evidence in the record to support the court's judgment as to the balance properly due on the contract.
+
+- Corbin v. Madison, 12 Wn. App. 318, 327–28, 529 P.2d 1145, 1152 (1974)
+
+** Action on an Open Account versus Account Stated
+
+The trial court treated this matter as an open account and required evidence substantiating every transaction between the parties from 1954 forward. Defendant argues the matter is, through 1962, an account stated and that the plaintiffs did not dispute that there was some amount owing to the defendant.
+
+- Card v. W. Farmers Ass'n, 72 Wn.2d 45, 47, 431 P.2d 206, 207 (1967)
+
+* West 9 Account Key 11 Action of Account or Account Render
