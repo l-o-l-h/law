@@ -1,0 +1,7 @@
+#+title:      Appearance
+#+date:       [2024-09-21 Sat 09:06]
+#+filetags:   :appearance:noa:
+#+identifier: 20240921T090605
+
+* Notes that Deal with Appearance
+- [[denote:20240220T105436::#h:57835FC5-1FA9-4C14-B306-7C2A070FD503][11a  Notice of Appearance -- What Constitutes::nil]]

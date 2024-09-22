@@ -1,0 +1,74 @@
+#+title:      Right to Regain Possession After Eviction
+#+date:       [2024-09-21 Sat 09:31]
+#+filetags:   :possession:postwrit:right:
+#+identifier: 20240921T093112
+
+* HJP Discussion
+
+** Query
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Erika Rutter
+Sent: Wednesday, September 18, 2024 8:42 AM
+To: Housing Task Force (HTF@groups.nwjustice.org) <HTF@groups.nwjustice.org>
+Subject: [HTF] Post Writ Briefing
+
+Caution: This is an external email. Please take care when clicking links or opening attachments.
+
+Hi Everyone,
+
+I have a post-writ Kittitas County case. The granted the pro se landlord a default writ and judgment. The writ was executed on Friday. Client said he never got notice of the UD and landlord did make some procedural errors. Does anyone have briefing on the court’s authority to hear the case post-execution of the writ and potentially allow the client to regain possession?  If he can’t regain possession, would he be entitled to anything, even just an order of limited dissemination?
+
+Thanks,
+
+Erika Rutter
+
+** Response from Scott Crain
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Sep 18, 2024, 10:55 AM (3 days ago)
+to Tyler, Erika, Housing
+
+I’m not aware of a case that specifically talks about the authority of a trial court to reinstate a tenant after the writ has been executed, but it is implied from a few other cases.
+
+- HACPFC v. Pleasant says that a case isn’t moot when a tenant is out
+  of possession if they do not concede their right to possession.  I
+  would probably start with that.
+
+- KCBA had a case called _Watkins v. ESA Management_ that has a holding
+  implying that the court can force a new tenant out to reinstate the
+  wrongfully evicted tenant.
+
+- I would also say that the court has a nondiscretionary duty to
+  vacate the default since it is void, if you can prove the service
+  was bad.  To challenge a declaration of service of process that is
+  valid on its face you need clear and convincing evidence, so just
+  the client saying “I didn’t get it” is not going to be good enough
+  for most judges. Ideally your client took a European vacation and
+  has a passport stamp showing they were out of the country when
+  service was performed. Failing that, receipts of places they were
+  when service happened, declarations of other witnesses, declarations
+  of neighbors, etc. might help.
+
+** Response from Benjamin Ramm
+Benjamin Ramm via groups.nwjustice.org <benjamin.ramm=nwjustice.org@groups.nwjustice.org>
+Wed, Sep 18, 12:18 PM (3 days ago)
+to Erika, Housing
+
+I submitted the following argument in an as-yet unsuccessful request for restitution. The gist of the argument is that courts have the inherent power to undo the practical effects of legally incorrect decisions so long as an innocent third party is not affected. This means either returning possession of the property or money if the property has been rented out to someone else.
+
+I hope these arguments are pressed as often as possible. Landlords might act more cautiously if they had to face the consequences of obtaining writs of restitution wrongfully.
+
+If the order granting the writ is vacated, [the tenant] would be entitled to restitution:
+
+A person who has conferred a benefit upon another in compliance with a judgment, or whose property has been taken thereunder, is entitled to restitution if the judgment is reversed or set aside, unless restitution would be inequitable or the parties contract that payment is to be final; if the judgment is modified, there is a right to restitution of the excess.
+
+Restatement (First) of Restitution § 74 (1937)
+
+Usually, this kind of restitution is authorized after an order or judgment is reversed on appeal. See, RAP 12.8. The rule of law that provides the basis for RAP 12.8, however, also applies to judgments that have been “set aside.” That is the scenario presented here. The order granting the writ of restitution should be set aside.
+Washington courts frequently rely on this section of the Restatement. See, e.g., Ehsani v. McCullough Family Partnership, 160 Wash.2d 586, 159 P.3d 407, 408-415 (2007); Sac Downtown Ltd. Partnership v. Kahn, 123 Wash.2d 197, 205, 867 P.2d 605, 609, 610 (1994); State v. A.N.W. Seed Corp., 116 Wash.2d 39, 802 P.2d 1353, 1356, 1357, 1358 (1991); Guardado v. Taylor, 17 Wn. App. 2d 676, 490 P.3d 274 (2021); State v. Hecht, 2 Wn. App. 2d 359, 409 P.3d 1146 (2018); Matter of Estate of Langeland v. Drown, 195 Wn. App. 74, 380 P.3d 573 (2016); Arzola v. Name Intelligence, Inc., 188 Wn. App. 588, 355 P.3d 286 (2015); Sloan v. Horizon Credit Union, 167 Wn. App. 514, 274 P.3d 386, (2012); Spahi v. Hughes-Nw., Inc., 107 Wn. App. 763, 27 P.3d 1233 (2001); In re Marriage of Stern, 68 Wn. App. 922, 846 P.2d 1387 (1993); Matter of Marriage of Mason, 48 Wn. App. 688, 740 P.2d 356 (1987); In re Marriage of Hardt, 39 Wn. App. 493, 693 P.2d 1386 (1985).
+
+This remedy would put the parties where they should have been in the absence of an order that should not have been issued. Ideally, this remedy would restore the tenant to possession because she has only recently been removed from possession. That remedy would be far more efficient than forcing her to account for damages inflicted by a prolonged absence from her home.
+
+A monetary remedy in unlawful detainer actions has been authorized by existing case law as well because “restoration of possession is not the only remedy available to an evicted tenant who prevails before this court. Success on the merits might entitle [a tenant] to an order limiting dissemination of the unlawful detainer action. And an illegally evicted tenant can recover money damages.” Hernandez v. France, 29 Wn. App. 2d 777, 783, 544 P.3d 518 (2024). Thus, the court should decide whether to vacate the order granting the writ of restitution.
+
+** Sample Petition to Reinstate Tenancy
+[[https://drive.google.com/file/d/1VvqMGsmUB3-wKGnfQnPTIhmIrMlxFlfs/view?usp=drive_link][Petition for Relief Against Forfeiture]]
