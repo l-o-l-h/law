@@ -1,0 +1,518 @@
+title:      57916-2-ii -- zachary-combs-and-tara-combs-v-dong-min-shin-and-ryu-youn-sook
+date:       2024-09-24
+tags:       attyfees  rlta  unpublished
+identifier: 20240924T110335
+---------------------------
+
+
+
+ 
+
+
+ZACHARY COMBS and TARA COMBS, a married couple, Appellants, v. DONG MIN SHIN and RYU YOUN SOOK, husband and wife, and INSUS YONG BOWERS, an unmarried person, Respondents.
+Court of Appeals of Washington, Division 2. | September 17, 2024 | Not Reported in Pac. Rptr. | 2024 WL 4213367
+
+Document Details
+
+Outline
+Opinion
+All Citations
+
+washington Citation:
+
+ZACHARY COMBS & TARA COMBS, a married couple, Appellants, v. DONG MIN SHIN & RYU YOUN SOOK, husband & wife, & INSUS YONG BOWERS, an unmarried person, Respondents., 57916-2-II, 2024 WL 4213367 (Wash. Ct. App. Sept. 17, 2024)
+
+All Citations:
+
+Not Reported in Pac. Rptr., 2024 WL 4213367
+
+Search Details
+
+Search Query:
+
+57916-2-II
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+September 24, 2024 at 12:41 PM
+
+Delivered By:
+
+Lincoln Harvey
+
+Client ID:
+
+SERVICE OF PROCESS
+
+Status Icons:
+
+  
+
+Inline KeyCite:
+
+Inline KeyCite completed successfully.
+
+
+
+
+2024 WL 4213367
+Only the Westlaw citation is currently available.
+NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+UNPUBLISHED OPINION
+Court of Appeals of Washington, Division 2.
+ZACHARY COMBS and TARA COMBS, a married couple, Appellants,
+v.
+DONG MIN SHIN and RYU YOUN SOOK, husband and wife, and INSUS YONG BOWERS, an unmarried person, Respondents.
+No.
+57916
+-
+2
+-
+II
+|
+September 17, 2024
+Opinion
+
+MAXA, J.
+
+*1 Tara and Zachary Combs appeal the trial court’s ruling after a bench trial dismissing their claims against their former landlords, Dong Min Shin1 and Insun Bowers, and awarding Shin and Bowers their reasonable attorney fees.
+ 
+1
+
+Shin’s spouse, Ryu Young Sook, also is a named party in this appeal.
+
+
+In May 2017, the Combses entered into a one-year lease with Shin and Bowers to rent a 28-acre property in rural Pierce County. The property featured a house, a manufactured home, a recreational vehicle hookup, a barn, a covered riding arena, stables, partial fencing, and a pasture, among other things. The Combses resided in the house and ran a business boarding and training horses using the barn, stables, fencing, and other commercial elements of the property. The parties executed an addendum to the lease in March 2019.
+ 
+At the start of the Combses’ lease, Bowers lived with the Combses in the house for a few weeks in exchange for allowing them to move into the house before the start of the lease. Bowers then moved into the manufactured home. A person named Hiyman also lived on the property in his RV. He did not pay rent, but rather worked for Shin and Bowers as a handyman around the property.
+ 
+The lease ended in November 2020. The Combses then filed suit against Shin and Bowers, alleging breach of the right to possession and quiet enjoyment based on Bowers’s and Hiyman’s presence on the property, multiple violations of the Residential Landlord Tenant Act (RLTA), chapter 59.18 RCW, and interference with a business expectancy. Shin and Bowers counterclaimed for conversion. After a bench trial, the trial court dismissed all of the Combses’ claims but awarded the Combses approximately $11,500 for certain repairs and utility costs on equitable grounds, awarded Shin and Bowers $1,500 on their conversion claim, and awarded attorney fees to Shin and Bowers under an attorney fee provision in the lease.
+ 
+We hold that the trial court did not err when it (1) ruled that Shin and Bowers did not breach the covenants of exclusive possession and quiet enjoyment by allowing Bowers and Hiyman to reside on the property based on a finding that the Combses agreed to those living arrangements; (2) ruled that Shin and Bowers complied with the RLTA with regard to (a) the Combses’ claims that Shin and Bowers had a statutory duty to make repairs to commercial parts of the property, (b) completion of a walk through checklist of the property before taking a security deposit, and (c) Shin’s and Bowers’s retention of a portion of the security deposit at the end of the lease; (3) dismissed the Combses’ claim for diminution of tenancy value because Shin and Bowers did not breach any common law covenants or the RLTA; (4) dismissed the Combses’ claims for tortious interference with a business expectancy and lost profits because they failed to provide evidence to establish any of the elements required for the claims; (5) ruled in favor of Shin and Bowers on their conversion counterclaim. However, we hold that although Shin and Bowers were the prevailing party at trial, they can recover attorney fees for only some of the claims at issue.
+ 
+*2 Accordingly, we affirm the trial court’s judgment, but we remand for the court to, if possible, segregate the fees incurred regarding the claims for which attorney fees are recoverable and the claims for which attorney fees are not recoverable.
+ 
+
+FACTS
+
+Background
+This case arises from a dispute regarding the lease of real property by Shin and Bowers to the Combses. Shin and Bowers purchased the property together, intending to use it as a horse ranch. The Combses owned horses, and recreationally and professionally showed, trained, and cared for horses.
+ 
+The property consists of 28 acres located in rural Pierce County. It includes a large barn, a covered riding arena with a built-in apartment, a manufactured home, a main house, power connection for an RV, a storage building, partially fenced fields, and a pasture. The Combses found the property while they were searching for somewhere to board their horses. They wanted to rent the property to live there, have a place for their horses, and conduct a horse business.
+ 
+In February 2017, Shin and Bowers and the Combses executed a lease of the property. The lease term was for one year: from March 1, 2017 to March 1, 2018. The parties agreed to $5,000 monthly rent for the first six months, and then $6,500 monthly rent for the rest of the lease term.
+ 
+The lease also contained the following provision regarding attorney fees: “If Lessor or Tenant institutes suit against the other concerning this Agreement, the prevailing party is entitled to reasonable attorneys’ fees and expenses.” Ex. 29, at 3.
+ 
+At the beginning of the lease, the Combses provided a security deposit. However, Shin and Bowers did not complete a checklist documenting the condition of the property at that time. Presence of Bowers and Hiyman on the Property
+ 
+When the Combses first moved in, Bowers was living in the house in which the Combses intended to live. She was living in the house because the manufactured home, in which she planned to live, was undergoing repairs. During this time, Bowers stayed in a bedroom in the main house and shared a bathroom and living area with the Combses.
+ 
+Bowers subsequently moved into the manufactured home in the spring of 2017. The Combses did not give any written notice to Shin and Bowers that Bowers’s occupancy was a violation of the lease.
+ 
+A person named Hiyman also lived on the property in his RV. Hiyman did not pay rent. Instead, he helped around the property. Hiyman lived on the property from the start of the Combses’ lease term until after they moved out. Although the Combses were aware that Hiyman was living on the property, there were no terms in the lease requiring Hiyman to vacate the property. The Combses never gave written notice to Shin and Bowers alleging that Hiyman’s presence was a violation of the lease.
+ 
+
+
+Combses Make Repairs to Property
+While the Combses were preparing to move onto the property, they identified to themselves portions of the property that they wanted to change or update. These things included, but were not limited to, fencing for the horses and parts of the barn, stable, arena, and pasture. But the Combses did not provide written notice to Shin and Bowers regarding these items. At the beginning of their lease, the Combses asked for a small offset in rent for work they did to improve the commercial aspects of the property. Shin and Bowers rejected their request, and the Combses never asked again.
+ 
+*3 At various points during their tenancy, the Combses made repairs and improvements to the barn, stalls, fencing, outdoor area, the paddock, and the fields. They made these improvements to improve their horse business. They did not make any repairs to the house. Shin and Bowers did not agree to pay for the repairs the Combses made to the commercial portions of the property, either in the written lease agreement or in subsequent conversations. The conduct of the Combses, Shin, and Bowers and the lease addendum demonstrated that the Combses believed they were responsible for making repairs and improvements to the commercial portions of the property.
+ 
+
+
+First Addendum to the Lease
+When the initial lease term expired on March 13, 2018, it became a month-to-month lease. The lease was month-to-month until March 15, 2019.
+ 
+On March 15, 2019, the parties signed the first addendum to the lease. The parties conducted a walk through and completed a move-in/move-out addendum detailing the condition of the property. The parties agreed to a new lease term of one year, from March 15, 2019 to March 15, 2020. The first addendum set rent at $5,000 monthly, instead of the previous $6,500 monthly in the original lease. The Combses agreed to “fix and repair around the property, to include the house, horse stalls, and fences” in exchange for the lower monthly rent. Clerk’s Papers (CP) at 497. The first addendum also stated that Shin and Bowers would pay for a new water pump for the main house in exchange for the Combses paying Bowers’s utility costs until March 2020.
+ 
+The first addendum included an option for the Combses to buy the property at “fair market price.” CP at 496. The option was set to expire in March 2020. The parties never agreed upon a fair market price for the property. And Combses did not exercise the option to purchase the property before the expiration date.
+ 
+On March 15, 2020, the lease expired. The lease then became month to month. The Combses vacated the property in November 2020.
+ 
+Subsequently, Shin and Bowers inspected the property and prepared a list of expenses that they deducted from the Combses’ security deposit. They charged the Combses $4,668 for the cost of repairs for the home, including damage to the soffit and fascia, removal and replacement of the carpet, replacement of the glass back door, and the replacement of a broken refrigerator drawer. Shin and Bowers sent the remainder of the deposit to the Combses. The Combses did not accept the balance of the deposit.
+ 
+
+
+Combses’ Complaint
+In July 2021, the Combses filed a complaint seeking damages for (1) the breach of the right of quiet enjoyment, (2) breach of the right to possession, (3) breach of RCW 59.18.060, (4) breach of RCW 59.18.260, and (5) interference with a contractual relationship and business expectancy.
+ 
+First, the Combses alleged that Shin and Bowers breached their right to possession by “storing belongings on [the Combses’] property, leasing a trailer that was part of their property, and taking the mobile home space.” CP at 4.
+ 
+Second, the Combses alleged that Bowers’s and Hiyman’s residency on the property breached the covenant of quiet enjoyment because they did not consent to Bowers’s and Hiyman’s presence on the property. The Combses alleged that Shin and Bowers breached the right to quiet enjoyment by disturbing their customers, entering the house, and otherwise being present on the property.
+ 
+*4 Third, the Combses alleged that Shin and Bowers violated RCW 59.18.060 by failing to maintain the electrical, plumbing, heating, and other facilities on the property, and by failing to repair the barn to be weathertight, which resulted in the loss of hay.
+ 
+Fourth, the Combses alleged that Shin and Bowers violated RCW 59.18.260 by collecting a security deposit without providing the Combses a written checklist describing the condition of the home. They also alleged that because Shin and Bowers retained a portion of the security deposit and charged the Combses for the replacement of the old carpet, Shin and Bowers violated RCW 59.18.260 because a deposit cannot be withheld for normal wear and tear.
+ 
+Fifth, the Combses alleged that Shin and Bowers committed interference with contractual relations and their business expectancy. They claimed that Shin and Bowers knowingly entered their property without their permission and interfered with the operation of their horse business.
+ 
+Shin and Bowers asserted a counterclaim for conversion, alleging that the Combses took two beds, a sofa, a dining room table, and two dressing tables when they left the property.
+ 
+
+
+Bench Trial
+The trial court conducted a bench trial. The trial court heard testimony from 13 witnesses.
+ 
+The Combses sought lost profits, alleging that they would have had a more successful horse business if not for the conduct of Shin and Bowers. They alleged that Bowers’s interactions with their customers, Bowers’s allegedly dangerous driving, and the failure of Shin and Bowers to make repairs and improvements to the barn, stalls, fencing, outdoor area, paddock and fields, among other things, resulted in lost profits. The Combses also sought damages for portions of the property they claimed they were unable to sublet because of Shin and Bowers.
+ 
+The Combses sought specific damages for home maintenance costs that they paid, for which they alleged Shin and Bowers should have paid. They also sought damages for lost hay and for the cost of Bowers’s utilities while she was living in the manufactured home.
+ 
+Following the trial, the trial court issued detailed findings of fact and conclusions of law. Many of the trial court’s findings of fact are incorporated into the statement of facts above.
+ 
+Regarding Bowers and Hiyman residing on the property, the trial court made the following findings of fact:
+25. [While Bowers lived in the Combses’ home for a few weeks] [the Combses] never once expressed dissatisfaction with Ms. Bowers’ living arrangements since it was part of their agreement with [Shin and Bowers].
+....
+28. Hiyman lived at the Property from the beginning of [the Combses’] residency until after they moved out. [The Combses] never once complained about Hiyman’s residency.
+CP at 496.
+52. Ms. Bowers was allowed, under the agreement with [the Combses], to live on the Property, first in the main house, and later in the manufactured home. ...
+53. The tenant known as “Hiyman” who occupied the RV location, likewise, was allowed to be on the Property by virtue of the parties’ agreement.
+CP at 499 (emphasis added).
+ 
+The trial court entered the following conclusions of law:
+4. The parties had agreed that the quiet enjoyment of [the Combses] would be subject to Ms. Bowers and Hiyman’s occupancy in both, acts, words, and their written addendum, the court finds that the parties’ contract was not breached by this occupancy, nor was the right to quiet enjoyment or possession, or RCW 59.18.
+*5 CP at 504.
+47. [Shin and Bowers] did not breach the right to possession.
+48. [Shin and Bowers] did not breach the right of quiet enjoyment.
+CP at 510.
+ 
+Regarding application of the RLTA, the trial court made a finding that Shin and Bowers “complied in all respects with the [RLTA].” CP at 501. The court also entered a conclusion of law that Shin and Bowers “complied in all respects with the [RLTA].” CP at 505. In addition, the court made the following conclusion of law:
+17. The [RLTA] (RCW 59.18) requires that a request for a repair to leased property be made in writing to [Shin and Bowers], in order to give [Shin and Bowers] an opportunity to fix. If [Shin and Bowers do] not fix, then the statute details the process by which [the Combses] may complete the repairs themselves and offset for a limited amount of rent. In this case, no such notice was given and, therefore, no breach of contract was committed by [Shin and Bowers].
+CP at 506.
+ 
+Regarding repairs on the property, the trial court made the following findings of fact:
+47. [A]t no point during the tenancy did [the Combes] ever give written notice to [Shin and Bowers] to repair or maintain any alleged issue or defect of the Property while [the Combses] occupied the Property.
+CP at 498.
+58. The repairs and improvements to the commercial aspects of the Property, including but not limited to the barn, the stalls, the fencing, the outdoor area, the paddock and fields by [the Combses] were not done to the residential structure, and instead were made to improve [the Combses’] business; these repairs and improvements were not something that [Shin and Bowers] ever agreed to pay for, either in the written Lease or subsequent conversation. Further the parties[’] conduct throughout the Lease demonstrates that [Shin and Bowers] never agreed to pay for such items.
+60. The parties’ conduct throughout the Lease demonstrates that [the Combses] thought that they were responsible for repairs and improvements to the commercial aspects of the Property, including but not limited to the barn, the stalls, the fencing, the outdoor area, and the paddock and fields. Further, the Lease addendum indicated that [the Combses] were responsible.
+61. The residential structure (“house”) was habitable and there were no defects in violation of the [RLTA].
+CP at 500.
+ 
+The trial court entered the following conclusions of law:
+14. The [RLTA] (RCW 59.18) does not require [Shin and Bowers] to pay for repairs and improvements to the commercial elements of the Property, in particular here the barn, the stalls, the fencing, the paddock and fields.
+15. Unless a lease provides otherwise, under the common law, the commercial aspects of the Property such as the barn, the stalls, the fencing[,] the paddock[,] and the fields are not the responsibility of [Shin and Bowers] to maintain and repair. There was no written or oral agreement to change this responsibility to [Shin and Bowers] here.
+16. Only the residential structure (house) was subject to the [RLTA].
+CP at 505.
+37. [The Combses], both under the common law and the Lease itself, assumed the duty to repair and maintain the Property, in particular, the commercial aspects of the Property.
+*6 38. At no time did [the Combses] ever comply with the statutory notice requirements of actually notifying [Shin and Bowers] that they would do the repairs themselves and expect it to be offset from the rent.
+CP at 509.
+ 
+Regarding a written security deposit checklist, the court entered the following conclusions of law:
+40. RCW 59.18.260 provides that a residential security deposit may not be taken from a tenant by a landlord until a written checklist or statement describing the condition and cleanliness has been taken of the premises. ...
+41. While the parties did walk through the premises at the inception of the Lease in 2017, no written checklist was created at that time. The parties remedied this oversight in 2019, when they renewed the Lease for a new term and did conduct a walkthrough and create a written checklist.
+CP at 509.
+ 
+Regarding withholding a portion of the security deposit, the trial court made the following findings of fact:
+66. At the conclusion of the Lease, [Shin and Bowers] walked through the Property and prepared a sheet detailing and itemizing the expenses which were to be offset from the deposit, then timely tendered what they believed to be the remaining balance of the deposit to [the Combses] ($5,332.00)....
+67. The $5,332.00 returned to [the Combses] was properly calculated as the items which [Shin and Bowers] alleged to have been damaged were in fact damaged and documented with credible evidence.
+CP at 501.
+ 
+Regarding the Combses’ claim for diminution in tenancy value and lost profits based on interference with a business expectancy, the trial court made the following findings of fact:
+63. There is no evidence of what any actual damages would have been from the lost profits nor evidence that any damage has occurred to [the Combses] as a result of [Shin’s and Bowers’s] action or inaction.
+CP at 501.
+72. The court finds that [the Combses] cannot satisfy the reasonable certainty standard that over 50 additional horses would have been boarded, but for [Shin’s and Bowers’] conduct. Such conduct was alleged to include (1) Ms. Bowers[’] interaction with customers, (2) Ms. Bowers[’] driving, (3) the alleged failure of [Shin and Bowers] to make repairs and improvements to the barn, the stalls, the fencing, the outdoor area, the paddock and fields, and (4) other general complaints.
+73. Ms. Bowers could speak very little English, and the court finds that her testimony was credible that she did not yell at or confront [the Combses’] customers.
+74. There was no direct evidence or witness testimony that actual boarders were turned away by [the Combses] because of [Shin and Bowers]. The claimed “lost profits” sought here are nothing more than hoped-for profits.
+75. Nevertheless, even if the court were to find that [the Combses] lost even one customer and, therefore, a profit because of [Shin and Bowers], [the Combses’] lost profits failed to take into consideration labor costs which would have been 80 hours a week according to [the Combses’] own testimony. Any such labor costs would drastically reduce and offset the profit figures presented by [the Combses], making them zero.
+76. There was insufficient evidence at trial to award any lost profits, even if [Shin and Bowers] had breached, which they did not.
+*7 CP at 502-03.
+ 
+The court also entered the following conclusions of law:
+18. There was no diminution of value to the Lease.
+19. Lost profits may be recovered as damages when they are (1) within the contemplation of the parties at the time the contract was entered, (2) the proximate result of defendants’ breach, and (3) proven with reasonable certainty.
+20. [The Combses] cannot show any of these elements are present for a claim for Lost Profits, and this claim is hereby dismissed.
+CP at 506.
+44. [The Combses] have asserted claims for “diminution” in the leasehold value after the Lease has ended; however, their remedy is strictly limited under the statute and under these facts to the supposed “costs” to offset rent for “no more than two months of rent.” All diminution claims are dismissed.
+49. A plaintiff claiming tortious interference with a contractual relationship or business expectancy must prove five elements:
+(1) [T]he existence of a valid contractual relationship or business expectancy;
+(2) that defendants had knowledge of that relationship;
+(3) an intentional interference inducing or causing a breach or termination of the relationship or expectancy;
+(4) that defendants interfered for improper purpose or used improper means; and
+(5) resultant damage.
+[The Combses] cannot satisfy any of the above elements, especially since there is no evidence that [Shin and Bowers] would have agreed to any proposed sublet of the Property.
+50. As for the claim for lost profits, [the Combses] cannot satisfy the reasonable certainty standard that over 50 additional horses would have been boarded, but for [Shin’s and Bowers’s] conduct. Such conduct was alleged to include (1) Ms. Bowers[’] interaction with customers, (2) Ms. Bowers[’] driving, (3) the alleged failure of [Shin and Bowers] to make repairs and improvements to the barn, the stalls, the fencing, the outdoor area, the paddock and fields, and (4) and other general complaints. There was no direct evidence of actual boarders being turned away by [the Combses] because of [Shin and Bowers], and the lost profits sought here are nothing more than hoped-for profits.
+CP at 510-11.
+ 
+Regarding Shin’s and Bowers’s conversion counterclaim, the trial court made the following findings of fact:
+65. [Shin and Bowers] have counterclaimed seeking damages for the personal property which [the Combses] disposed of during their occupancy and damage to the physical improvements on the Property. Those items of personal property consisted of 2 beds, a sofa, a dining table, and 2 dressing tables and are worth $3,000. The damage to the physical improvements on the Property was alleged to be $5,000.
+CP at 501.
+78. [Shin and Bowers] asserted counterclaims for damages to some personal property, and the court finds that a reimbursement of $1,500 is appropriate on those counterclaims.
+CP at 503.
+ 
+In conclusion, the trial court dismissed all of the Combses’ claims “in total” and sustained Shin’s and Bowers’s counterclaims in the amount of $1,500. CP at 511. The court also entered an equitable award in favor of the Combses to reimburse them for the bills they paid to maintain the house and for Bowers’s utility costs. The amount totaled $11,578.84. The trial court also granted Shin’s and Bowers’s motion for attorney fees and costs under the attorney fee provision in the lease.
+ 
+*8 The trial court entered judgment in favor of Shin and Bowers for $1,500 plus $88,964.45 in attorney fees and $5,723.80 in costs, offset by the $11,578.84 awarded to the Combses. The total judgment amount was $84,609.41.
+ 
+The Combses appeal the trial court’s judgment.
+ 
+
+ANALYSIS
+
+A. STANDARD OF REVIEW
+We review a trial court’s decision after a bench trial to determine whether the findings of fact are supported by substantial evidence and whether the conclusions of law are supported by the findings of fact. Real Carriage Door Co. ex rel. Rees v. Rees, 17 Wn. App. 2d 449, 457, 486 P.3d 955 (2021). Evidence is substantial if it is sufficient to convince a rational, fair-minded person that a premise is true. Id. We view all evidence and reasonable inferences in the light most favorable to the prevailing party. Id. Unchallenged findings of fact are treated as verities on appeal. Id. We give deference to the trial court’s determinations of the credibility and weight of the evidence. Young v. Toyota Motor Sales, U.S.A., 9 Wn. App. 2d 26, 32, 442 P.3d 5 (2019).
+ 
+When conclusions of law are mischaracterized as findings of fact, we analyze them as conclusions of law. Real Carriage Door, 17 Wn. App. 2d at 457. The trial court’s application of facts to law and the conclusions of law are reviewed de novo. Id.
+ 
+
+
+B. CHALLENGED FINDINGS OF FACT
+At the end of their brief, the Combses summarily challenge several of the trial court’s findings of fact. We conclude that only one of the challenged findings is not supported by substantial evidence, but that finding is immaterial to this appeal.
+ 
+
+
+1. Finding of Fact 7
+Finding of fact 7 states, “Defendants took great care to maintain the grounds, the house, and the horse arena.” CP at 494.
+ 
+Shin and Bowers both testified to the work they did to maintain the property. They hired Hiyman to work on the property. They also hired workers to fix the roof of the barn. The Combses argue that this finding is contrary to their testimony, contrary to the testimony of Shin’s and Bowers’s prior tenant, and conflicts with Shin’s testimony that he did not have the capacity to operate the property.
+ 
+We defer to the trial court’s determinations regarding the credibility of the evidence. Young, 9 Wn. App. at 32. And we view all evidence and reasonable inferences in the light most favorable to the prevailing party. Real Carriage Door, 17 Wn. App. 2d at 457. The trial court weighed the testimony of Shin and Bowers as more credible than that of the Combses and the prior tenant. Shin and Bowers’s testimony related to their maintenance of the property is substantial evidence. Accordingly, we reject the Combses’ challenge.
+ 
+
+
+2. Findings of Fact 8-9, 13, 32
+Finding of fact 8 states that Bowers used the majority of her life savings, which she obtained from the sale of her home in Lakewood, to contribute her share of the purchase price of the property. Finding of fact 9 states “Bowers was recently widowed (2016) and had relied heavily on her husband of 43 years to communicate for her. For Defendants, ownership of the Property was a longtime dream and exciting opportunity.” CP at 494. Finding of fact 13 states that the Combses “discovered the Property when they were looking for a place to board their horses that had a pasture.” CP at 495.
+ 
+*9 Finding of fact 32 states:
+Plaintiffs could not financially qualify for a loan to purchase the Property for a fair market price and, therefore, did not exercise the Option, nor did Plaintiffs present evidence at trial that they could qualify for financing to purchase the Property before the expiration of the First Addendum Term (March 15, 2020).
+CP at 496.
+ 
+None of these findings have any relevance to this appeal. Therefore, even if the trial court erred in making these findings, any error was harmless.
+ 
+
+
+3. Finding of Fact 19
+Finding of fact 19 states that the Combses made an $11,000 deposit at the inception of the lease, but that the deposit amount later was reduced to $10,000 per an agreement with Bowers and Shin.
+ 
+The original rental agreement states that “Lessor acknowledges receipt from Tenant of the sum of $11,000” as a security deposit. Ex. 29, at 2. But the first addendum to the lease says that the Combses paid $10,000 as a deposit on the property. In addition, the move-out balance due lists the security deposit received as $10,000.
+ 
+Shin testified that during the first month that the Combses were set to pay $6,500 in rent, they only paid $5,500. In order to make up for the $1,000 difference in rent, Shin and Bowers and the Combses agreed to take $1,000 from the security deposit and apply it towards that month of rent.
+ 
+Tara testified that she paid an $11,000 deposit. However, during cross-examination she agreed that $1,000 was taken off of the $11,000 deposit because of an issue with performance earlier in the lease.
+ 
+We conclude that substantial evidence supports this finding of fact. Therefore, we reject the Combses’ challenge.
+ 
+
+
+4. Finding of Fact 25
+Finding of fact 25 states that the Combses never expressed dissatisfaction with the fact that Bowers lived with them temporarily in the main house because it was part of an agreement with Shin and Bowers.
+ 
+Bowers testified that when Tara initially approached her about moving into the property, Bowers told Tara that she was living in the main house. Bowers agreed to let Tara move in early, before the start of their lease, and Bowers lived in the main house with them in the smaller bedroom while the manufactured home was being repaired.
+ 
+Tara described Bowers’s time living in the house with them as uncomfortable for the Combses and their children. But Tara never stated that they had not agreed to her living in the house temporarily after moving in early or that they expressed dissatisfaction with the arrangement. Tara did state that she complained to “[e]verybody that would listen” about Bowers “being there.” Rep. of Proc. (RP) at 69. But it is unclear whether she was referring to Bowers living in the house or living in the manufactured home.
+ 
+We conclude that substantial evidence supports this finding. Therefore, we reject the Combses’ challenge.
+ 
+
+
+5. Finding of Fact 28
+Finding of fact 28 states, “Hiyman lived at the Property from the beginning of [the Combses’] residency until after they moved out. [The Combses] never once complained about Hiyman’s residency.” CP at 496.
+ 
+*10 Bowers testified that Hiyman lived on the property before the Combses moved in, and lived there after they moved out. Therefore, we conclude that substantial evidence supports the first sentence in finding of fact 28.
+ 
+With regard to the second sentence, Tara testified that she asked Bowers for Hiyman to leave the property, but Bowers refused. Bowers also testified that Tara asked her to make Hiyman move out, but that she refused. In addition, the Combses talked to Shin about having Hiyman leave and about the fact that Hiyman’s presence was a big issue. And at one point they demanded that Hiyman leave the property. However, Tara did not make these requests in writing.
+ 
+This evidence suggests that the Combses did complain about Hiyman’s presence on the property. And there was no testimony from Shin or Bowers that the Combses “never once” complained about Hiyman’s presence. Therefore, we conclude that substantial evidence does not support this finding of fact. However, the trial court’s error in making this finding is immaterial to this appeal because there was evidence that the Combses agreed that Hiyman could live on the property (discussed below) regardless of whether they complained about it.
+ 
+
+
+6. Finding of Fact 51
+Finding of fact 51 states, “There was no evidence of an agreement to sublet by way of the parties’ conduct.” CP at 499.
+ 
+Tara testified that Shin met their subtenants and consented to the Combses subletting the tack room in the barn. However, Shin testified that the Combses never asked to sublet the RV, storage area, or any space in the barn. Shin testified that the Combses asked to sublet the manufactured home, and that he said no because Bowers was living there. We defer to the trial court’s determinations regarding the weight and credibility of the evidence. Young, 9 Wn. App. 2d at 32. The trial court gave more weight and credibility to Shin’s testimony on this issue.
+ 
+We conclude that substantial evidence supports this finding of fact. Accordingly, we reject the Combses’ challenge.
+ 
+
+
+7. Other Findings of Fact
+The Combses also arguably assign error to findings of fact 17, 20, 21, 34, 38, 43, 47, 57, and 75, arguing that they are not supported by substantial evidence. In addition, in their assignments of error the Combses list without discussion dozens of findings of fact that they apparently claim relate to the assignments. However, they provide no argument in their briefs relating to most of these findings. In general, we decline to consider an issue when the appellant has not provided meaningful argument. Wiklem v. City of Camas, ___ Wn. App. 2d ___, 551 P.3d 1067, 1078 (2024). Therefore, we decline to address the lists of findings of fact in the Combses’ assignments of error.
+ 
+
+
+C. COVENANTS OF POSSESSION AND QUIET ENJOYMENT
+The Combses argue that the trial court erred by concluding that Shin and Bowers did not breach the covenants of possession and quiet enjoyment by allowing Bowers and Hiyman to reside on the property during the Combses’ lease. Specifically, they claim that the trial court improperly considered evidence extrinsic to the lease in finding that the parties agreed that Bowers and Hiyman could reside on the property. We disagree.
+ 
+
+
+1. Quiet Enjoyment
+*11 The covenant of quiet enjoyment is an implied agreement in every lease that the tenant’s possession will not be disturbed by the landlord. 17 WILLIAM B. STOEBUCK & JOHN W. WEAVER, WASHINGTON PRACTICE: REAL ESTATE: PROPERTY LAW § 6.30, at 350 (2d ed. 2004). The covenant of quiet enjoyment protects a tenant from any wrongful act by the landlord that interferes with the tenant’s use and enjoyment of the leased property. Fitness Int’l, LLC v. Nat’l Retail Props., LP, 25 Wn. App. 2d 606, 614, 524 P.3d 1057, review denied, 1 Wn.3d 1020 (2023). A tenant has a cause of action against the landlord if the landlord enters the leased property without the right to do so. 17 STOEBUCK & WEAVER, § 6.30, at 350.
+ 
+Here, there is no question that Bowers and Hiyman would have violated the right to quiet enjoyment by living on the leased property if they had no right to do so. However, the trial court made factual findings that both Bowers and Hiyman were allowed to live on the property under an agreement between Bowers and the Combses. Based on these findings, the court concluded that Shin and Bowers did not breach the right to possession or the right of quiet enjoyment.
+ 
+
+
+2. Consideration of Parol Evidence
+The Combses concede that there was evidence – Bowers’s testimony – that supported the trial court’s finding that there was an agreement to allow Bowers and Hiyman to live on the property. However, they argue that the trial court should not have considered this evidence because the lease was unambiguous, and did not include a provision allowing Bowers and Hiyman to live on the property. We disagree.
+ 
+Under the parol evidence rule, extrinsic evidence generally is inadmissible to add to, modify, or contradict the terms of a written agreement. Emrich v. Connell, 105 Wn.2d 551, 555-56, 716 P.2d 863 (1986). “However, the parol evidence rule only applies to a writing intended by the parties as an ‘integration’ of their agreement; i.e., a writing intended as a final expression of the terms of the agreement.” Id. at 556. If a contract is only partially integrated – not a complete expression of all agreed terms – “then the terms not included in the writing may be proved by extrinsic evidence only insofar as they are not inconsistent with the written terms.” Id. (emphasis omitted). This is because “people have the right to make their agreements entirely oral, entirely in writing, or partly oral and partly in writing.” Lopez v. Reynoso, 129 Wn. App. 165, 171, 118 P.3d 398 (2005).
+ 
+Whether a written agreement was intended to be fully integrated or only partially integrated is a question of fact. Emrich, 105 Wn.2d at 556. In making this determination, the trial court “must hear all relevant, extrinsic evidence, oral or written.” Id.
+ 
+Here, the trial court did not make an express finding that the lease was only partially integrated. But because the trial court relied on extrinsic evidence to find that the parties agreed that Bowers and Hiyman could live on the property, the court necessarily made an implied finding of partial integration. The question is whether substantial evidence supports this finding.
+ 
+Bowers testified that she and Tara agreed on February 3 – before the lease was executed – that Bowers would live for a short time in the house and then move into the manufactured home. Bowers further testified that she would not have leased the house to the Combses if she could not share the property with them. And Bowers stated that she told Tara that Hiyman was living on the property, Tara said it was okay, and “we got into the agreement.” RP at 626. This evidence supports the conclusion the lease was only partially integrated – that the parties had separate agreements outside the lease regarding Bowers and Hiyman living on the property.
+ 
+*12 The parties’ subsequent conduct further supports this conclusion. When the Combses moved onto the property, Bowers lived in the main house and Hiyman lived in his RV. The Combses knew that Bowers and Hiyman were living on the property when they signed the lease. But they did not include in the lease a requirement that Bowers and Hiyman leave the property. And they never provided notice to Shin and Bowers that Bowers’s and Hiyman’s continued presence on the property violated the lease. Finally, they renewed the lease without including a provision that Bowers and Hiyman had to vacate the premises.
+ 
+We conclude that substantial evidence supports the implied finding that the lease was not a fully integrated contract, because it was not a “final expression of the terms of the agreement” between the Combses and Shin and Bowers. Emrich, 105 Wn.2d at 556. Therefore, we hold that the trial court did not err when it considered Bowers’s testimony in finding that there was an agreement to allow Bowers and Hiyman to reside on the property.
+ 
+Accordingly, we hold that the trial court did not err when it ruled that Shin and Bowers did not breach the covenants of possession and quiet enjoyment by allowing Bowers and Hiyman to reside on the property during the Combses’ lease.
+ 
+
+
+D. RLTA CLAIMS
+The Combses argue that the trial court erred by (1) concluding that the commercial aspects of their tenancy were not governed by the RLTA, and (2) concluding that Shin and Bowers complied with the RLTA. We disagree.
+ 
+
+
+1. Nature of the Lease
+The RLTA applies to “landlord-tenant relationships.” RCW 59.18.911. Therefore, application of the RLTA depends on the statutory definitions of “landlord,” “tenant,” and related terms.
+ 
+RCW 59.18.030(16) defines “landlord” as “the owner, lessor, or sublessor of the dwelling unit or the property of which it is a part.” RCW 59.18.030(34) defines “tenant” as “any person who is entitled to occupy a dwelling unit primarily for living or dwelling purposes under a rental agreement.” RCW 59.18.030(10) defines a “dwelling unit” as “a structure ... which is used as a home, residence, or sleeping place by one person or by two or more persons maintaining a common household, including but not limited to single-family residences.” (Emphasis added.) Therefore, the RLTA only applies to the residential aspects of leases. See Spokane Airport Bd. v. Experimental Aircraft Assoc., 198 Wn.2d 476, 483 n.4, 495 P.3d 800 (2021) (concluding that the RLTA did not apply to a commercial lease where there was no tenant as defined by the RLTA.)
+ 
+The house obviously was a dwelling unit – it is where the Combses slept and resided. RCW 59.18.030(10). However, the Combses intended to use and did use the rest of the property for their horse business. The trial court made an unchallenged finding that the Combses “wanted to rent [the] [p]roperty with the hopes of living there, having a place for their horses, and conducting a horse business.” CP at 495 (emphasis added). In other words, they did not intend to use the entire property as their residence. The court also made an unchallenged finding that the commercial aspects of the property included “the barn, the stalls, the fencing, the outdoor area, the paddock and fields.” CP at 500. Accordingly, we conclude that the RLTA applies to the house, but not to the commercial portions of the leased property.
+ 
+The Combses contend that the RLTA applies to the entire property, and not just to the house. They argue that the lease included the “[p]remises” as defined by the RLTA, including “grounds, and facilities held out for the use of tenants generally and any other area or facility which is held out for use by the tenant.” RCW 59.18.030(22).
+ 
+*13 The entire property was held out for use by the Combses. However, the portions of the property not including the house were held out for commercial, not residential use. And the Combses cite to no binding authority to support their argument that the RLTA applies to an entire property simply because it includes a dwelling unit.
+ 
+We reject the Combses’ argument and affirm the trial court’s ruling that only the house was subject to the RLTA.
+ 
+
+
+2. Failure to Make Repairs
+The Combses argue that the trial court erred when it ruled that the RLTA did not require Shin and Bowers to pay for repairs and improvements to the property. We already have concluded that the RLTA only applied to the house, and to none of the commercial portions of the lease. Therefore, we reject the Combses’ argument to the extent that the identified repairs applied to the commercial portions of the property, such as a leaky roof in the barn.
+ 
+To the extent that any repairs related to the house or other residential aspects of the lease, RCW 59.18.070 states if the landlord fails to carry out the duties required by RCW 59.18.060 or the rental agreement, “the tenant may, in addition to pursuit of remedies otherwise provided him or her by law, deliver written notice” to the landlord specifying the nature of the defective condition. (Emphasis added.) Upon receiving such notice, the landlord is required to take remedial action. RCW 59.18.070.
+ 
+Here, the trial court made an unchallenged finding that the Combses never gave Shin and Bowers written notice of the need for repairs. Therefore, under RCW 59.18.070 Shin’s and Bowers’s duty to conduct repairs never arose.
+ 
+The Combses argue that giving written notice is permissive rather than mandatory because of the use of the word “may” in RCW 59.18.070. We disagree. The word “may” refers to the tenant’s decision to invoke the repair remedy at all, not to whether the notice must be written. We interpret RCW 59.18.070 as requiring written notice before the landlord as a duty to repair.
+ 
+We conclude that the trial court did not err in ruling that Shin and Bowers did not violate the RLTA with regard to a duty to repair.2
+ 
+2
+
+Because of our holding, we do not address the effect of the Combses’ agreement in the first addendum to make repairs in exchange for a reduction in rent.
+
+
+
+
+3. Security Deposit
+The Combses argue that Shin and Bowers violated the RLTA by (1) collecting a security deposit without providing a checklist in 2017, and (2) withholding a portion of the security deposit to cover repairs to the house. We disagree.
+ 
+
+a. Legal Principles
+The RLTA states that a tenant’s security deposit “provides security for the performance of the tenant’s obligations under the lease, but ‘[n]o part of the deposit belongs to the landlord unless and until the tenant breaches.’ ” Silver v. Rudeen Mgmt. Co. 197 Wn.2d 535, 545, 484 P.3d 1251 (2021) (alteration in original) (quoting 17 STOEBUCK & WEAVER, § 6.53, at 398). A landlord may collect a security deposit from a tenant only if the lease is in writing and only if “a written checklist or statement specifically describing the condition and cleanliness of or existing damages to the premises ... is provided by the landlord to the tenant at the commencement of the tenancy.” Former RCW 59.18.260 (2011). If the landlord collects a security deposit without providing a written checklist at the beginning of the tenancy, they are liable to the tenant for the amount of the deposit. Former RCW 59.18.260.
+ 
+*14 The tenant must keep the premises clean, refrain from causing damage to the premises, and upon termination of the tenancy, “restore the premises to their initial condition except for reasonable wear and tear or conditions caused by failure of the landlord to comply with his or her obligations under [the RLTA].” Former RCW 59.18.130(10) (2011). Within 30 days after vacation of the rental unit, the landlord may retain a portion of the security deposit if the tenant does not perform her duty to restore the premises. RCW 59.18.280(1)(a). After termination of the tenancy, the landlord must return the security deposit or give “a full and specific statement of the basis for retaining any of the deposit ... together with the payment of any refund due the tenant under the terms and conditions of the rental agreement.” RCW 59.18.280(1)(a). No portion of the deposit can be withheld for normal wear and tear. RCW 59.18.280(1)(c).
+ 
+
+b. Checklist
+The trial court found that the parties walked through the property together at the inception of the lease, but Shin and Bowers did not complete a checklist documenting the condition of the property at that time. However, Shin and Bowers did prepare a checklist when the Combses signed the addendum to the lease in March 2019. And Shin and Bowers did not collect a second security deposit when they conducted the walk through and checklist in 2019. The trial court concluded that the parties remedied the lack of a checklist in 2017 with the walk through and checklist in 2019.
+ 
+The Combses argue that Shin and Bowers clearly violated former RCW 59.18.260 in 2017, and there is no authority for the proposition that such a violation can be remedied later. And the Combses argue that the trial court erred because it failed to construe the RLTA in favor of the tenant.
+ 
+If the lease term had ended before March 2019, there is no question that the Combses would have been able to recover the full amount of their security deposit under former RCW 59.18.260. But Shin and Bowers did comply with former RCW 59.18.260(2) when the lease was renewed in 2019. And significantly, Shin and Bowers did not collect an additional security deposit at that time, so the checklist related to the original security deposit. Finally, documenting the condition of the residence in 2019 as a baseline for the security deposit could only help the Combses because it would include as baseline any damage that occurred in the previous two years.
+ 
+We conclude that the trial court did not err when it ruled that Shin and Bowers remedied the collection of a security deposit without completing a checklist in 2017 by completing the checklist in 2019.
+ 
+
+c. Withholding Portion
+The Combses argue that Shin and Bowers improperly withheld amounts from the security deposit that related to normal wear and tear, in violation of RCW 59.18.280(1)(c). However, the trial court made an unchallenged finding that the amount of the security deposit returned to the Combses “was properly calculated as the items which [Shin and Bowers] alleged to have been damaged were in fact damaged and documented with credible evidence.” CP at 501. The trial court apparently found that the damage was not normal wear and tear. This finding is a verity on appeal.
+ 
+Therefore, we conclude that Shin and Bowers did not improperly withhold a portion of the security deposit.
+ 
+
+
+E. DIMINUTION OF TENANCY VALUE AND LOST PROFITS
+The Combses argue that the trial court erred by finding that Shin and Bowers did not diminish the value of their tenancy and did not cause the Combses to incur lost profits by interfering with their contractual relations and business expectancy. We disagree.
+ 
+
+
+1. Diminution
+In support of their argument that Shin and Bowers caused a diminution of the value of their lease, the Combses argue that Shin and Bowers breached the covenants of quiet enjoyment, habitability, the right of exclusive possession, the lease itself, and the RLTA. However, we already have held that Shin and Bowers did not breach the covenants of quiet enjoyment and exclusive possession and did not violate the RLTA. And the Combses do not provide an argument for how Shin and Bowers breached the implied covenant of habitability. Finally, based on our previous holdings, there is no basis for the claim that Shin and Bowers breached the lease.
+ 
+*15 We hold that the trial court did not err in dismissing the Combses’ diminution of tenancy claim.
+ 
+
+
+2. Tortious Interference and Lost Profits
+The Combses claim that the trial court erred because it dismissed their claim for lost business profits. They argue that Shin and Bowers (1) failed to deliver exclusive possession of the property to them, (2) allowed Hiyman to stay on the property, and (3) prevented the Combses from being able to sublease the property to paying tenants. We disagree.
+ 
+To bring a claim of tortious interference with a contract or business expectancy, a plaintiff must establish five elements: (1) the existence of a valid business expectancy, (2) the defendant’s knowledge of the business expectancy, (3) defendant’s intentional interference causing the termination of the expectancy, (4) that the defendant interfered with the expectancy for an improper purpose, and (5) resultant damages. Greensun Grp., LLC v. City of Bellevue, 7 Wn. App. 2d 754, 768, 436 P.3d 397 (2019).
+ 
+The trial court concluded that the Combses did not establish any of the elements required to bring a claim of tortious interference with a contract. The Combses do not specifically address this conclusion.
+ 
+The Combses focus on lost profits. The trial court made factual findings that there was insufficient evidence presented at trial to award lost profits. The court stated, “The claimed ‘lost profits’ sought here are nothing more than hoped-for profits.” CP at 503. And the court found that the Combses could not satisfy the reasonable certainty requirement for lost profit damages.
+ 
+The Combses argue that they presented evidence regarding lost profits. But the trial court considered that evidence and rejected it. We give deference to the trial court’s determinations of the credibility and weight of the evidence. Young, 9 Wn. App. 2d at 32.
+ 
+We hold that the trial court did not err in dismissing the Combses’ interference with a business expectancy claim.
+ 
+
+
+F. CONVERSION COUNTERCLAIM
+The Combses argue that the trial court erred when it awarded Shin and Bowers $1,500 in damages on their conversion counterclaim. We disagree.
+ 
+The trial court referenced Shin’s and Bowers’s claim for conversion of two beds, a sofa, a dining table, and two dressing tables. The Combses emphasize that Bowers admitted giving the Combses the beds, sofa and dressing tables. However, Bowers testified that she did not give two dining room tables to the Combses that they took when they left. Bowers estimated the cost to replace the dining room tables would be $4,500 plus tax.
+ 
+The trial court’s conversion award was within – and in fact lower than – the evidence Bowers presented. Therefore, we hold that the trial court did not err in awarding Shin and Bowers $1,500 on their conversion claim.
+ 
+
+
+G. AWARD OF ATTORNEY FEES
+The Combses argue that the trial court erred in awarding attorney fees to Shin and Bowers because (1) Shin and Bowers were not the prevailing party and (2) attorney fees are not recoverable for actions on common law covenants or for the landlord’s failure to perform statutorily required duties under the RLTA.3 We conclude that Shin and Bowers were entitled to recover a portion of their attorney fees.
+ 
+3
+
+The Combses argue for the first time in their reply brief that the trial court’s findings were insufficient to support the attorney fee award. But we do not consider arguments raised for the first time in a reply brief. State v. Eyman, 24 Wn. App. 2d 795, 814, 521 P.3d 265 (2022), review denied, 1 Wn.3d 1021 (2023).
+
+
+
+
+1. Prevailing Party
+*16 The Combses argue that they, not Shin and Bowers, actually were the prevailing parties because they received a net judgment of $10.078.84 in their favor. They rely on the general rule that a party that receives a judgment in its favor is the prevailing party. See Douglass v. Shamrock Paving, Inc., 189 Wn.2d 733, 745, 406 P.3d 1155 (2017).
+ 
+However, Shin and Bowers prevailed on all of the Combses’ pleaded claims. The trial court dismissed all of the Combses’ pleaded claims in total. And the Combses had asserted claims for $673,892.65, primarily for lost profits. But the trial court awarded nothing on those claims. The only recovery the Combses received was $11,578.84 on equitable grounds.
+ 
+We conclude that the trial court did not err in finding that Shin and Bowers were the prevailing party.
+ 
+
+
+2. Recovery of Attorney Fees
+The trial court awarded attorney fees and costs pursuant to the lease agreement, which provided, “If Lessor or Tenant institutes suit against the other concerning this Agreement, the prevailing party is entitled to reasonable attorneys’ fees and expenses.” Ex. 29, at 3. The Combses’ claims for breach of the covenants of possession and quiet enjoyment and diminution of tenancy value/lost profits “concerned” the lease agreement. Shin and Bowers could recover their attorney fees related to those claims under the lease agreement.
+ 
+The Combses’ RLTA claims based on chapter 59.18 RCW had some connection to the lease agreement. But we conclude that an attorney fee provision in a lease does not apply to RLTA claims, which were created by statute and are not based on a violation of the lease. However, RCW 59.18.280(2) states that the prevailing party is entitled to recover attorney fees in any action brought by the tenant to recover a security deposit. So Shin and Bowers are entitled to recover their attorney fees for that claim.
+ 
+There is no statutory attorney fee provision for the Combses’ RCW 59.18.070 claim for failure to repair. And Shin’s and Bowers’s conversion claim does not concern the lease agreement. Therefore, Shin and Bowers were not entitled to recover attorney fees related to those claims.
+ 
+On remand, the trial court must attempt to segregate the fees incurred regarding the claims for which attorney fees are recoverable and the claims for which attorney fees are not recoverable. See Boguch v. Landover Corp., 153 Wn. App. 595, 619-20, 224 P.3d 795 (2009). However, if “the trial court finds the claims to be so related that no reasonable segregation ... can be made, there need be no segregation of attorney fees.” Hume v. Am. Disposal Co., 124 Wn.2d 656, 673, 880 P.2d 988 (1994).
+ 
+
+
+H. ATTORNEY FEES ON APPEAL
+Shin and Bowers request attorney fees on appeal under the attorney fee provision in the lease. Shin and Bowers are the substantially prevailing party on appeal. As in the trial court, Shin and Bowers are entitled to recover their attorney fees on appeal for all claims except for the RCW 59.18.070 claim for failure to repair and the conversion claim.
+ 
+
+CONCLUSION
+We affirm the trial court’s judgment, but we remand for the trial court to, if possible, segregate the fees incurred regarding the claims for which attorney fees are recoverable and the claims for which attorney fees are not recoverable.
+ 
+A majority of the panel having determined that this opinion will not be printed in the Washington Appellate Reports, but will be filed for public record in accordance with RCW 2.06.040, it is so ordered.
+ 
+We concur:
+CRUSER, C.J.
+GLASGOW, J.
+All Citations
+Not Reported in Pac. Rptr., 2024 WL 4213367
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,22 @@
+#+title:      57916-2-II ZACHARY COMBS and TARA COMBS v DONG MIN SHIN and RYU YOUN SOOK
+#+date:       [2024-09-24 Tue 10:44]
+#+filetags:   :attyfees:rlta:unpublished:
+#+identifier: 20240924T104418
+
+[[denote:20240924T110335][coa  57916-2-ii -- zachary-combs-and-tara-combs-v-dong-min-shin-and-ryu-youn-sook]]
+
+* Prevailing Party Attorney Fees and RLTA
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Sep 17, 2024, 10:57 AM (7 days ago)
+to HTF@groups.nwjustice.org
+
+This is interesting, I think, only insofar as how the court tried to segregate a fee award to a prevailing landlord defendant. The rest of the case is a nightmare. In sum, it appears that the court concluded that when a tenant brings and loses a whole host of claims, only some of which are based on the lease, a lease attorney fee provision is only good to provide fees for the claims based on the lease and not on the RLTA. The trial court has to segregate out those claims and how much time was spent on them. Not exactly earthshattering, but potentially useful.
+
+The trial court awarded attorney fees and costs pursuant to the lease agreement, which provided, “If Lessor or Tenant institutes suit against the other concerning this Agreement, the prevailing party is entitled to reasonable attorneys’ fees and expenses.”  Ex. 29, at 3.  The Combses’ claims for breach of the covenants of possession and quiet enjoyment and diminution of tenancy value/lost profits “concerned” the lease agreement.  Shin and Bowers could recover their attorney fees related to those claims under the lease agreement. The Combses’ RLTA claims based on chapter 59.18 RCW had some connection to the lease agreement.  But we conclude that an attorney fee provision in a lease does not apply to RLTA claims, which were created by statute and are not based on a violation of the lease.  However, RCW 59.18.280(2) states that the prevailing party is entitled to recover attorney fees in any action brought by the tenant to recover a security deposit.  So Shin and Bowers are entitled to recover their attorney fees for that claim. There is no statutory attorney fee provision for the Combses’ RCW 59.18.070 claim for failure to repair.  And Shin’s and Bowers’s conversion claim does not concern the lease agreement.  Therefore, Shin and Bowers were not entitled to recover attorney fees related to those claims. On remand, the trial court must attempt to segregate the fees incurred regarding the claims for which attorney fees are recoverable and the claims for which attorney fees are not recoverable.  See Boguch v. Landover Corp., 153 Wn. App. 595, 619-20, 224 P.3d 795 (2009).  However, if “the trial court finds the claims to be so related that no reasonable segregation . . . can be made, there need be no segregation of attorney fees.”  Hume v. Am. Disposal Co., 124 Wn.2d 656, 673, 880 P.2d 988 (1994).
+
+Scott Crain
+Statewide Advocacy Counsel
+Northwest Justice Project
+206-707-0900
+www.nwjustice.org

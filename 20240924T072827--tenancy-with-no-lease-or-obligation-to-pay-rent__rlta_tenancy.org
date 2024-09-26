@@ -1,0 +1,28 @@
+#+title:      Tenancy With No Lease or Obligation to Pay Rent
+#+date:       [2024-09-24 Tue 07:28]
+#+filetags:   :rlta:tenancy:
+#+identifier: 20240924T072827
+
+* Fact Scenario
+Owner permits daughter to live on property without any agreement.  After several years, owner asks daughter to leave the property or pay rent at $1000 per month.  Daughter refuses to do either and owner serves a 14-day notice to pay or vacate asking for $1000.00.
+
+* Type of Tenancy
+- Tenancy at Will
+- Anybody on the property without an agreement but with the permission of the owner.
+- "licensee" at common law
+- Tenancy at sufferance ??: hold-over tenant from a previous agreement (common law)
+- WA Tenancy at Sufference statute: Trespasser
+
+* Issues
+- Can the owner demand rent from a tenant at will?
+- Is there an agreement to pay rent based upon the demand and failure to leave?
+- Can there be an obligation to pay rent that arises unilaterally?
+- Must there be a meeting of the minds before an obligation to pay rent arises?
+
+* Case Law
+- _Decker v. Verloop_, 73 Wash. 10, 12-13 (1913)
+  - Obligation for rent created by demand to leave, followed by refusal, followed by notice to pay rent.
+
+- _Davis v. Jones_, 15 Wash.2d 572, 574 (1942)
+  - Occupant came into property by permission of the owner's agent
+  - After agent died, occupant became a tenant by sufference and owed rent pursuant to the common-law obligation to pay rent

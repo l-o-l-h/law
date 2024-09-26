@@ -38,3 +38,9 @@ adult child who was overnight resident in, and sole occupant of,
 defendant's house was whether plaintiff desiring to actually inform
 defendant might reasonably adopt method of serving adult child. West's
 RCWA 4.28.080(14).
+
+* TODO Baker v. Hawkins, 190 Wash. App. 323, 330, 359 P.3d 931, 934 (2015)
+:LOGBOOK:
+- State "TODO"       from              [2024-09-25 Wed 14:54] \\
+  Brief this case
+:END:
