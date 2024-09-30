@@ -1,0 +1,25 @@
+#+title:      Appearance -- Consequences
+#+date:       [2024-09-29 Sun 08:39]
+#+filetags:   :appearance:consequences:
+#+identifier: 20240929T083911
+
+* Consequences of an Appearance
+
+Construing the term broadly, an *appearance* is _the act of a party which constitutes the submission of a matter to the court's jurisdiction._ _Dlouhy v. Dlouhy_, 55 Wash.2d 718, 722–24, 349 P.2d 1073 (1960); _Skilcraft Fiberglass, Inc. v. Boeing Co._, 72 Wash.App. 40, 45–46, 863 P.2d 573 (1993).
+
+_When an attorney makes a formal appearance for a party_, the party “appears”, not the attorney. _Tiffin v. Hendricks_, 44 Wash.2d 837, 271 P.2d 683 (1954). “A lawyer appears in a trial as the representative and alter ego of his client.” _State v. Peeler_, 7 Wash.App. 270, 274, 499 P.2d 90 (1972).
+
+An attorney whose client has not appeared in the action has no standing before the court. _State ex rel. Gardner v. Superior Court_, 186 Wash. 134, 137, 56 P.2d 1315 (1936).
+
+- _In re Proceedings Before Special Inquiry Judge_, 78 Wn. App. 13, 16, 899 P.2d 800, 802 (1995)
+
+
+** Submitting to the Court's Exercise of Jurisdiction over the Person and Subject
+
+¶ 48 “Jurisdiction of the person must be acquired by the service of the applicable statutory process, or by the voluntary appearance of the party whose rights are sought to be adjudicated.” _State ex rel. Bogle v. Superior Court for King County_, 63 Wash. 96, 100, 114 P. 905 (1911).
+
+_A party can consent to personal jurisdiction in an action by taking action that fairly invites the court to resolve a dispute between it and another party_. See _Sec. & Exch. Comm'n v. Ross_, 504 F.3d 1130, 1148 (9th Cir.2007).
+
+Stated differently, a party waives the claim of lack of personal jurisdiction by “consent[ing], expressly or impliedly, to the court's exercising jurisdiction.” _In re Marriage of Steele_, 90 Wash.App. 992, 997–98, 957 P.2d 247 (1998).
+
+- _Worden v. Smith_, 178 Wn. App. 309, 328, 314 P.3d 1125, 1134 (2013)

@@ -1,0 +1,9 @@
+#+title:      Subject Matter Jurisdiction
+#+date:       [2024-09-29 Sun 09:41]
+#+filetags:   :jurisdiction:subject:
+#+identifier: 20240929T094159
+
+* Subject Matter Jurisdiction
+
+Subject matter jurisdiction refers to a court's ability to entertain a type of case, not to its authority to enter an order in a particular case. See ZDI Gaming, Inc., 173 Wash.2d at 618, 268 P.3d 929 (“ ‘[i]f the type of controversy is within the subject matter jurisdiction, then all other defects or errors go to something other than subject matter jurisdiction’ ” (internal quotation marks omitted) (quoting Marley v. Dep't of Labor & Indus., 125 Wash.2d 533, 539, 886 P.2d 189 (1994))); Schneider, 173 Wash.2d at 360, 268 P.3d 215 (stating the legislature limited the superior courts' authority, not jurisdiction, to modify another state's child support order by adopting the Uniform Interstate Family Support Act, chapter 26.21A RCW); see also Williams v. Leone & Keeble, Inc., 171 Wash.2d 726, 730, 254 P.3d 818 (2011) (“[e]ither a court has subject matter jurisdiction or it does not”).
+- Buecking v. Buecking, 179 Wn.2d 438, 448, 316 P.3d 999, 1003 (2013)

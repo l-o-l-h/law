@@ -1,0 +1,14 @@
+#+title:      Appearance -- General vs Special
+#+date:       [2024-09-29 Sun 08:57]
+#+filetags:   :appearance:general:special:
+#+identifier: 20240929T085719
+
+* The Distinction Between General and Special Appearance Has Been Abolished by Civil Rules
+
+Initially, we recognize that *the superior court civil rules, like their federal counterpart, have abolished the distinction between special and general appearances.* *423 _Matthies v. Knodel_, 19 Wash.App. 1, 573 P.2d 1332 (1977). A defendant “is no longer required at the door of the ... courthouse to intone that ancient abracadabra of the law, de bene esse, in order by its magic power to enable himself to remain outside even while he steps within.” Orange Theatre Corp. v. Rayherstz Amusement Corp., 139 F.2d 871, 874 (3d Cir. 1944).
+- _Kuhlman Equip. Co. v. Tammermatic, Inc._, 29 Wn. App. 419, 422–23, 628 P.2d 851, 853 (1981)
+
+
+While this may have previously been the rule, see Lee v. Debentures, Inc., 8 Wash.2d 353, 112 P.2d 142 (1941); Holmes v. Toothaker, 52 Wash.2d 574, 328 P.2d 146 (1958); Roberge v. Hoquiam School Dist., 5 Wash.App. 564, 490 P.2d 121 (1971), *the distinction between a general and special appearance has been abolished under the Civil Rules of Superior Court.* See _Wright v. Yackley_, 459 F.2d 287 (9th Cir. 1972); _Orange Theatre Corp. v. Rayherstz Amusement Corp._, 139 F.2d 871 (3rd Cir. 1944), cert. denied, 322 U.S. 740, 64 S.Ct. 1057, 88 L.Ed. 1573 (1944); _Ward v. Gibson_, 340 So.2d 481 (Fla.App.1976); 2A Moore, Federal Practice P 12.12 (2d ed. 1975); 5 C. Wright & A. Miller, Federal Practice and Procedure: Civil s 1344 (1969). As Professor Meisenholder states in 3A L. Orland, Wash.Prac. at 34 (1968):
+That a notice of appearance will have its former effect in connection with default procedures seems clear, but it appears that its former effect as a general appearance is inconsistent with the operation of Rule 12(b) which otherwise makes a special appearance unnecessary.
+- _Matthies v. Knodel_, 19 Wn. App. 1, 4, 573 P.2d 1332, 1335 (1977)

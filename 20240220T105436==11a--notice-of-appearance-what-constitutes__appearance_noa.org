@@ -26,3 +26,90 @@ The Supreme court has laid out two different tracks for assessing a motion to va
 if a party entitled to notice under CR 55 does not receive such notice, the trial court lacks the authority to enter the judgment. An aggrieved party is entitled as a matter of right to have the order of default set aside and any resulting default judgment vacated. Tiffin v. Hendricks, 44 Wn.2d 837, 847, 271 P.2d 683 (1954); Hous. Auth. v. Newbigging, 105 Wn. App. 178, 190, 19 P.3d 1081 (2001). A trial court holds a nondiscretionary duty to vacate a void judgment. Allstate Ins. Co. v. Khani, 75 Wn. App. 317, 323, 877 P.2d 724 (1994). There is no time limit to bring a motion to vacate a void judgment. Ahten v. Barnes, 158 Wn. App. 343, 350, 242 P.3d 35 (2010). A party can wait several years to vacate a void default judgment. Brenner v. Port of Bellingham, 53 Wn. App. 182, 188, 765 P.2d 1333 (1989);
 
 Under CR 55(a)(3), once a party appears in an action the movant “shall” serve that party “with a written notice of motion for default and the supporting affidavit at least 5 days before the hearing on the motion.” Under RCW 4.28.210, a party appears in a proceeding when it gives written notice of appearance. Absent a formal notice of appearance as contemplated in RCW 4.28.210, a party may still substantially comply with the appearance requirements. “Any appearances for any purpose in the action shall be for all purposes under this rule 55.” CR55(a)(2). A court must examine whether a defendant's conduct after receipt of the summons was designed to and, in fact, did apprise the plaintiff of the defendant's intent to litigate the case. Morin v. Burris, 160 Wn.2d at 755; Meade  v. Nelson, 174 Wn. App. at 749. “Mere intent to defend is not enough. The defendant must go beyond merely acknowledging that a dispute exists and instead acknowledge that a dispute exists in court.” Servatron, Inc. v. Intelligent Wireless Prods., Inc., 186 Wn. App. 666, 675-676.
+
+* Statutory Methods - RCW 4.28.210
+
+** RCW 4.28.210 -- Appearance, what constitutes.
+
+A defendant appears in an action when he or she answers, demurs, makes any application for an order therein, or gives the plaintiff written notice of his or her appearance. After appearance a defendant is entitled to notice of all subsequent proceedings; but when a defendant has not appeared, service of notice or papers in the ordinary proceedings in an action need not be made upon him or her. Every such appearance made in an action shall be deemed a general appearance, unless the defendant in making the same states that the same is a special appearance.
+
+* Statutory Methods are not Exclusive
+The appearance statute, RCW 4.28.210,1 describes a number of ways by which a defendant may appear in an action, but it is settled law that the statutory methods of appearance are not exclusive. _Warnock v. Seattle Times Co._, 48 Wash.2d 450, 294 P.2d 646; _In re Quick's Estate_, 161 Wash. 537, 297 P. 198; _State ex rel. Trickel v. Superior Court_, 52 Wash. 13, 100 P. 155.
+- _Dlouhy v. Dlouhy_, 55 Wn.2d 718, 721, 349 P.2d 1073, 1075 (1960)
+
+
+Appellant's acts constituted an appearance, and he was, therefore, entitled to notice of all subsequent proceedings.
+- _Dlouhy v. Dlouhy_, 55 Wn.2d 718, 724, 349 P.2d 1073, 1077 (1960)
+
+** Warnock
+
+The statutory methods of appearances, RCW 4.28.210, are not *452 exclusive. _White v. Million_, 1933, 175 Wash. 189, 197, 27 P.2d 320 [citing _Trickel_ ], and cases cited.
+- _Warnock v. Seattle Times Co._, 48 Wn.2d 450, 451–52, 294 P.2d 646, 647 (1956)
+
+** Quick's Estate
+
+All of the parties (the appellant, the respondents, and the administrator) came into court without objection and submitted the title to the property to the court for adjudication. _While the administrator filed no pleading_, it was _present by its attorney and consented to be bound by the judgment_; in fact, it filed a written motion for the entering of the judgment of **201 which appellant now complains. *Consenting to the entry of the judgment was a general appearance by the administrator*.
+- _In re Quick's Estate_, 161 Wash. 537, 543, 297 P. 198, 200–01 (1931)
+
+
+*544 *‘A general appearance is also made * * * by consenting to the entry of judgment.* * * *’ 4 C. J. p. 1334.
+- _In re Quick's Estate_, 161 Wash. 537, 544, 297 P. 198, 201 (1931)
+
+
+In _State ex rel. Trickel v. Superior Court_, 52 Wash. 13, 100 P. 155, 156, we held that the statutory (section 241, Rem. Comp. Stats.) methods of appearance were not exclusive.
+- _In re Quick's Estate_, 161 Wash. 537, 544, 297 P. 198, 201 (1931)
+
+** Trickel
+
+[The following is _Trickel_, cited above, but cited as
+- State v. Superior Court of Clallam Cnty., 52 Wash. 13, 14–16, 100 P. 155, 156 (1909)]
+
+52 Wash. 13
+Supreme Court of Washington.
+STATE ex rel. TRICKEL
+v.
+SUPERIOR COURT OF CLALLAM COUNTY.
+Feb. 27, 1909.
+
+Did the service of the interrogatories constitute ‘written notice of his appearance’?
+
+In the solution of this question it becomes germane to inquire the purpose of this statutory provision.
+
+*15 Evidently the object to be accomplished was that the plaintiff might be apprised of the course to be pursued by the defendant, and whether he intended to litigate the case.
+
+Our Code enjoins upon the courts the duty of giving a liberal interpretation to its provisions. Had the defendant served upon the relator a written instrument which simply stated that he had appeared in the action, no question could have been raised as to its compliance with the statute. The very purpose of the Code was to simplify the practice, and this can be best accomplished by looking at the substance rather than the form of matters requiring consideration.
+
+_It therefore follows that the service of the interrogatories was a substantial compliance with the statute, and that in legal effect it gave the relator written notice that the defendant had appeared._
+
+This construction is not without support in the authorities. In considering the question as to what constitutes an appearance, paragraph 5, p. 504, 3 Cyc., announces the following rule: ‘Any action on the part of a defendant, except to object to the jurisdiction, which recognizes the case as in court, will amount to a general appearance.’ The Nevada court in discussing the question as to whether the statutory methods of appearance are exclusive, in Curtis v. McCullough, 3 Nev. 212, 213, thus states the rule: ‘We cannot believe that the Legislature intended to say that a defendant could not appear in an action except by filing an answer, demurrer, or giving written notice to the plaintiff. He certainly can in fact appear. We cannot, therefore, sanction the doctrine that he cannot appear so as to give the court jurisdiction of his person in any way except as specified in the second above referred to.’ In Baizer v. Lasch, 28 Wis. 271, this view received support in the following language: ‘The demand for a bill of particulars in the action before the justice was a proceeding to the merits and a full appearance by Lasch, the defendant.’ *16 This construction is further recognized in Long v. Newhouse, 57 Ohio St. 369, 49 N. E. 81, in the following language: ‘It appears from the record in this case that before the defendants filed their answer, in which they for the first time, by the first defense, challenged the court's jurisdiction of their persons, they had taken various objections to the plaintiff's petition. On November 2, 1893, by leave of the court first obtained some days before, they filed a motion to compel the plaintiff to attach to his petition an account of the items of his claim. This having been overruled, they afterwards, on leave, filed a motion to require the plaintiff to separately state and number his causes of action; and, this having been overruled, on February 5, 1894, they filed a motion to require the plaintiff to strike out various averments in his petition, being the motion heretofore noticed. This having been overruled, they sought leave to answer, and, the leave having been given, filed an answer in the first defense, of which they now challenge the court's jurisdiction over their persons. Manifestly they could not do this after the numerous instances in which they had submitted themselves to its jurisdiction by invoking its judgment on the legal completeness, as well as the sufficiency of the plaintiff's petition.’
+
+- State v. Superior Court of Clallam Cnty., 52 Wash. 13, 14–16, 100 P. 155, 156 (1909)
+
+* Common Law Rule on Appearance
+
+The common-law rule as to what constitutes an appearance is: Any action on the part of a defendant, except to object to the jurisdiction, which recognizes the case as in court, amounts to a general appearance. Everett Ry., Light & Power Co. v. United States, D.C., 236 F. 806; White v. Million, 175 Wash. 189, 27 P.2d 320; State ex rel. Trickel v. Superior Court, supra; Foohs v. Bilby, 95 Ark. 302, 129 S.W. 1104; 6 C.J.S. Appearances § 1(c)(2)(a), pp. 4, 5. It is clear that appellant made no objection to the jurisdiction; rather, he argued the motion on its merits. By so doing he recognized that the cause was in court and that the court had the power to determine it.
+- _Dlouhy v. Dlouhy_, 55 Wn.2d 718, 721, 349 P.2d 1073, 1075 (1960)
+
+
+At common law, original appearance could be accomplished only by a litigant in person. Beecher's Case, 77 Eng.Reprints 559; Beecher v. Shirley, 79 Eng.Reprints 183; 26 Halsbury's Laws of England (2d ed.) 38, §§ 56, 57; 30 Halsbury's Laws of England (3d ed.) 365, §§ 680, 681. A litigant may now appear through an attorney, but that does not destroy the right of a party to appear in person.
+- _Dlouhy v. Dlouhy_, 55 Wn.2d 718, 722, 349 P.2d 1073, 1075 (1960)
+
+* Voluntary vs Coerced Appearance
+
+/Respondent argues that appellant's presence, being compulsory rather than voluntary, cannot be construed as a voluntary appearance./ *Assuming that a coerced presence by a party in court does not constitute an appearance* (See _Simon Piano Co. v. Fairfield_, 103 Wash. 206, 174 P. 457), respondent's contention must, nevertheless, fall.
+
+_Appellant was present in response to a noticed motion and order to show cause_, the determination of which would affect his rights. He was not obliged to appear, _but he did so in an attempt to preserve his rights_. Such is dissimilar to a contempt proceeding wherein the party must appear under coercive process.
+- _Dlouhy v. Dlouhy_, 55 Wn.2d 718, 722, 349 P.2d 1073, 1075 (1960)
+
+
+*Where there is coercive process, one must personally submit to the court's power;*
+
+*where one is given notice of hearing on a motion affecting substantial rights, **1076 he may either submit himself to the court's jurisdiction and attempt to protect his rights, or he may not appear and allow their determination in absentia.*
+
+The choice is his.
+
+He is no more coerced than he would be in choosing to appear in answer to a summons and complaint.
+
+See _In re Samuelson_, 134 N.J.L. 573, 49 A.2d 479; _Canaday v. Superior Court_, 49 Del. 456, 119 A.2d 347, 353; 6 C.J.S. Appearances § 1(c)(1), p. 4.
+
+- _Dlouhy v. Dlouhy_, 55 Wn.2d 718, 722, 349 P.2d 1073, 1075–76 (1960)

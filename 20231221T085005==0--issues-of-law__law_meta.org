@@ -28,7 +28,12 @@
 - [[denote:20240229T165900][5a  Declaratory Judgments Act Overview]]
 
 * 6. Jurisdiction
+#+BEGIN: denote-links :regexp "==6" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20240203T131348][6a  Subject Matter Jurisdiction in Unlawful Detainer Action]]
+- [[denote:20240929T094000][6b  Jurisdiction]]
+- [[denote:20240929T094159][6b1  Subject Matter Jurisdiction]]
+- [[denote:20240929T094725][6b1a  Subject Matter Jurisdiction -- Statutory Restrictions]]
+#+END:
 
 * 7. Process and Service of Process
 #+BEGIN: denote-links :regexp "==7" :sort-by-component nil :reverse-sort nil :id-only nil

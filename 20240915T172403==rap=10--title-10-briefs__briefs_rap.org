@@ -86,6 +86,9 @@ for failure to timely file and serve a brief.
 Rule 18.6, Computation of Time, (c) Filing by mail
 
 * 10.3 - Content of Brief
+:PROPERTIES:
+:CUSTOM_ID: h:24C0184C-0190-4558-80F8-1F40466B4A9D
+:END:
 
 ** (a) Brief of Appellant or Petitioner.
 
@@ -164,26 +167,59 @@ brief to which the reply brief is directed.
 
 ** References
 
-- Form 5, Title Page for all Briefs and Petition for Review;
-- Form 6, Brief of Appellant;
-- Rule 3.4, Title of Case and Designation of Parties;
-- Rule 18.1, Attorney Fees and Expenses, (b) Argument in brief.
+- [[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Custom Office Templates/Appeal/APP_RAP_FORM5.pdf][Form 5, Title Page for all Briefs and Petition for Review;]]
+- [[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Custom Office Templates/Appeal/APP_RAP_FORM6.pdf][Form 6, Brief of Appellant;]]
+- [[denote:20240928T075442::#h:4619B544-D950-4E0B-8B7E-0BD1965FD6DC][Rule 3.4, Title of Case and Designation of Parties;]]
+- [[denote:20240928T080852::#h:4F4E6785-E21C-4C78-954C-DF4A7F9CA8A1][Rule 18.1, Attorney Fees and Expenses, (b) Argument in brief.]]
 
 * 10.4 - Preparation and Filing of Brief by Party
 
 ** (a) Format of Brief.
 
+Briefs shall comply with the formatting requirements of [[denote:20240928T080852::#h:A3F2F529-BCBE-4745-AD20-82C66BEDEF5C][RAP 18.17]].
+
 ** (b) Length of Brief.
+
+Briefs shall comply with the formatting requirements of [[denote:20240928T080852::#h:A3F2F529-BCBE-4745-AD20-82C66BEDEF5C][RAP 18.17]].
 
 ** (c) Text of Statute, Rule, Jury Instruction, Exhibit, or the Like.
 
+If a party presents an issue that requires study of a statute, rule,
+regulation, jury instruction, finding of fact, exhibit, or the like,
+  - the party should type the material portions of the text out verbatim
+  - or include them by copy in the text
+  - or in an appendix to the brief.
+
+Pictorial images may be copied in the body of the text or in an
+appendix and may be in color, notwithstanding GR 14(a).
+
 ** (d) Motion in Brief.
 
-** (e)  Reference to Party.
+** (e) Reference to Party.
 
-** (f)  Reference to Record.
+References to parties by such designations as “appellant” and
+“respondent” should be kept to a minimum. It promotes clarity to use
+the designations used in the lower court, the actual names of the
+parties, or descriptive terms such as “the employee,” “the injured
+person,” and “the taxpayer.”
+
+** (f) Reference to Record.
+
+A reference to the record should designate the page and part of the
+record. Exhibits should be referred to by number. The clerk’s papers
+should be abbreviated as “CP”; exhibits should be abbreviated as “Ex”;
+administrative records should be abbreviated as “AR”; and the report
+of proceedings should be abbreviated as “RP.” Suitable abbreviations
+for other recurrent references may be used.
 
 ** (g) Citation Format.
+
+Citations should conform with the format prescribed by the Reporter of
+Decisions pursuant to [[denote:20240928T090618::#h:7539E4B3-3932-444F-B0D2-46E1104FEB2E][GR 14(d)]]. The format requirements of GR
+14(a)-(b) do not apply to briefs filed in an appellate court.
+
+See [[denote:20240928T090618::#h:1ADF96E5-B207-4C11-91F3-29DD518E5FA4][GR 14 -- FORMAT FOR PLEADINGS AND OTHER PAPERS]]
+See [[denote:20240928T090841::#h:B09A0B14-A26D-4600-8F2A-054A47608177][GR 14 -- Appendix 1 - OFFICE OF REPORTER OF DECISIONS STYLE SHEET]]
 
 ** (h) Unpublished Opinions. [Reserved. See GR 14.1.]
 

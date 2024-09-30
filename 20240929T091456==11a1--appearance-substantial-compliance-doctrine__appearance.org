@@ -1,0 +1,13 @@
+#+title:      Appearance -- Substantial Compliance Doctrine
+#+date:       [2024-09-29 Sun 09:14]
+#+filetags:   :appearance:
+#+identifier: 20240929T091456
+
+* Substantial Compliance Doctrine
+
+¶ 22 For over a century, Washington courts have applied the doctrine of substantial compliance to the appearance rules. _Morin_, 160 Wash.2d at 749, 161 P.3d 956 (“Substantial compliance with the appearance requirement may be satisfied informally.”).
+- _Meade v. Nelson_, 174 Wn. App. 740, 750, 300 P.3d 828, 833 (2013)
+
+
+Instead, the _Morin_ court held that “mere intent to defend, whether shown before or after a case is filed, is not *751 enough; the defendant must go beyond merely acknowledging that a dispute exists and instead *acknowledge that a dispute /exists in court/.* ” 160 Wash.2d at 756, 161 P.3d 956. Accordingly, after _Morin_, it is clear that when applying “the substantial compliance doctrine,” courts should look to “the defendant's relevant conduct [occurring] after litigation [has] commenced.” 160 Wash.2d at 755, 161 P.3d 956.
+- _Meade v. Nelson_, 174 Wn. App. 740, 750–51, 300 P.3d 828, 833 (2013)

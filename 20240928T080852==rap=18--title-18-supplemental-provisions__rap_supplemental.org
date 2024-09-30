@@ -1,0 +1,198 @@
+#+title:      TITLE 18 - Supplemental Provisions
+#+date:       [2024-09-28 Sat 08:08]
+#+filetags:   :rap:supplemental:
+#+identifier: 20240928T080852
+
+* 18.1 - ATTORNEY FEES AND EXPENSES
+
+** (a) Generally.
+
+If applicable law grants to a party the right to recover reasonable
+attorney fees or expenses on review before either the Court of Appeals
+or Supreme Court, the party must request the fees or expenses as
+provided in this rule, unless a statute specifies that the request is
+to be directed to the trial court.
+
+** (b) Argument in Brief.
+:PROPERTIES:
+:CUSTOM_ID: h:4F4E6785-E21C-4C78-954C-DF4A7F9CA8A1
+:END:
+
+The party must devote a section of its opening brief to the request
+for the fees or expenses. Requests made at the Court of Appeals will
+be considered as continuing requests at the Supreme Court, except as
+stated in section (j). The request should not be made in the cost
+bill. In a motion on the merits pursuant to rule 18.14, the request
+and supporting argument must be included in the motion or response if
+the requesting party has not yet filed a brief.
+
+** (c) Affidavit of Financial Need.
+
+In any action where applicable law mandates consideration of the
+financial resources of one or more parties regarding an award of
+attorney fees and expenses, each party must serve upon the other and
+file a financial affidavit no later than 10 days prior to the date the
+case is set for oral argument or consideration on the merits; however,
+in a motion on the merits pursuant to rule 18.14, each party must
+serve and file a financial affidavit along with its motion or
+response. Any answer to an affidavit of financial need must be filed
+and served within seven (7) days after service of the affidavit.
+
+** (d) Affidavit of Fees and Expenses.
+
+Within 10 days after the filing of a decision awarding a party the
+right to reasonable attorney fees and expenses, the party must serve
+and file in the appellate court an affidavit detailing the expenses
+incurred and the services performed by counsel
+
+** (e) Objection to Affidavit of Fees and Expenses; Reply.
+
+A party may object to a request for fees and expenses filed pursuant
+to section (d) by serving and filing an answer with appropriate
+documentation containing specific objections to the requested fee. The
+answer must be served and filed within 10 days after service of the
+affidavit of fees and expenses upon the party. A party may reply to an
+answer by serving and filing the reply documents within 5 days after
+the service of the answer upon that party.
+
+** (f) Commissioner or Clerk Awards Fees and Expenses.
+
+A commissioner or clerk will determine the amount of the award, and
+will notify the parties. The determination will be made without a
+hearing, unless one is requested by the commissioner or clerk.
+
+** (g) Objection to Award.
+
+A party may object to the commissioner’s or clerk’s award only by
+motion to the appellate court in the same manner and within the same
+time as provided in rule 17.7 for objections to any other rulings of a
+commissioner or clerk.
+
+** (h) Transmitting Judgment on Award.
+
+** (i) Fees and Expenses Determined After Remand.
+
+** (j) Fees for Answering Petition for Review.
+
+* 18.17 - WORD LIMITATIONS, PREPARATION, AND FILING OF DOCUMENTS SUBMITTED TO THE COURT OF APPEALS AND SUPREME COURT
+:PROPERTIES:
+:CUSTOM_ID: h:A3F2F529-BCBE-4745-AD20-82C66BEDEF5C
+:END:
+
+** (a) Formatting Requirements.
+
+*** (1) [Margins]
+
+All documents filed with the appellate court should be printed or
+typed with margins of at least
+- 2 inches on the left side and
+- 1-1/2 inches on the right side and
+- on the top and bottom.
+
+Documents submitted in electronic format
+- should be submitted in .pdf format and
+- follow the electronic filing instructions published by the court.
+
+Documents submitted in hard copy
+- should be printed on 20-pound substance,
+- 8-1/2-by-11-inch,
+- white paper.
+- Documents should not contain
+  - tabs,
+  - colored sheets of paper, or
+  - binding and should not be stapled.
+
+*** (2) [Spacing & Fonts]
+
+_The text of all documents_ filed with the appellate court
+- should be *double spaced*,
+- except footnotes and block quotations, which may be *single spaced*.
+
+In a document produced using word processing software,
+- _all text_, including footnotes and block quotations,
+- should appear in _14 point serif font_ equivalent to *Times New Roman*
+  or
+- _sans serif font_ equivalent to *Arial*.
+
+A document produced using a typewriter should appear in 12 point font
+or larger.
+
+** (b) Certificate of Compliance.
+
+*All documents* filed with the appellate court and produced using word
+processing software
+- should contain _a short statement above the signature line_
+- *certifying* _the number of words_ contained in the document,
+  - exclusive of words contained in
+    - the appendices, the title sheet,
+    - the table of contents,
+    - the table of authorities,
+    - the certificate of compliance,
+    - the certificate of service,
+    - signature blocks, and
+    - pictorial images (e.g., photographs, maps, diagrams, and
+      exhibits).
+
+The signor may rely on the word count calculation of the word
+processing software used to prepare the brief.
+
+** (c) Length Limitations.
+
+All documents filed with the appellate court should conform to the
+following length limitations unless the appellate court has granted
+permission to file an overlength document.
+- The following length limitations are expressed as word limitations
+  for documents produced using word processing software and as page
+  limitations for documents produced by typewriter or written by
+  hand.
+- The word limitations exclude words in the appendices, the title
+  sheet, the table of contents, the table of authorities, the
+  certificate of compliance, the certificate of service, signature
+  blocks, and pictorial images (e.g., photographs, maps, diagrams, and
+  exhibits).
+
+*** (1) [Statement of Grounds for Direct Review]
+
+*** (2) [Briefs of Appellants, Petitions, and Respondents]
+
+Briefs of appellants, petitioners, and respondents (RAP 10.4):
+- 12,000 words (word processing software) or
+- 50 pages (typewriter or handwritten).
+
+*** (3) [Reply Briefs of Appellants]
+
+Reply briefs of appellants (RAP 10.4):
+- 6,000 words (word processing software) or
+- 25 pages (typewriter or handwritten).
+
+*** (4) [Cross Appeals Briefs]
+
+*** (5) [Cross Appeals Reply Briefs]
+
+*** (6) [Amicus Briefs]
+
+*** (7) [Statements of Additional Grounds for Review]
+
+*** (8) [Motions to Reconsider]
+
+*** (9) [Amicus Curiae Memoranda]
+
+*** (10) [Petitions for Review]
+
+*** (11) [Motions for Discretionary Review]
+
+*** (12) [Supplemental Briefs]
+
+*** (13) [Personal Restraint Petitions]
+
+*** (14) [Briefs in Personal Restraint Petitions]
+
+*** (15) [Personal Restraint Petitions with Legal Argument in Captital Cases]
+
+*** (16) [Reply Briefs in Capital Cases]
+
+*** (17) [Motions and Answers]
+
+*** (18) [Replies to Answers]
+
+*** (19) [Motions on the Merits]

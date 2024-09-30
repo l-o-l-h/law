@@ -1,0 +1,16 @@
+#+title:      Subject Matter Jurisdiction -- Statutory Restrictions
+#+date:       [2024-09-29 Sun 09:47]
+#+filetags:   :jurisdiction:restrictions:subject:
+#+identifier: 20240929T094725
+
+* Legislature Can Impose Restrictions on a Court's Subject Matter Jurisdiction
+
+¶ 25 The legislature cannot restrict the court's jurisdiction where the constitution has specifically granted the court jurisdiction. Posey, 174 Wash.2d at 135, 272 P.3d 840 (citing **1004 Blanchard v. Golden Age Brewing Co., 188 Wash. 396, 418, 63 P.2d 397 (1936)). _However, generally the legislature can prescribe prerequisites to a court's exercise of constitutionally derived jurisdiction_. _Blanchard_, 188 Wash. at 415, 418, 63 P.2d 397; see also James v. Kitsap County, 154 Wash.2d 574, 579–89, 115 P.3d 286 (2005) (whether statutory 21–day time limitation that barred developers' challenge to imposition of fees for building permits invalidly encroached on superior court's original appellate jurisdiction under article IV, section 6 of the Washington Constitution; although a superior court may be granted the power to hear a case under article IV, section 6, the parties must still substantially comply with *449 procedural requirements before the court can exercise its original jurisdiction); In re Parentage of Ruff, 168 Wash.App. 109, 117, 275 P.3d 1175 (2012) (“[n]othing in our constitution prohibits the legislature from creating procedural prerequisites to a court's exercise of jurisdiction”). Thus, legislation with the purpose or effect of divesting a constitutional court of its powers is void, while on the other hand the legislature may prescribe reasonable regulations that do not divest the court of its jurisdiction. Blanchard, 188 Wash. at 414, 418, 63 P.2d 397.
+- _Buecking v. Buecking_, 179 Wn.2d 438, 448–49, 316 P.3d 999, 1003–04 (2013)
+
+
+¶ 27 In sum, *the legislature can place some limits on the exercise of a superior court's original jurisdiction provided that the limitations do not have the effect of depriving the court of that constitutional jurisdiction.*
+
+When statutory procedural limits are imposed, they are prerequisites to the court's exercise of its jurisdiction.
+
+- _Buecking v. Buecking_, 179 Wn.2d 438, 449, 316 P.3d 999, 1004 (2013)

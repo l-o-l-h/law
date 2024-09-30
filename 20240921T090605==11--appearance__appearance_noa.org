@@ -4,4 +4,9 @@
 #+identifier: 20240921T090605
 
 * Notes that Deal with Appearance
-- [[denote:20240220T105436::#h:57835FC5-1FA9-4C14-B306-7C2A070FD503][11a  Notice of Appearance -- What Constitutes::nil]]
+#+BEGIN: denote-links :regexp "==11" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20240220T105436][11a  Notice of Appearance -- What Constitutes]]
+- [[denote:20240929T083911][11b  Appearance -- Consequences]]
+- [[denote:20240929T085719][11c  Appearance -- General vs Special]]
+- [[denote:20240929T091456][11a1  Appearance -- Substantial Compliance Doctrine]]
+#+END:

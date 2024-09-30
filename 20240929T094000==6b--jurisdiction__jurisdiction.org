@@ -1,0 +1,9 @@
+#+title:      Jurisdiction
+#+date:       [2024-09-29 Sun 09:40]
+#+filetags:   :jurisdiction:
+#+identifier: 20240929T094000
+
+* The Nature of Jurisdiction
+
+¶ 48 “Jurisdiction of the person must be acquired by the service of the applicable statutory process, or by the voluntary appearance of the party whose rights are sought to be adjudicated.” State ex rel. Bogle v. Superior Court for King County, 63 Wash. 96, 100, 114 P. 905 (1911). A party can consent to personal jurisdiction in an action by taking action that fairly invites the court to resolve a dispute between it and another party. See Sec. & Exch. Comm'n v. Ross, 504 F.3d 1130, 1148 (9th Cir.2007). Stated differently, a party waives the claim of lack of personal jurisdiction by “consent[ing], expressly or impliedly, to the court's exercising jurisdiction.” In re Marriage of Steele, 90 Wash.App. 992, 997–98, 957 P.2d 247 (1998).
+- Worden v. Smith, 178 Wn. App. 309, 328, 314 P.3d 1125, 1134 (2013)

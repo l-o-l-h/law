@@ -1,0 +1,21 @@
+:PROPERTIES:
+:CUSTOM_ID: h:1ADF96E5-B207-4C11-91F3-29DD518E5FA4
+:END:
+#+title:      FORMAT FOR PLEADINGS AND OTHER PAPERS
+#+date:       [2024-09-28 Sat 09:06]
+#+filetags:   :format:general:rules:style:
+#+identifier: 20240928T090618
+
+* (a) Format Requirements
+
+* (b) Exception for Trial or Hearing Exhibits.
+
+* (c) Application of Rule
+
+* (d) Citation Format
+:PROPERTIES:
+:CUSTOM_ID: h:7539E4B3-3932-444F-B0D2-46E1104FEB2E
+:END:
+
+Citations shall conform with the format prescribed by the Reporter of
+Decisions. (See Appendix 1.)

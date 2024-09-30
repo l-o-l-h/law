@@ -1,0 +1,37 @@
+#+title:      Appendix 1 -- OFFICE OF REPORTER OF DECISIONS STYLE SHEET
+#+date:       [2024-09-28 Sat 09:08]
+#+filetags:   :citation:general:rules:style:
+#+identifier: 20240928T090841
+
+* GR 14 -- Appendix 1 - OFFICE OF REPORTER OF DECISIONS STYLE SHEET
+:PROPERTIES:
+:CUSTOM_ID: h:B09A0B14-A26D-4600-8F2A-054A47608177
+:END:
+
+_Effective July 3, 2018 and Subject to Revision_
+
+** General Principles
+
+1. The Twentieth Edition of The Bluebook: A Uniform System of Citation
+   is the basic citation resource for Washington appellate court
+   opinions except as noted below.
+
+2. The latest edition of _The Chicago Manual of Style_ is the authority
+   for punctuation and style matters.
+
+3. _Webster’s Third New International Dictionary of the English
+   Language_ (as updated by the online version, _Merriam-Webster
+   Unabridged_) is the authority for spelling, including spacing and
+   hyphens between nouns (e.g., website, seat belt,
+   decision-maker). Where two or more spellings are listed, use
+   Webster’s preferred spelling rather than the variant.
+
+   - [[https://unabridged.merriam-webster.com/][Merriam Webster Unabridged]]
+
+4. For matters not covered by the Bluebook, The Chicago Manual of
+   Style, or Webster’s, the Office of Reporter of Decisions applies
+   formal, traditional, noncolloquial English.
+
+5. Use and cite to official sources, which in most instances are
+   printed publications. Do not cite to an unofficial source unless
+   the official source is unavailable.

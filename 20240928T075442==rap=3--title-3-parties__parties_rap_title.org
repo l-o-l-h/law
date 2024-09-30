@@ -1,0 +1,57 @@
+#+title:      TITLE 3 - Parties
+#+date:       [2024-09-28 Sat 07:54]
+#+filetags:   :parties:rap:title:
+#+identifier: 20240928T075442
+
+* RAP 3.1 - WHO MAY SEEK REVIEW
+:PROPERTIES:
+:CUSTOM_ID: h:426C3127-A3F2-4928-B9AD-4A73B519A3F3
+:END:
+
+Only an aggrieved party may seek review by the appellate court.
+
+* RAP 3.2 - SUBSTITUTION OF PARTIES
+
+...
+
+* RAP 3.3 - CONSOLIDATION OF CASES
+
+** (a) Cases Tried Together
+
+If two or more cases have been tried together or consolidated for
+trial, the cases are consolidated for the purpose of review unless the
+appellate court otherwise directs.
+
+** (b) Cases Consolidated in Appellate Court
+
+The appellate court, on its own initiative or on motion of a party,
+may order the consolidation of cases or the separation of cases for
+the purpose of review. A party should move to consolidate two or more
+cases if consolidation would save time and expense and provide for a
+fair review of the cases. If two or more cases have been consolidated
+for review in the Court of Appeals, the cases remain consolidated for
+review in the Supreme Court unless the Supreme Court otherwise
+directs.
+
+* RAP 3.4 - TITLE OF CASE AND DESIGNATION OF PARTIES
+:PROPERTIES:
+:CUSTOM_ID: h:4619B544-D950-4E0B-8B7E-0BD1965FD6DC
+:END:
+
+The title of a case in the appellate court is the same as in the trial
+court
+- except that _the party seeking review by appeal_ is called an "*appellant*,"
+- _the party seeking review by discretionary review_ is called a "*petitioner*," and
+- _an adverse party_ on review is called a "*respondent*."
+
+Upon motion of a party or on the court’s own motion, and after notice
+to the parties, the Supreme Court or the Court of Appeals may change
+the title of a case by order in said case.
+
+   In a *juvenile offender case*, the parties shall caption the case
+   using the juvenile’s initials. The parties shall refer to the
+   juvenile by his or her initials throughout all briefing and
+   pleadings filed in the appellate court, and shall refer to any
+   related individuals in such a way as to not disclose the juvenile’s
+   identity. However, the trial court record need not be redacted to
+   eliminate references to the juvenile’s identity.
