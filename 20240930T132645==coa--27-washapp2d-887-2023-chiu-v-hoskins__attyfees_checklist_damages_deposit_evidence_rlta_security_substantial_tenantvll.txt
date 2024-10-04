@@ -1,0 +1,671 @@
+title:      27 Wash.App.2d 887 (2023) Chiu v Hoskins
+date:       2024-09-30
+tags:       attyfees  checklist  damages  deposit  evidence  rlta  security  substantial  tenantvll
+identifier: 20240930T132645
+---------------------------
+
+Chiu v. Hoskins
+Court of Appeals of Washington, Division 1. | August 21, 2023 | 27 Wash.App.2d 887 | 534 P.3d 412
+
+washington Citation:
+
+Chiu v. Hoskins, 27 Wn. App. 2d 887, 534 P.3d 412 (2023)
+
+All Citations:
+
+27 Wash.App.2d 887, 534 P.3d 412
+
+Inline KeyCite:
+
+27 Wash.App.2d 887
+Court of Appeals of Washington, Division 1.
+Virginia CHIU, an individual, and Vincent Liew, an individual, Appellants,
+v.
+Brian HOSKINS and the marital community thereof, Respondent.
+No. 83734-6-I
+|
+Filed August 21, 2023
+
+Synopsis
+
+Background: Tenants brought action against landlord, alleging that landlord failed to comply with various provisions of the Residential Landlord Tenant Act (RLTA) and the chapter of city municipal code governing rental agreement regulation. Landlord asserted counterclaim for breach of contract and waste. Following a bench trial, the Superior Court, King County, Mafe Rajul, J., found, on tenants’ claims, that landlord had failed to comply with several of the asserted provisions but declined to award tenants damages, found, on landlord’s counterclaim, that tenants were liable for $2,346 for repairs, cleaning, and yard maintenance and $800, at $100 per day, for eight days during which landlord could not rent unit as a result of the way tenants left it, and found that landlord was the prevailing party for purposes of attorney fees, awarding landlord $19,325. Tenants appealed.
+ 
+Holdings: The Court of Appeals, Feldman, J., held that:
+ 
+[1] substantial evidence supported finding that landlord violated code provision prohibiting security deposits exceeding first full month’s rent;
+ 
+[2] landlord could not lawfully charge, collect, or withhold any security deposit from tenants after failing to provide signed copy of premises-condition checklist;
+ 
+[3] landlord attempted to enforce provisions of a rental agreement that violated code provisions, as required for landlord to be liable to tenants pursuant to damages provision of the code;
+ 
+[4] tenants could not simultaneously recover damages for landlord’s violations of corresponding provisions of the RLTA and the code;
+ 
+[5] tenants were statutorily entitled to recover attorney fees for landlord’s violation of code provisions;
+ 
+[6] gardener’s entry into backyard without provision of two days’ notice from landlord did not violate code; and
+ 
+[7] landlord complied with statute requiring a landlord to give a tenant a timely deposit-retention statement.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+Opinion, 532 P.3d 612, withdrawn.
+ 
+Procedural Posture(s): Motion for Reconsideration; On Appeal; Judgment; Motion for Attorney’s Fees.
+
+West Headnotes (24)
+
+[1]
+
+Appeal and ErrorJudge as factfinder below
+Appeal and ErrorJudgment in General
+
+
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)10Sufficiency of Evidence
+30k3459Substantial Evidence
+30k3462Judge as factfinder below
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)12Judgment in General
+30k3541In general
+
+
+When reviewing a trial court’s findings of fact and conclusions of law following a bench trial, the Court of Appeals determines whether the findings of fact are supported by substantial evidence and whether those findings support the conclusions of law.
+1 Case that cites this headnote
+
+
+
+[2]
+
+Appeal and ErrorWhat constitutes substantial evidence
+
+
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)10Sufficiency of Evidence
+30k3459Substantial Evidence
+30k3463What constitutes substantial evidence
+
+
+The substantial-evidence standard of review, applicable for review of a trial court’s findings of fact following a bench trial, is satisfied if there is sufficient evidence to persuade a rational, fair-minded person of the truth of the finding.
+1 Case that cites this headnote
+
+
+
+[3]
+
+Appeal and ErrorJudge as factfinder below
+
+
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)10Sufficiency of Evidence
+30k3459Substantial Evidence
+30k3462Judge as factfinder below
+
+
+If the substantial evidence-standard of review applicable for review of a trial court’s findings of fact following a bench trial is satisfied, the Court of Appeals will not substitute its judgment for that of the trial court even if it might have resolved disputed facts differently.
+1 Case that cites this headnote
+
+
+
+[4]
+
+Landlord and TenantWeight and sufficiency
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1413Evidence
+233k1413(4)Weight and sufficiency
+
+
+Substantial evidence supported trial court’s finding that landlord violated city municipal code provision prohibiting security deposits exceeding the amount of the first full month’s rent, even though landlord promptly returned the overage when tenants informed him of the violation; landlord charged tenants a security deposit of $2800 when the monthly rent was $2395, and the charging of an amount exceeding rent alone was included within the acts prohibited by the provision.
+
+
+
+
+[5]
+
+Landlord and TenantCause to retain
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1404Duty to Return
+233k1406Cause to retain
+
+
+Landlord did not provide tenants with signed copy of checklist describing the condition and cleanliness of or existing damages to the premises and furnishings at commencement of their tenancy, and thus it was unlawful for landlord to charge, collect, or withhold any security deposit from tenants, under city municipal code provision stating that no deposit could be collected unless rental agreement was in writing and written checklist was provided by landlord to tenant at commencement of tenancy.
+
+
+
+
+[6]
+
+Landlord and TenantDuty to give
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1402Duty to give
+
+
+Landlord’s charging and collecting of a security deposit in excess of the monthly rent and a nonrefundable fee in excess of 10 percent of the monthly rent, which were in excess of the maximum amounts allowed under city municipal code, without providing the signed checklist detailing the condition of the premises required by the code constituted an attempt to enforce provisions of a rental agreement that were contrary to requirements of the applicable code provisions, as required for landlord to be liable to tenants pursuant to damages provision of the code.
+
+
+
+
+[7]
+
+StatutesUndefined terms
+StatutesDictionaries
+
+
+361Statutes
+361IIIConstruction
+361III(D)Particular Elements of Language
+361k1123Undefined terms
+361Statutes
+361IIIConstruction
+361III(F)Extrinsic Aids to Construction
+361k1179Treatises and Reference Works
+361k1181Dictionaries
+
+
+Where a statute does not define a term, a court may look to the dictionary for a definition of the term’s ordinary meaning.
+
+
+
+
+[8]
+
+Landlord and TenantActions
+
+
+233Landlord and Tenant
+233IILeases and Agreements in General
+233II(A)Requisites and Validity
+233k541Form and Contents of Lease and Validity in General
+233k546Actions
+
+
+Phrase “attempts to enforce,” as used in city municipal code provision imposing liability on a landlord only if the landlord attempts to enforce provisions in a rental agreement that are contrary to requirements under the code, means to make an effort to give force, compel, or put in force, or to cause to take effect.
+
+
+
+
+[9]
+
+Landlord and TenantActions
+Landlord and TenantDamages
+Landlord and TenantCosts and attorney fees
+
+
+233Landlord and Tenant
+233IILeases and Agreements in General
+233II(A)Requisites and Validity
+233k561Legality of Object
+233k567Actions
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1415Remedies
+233k1415(2)Damages
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1415Remedies
+233k1415(3)Costs and attorney fees
+
+
+Under damages provision of chapter of city municipal code governing rental agreement regulation, if a landlord attempts to enforce provisions in a rental agreement that are contrary to the requirements of statutorily enumerated provisions of city municipal code, trial court must award: (1) actual damages; (2) double any penalties imposed; (3) double the amount of any security deposit unlawfully charged or withheld by landlord; and (4) reasonable attorney fees and costs.
+
+
+
+
+[10]
+
+Landlord and TenantActions
+
+
+233Landlord and Tenant
+233IILeases and Agreements in General
+233II(A)Requisites and Validity
+233k561Legality of Object
+233k567Actions
+
+
+Under damages provision of chapter of city municipal code governing rental agreement regulation, a landlord is liable for actual and statutory damages if the landlord enforces one or more unlawful provisions in a rental agreement.
+
+
+
+
+[11]
+
+Landlord and TenantActions
+
+
+233Landlord and Tenant
+233IILeases and Agreements in General
+233II(A)Requisites and Validity
+233k561Legality of Object
+233k567Actions
+
+
+Under damages provision of chapter of city municipal code governing rental agreement regulation, which makes a landlord liable for actual and statutory damages if the landlord enforces one or more unlawful provisions in a rental agreement, a tenant cannot recover the same actual and statutory damages several times simply because the rental agreement includes several unlawful provisions.
+
+
+
+
+[12]
+
+DamagesNature and theory of compensation
+
+
+115Damages
+115IIIGrounds and Subjects of Compensatory Damages
+115III(A)Direct or Remote, Contingent, or Prospective Consequences or Losses
+115III(A)1In General
+115k15Nature and theory of compensation
+
+
+Tenants’ injury from landlord’s violation of Residential Landlord Tenant Act (RLTA) provision stating that no deposit could be collected unless tenant was provided with a signed written checklist detailing condition of premises was the same as that from landlord’s violation of similar provision of city municipal code, and thus tenants could not simultaneously recover damages for landlord’s violation of both the RLTA provision and the municipal code provision. Wash. Rev. Code Ann. § 59.18.260.
+
+
+
+
+[13]
+
+DamagesNature and theory of compensation
+
+
+115Damages
+115IIIGrounds and Subjects of Compensatory Damages
+115III(A)Direct or Remote, Contingent, or Prospective Consequences or Losses
+115III(A)1In General
+115k15Nature and theory of compensation
+
+
+It is a basic principle of damages that there shall be no double recovery for the same injury.
+
+
+
+
+[14]
+
+Appeal and ErrorProceedings for Review
+
+
+30Appeal and Error
+30XVIReview
+30XVI(F)Presumptions and Burdens on Review
+30XVI(F)2Particular Matters and Rulings
+30k3987Proceedings for Review
+30k3988In general
+
+
+Court of Appeals would assume that no case existed in which a tenant had recovered both under the Residential Landlord Tenant Act (RLTA) and city municipal code for the same underlying violation, in tenants’ appeal from judgment in favor of landlord in their action asserting violations of both the RLTA and the code, where tenants cited no case in which a tenant had recovered under both the RLTA and the code. Wash. Rev. Code Ann. § 59.18.010 et seq.
+
+
+
+
+[15]
+
+Landlord and TenantCosts and attorney fees
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1415Remedies
+233k1415(3)Costs and attorney fees
+
+
+Tenants were statutorily entitled to recover attorney fees for landlord’s violation of city municipal code provisions in the form of an excessive security deposit, an excessive non-refundable cleaning fee, and failure to provide tenants with a signed written checklist detailing condition of premises, where code used mandatory language in its provision making landlords who violated enumerated code provisions liable for reasonable attorney fees.
+
+
+
+
+[16]
+
+Landlord and TenantDamages
+Landlord and TenantCosts and attorney fees
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1415Remedies
+233k1415(2)Damages
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1415Remedies
+233k1415(3)Costs and attorney fees
+
+
+Tenants were not entitled to an award of damages and attorney fees for landlord’s violation of city municipal code provision that precluded a landlord from including provisions charging an excessive security deposit or an excessive non-refundable cleaning fee in a new rental agreement or when renewing an existing agreement, where code required proof of actual damages, and the court found tenants proved no actual damages.
+
+
+
+
+[17]
+
+Landlord and TenantAppurtenances
+Landlord and TenantLandlord’s right of entry to maintain or repair
+
+
+233Landlord and Tenant
+233VEnjoyment and Use of Premises
+233V(B)Description, Extent, and Condition
+233k1044Appurtenances
+233k1045In general
+233Landlord and Tenant
+233VEnjoyment and Use of Premises
+233V(E)Repairs, Maintenance, and Alterations
+233k1111Landlord’s right of entry to maintain or repair
+
+
+Backyard of tenants’ housing unit was not part of leased premises, and thus gardener’s entry into backyard without provision of two days’ notice from landlord did not violate city municipal code provision making it unlawful for an owner to enter a tenant’s housing unit or premises without giving two days’ notice, where tenants’ rental agreement defined the leased premises as the apartment situated in the upper, or main, level of the house.
+
+
+
+
+[18]
+
+Landlord and TenantDuty to Return
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1404Duty to Return
+233k1405In general
+
+
+Landlord complied with statute requiring a landlord to give a tenant a timely statement of the basis for retaining any of the tenant’s security deposit, even though deposit statement was not delivered personally to tenants or sent by United States mail; six days after tenants gave their notice to vacate, landlord sent tenants an email with an initial explanation of repairs and dollar amounts, subsequently sent tenants an itemized accounting of the security deposit indicating a total refund of $346.13, and then issued payment for that amount within the statutorily required 21-day period. Wash. Rev. Code Ann. § 59.18.280(1).
+
+
+
+
+[19]
+
+Landlord and TenantDuty to Return
+
+
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1404Duty to Return
+233k1405In general
+
+
+While statute requiring a landlord to give a tenant a timely statement of the basis for retaining any of the tenant’s security deposit provides two ways to give the required statement that are sufficient to establish compliance with the statute, namely personal delivery or by United States mail, it does not exclude or prohibit other, equally effective, ways to give the statement, including email. Wash. Rev. Code Ann. § 59.18.280(1).
+
+
+
+
+[20]
+
+Landlord and TenantDamages
+
+
+233Landlord and Tenant
+233VEnjoyment and Use of Premises
+233V(H)Condition of Premises at Termination of Tenancy
+233k1183Actions
+233k1190Remedies
+233k1190(2)Damages
+
+
+Landlord was not precluded from recovering $1300 from tenants for landscaping costs incurred to bring backyard to its prior condition after tenants moved out, despite trial court’s earlier determination that landlord had already agreed to charge only $1000, where trial court was not bound by the earlier determination, given that it was made in response to tenants’ motion for summary judgment, and substantial evidence, including testimony and photographs of the backyard of the premises, supported an award of $1300.
+
+
+
+
+[21]
+
+Summary JudgmentAlteration, amendment, correction, or modification
+
+
+368HSummary Judgment
+368HVIProceedings
+368HVI(E)Subsequent Proceedings
+368Hk363Alteration, amendment, correction, or modification
+
+
+Trial court is not bound by its summary judgment rulings and can revise those rulings any time before entry of final judgment.
+
+
+
+
+[22]
+
+Landlord and TenantDamages
+
+
+233Landlord and Tenant
+233VEnjoyment and Use of Premises
+233V(H)Condition of Premises at Termination of Tenancy
+233k1183Actions
+233k1190Remedies
+233k1190(2)Damages
+
+
+Vacatur was warranted of award to landlord of $746.65 for repair costs relating to patching, paint, a refrigerator shelf, and various other minor repairs and $100 for each of the eight days during which landlord allegedly could not rent unit as a result of how it was left by tenants, where award was determined based on the incorrect standard of whether the tenants left the unit in move-in condition, not the correct standard of whether the tenants left the unit in its initial condition except for reasonable wear and tear or conditions caused by failure of the landlord to comply with statutory obligations. Wash. Rev. Code Ann. §§ 59.18.130(10), 59.18.260, 59.18.280(1)(a).
+
+
+
+
+[23]
+
+Landlord and TenantDamages
+
+
+233Landlord and Tenant
+233VEnjoyment and Use of Premises
+233V(H)Condition of Premises at Termination of Tenancy
+233k1183Actions
+233k1190Remedies
+233k1190(2)Damages
+
+
+Analysis used to reach an award of $800, at $100 per day, for the eight days that landlord was allegedly unable to rent unit due to the way that it was left by tenants was appropriate, even though tenants’ liability was determined under the incorrect legal standard, and thus the damages analysis could be utilized on remand after determination of liability under the correct standard; after tenants vacated unit, landlord collected rent from a prospective tenant and then refunded some of that rent, retaining $1297, landlord was unable to rent unit for 22 days, which would have supported damages award of $2200, but was awarded only $800, and the difference between those two figures was $1400, which was more than the amount that landlord retained from prospective tenant.
+
+
+
+
+[24]
+
+Landlord and TenantCosts and attorney fees
+Landlord and TenantCosts and attorney fees
+
+
+233Landlord and Tenant
+233VEnjoyment and Use of Premises
+233V(H)Condition of Premises at Termination of Tenancy
+233k1183Actions
+233k1190Remedies
+233k1190(3)Costs and attorney fees
+233Landlord and Tenant
+233VIDeposits and Other Security by Tenant
+233k1408Actions
+233k1415Remedies
+233k1415(3)Costs and attorney fees
+
+
+Neither landlord nor tenants were entitled to prevailing-party attorney fees on tenants’ appeal from judgment in tenants’ Residential Landlord Tenant Act (RLTA) action against landlord, in which landlord had been found to have violated RLTA and city municipal code but tenants had not been awarded damages and in which landlord had prevailed on his counterclaim for breach of contract and waste; both landlord and tenants prevailed on major issues on appeal, as, for example, tenants were found to have been entitled to attorney fees for landlord’s violations regarding excessive security deposit and non-refundable cleaning fee and failure to provide signed checklist detailing condition of premises, and award of $1300 to landlord for landscaping costs incurred after tenants moved out was upheld. Wash. R. App. P. 18.1.
+1 Case that cites this headnote
+
+
+
+**416 Honorable Ken Schubert, Judge
+
+Attorneys and Law Firms
+
+Erin Cheyenne Sperger, Legal Wellspring, PS, 2367 Tacoma Ave. S, Tacoma, WA, 98402-1409, for Appellants.
+Melissa C. Golan, Seattle City Attorney Civil Division, 701 5th Ave. Ste 2050, Seattle, WA, 98104-7095, David John Corbett, David Corbett PLLC, 2106 N Steele St., Tacoma, WA, 98406-8213, for Respondent.
+
+
+
+
+PUBLISHED OPINION
+
+Feldman, J.
+
+*889 ¶1 Virginia Chiu and Vincent Liew (Tenants) appeal the trial court’s order on summary judgment, findings of facts and conclusions of law, and judgment in this landlord-tenant dispute. Tenants claim that their landlord, Brian Hoskins, failed to comply with various provisions in the Residential Landlord-Tenant Act of 1973 (RLTA), ch. 59.18 RCW, and chapter 7.24 (Rental Agreement Regulation) of the Seattle Municipal Code (SMC). The trial court *890 concluded that Hoskins failed to comply with several such provisions but declined to award damages because it concluded that Tenants had not suffered actual damages. Tenants contend that the trial court erred in failing to award statutory damages and attorney fees, which they claim are required by the RLTA and the SMC upon finding a violation. We agree with Tenants and reverse in part on this point. We also hold that the trial court applied the wrong legal standard in awarding damages to Hoskins for costs he incurred to restore the property to “move-in condition” after Tenants vacated the property, and we reverse on that point as well. In all other respects, we affirm.
+ 
+
+I
+¶2 Tenants first learned of the rental property at issue in this appeal (the Property) in June 2018. After seeing the Property, they filled out an application, which Hoskins approved. Hoskins then sent them a lease with a move-in checklist for them to fill out. The purpose of the required move-in checklist is to identify existing issues that are purportedly subject to repair by the landlord. Tenants signed both the lease and the checklist as required. Hoskins also signed the checklist but did not send it back to Tenants. Instead, Hoskins responded to a list of move-in issues that Tenants had provided by e-mail. Hoskins replied promptly to that list and repaired those issues that could be fixed.
+ 
+**417 ¶3 The monthly rent was $2,395, and Hoskins also required a security deposit of $2,800, which included a $300 nonrefundable cleaning fee. Although Tenants paid the security deposit without complaint, they discovered a year later that a security deposit cannot lawfully exceed the monthly rent, nor can a nonrefundable move-in fee exceed 10 percent of the monthly rent, under SMC 7.24.035. Hoskins did not realize that this limit had changed in 2017 and had thus charged Tenants an excessive amount. When *891 Tenants brought this issue to Hoskins’ attention, he promptly refunded the overage.
+ 
+¶4 When they took occupancy of the Property, Tenants’ understanding was that they were to take care of the yard. Hoskins asked if they wanted to hire a gardener, and they indicated they did not because they liked gardening. They subsequently struggled to maintain the yard, so Hoskins asked again if they wanted to hire a gardener. This time, Tenants agreed. Hoskins then found a gardener, and Tenants agreed to pay the gardener $50 per month. Thereafter, the gardener maintained the yard periodically but did not notify Hoskins or Tenants when he would be performing these services.
+ 
+¶5 The lease expired on June 27, 2019, and Tenants thereafter agreed to go month to month (with no rent increase) until they moved out at the end of August. When Tenants moved out, they did not leave the Property in the same condition that it was in at the inception of the lease. Hoskins incurred various costs for cleaning and repairs to return the Property to its prior condition, and he subtracted those charges from Tenants’ remaining security deposit.
+ 
+¶6 After Tenants informed Hoskins that they would be moving out at the end of August, Hoskins identified a prospective tenant, who signed a lease with Hoskins with a move-in date of August 24, 2019. The prospective tenant paid Hoskins $6,587 but then rescinded the lease for a number of reasons, including the condition of the apartment and yard. The prospective tenant and Hoskins reached an agreement whereby Hoskins retained $1,297 and refunded the rest.
+ 
+¶7 Dissatisfied that they had not received their full security deposit back, Tenants sued Hoskins, alleging that he had violated both the SMC and RLTA. Hoskins denied Tenants’ allegations and asserted a counterclaim for breach of contract and waste. A bench trial was held in December 2021, and the trial court largely ruled in Hoskins’ favor. The court rejected Tenants’ arguments regarding various “technical *892 violations” of the SMC and RLTA because Tenants had not proved actual damages and/or Hoskins had not acted unlawfully. Regarding Hoskins’ counterclaim, the court found Tenants liable for $2,346 for repairs, cleaning, and yard maintenance and $800 ($100 per day) for eight days during which Hoskins could not rent the unit as a result of the way Tenants had left it.
+ 
+¶8 The trial court then turned to the issue of prevailing party attorney fees. The court ruled that Hoskins was the prevailing party for purposes of awarding attorney fees under the parties’ lease, which states in relevant part, “[l]n the event of disagreement or litigation regarding the performance of the terms and provisions of this Agreement by either party hereto, the prevailing party shall be entitled to the payment of their costs and expenses, including reasonable attorney’s fees ....” Based on this provision, the trial court awarded Hoskins $19,325 for fees incurred in defense against Tenants’ claims.
+ 
+¶9 The trial court entered judgment in Hoskins’ favor. Tenants appealed, and Hoskins cross-appealed. Hoskins has since withdrawn his cross-appeal.
+ 
+
+II
+[1] [2] [3]¶10 When reviewing a trial court’s findings of fact and conclusions of law following a bench trial, we determine “whether the findings of fact are supported by substantial evidence and whether those findings support the conclusions of law.” 224 Westlake, LLC v. Engstrom Props., LLC, 169 Wash. App. 700, 705, 281 P.3d 693 (2012). The substantial evidence standard is satisfied if there is sufficient evidence “ ‘to persuade a rational, fair-minded person of the truth of the finding.’ ” Hegwine v. Longview Fibre Co., 162 Wash.2d 340, 353, 172 P.3d 688 (2007) (quoting  **418 In re Est. of Jones, 152 Wash.2d 1, 8, 93 P.3d 147 (2004)). If that standard is satisfied, we will not substitute our judgment for that of the trial court even if we might have resolved disputed facts *893 differently. Green v. Normandy Park Riviera Section Cmty. Club, Inc., 137 Wash. App. 665, 689, 151 P.3d 1038 (2007), (citing Sunnyside Valley Irrig. Dist. v. Dickie, 149 Wash.2d 873, 879, 73 P.3d 369 (2003)). The standard of review applicable to legal issues, including the proper interpretation of the RLTA and SMC, is de novo. State v. Grocery Mfrs. Ass’n, 195 Wash.2d 442, 456, 461 P.3d 334 (2020).1
+ 
+1
+
+While the Supreme Court has held that the RLTA is a remedial statute, see Silver v. Rudeen Mgmt. Co., 197 Wash.2d 535, 548, 484 P.3d 1251 (2021), the parties dispute whether the SMC is remedial in nature. The proper resolution of this issue determines whether any ambiguity in the SMC must be resolved in Tenants’ or Hoskins’ favor. Because we find no ambiguity in the RLTA or the SMC, we need not (and do not) rely on these rules of statutory interpretation.
+
+
+
+
+A. Deposit, nonrefundable move-in fee, and checklist
+¶11 The trial court concluded that Hoskins charged a security deposit in excess of the monthly rent and a nonrefundable fee in excess of 10 percent of the monthly rent in violation of SMC 7.24.035(A)2 and (B)(4),3 respectively. The court also concluded “that the checklist signed by Hoskins was not provided to the plaintiffs” in violation of SMC 7.24.030(C)(1).4 Despite these findings, the trial court did not award damages based on the security deposit violation because it found that “plaintiffs did not suffer any damages as a result of the violation ....” Nor did it award damages for the checklist violation, similarly ruling that “[t]he court does not find the plaintiffs suffered any damages as a *894 result of not receiving a copy of the lease that contained the landlords’ [sic] signature.”
+ 
+2
+
+SMC 7.24.035(A) states in relevant part, “After January 15, 2017, the total amount of a security deposit and nonrefundable move-in fees may not exceed the amount of the first full month’s rent for the tenant’s dwelling unit.”
+
+
+3
+
+SMC 7.24.035(B)(4) states in relevant part, “The total amount of non-refundable move-in fees may not exceed ten percent of the first full month’s rent ....”
+
+
+4
+
+SMC 7.24.030(C)(1) provides, “The landlord shall prepare and provide to the tenant at the commencement of tenancy a written checklist or statement specifically describing the condition and cleanliness of or existing damages to the dwelling unit at the time of occupancy including damages to the premises and furnishings, which include but are not limited to walls, floors, countertops, carpets, drapes, furniture, and appliances. The checklist or statement shall be signed and dated by the landlord and the tenant, and the tenant shall be provided with a copy of the signed checklist or statement.”
+
+
+[4] [5]¶12 Substantial evidence supports the trial court’s findings and conclusions regarding SMC 7.24.035(A), 7.24.035(B)(4), and 7.24.030(C)(1). Preliminarily, Hoskins charged Tenants a security deposit of $2,800 despite a monthly rent of $2,395 in violation of SMC 7.24.035(A). While Hoskins promptly returned the overage when the tenants informed him of the violation, SMC 7.24.035(A) is stated in the disjunctive—“charged or withheld”—and he plainly charged an unlawful amount. Additionally, SMC 7.24.035(E) states that “[n]o deposit may be collected by a landlord unless the rental agreement is in writing and a written checklist or statement specifically describing the condition and cleanliness of or existing damages to the premises and furnishings ... is provided by the landlord to the tenant at the commencement of the tenancy.” Thus, if a landlord fails to provide a signed checklist, as occurred here, the landlord cannot lawfully charge, collect, or withhold a security deposit. Because Hoskins violated SMC 7.24.035(A), SMC 7.24.035(B)(4), and SMC 7.24.030(C)(1), it was unlawful for him to charge, collect, or withhold any security deposit.
+ 
+[6] [7] [8]¶13 Despite this evidence, Hoskins argues that he is not liable to Tenants under SMC 7.24.060(A)(1) because that provision imposes liability only if a landlord “attempts to enforce provisions in a rental agreement that are contrary to the requirements of Sections 7.24.030, 7.24.035, 7.24.036, or 7.24.038.” SMC 7.24.060(A)(1) (emphasis added). The SMC does not define the critical phrase “attempts to enforce.” Where a statute does not define a term, the court may look to the dictionary for a definition of the term’s ordinary meaning. **419 State v. Christian, 200 Wash. App. 861, 865, 403 P.3d 925 (2017). The term “attempt” is defined as “to make an effort to do, accomplish, solve, or effect.” WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY 140 (1993). And “enforce” is defined to include “1 : to give force ... 5 : ... *895 COMPEL ... 7 : to put in force : cause to take effect.” WEBSTER’S at 751. Thus, the ordinary meaning of “attempts to enforce” is to make an effort to give force, compel, or put in force: cause to take effect. Applying that construction here, Hoskins attempted to enforce provisions that were contrary to the SMC when he charged and collected a security deposit in excess of the monthly rent and a nonrefundable fee in excess of 10 percent of the monthly rent in violation of SMC 7.24.035(A) and (B)(4) and did so without providing a signed checklist as required by SMC 7.24.030(C)(1), which is a violation of SMC 7.24.035(E).
+ 
+[9]¶14 Having concluded that the trial court correctly found Hoskins violated the SMC in multiple respects, we turn to the issue of remedy. By ruling that Tenants could not recover damages unless they could show actual damages, the trial court misinterpreted SMC 7.24.060(A)(1). That section states:
+If a landlord attempts to enforce provisions in a rental agreement that are contrary to the requirements of Sections 7.24.030, 7.24.035, 7.24.036, or 7.24.038, the landlord shall be liable to the tenant for: 1) any actual damages incurred by the tenant as a result of the landlord’s attempted enforcement; 2) double the amount of any penalties imposed by the City; 3) double the amount of any security deposit unlawfully charged or withheld by the landlord; and 4) reasonable attorney fees and costs.
+SMC 7.24.060(A)(1) (emphasis added). As can be seen, the plain language of the statute is mandatory—“the landlord shall be liable.” Thus, if a landlord attempts to enforce provisions in a rental agreement that are contrary to the requirements of the enumerated provisions, the trial court must award (1) actual damages, (2) double any penalties imposed, (3) double the amount of any security deposit unlawfully charged or withheld, and (4) reasonable attorney fees and costs. The trial court here correctly recognized and applied subsection (1) but erroneously overlooked subsection (3) as well as subsection (4).
+ 
+*896 [10] [11]¶15 While Tenants can recover statutory damages under the SMC, what they cannot do is recover those statutory damages multiple times. That issue is squarely addressed in SMC 7.24.060(A)(1), which states that a landlord “shall be liable” if the “landlord attempts to enforce provisions in a rental agreement that are contrary to the requirements of Sections 7.24.030, 7.24.035, 7.24.036, or 7.24.038.” (Emphasis added.) As the plural “provisions” shows, a landlord is liable for actual and statutory damages under SMC 7.24.060(A)(1) if the landlord enforces one or more unlawful provisions (plural) in a rental agreement. Here, the unlawful lease provisions are and relate to (a) the excessive security deposit, (b) the excessive nonrefundable cleaning fee, and (c) the unsigned checklist. Under SMC 7.24.060(A)(1), Tenants can properly recover actual and statutory damages because their lease includes unlawful provisions. What Tenants cannot do is recover the same actual and statutory damages several times simply because the lease includes several unlawful provisions under the SMC.
+ 
+[12] [13] [14]¶16 Nor can Tenants simultaneously recover under both the SMC and the RLTA for each violation at issue here. By way of example, the deposit and checklist requirements in SMC 7.24.035(E) precisely track the requirements in RCW 59.18.260.5 **420 Tenants claim, therefore, that they can *897 recover statutory damages under both provisions. We disagree, as “it is a basic principle of damages ... that there shall be no double recovery for the same injury.” Pub. Emps. Mut. Ins. Co. v. Kelly, 60 Wash. App. 610, 618, 805 P.2d 822 (1991). Additionally, Tenants have not cited a case where a tenant has recovered under both the RLTA and the SMC for the same underlying violation. We therefore assume no such case exists. Donner v. Blue, 187 Wash. App. 51, 61, 347 P.3d 881 (2015) (“ ‘Where no authorities are cited in support of a proposition, the court is not required to search out authorities, but may assume that counsel, after diligent search, has found none.’ ”) (internal quotation marks omitted) (quoting State v. Logan, 102 Wash. App. 907, 911 n.1, 10 P.3d 504 (2000)).6
+ 
+5
+
+SMC 7.24.035(E) states in pertinent part, “No deposit may be collected by a landlord unless the rental agreement is in writing and a written checklist or statement specifically describing the condition and cleanliness of or existing damages to the premises and furnishings, including, but not limited to, walls, floors, countertops, carpets, drapes, furniture, and appliances, is provided by the landlord to the tenant at the commencement of the tenancy. The checklist or statement shall be signed and dated by the landlord and the tenant, and the tenant shall be provided with a copy of the signed checklist or statement.” RCW 59.18.260 likewise states, “No deposit may be collected by a landlord unless the rental agreement is in writing and a written checklist or statement specifically describing the condition and cleanliness of or existing damages to the premises and furnishings, including, but not limited to, walls, floors, countertops, carpets, drapes, furniture, and appliances, is provided by the landlord to the tenant at the commencement of the tenancy. The checklist or statement shall be signed and dated by the landlord and the tenant, and the tenant shall be provided with a copy of the signed checklist or statement.”
+
+
+6
+
+Tenants wrongly claim that the court allowed such a double recovery in Lang Pham v. Corbett, 187 Wash. App. 816, 351 P.3d 214 (2015). Contrary to Tenants’ argument, the court in Pham did not allow the tenants to recover under both the RLTA and the SMC for the same underlying violation. Instead, the issue was whether the tenants could recover both relocation assistance under SMC 22.206.260(F) and other relief under the RLTA. 187 Wash. App. at 835, 351 P.3d 214. Also critical here, Pham interpreted and applied chapter 22.206 SMC and not the provisions in chapter 7.24 SMC at issue here. 187 Wash. App. at 835, 351 P.3d 214. It is of no moment here that Title 22 SMC does not affect or limit a tenant’s rights under the RLTA—as the court held in Pham, citing SMC 22.206.305—because Tenants here are not pursuing a claim under that title.
+
+
+[15] [16]¶17 Finally, we turn to the issue of attorney fees. The SMC requires that the trial court award reasonable attorney fees where a violation is found. It states, “[T]he landlord shall be liable to the tenant for ... reasonable attorney fees and costs.” SMC 7.24.060(A)(1) (emphasis added). The RLTA, in turn, includes discretionary language: “the prevailing party may recover court costs and reasonable attorneys’ fees.” RCW 59.18.260 (emphasis added). Thus, for the same reasons set forth above (the mandatory language in SMC 7.24.060(A)(1)), Tenants are entitled to recover reasonable attorney fees as well as statutory damages under *898 SMC 7.24.060(A)(1). We remand the matter to the trial court to award these amounts.7
+ 
+7
+
+Tenants also claim that Hoskins violated SMC 7.24.060(A)(2), which states, “A landlord who includes provisions prohibited by subsection 7.24.030.B, Section 7.24.035, Section 7.24.036, or Section 7.24.038 in a new rental agreement, or in a renewal of an existing agreement, shall be liable to the tenant for up to $3,000 plus reasonable attorney fees and costs.” Unlike SMC 7.24.060(A)(1), which requires an award of statutory damages, SMC 7.24.060(A)(2) requires proof of actual damages and limits recovery of those damages to “up to $3,000.” The trial court found that Tenants proved “no actual damages,” and its finding is supported by substantial evidence. Thus, the trial court correctly denied recovery of both damages and attorney fees under SMC 7.24.060(A)(2). ]
+
+
+
+
+B. Notice of yardwork
+[17]¶18 Tenants next argue that the trial court erred when it rejected their claim that Hoskins violated SMC 22.206.180(F) when a gardener entered the backyard without providing two days’ notice. SMC 22.206.180(F)(1)(a) states in pertinent part that it is unlawful for an owner to “[e]nter a tenant’s housing unit or premises” except after giving the tenant “at least two days’ notice of intent to enter for the purpose of inspecting the premises, making necessary or agreed repairs, alterations or improvements, or supplying necessary or agreed services.” Addressing this issue, the trial court found “that the defendant Hoskins did not violate the ordinance because the gardener did not go inside the unit; all the work was done outside.”
+ 
+¶19 We agree with the trial court’s analysis. The rental agreement here defines the leased premises as “the apartment situated on the upper/main level of the house at 5329 9th Ave. NE in the City of Seattle, County of King, State of Washington.” Because the yard is not part of the housing unit or leased premises, the gardener did not enter Tenants’ housing unit or premises and was not required to give notice under SMC 22.206.180(F)(1)(a). The trial court correctly rejected this claim.
+ 
+
+
+**421 C. Delivery of deposit statement
+[18]¶20 Tenants assert that Hoskins failed to comply with the RLTA requirement to timely give them a security deposit *899 statement when he e-mailed the statement to them rather than delivering it personally or placing a copy in the United States mail. The RTLA addresses this requirement in RCW 59.18.280(1), which states in relevant part:
+Within twenty-one days after the termination of the rental agreement and vacation of the premises ... the landlord shall give a full and specific statement of the basis for retaining any of the deposit together with the payment of any refund due the tenant under the terms and conditions of the rental agreement ....
+....
+(b) The landlord complies with this section if the required statement or payment, or both, are delivered to the tenant personally or deposited in the United States mail properly addressed to the tenant’s last known address with first-class postage prepaid within the twenty-one days.
+(Emphasis added.) The trial court found that Mr. Hoskins complied with RCW 59.18.280 and dismissed the claim on summary judgment. Based on the plain language of the statute and undisputed facts, we affirm.
+ 
+[19]¶21 On September 6, 2019, six days after the lease expired,8 Hoskins sent an e-mail to Tenants with an initial explanation of repairs and dollar amounts. Following this, on September 16, 2019, Hoskins sent Tenants an itemized accounting of the security deposit indicating a total refund of $346.13. He then issued payment for that amount on September 20, 2019. Payment occurred within the 21-day period specified in RCW 59.18.280(1). While the deposit statement was not delivered personally to Tenants or sent by United States mail, RCW 59.18.280(1) does not mandate either method of delivery. To the contrary, subsection (b) *900 provides two ways to “give” the required security deposit statement that are sufficient to establish compliance with RCW 59.18.280(1) but does not exclude or prohibit other, equally effective, ways to give the statement, including e-mail.
+ 
+8
+
+As noted previously, Tenants asked Hoskins, and Hoskins agreed, to extend the lease until the end of August. While Hoskins initially identified a tenant who was willing to move into the Property on August 24, 2019, the prospective tenant rescinded their lease with Hoskins due to (among other things) the condition of the apartment and yard. The 21-day period in RCW 59.18.280(1) thus commences on August 31, 2019.
+
+
+¶22 We have interpreted other statutes in a similar fashion. For example, the first sentence of RCW 4.28.210 states that “[a] defendant appears in an action when he or she answers, demurs, makes any application for an order therein, or gives the plaintiff written notice of his or her appearance.” In City of Des Moines v. $81,231 in United States Currency, 87 Wash. App. 689, 696, 943 P.2d 669 (1997), we held that “[t]he methods set forth in RCW 4.28.210 for ‘appearing’ in an action are not exclusive” and therefore other acts may constitute an “appearance.” The same reasoning applies to RCW 59.18.280(1). Because undisputed facts show that Hoskins satisfied the statutory requirement to timely “give” Tenants a security deposit statement, and because Hoskins issued payment to Tenants within the prescribed 21-day period,9 the trial court correctly dismissed this claim on summary judgment.
+ 
+9
+
+While Hoskins made additional payments to Tenants after September 20, they relate to his continuing efforts to negotiate with Tenants regarding the amount of their deposit refund. Given the parties’ ongoing negotiations and corresponding resolution, these additional payments do not violate the 21-day deadline specified in RCW 59.18.280(1). See Goodeill v. Madison Real Estate, 191 Wash. App. 88, 91, 362 P.3d 302 (2015) (requiring “conscientious attempt to comply with” statutory deadline).
+
+
+
+
+D. Hoskins’ counterclaim for breach of the lease agreement and waste
+¶23 Turning to Hoskins’ counterclaim for breach of the lease agreement and waste, the trial court found in favor of Hoskins and awarded three distinct categories of damages: (1) $1,300 paid by Hoskins to the gardener to clean up the yard, (2) $800 ($100 per day) for eight days during which Hoskins could not rent the unit as a result of the way Tenants had left it, and (3) $746.65 for repair costs relating to patching, paint, a refrigerator **422 shelf, and various other repairs. Tenants contend that each of these awards is erroneous. We agree in part and disagree in part as follows.
+ 
+[20] [21]¶24 Starting with the gardener fees, Tenants argue that the trial court erred when it allowed Hoskins to argue at trial that he should recover $1,300 for landscaping when the court had already determined in response to their summary judgment motion that “Hoskins had already agreed to only charge $1,000.” A trial court, however, is not bound by its summary judgment rulings and can revise those rulings “any time before entry of final judgment.” Washburn v. Beatt Equip. Co., 120 Wash.2d 246, 300, 840 P.2d 860 (1992). Additionally, substantial evidence, including testimony and photographs of the yard, supports the trial court’s award of $1,300 for this item. Tenants’ contrary arguments are without merit.
+ 
+[22]¶25 Turning to the remaining items, the trial court awarded these amounts because it found that “[w]hen the plaintiffs moved out, they did not leave the premises in move-in condition as required by the lease” and that “Hoskins met his burden by a preponderance of evidence that the plaintiffs did not leave the unit in move in condition.” (Emphasis added.) Based on these findings, the trial court awarded Hoskins $746.65 for repair costs relating *901 to patching, paint, a refrigerator shelf, and various other “minor repairs.” The court similarly found that “the unit would not have been in move in condition until September 8th, 2019, when the repairs, the yardwork, and the cleaning had been completed” and therefore awarded $800 ($100 per day) for the eight days during which Hoskins could not rent the unit as a result of the way Tenants had left it.10 Tenants argue *902 that in awarding these damages the trial court applied the wrong legal standard. We agree.
+ 
+10
+
+The award of $800 is premised on section 13 of the lease, entitled “UNCLEAN/DAMAGED CONDITIONS,” which states, “Should Lessee leave the apartment in an unclean or damaged condition and Owner/Manager is unable to lease the apartment because of the condition, then Lessee shall be liable for $100 for each day of lost rent.” While the standard for awarding this amount improperly varies from the RLTA (as discussed in the text above), there is no argument that $100 constitutes an unlawful penalty, presumably because it approximates the monthly rent.
+
+
+¶26 This issue is squarely governed by several complementary provisions of the RLTA. First, RCW 59.18.130(10) states that “[e]ach tenant shall ... [u]pon termination and vacation, restore the premises to their initial condition except for reasonable wear and tear or conditions caused by failure of the landlord to comply with his or her obligations under this chapter.” Second, RCW 59.18.260 states, “No such deposit shall be withheld on account of normal wear and tear resulting from ordinary use of the premises.” And lastly, RCW 59.18.280(1)(a) likewise states, “No portion of any deposit shall be withheld on account of wear resulting from ordinary use of the premises.”
+ 
+¶27 Applying the plain language of the statute, the trial court was required by the RLTA to determine whether Tenants failed to leave the leased premises (the apartment, as defined in the lease and discussed above) in “their initial condition except for reasonable wear and tear or conditions caused by failure of the landlord to comply with his or her obligations under this chapter” and award recoverable damages if and to the extent that Tenants failed to do so. Instead, the trial court applied a “move-in condition” test, which erroneously varies from the RLTA. We therefore vacate the judgment on these awards and remand the issue so that the trial court can properly award damages for repair costs and $100 per day for each day of lost rent, if any, based on the controlling legal standard set forth above and in RCW 59.18.130(10).
+ 
+[23]¶28 Finally, Tenants claim that the award of $800 for lost rent also is untenable because Hoskins collected rent from a prospective tenant for a period that included September 1-8 and then refunded some of that rent and retained $1,297. Addressing this issue, the trial court explained that Hoskins was unable to rent the unit for 22 days, which *903 would have supported a damages award of $2,200, but it awarded only $800. **423 The difference between these two figures is $1,400, which is more than the amount ($1,297) that Hoskins retained from the rent paid by the prospective tenant. While the trial court applied an incorrect legal standard for determining liability—as the above discussion shows—it appropriately analyzed Hoskins’ alleged damages and may elect to do so again at the conclusion of the litigation.
+ 
+
+
+E. Attorney fees on appeal
+[24]¶29 Both parties request attorney fees on appeal pursuant to RAP 18.1. Tenants argue that they are entitled to attorney fees under SMC 7.24.060, while Hoskins seeks attorney fees under the parties’ lease. This court has repeatedly held that “[w]here both parties prevail on major issues, neither is entitled to attorney fees.” Sardam v. Morford, 51 Wash. App. 908, 911, 756 P.2d 174 (1988). Here, as in Sardam, both parties have prevailed on major issues, so neither is entitled to recover prevailing party attorney fees on appeal.
+ 
+
+III
+¶30 We vacate the trial court’s judgment and remand the matter for further proceedings consistent with this opinion, including an award of (1) statutory damages and attorney fees under SMC 7.24.60(A)(1); and (2) repair costs and $100 per day for each day of lost rent, if any, based on the controlling legal standard in RCW 59.18.130(10).
+ 
+¶31 We also vacate the trial court’s award of attorney fees under the parties’ lease. Whether to award on remand attorney fees under the lease necessarily turns on issues *904 that this Court did not address, such as whether Hoskins or Tenants ultimately prevail in the litigation.
+ 
+¶32 In all other respects, we affirm.
+ 
+WE CONCUR:
+Diaz, J.
+Dwyer, J.
+All Citations
+27 Wash.App.2d 887, 534 P.3d 412
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+

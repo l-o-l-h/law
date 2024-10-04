@@ -1,0 +1,40 @@
+#+title:      Housing Choice Voucher Issues
+#+date:       [2024-09-30 Mon 13:40]
+#+filetags:   :federal:hcv:
+#+identifier: 20240930T134046
+
+* Nonrenewal of Lease
+
+** Query
+
+Faith Foote via groups.nwjustice.org <ffoote=soundlegalaid.org@groups.nwjustice.org>
+11:32 AM (2 hours ago)
+to HTF@groups.nwjustice.org
+
+Hi everyone,
+
+I have a client who received a 60-day non-renewal of her lease for the first term. We sent a Reasonable Accommodation request for the rescission of the non-renewal with a doctor's note that due to her medical conditions she cannot physically move for an additional 3-4 months. She is current on rent and receives a HCV. She has had issues in the past with payment of utilities and had a comply or vacate for boxes in her apartment earlier that she had sent a reasonable accommodation for (and she later resolved).
+
+Property management and their attorney responded that they would not rescind the non-renewal notice because that would waive their right under 650(1)(b) and it was not reasonable. They offered an immediate writ (!) stayed for 60 days out from when the termination notice would expire. I told them we cannot agree to a writ because it would jeopardize my client's HCV. I told them that wasn't an accommodation at all given the timeline of a UD and a writ being executed.
+
+I offered some creative solutions, such as a six month non-renewable short-term lease, and argued that if they proceed they will have the subsidy terminated and won't be getting that rent from the housing authority. But no bites and as of now the stop-gap solution is an unfiled summons and complaint.
+
+I was hoping the federal regulations would've been more helpful, but from what I saw in the green book, there can be a non-renewal of lease for HCV recipients.
+
+Does anyone else have any ideas? They really don't want to work with my client and my client is really upset about it. Is there any other remedies other than a fair housing complaint?
+
+** Answer
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+12:29 PM (1 hour ago)
+to Faith, HTF@groups.nwjustice.org
+
+Hi Faith,
+
+The HCV protections are relatively limited on that point. The landlord must rent to the tenant for one year (or a lesser term approved by the PHA) and then was allowed to terminate for no cause (prior to .650 of course). I would look closely at the lease but I assume you have and that there’s no basis to assert that the tenancy must go m2m or some other defense that they can’t use the term lease provision. The CFR that covers the owner’s eviction is 24 CFR 982.310, which it sounds like you’ve already reviewed. The only common defense that may be viable is the owner’s failure to give the PHA a copy of the eviction notice at the time they gave it to the tenant. The other hooks are the considerations that the PHA asks the owner to look at, but those are not mandatory.
+
+The FHA/WLAD claim is viable but challenging. There is the bad case of Howard v. HMK Holdings which shows how not to make a request for more time to move as an RA. It seems like your only avenue is to defend the eviction as discriminatory/retaliatory, which would require uncovering some evidence or admissions that they are evicting her for her previous actions that were covered by an RA.
+
+Good luck,
+
+Scott

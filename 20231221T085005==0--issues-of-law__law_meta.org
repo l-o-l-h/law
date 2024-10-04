@@ -70,3 +70,8 @@
 #+BEGIN: denote-links :regexp "=12[a-z]" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20240921T093112][12a  Right to Regain Possession After Eviction]]
 #+END:
+
+* 13. Housing Choice Vouchers
+#+BEGIN: denote-links :regexp "_hcv" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20240930T134046][Housing Choice Voucher Issues]]
+#+END:
