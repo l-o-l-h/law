@@ -1,0 +1,15 @@
+#+title:      Tenant Invitees and Licensees
+#+date:       [2024-10-04 Fri 15:03]
+#+filetags:   :commonlaw:llt:trespass:
+#+identifier: 20241004T150305
+
+* Landlord and Tenant 233k1046 -- Means of entrance or exit
+An invitee or licensee of a tenant, who, even after a specific prohibition by the landlord, passes through common areas to enter a tenant's premises, is not a trespasser and does not violate a criminal trespass statute.
+- City of Bremerton v. Widell, 146 Wn.2d 561, 51 P.3d 733 (2002)
+
+* Trespass 386k84 -- Defenses
+An invitee or licensee of a tenant, who, even after a specific prohibition by the landlord, passes through common areas to enter a tenant's premises, is not a trespasser and does not violate a criminal trespass statute.
+- City of Bremerton v. Widell, 146 Wn.2d 561, 51 P.3d 733 (2002)
+
+A tenant's guest may not proceed at will to a part of the premises wholly disconnected to the purpose of the invitation and use the invitation as a defense to a charge of criminal trespass.
+- City of Bremerton v. Widell, 146 Wn.2d 561, 51 P.3d 733 (2002)
