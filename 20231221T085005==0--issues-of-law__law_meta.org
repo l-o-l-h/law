@@ -80,3 +80,12 @@
 #+BEGIN: denote-links :regexp "_commonlaw.*_llt" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20241004T150305][sc  Tenant Invitees and Licensees]]
 #+END:
+
+* 15. Contract Law
+#+BEGIN: denote-links :regexp "_contract" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20240418T105430][k1  Context Rule]]
+- [[denote:20240418T105908][k  Contracts]]
+- [[denote:20241007T102808][15u  96-unconscionability-procedural-and-substantive]]
+#+END:
+
+** 15u Unconscionability
