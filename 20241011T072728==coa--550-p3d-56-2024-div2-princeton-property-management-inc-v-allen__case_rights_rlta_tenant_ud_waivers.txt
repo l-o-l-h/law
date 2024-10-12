@@ -1,0 +1,501 @@
+title:      550 P.3d 56 (2024 Div2) -- Princeton Property Management Inc v Allen
+date:       2024-10-11
+tags:       case  rights  rlta  tenant  ud  waivers
+identifier: 20241011T072728
+---------------------------
+
+Princeton Property Management, Inc. v. Allen
+Court of Appeals of Washington, Division 2. | June 11, 2024 | 550 P.3d 56 | 2024 WL 2929013
+
+washington Citation:
+
+Princeton Prop. Mgmt., Inc. v. Allen, 550 P.3d 56 (Wash. Ct. App. 2024)
+
+All Citations:
+
+550 P.3d 56
+
+550 P.3d 56
+Court of Appeals of Washington, Division 2.
+PRINCETON PROPERTY MANAGEMENT, INC., a Foreign Profit Corporation as Managing Agent for Evergreen Village Apartments, Respondent,
+v.
+Kathleen ALLEN, Aaron Allen, and All Others, Appellants.
+No. 58183-3-II
+|
+Filed June 11, 2024
+Synopsis
+Background: Residential landlord brought unlawful detainer action against tenants, after which the parties entered into a settlement agreement. Thereafter, landlord moved for an immediate writ of restitution pursuant to settlement agreement. The Superior Court, Clark County, Emily A. Sheldrick, J., issued a writ of restitution and denied tenants’ motions to reinstate the tenancy and to stay enforcement. Tenants appealed.
+ 
+Holdings: The Court of Appeals, Price, J., held that:
+ 
+[1] tenants’ appeal was not moot even though they had vacated the premises;
+ 
+[2] anti-waiver provision of the Residential Landlord-Tenant Act (RLTA) applied to settlement agreement;
+ 
+[3] settlement agreement violated the RLTA’s anti-waiver provision;
+ 
+[4] landlord was not the prevailing party on appeal for purposes of attorney fees; and
+ 
+[5] tenants’ request, on appeal, for statutory and contractual attorney fees was premature.
+ 
+Reversed and remanded with instructions.
+ 
+Procedural Posture(s): On Appeal; Motion to Enforce Settlement; Motion for Stay; Motion for Attorney’s Fees.
+
+
+West Headnotes (14)
+
+
+[1]
+
+Landlord and TenantReview
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1805Review
+
+
+Tenants’ appeal of writ of restitution of the residential premises was not moot in unlawful detainer action, even though tenants had vacated the premises, where tenants continued to assert a right of possession.
+
+
+
+
+[2]
+
+Landlord and TenantReview
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1805Review
+
+
+An unlawful detainer case is not moot simply because the tenant does not have possession of the premises at the time of appeal.
+
+
+
+
+[3]
+
+Forcible Entry and DetainerNecessity of possession
+Forcible Entry and DetainerRight of plaintiff to possession
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k9Prior Possession of Plaintiff
+179k9(1)Necessity of possession
+179Forcible Entry and Detainer
+179ICivil Liability
+179k10Right of plaintiff to possession
+
+
+In the unlawful detainer context, the law distinguishes between possession and the right of possession.
+
+
+
+
+[4]
+
+Landlord and TenantGrounds of action
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1783Right of Action and Defenses
+233k1786Grounds of action
+
+
+Once an unlawful detainer action is commenced and the tenant does not concede the landlord’s right to possession, the tenant has the right to have the issue determined.
+
+
+
+
+[5]
+
+StatutesQuestions of law or fact
+
+
+361Statutes
+361IIIConstruction
+361III(L)Determination of Construction
+361k1343Questions of law or fact
+
+
+Statutory interpretation is a question of law.
+
+
+
+
+[6]
+
+StatutesPlain language;  plain, ordinary, common, or literal meaning
+
+
+361Statutes
+361IIIConstruction
+361III(C)Clarity and Ambiguity;  Multiple Meanings
+361k1107Absence of Ambiguity;  Application of Clear or Unambiguous Statute or Language
+361k1111Plain language;  plain, ordinary, common, or literal meaning
+
+
+If statutory language lends itself to only one interpretation, the inquiry ends because plain language does not require construction.
+
+
+
+
+[7]
+
+StatutesPlain language;  plain, ordinary, common, or literal meaning
+StatutesPlain language;  plain, ordinary, common, or literal meaning
+
+
+361Statutes
+361IIIConstruction
+361III(C)Clarity and Ambiguity;  Multiple Meanings
+361k1107Absence of Ambiguity;  Application of Clear or Unambiguous Statute or Language
+361k1111Plain language;  plain, ordinary, common, or literal meaning
+361Statutes
+361IIIConstruction
+361III(M)Presumptions and Inferences as to Construction
+361k1366Language
+361k1368Plain language;  plain, ordinary, common, or literal meaning
+
+
+Where a statute is unambiguous, its words must be given their plain meaning and it will be presumed that the legislature’s intent has been clearly expressed.
+
+
+
+
+[8]
+
+Landlord and TenantStatutory provisions
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1782Statutory provisions
+
+
+Unlawful detainer statutes are strictly construed in favor of the tenant.
+
+
+
+
+[9]
+
+Compromise, Settlement, and ReleaseProperty
+
+
+89Compromise, Settlement, and Release
+89IIIConstruction, Operation, and Effect
+89III(B)Matters Included or Affected
+89k413Particular Subjects, Claims, and Disputes
+89k416Property
+
+
+Anti-waiver provision of the Residential Landlord-Tenant Act (RLTA), prohibiting agreements between residential landlords and tenants waiving certain tenant rights otherwise established by the RLTA, applied to settlement agreement between residential landlord and tenants resolving an unlawful detainer action; agreement was entered into pursuant to an unlawful detainer action. Wash. Rev. Code Ann. § 59.18.230(1)(b); Wash. Super. Ct. Civ. R. 2A.
+
+
+
+
+[10]
+
+Compromise, Settlement, and ReleaseViolation of statute or public policy in general
+Landlord and TenantActions
+
+
+89Compromise, Settlement, and Release
+89IINature and Requisites
+89II(E)Particular Grounds of Invalidity or Unenforceability
+89k342Illegality
+89k344Violation of statute or public policy in general
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1791In general
+
+
+Settlement agreement relating to unlawful detainer action waived rights of residential tenants in violation of the anti-waiver provision of the Residential Landlord-Tenant Act (RLTA), and thus was void and unenforceable, where agreement provided that, by signing the agreement, the parties would forego the usual unlawful detainer procedures, and agreement also permitted an immediate writ of restitution without affording tenants any of the procedures and protections that permeated the RLTA. Wash. Rev. Code Ann. § 59.18.230(1)(b); Wash. Super. Ct. Civ. R. 2A.
+
+
+
+
+[11]
+
+Compromise, Settlement, and ReleaseViolation of statute or public policy in general
+Landlord and TenantNecessity and sufficiency
+
+
+89Compromise, Settlement, and Release
+89IINature and Requisites
+89II(E)Particular Grounds of Invalidity or Unenforceability
+89k342Illegality
+89k344Violation of statute or public policy in general
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+Exception language in settlement agreement that potentially waived residential landlord’s obligation to notify tenants to cure nonconformance of a general tenant duty did not preclude the settlement agreement, which related to unlawful detainer action, from being void and unenforceable by waiving tenants’ rights in violation of the anti-waiver provision of the Residential Landlord-Tenant Act (RLTA), where tenants’ arguments implicated issues and procedures more concretely related to an eviction. Wash. Rev. Code Ann. §§ 59.18.190, 59.18.230(1)(b), 59.18.360; Wash. Super. Ct. Civ. R. 2A.
+
+
+
+
+[12]
+
+Compromise, Settlement, and ReleaseEffect of Invalidity
+
+
+89Compromise, Settlement, and Release
+89IINature and Requisites
+89II(F)Effect of Invalidity
+89k361In general
+
+
+When a settlement agreement relating to unlawful detainer action is void and unenforceable by waiving the rights of residential tenants in violation of the anti-waiver provision of the Residential Landlord-Tenant Act (RLTA), the remedy is typically to place the parties back to where they were before the agreement. Wash. Rev. Code Ann. § 59.18.230(1)(b); Wash. Super. Ct. Civ. R. 2A.
+
+
+
+
+[13]
+
+Landlord and TenantCosts and attorney fees
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1807Costs and attorney fees
+
+
+Residential landlord was not the prevailing party on appeal, for purposes of attorney fees, in unlawful detainer action, where Court of Appeals determined that the parties’ settlement agreement, pursuant to which the landlord obtained an immediate writ of restitution, was void and unenforceable by waiving tenants’ rights in violation of the anti-waiver provision of the Residential Landlord-Tenant Act (RLTA). Wash. Rev. Code Ann. § 59.18.230(1)(b).
+
+
+
+
+[14]
+
+Landlord and TenantCosts and attorney fees
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1807Costs and attorney fees
+
+
+Residential tenants’ request, on appeal, for statutory and contractual attorney fees as prevailing parties in unlawful detainer action was premature, where Court of Appeals merely determined that tenants’ settlement agreement with landlord relating to the action was void and unenforceable under the anti-waiver provision of the Residential Landlord-Tenant Act (RLTA), the Court remanded for further proceedings, and it was not yet clear which party would prevail on the merits. Wash. Rev. Code Ann. §§ 59.18.290(2), 59.18.650; Wash. R. App. P. 18.1(a).
+
+
+
+
+*58 Appeal from Clark Superior Court, Docket No: 22-2-02915-7, Honorable Emily A. Sheldrick, Judge.
+Attorneys and Law Firms
+Matthew Robert Taylor, Northwest Justice Project, 1104 Main St. Ste. 500, Vancouver, WA, 98660-2972, John M. Wolff, Attorney at Law, 1702 W Broadway Ave., Spokane, WA, 99201-1818, for Appellants.
+Andrew Peterson Mazzeo, Attorney at Law, 3510 53rd St., Gig Harbor, WA, 98335-8512, for Respondent.
+Ashleen Elisabeth O’brien, Housing Justice Project, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Edmund Robert Witter, Attorney at Law, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Christina Eugenie Jaccard, King County Bar Association, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, for Amicus Curiae on behalf of King County Bar Association.
+Matthew Robert Taylor, Northwest Justice Project, 1104 Main St. Ste. 500, Vancouver, WA, 98660-2972, for Counsel for Other Parties.
+
+
+
+
+PUBLISHED OPINION
+Price, J.
+¶1 This case is about whether a settlement agreement relating to a residential eviction violates the new antiwaiver provision of the Residential Landlord-Tenant Act of 1973 (RLTA), chapter 59.18 RCW.
+ 
+¶2 Princeton Property Management, Inc. (Princeton) rented an apartment to tenants Kathleen Allen and Aaron Allen (the Allens).1 Due to the alleged condition of the apartment, Princeton issued the Allens a three-day notice to quit for waste or nuisance. After Princeton filed an unlawful detainer complaint, the parties entered into a CR 2A settlement agreement to resolve the case. Among its provisions, the agreement required the Allens to tender past due rent at a specific date and time. The Allens missed the payment deadline. As a result, Princeton moved for an immediate writ of restitution as permitted by the agreement. After several hearings, the superior court issued a writ of restitution. Soon thereafter, the Allens were removed from the apartment.
+ 
+1
+
+On May 20, 2024, the court received a notice under RAP 3.2 that Kathleen Allen passed away shortly after oral argument in this case.
+
+
+¶3 A new provision of RLTA, RCW 59.18.230(1)(b), generally states that any agreement entered into pursuant to an unlawful detainer action is void and unenforceable if it waives any rights of the tenant under RCW 59.18.410 or any other rights afforded under chapter 59.18 RCW. The Allens make numerous arguments, but they primarily contend that the superior court erred because the settlement agreement was void and unenforceable under this statute. Both the Allens and Princeton request attorney fees.
+ 
+¶4 We hold that the settlement agreement was void and unenforceable under RCW 59.18.230(1)(b) because it waived the Allens’ tenant rights. Accordingly, we reverse.
+ 
+
+FACTS
+
+I. BACKGROUND
+¶5 In October 2022, Princeton conducted an inspection of the Allens’ apartment. Based on the condition of the apartment, Princeton issued a three-day notice to quit for waste, nuisance, or unlawful use of the premises. Princeton’s notice alleged that upon inspection, the apartment was in a condition that could be described as grossly unsanitary, placing the Allens in violation of their lease.
+ 
+¶6 The Allens did not vacate the unit. About one month later, Princeton filed a complaint for unlawful detainer. The complaint alleged that the premises were
+excessively cluttered with garbage, debris, and miscellaneous personal items, blocking proper ingress and egress. The collection of food waste, debris, and human waste *59 was found to encourage pest infestation and create an extreme health hazard to the property and surrounding residents.
+Clerk’s Papers (CP) at 2. Princeton requested a termination of the lease and restoration of possession.
+ 
+¶7 A show cause hearing was set, and the Allens filed a motion to dismiss. However, prior to any hearings, Princeton and the Allens entered into a settlement agreement under CR 2A. Both sides were represented by counsel.
+ 
+
+
+II. SETTLEMENT AGREEMENT
+¶8 The CR 2A settlement agreement imposed a number of obligations on the Allens. Broadly speaking, the agreement addressed the nuisance allegations, including requiring the Allens to clean the apartment and providing for inspection dates so that Princeton could verify improvement. But the agreement also contained a provision requiring the payment of rent by a specific date and time. The provision stated:
+Defendants [the Allens] must deliver to Plaintiff [Princeton] November 2022, December 2022, January 2023 and February 2023 rent by 5:00[ PM], on or before February 13, 2023 and further agree to pay March 2023, and April 2023, rent by the 6th of each month at 5:00 PM.
+CP at 55.
+ 
+¶9 In addition to the payment deadline, the settlement agreement also contained a provision that allowed either party to set a show cause hearing with at least five days of notice if they believed the agreement had been breached. It also allowed Princeton to seek a writ of restitution based solely on breach of the settlement agreement and permitted the court to focus its decision on the agreement, rather than the provisions of RLTA. Section 13 provided in relevant part:
+If Plaintiff believes this agreement has been breached, then Plaintiff may set a hearing, with at least five days of notice to Defendants’ attorney, to show cause as to why Plaintiff is not entitled to a writ based on noncompliance of this Agreement.... The court will resolve any dispute between the parties as to compliance with this agreement.
+CP at 55 (emphasis added). Following a breach, Princeton was entitled to an immediate writ. Section 14 of the agreement stated in part:
+If a writ is granted for Defendants’ failure to strictly comply with any term of this Agreement, Plaintiff is entitled to an immediate writ of restitution, along with damages and Plaintiff’s costs and attorney fees.
+CP at 55 (emphasis added).
+ 
+¶10 The settlement agreement did not list any specific sections of RLTA as being waived, but it expressly provided that the “usual unlawful detainer procedures” did not apply. CP at 54. The agreement provided:
+By signing this Agreement, the parties forego the usual unlawful detainer procedures.
+CP at 54 (emphasis added).
+ 
+
+
+III. SHOW CAUSE HEARING ON ALLEGED BREACH OF SETTLEMENT AGREEMENT
+¶11 Within days of signing the agreement, the Allens failed to meet the agreement’s provision on paying back rent—they were a day late. Princeton rejected the late payment and set the matter for a show cause hearing. At the hearing, Princeton requested a writ of restitution based on the late payment.
+ 
+¶12 The superior court found that Princeton was entitled to an immediate writ. However, the execution of the writ was stayed for over three weeks to afford the Allens additional time to find other housing. The superior court apparently entered an order on show cause, a writ of restitution, and a judgment of unlawful detainer.2
+ 
+2
+
+The order on show cause, writ of restitution, and judgment from this hearing are not in our record.
+
+
+
+
+IV. MOTION TO VACATE, SUBSEQUENT HEARINGS, AND APPEAL
+¶13 Two days before the scheduled execution of the writ of restitution in March 2023, the Allens filed a motion to vacate the judgment *60 of unlawful detainer. In their motion to vacate, the Allens argued, among other things, that the superior court erred by terminating the tenancy due to breach of the agreement, that procedural safeguards were not followed, that the breach was immaterial and cured, and that the judgment was not provided to the Allens’ attorney.
+ 
+¶14 The superior court held a hearing on the Allens’ motion to vacate. At the hearing, the Allens complained that they were unaware of the entry of the judgment. And because they were unaware of the entry of the judgment and did not know the amount of the judgment, the Allens contended that they were prevented from reinstating their tenancy under RLTA. The Allens also asserted that Princeton may have breached its own obligations under the agreement, but they did not specify how. Following argument, the superior court vacated the judgment on procedural grounds and continued the stay of the writ of restitution until another hearing could be held to hear additional testimony about any other breaches of the settlement agreement.3
+ 
+3
+
+We do not have any written order from the superior court regarding this hearing in our record.
+
+
+¶15 In April, the superior court held a third hearing to give the Allens the opportunity to offer testimony. At the hearing, the Allens offered testimony that Princeton breached the settlement agreement because it failed to make repairs that it agreed to make. Following the testimony, the superior court determined again that the Allens, not Princeton, were in breach and, as provided in the agreement, granted Princeton’s request for a writ of restitution.
+ 
+¶16 Days before the writ was to be executed, the Allens filed two more motions—a motion to reinstate the tenancy and a motion to shorten time. In their motion to reinstate the tenancy, the Allens argued that the settlement agreement violated RLTA. They contended their statutory right under RLTA to reinstate the tenancy could not be waived by the settlement agreement because of a recent addition to RLTA that prohibits agreements that waive tenant rights. More specifically, the Allens argued,
+Plaintiff may argue that there has been a waiver of RCW 59.18.410 based on the CR2A, but the CR2A is completely silent as [to] any such waiver. Furthermore, RCW 59.18.230 prohibits waiver of the rights provided by [RCW] 59.18.410.
+CP at 112 (emphasis omitted). The next paragraph of their motion block quoted portions of RCW 59.18.230.
+ 
+¶17 The superior court denied both motions. The superior court simply stated there was not an adequate basis to shorten time or stay enforcement. A few days later, the sheriff executed the writ.
+ 
+¶18 The Allens appeal.
+ 
+
+ANALYSIS
+¶19 The Allens make numerous arguments in their appeal, but their primary argument is the CR 2A settlement agreement was void and unenforceable because it waived their rights in violation of RLTA.
+ 
+¶20 Princeton argues that the settlement agreement does not violate RLTA and also contends the matter is moot because the Allens are no longer in possession of the apartment.
+ 
+
+
+I. MOOTNESS
+[1]¶21 As a threshold matter, Princeton argues that this appeal is moot because the Allens are no longer in possession of the premises and the court can no longer provide relief. The Allens respond that the appeal is not moot because they are contesting the right of possession. We agree with the Allens.
+ 
+[2] [3] [4]¶22 An unlawful detainer case is not moot simply because the tenant does not have possession of the premises at the time of appeal. MOSM, LLC v. Deegan, ––– Wash. App. ––––, ––––, 544 P.3d 591, 594 (2024); Hous. Auth. of City of Pasco & Franklin County v. Pleasant, 126 Wash. App. 382, 388, 109 P.3d 422 (2005). The law distinguishes between possession and the right of possession.  *61 Pleasant, 126 Wash. App. at 387, 109 P.3d 422. “If the tenant does not concede the right of possession, she has the right to have the issue determined.” IBF, LLC v. Heuft, 141 Wash. App. 624, 631, 174 P.3d 95 (2007).
+ 
+¶23 Because the Allens continue to assert a right to possession on appeal, this case is not moot.
+ 
+
+
+II. THE SETTLEMENT AGREEMENT VIOLATES RCW 59.18.230(1)(b)
+¶24 Turning to the Allens’ substantive arguments, they contend that the settlement agreement was void and unenforceable under RCW 59.18.230(1)(b). We agree.
+ 
+
+
+A. LEGAL PRINCIPLES
+¶25 In 2021, the legislature enacted significant changes to RLTA. LAWS OF 2021, ch. 115, § 15. Relevant to this case, RLTA now includes a broad antiwaiver provision contained in RCW 59.18.230(1)(b). The provision expressly prohibits agreements between landlords and tenants from waiving certain tenant rights otherwise established by RLTA. RCW 59.18.230(1)(b). The language of RCW 59.18.230(1)(b) is sweeping in its scope:
+Any agreement, whether oral or written, between a landlord and tenant, or their representatives, and entered into pursuant to an unlawful detainer action under this chapter that requires the tenant to pay any amount in violation of RCW 59.18.283 or the statutory judgment amount limits under RCW 59.18.410 (1) or (2), or waives any rights of the tenant under RCW 59.18.410 or any other rights afforded under this chapter except as provided in RCW 59.18.360 is void and unenforceable.
+(Emphasis added.)
+ 
+¶26 The scope of RCW 59.18.230(1)(b) is significant because RLTA provides many rights to tenants, including, but not limited to, the following:
+• RCW 59.18.370. The right to have a show cause hearing held no less than seven days and not more than 30 days after the landlord obtains an order for the hearing.
+• RCW 59.18.380. The right to stay the execution of a writ of restitution within three days after the writ of restitution was served by paying the past due, and current, rent.
+• RCW 59.18.390. The right to three days between the service of the writ of restitution and execution of the writ.
+• RCW 59.18.650. The right to be evicted only for certain specified reasons.
+• RCW 59.18.650(2)(a). The right to a 14-day notice of eviction after a default in the payment of rent.
+• RCW 59.18.650(2)(a). The right to cure a default in the payment of rent within the 14-day notice period.
+• RCW 59.18.650(2)(b). The right to a 10-day notice after a breach of a lease or rental agreement, or a tenant obligation imposed by law, other than one for monetary damages.
+• RCW 59.18.650(2)(c). The right to a three-day notice of eviction after committing or permitting waste or nuisance upon the premises.
+• RCW 59.18.650(6)(b). The right to have a notice of eviction identify the facts and circumstances with enough specificity so as to enable the tenant to prepare a defense.
+• RCW 59.18.410(2). The right to restore a tenancy after defaulting in the payment of rent within five days of entry of judgment by following certain procedures.
+• RCW 59.18.410(3). The right to request a repayment plan after forfeiture of the tenancy due to nonpayment of rent.
+ 
+[5]¶27 Statutory interpretation is a question of law. City of Seattle v. Burlington N. R.R., 145 Wash.2d 661, 665, 41 P.3d 1169 (2002). “The primary objective of any statutory construction inquiry is ‘to ascertain and carry out the intent of the Legislature.’ ” HomeStreet, Inc. v. Dep’t of Revenue, 166 Wash.2d 444, 451, 210 P.3d 297 (2009) (quoting Rozner v. City of Bellevue, 116 Wash.2d 342, 347, 804 P.2d 24 (1991)).
+ 
+[6] [7]¶28 The language of the statute is the starting point. State v. Armendariz, 160 Wash.2d 106, 110, 156 P.3d 201 (2007). If that language lends itself to only one interpretation, the inquiry ends because plain language *62 does not require construction. Id. Where a statute is unambiguous, its words must be given their plain meaning and it will be presumed that the legislature’s intent has been clearly expressed. Burton v. Lehman, 153 Wash.2d 416, 422-23, 103 P.3d 1230 (2005).
+ 
+[8]¶29 The unlawful detainer statutes, chapters 59.12 and 59.18 RCW, are strictly construed in favor of the tenant. Randy Reynolds & Assocs., Inc. v. Harmon, 193 Wash.2d 143, 156, 437 P.3d 677 (2019).
+ 
+
+
+B. APPLICATION
+¶30 The Allens argue that RCW 59.18.230(1)(b) bars any settlement agreement, like their agreement with Princeton, that waives tenant rights. The Allens summarize their argument as the CR 2A settlement agreement “allowed Princeton to evict the Allens without the Allens having access to the rights they otherwise would[ have] been able to assert against the offered reason for eviction, however it is characterized.” Reply Br. of Appellants at 28. And as a result, the Allens argue that the settlement agreement was void and unenforceable.
+ 
+¶31 In response, Princeton largely focuses on RCW 59.18.230(1)(b)’s reference to the rights under RCW 59.18.410 related to the nonpayment of rent. Princeton claims the settlement agreement pertained to nuisance, not the nonpayment of rent. And Princeton contends all of the specific tenant rights that the Allens assert the agreement violated only apply to unlawful detainers based on the nonpayment of rent.
+ 
+¶32 To resolve this case, we must first determine whether RLTA’s recently-adopted antiwaiver provision, RCW 59.18.230(1)(b), applies to the parties’ settlement agreement. If so, we must determine whether the agreement violates that provision.4
+ 
+4
+
+Princeton does not raise RAP 2.5(a). It appears from the record below that the Allens did not make their RCW 59.18.230(1)(b) argument to the superior court in nearly the same detail as they do here. Regardless of whether each of their arguments were argued sufficiently to preserve them for appeal, RAP 2.5(a) is discretionary. See Fireside Bank v. Askins, 195 Wash.2d 365, 374, 460 P.3d 157 (2020). Here, we exercise our discretion to review the Allens’ arguments both because Princeton fails to raise RAP 2.5(a) and because of the public interest in construing newly enacted provisions of RLTA.
+
+
+[9]¶33 As noted above, the plain language of RCW 59.18.230(1)(b) is extremely broad; it prohibits any agreement that waives any rights afforded under chapter 59.18 RCW with few exceptions. And it expressly targets settlement agreements under CR 2A, by applying to “any agreement ... entered into pursuant to an unlawful detainer action.” RCW 59.18.230(1)(b) (emphasis added). Here, because the agreement was entered into pursuant to an unlawful detainer action, the agreement clearly falls within the scope of the provision.
+ 
+[10]¶34 Next, we ask whether the settlement agreement violated the antiwaiver provision by actually waiving any of the Allens’ tenant rights listed in the provision.
+ 
+¶35 The Allens contend it does. They point to the settlement agreement’s provision for an immediate issuance of a writ and contend that waives a number of tenant rights. Br. of Appellants at 21-30 (citing, for example, right to “just cause” evictions, right to 14-day notice for failure to pay rent, right to unilaterally reinstate tenancy after failure to rent, right to request a payment plan, and right to mediation). Thus, they argue the settlement agreement was void and unenforceable under RCW 59.18.230(1)(b).
+ 
+¶36 We conclude it is unnecessary to decide whether each of the specific rights listed by the Allens are directly implicated by this dispute because of the persuasiveness of the general proposition that RCW 59.18.230(1)(b) invalidates a settlement agreement that waives any tenant right under RLTA (except those in RCW 59.18.360), which is what this settlement agreement does.
+ 
+¶37 The broad waiver of tenant rights in this particular settlement agreement can be readily seen in the short and direct statement, “By signing this Agreement, the parties forego the usual unlawful detainer procedures.” CP at 54 (emphasis added). Such a provision simply cannot be reconciled with RCW 59.18.230(1)(b).
+ 
+*63 ¶38 Moreover, the settlement agreement permitted an immediate writ of restitution without affording the Allens any of the procedures and protections that permeate RLTA. There is no question these features constituted a waiver of “any other rights afforded under this chapter [(RLTA)] ....” RCW 59.18.230(1)(b) (emphasis added). Thus, we hold this settlement agreement violated RCW 59.18.230(1)(b).
+ 
+[11]¶39 Princeton argues against this conclusion by focusing on the “exception” language in RCW 59.18.230(1)(b) that exempts agreements under RCW 59.18.360. See RCW 59.18.230(1)(b) (“Any agreement ... entered into pursuant to an unlawful detainer action ... that ... waives any rights ... afforded under this chapter except as provided in RCW 59.18.360 ... is void and unenforceable.”) (emphasis added). RCW 59.18.360, in turn, provides that a “landlord and tenant may agree, in writing, to exempt themselves from the provisions of ... [RCW] 59.18.190.” RCW 59.18.190, in turn, provides that landlords may give immediate notice to tenants to cure alleged nonconformance of general tenant duties under RCW 59.18.130. Reading these provisions together, Princeton argues, “To the extent that the Allens may arguably have had a right to some kind of notice prior to the granting of the writ of restitution in this case, they explicitly waived that right through the application of RCW 59.18.360.” Br. of Resp’t at 22.
+ 
+¶40 Princeton’s position is unpersuasive. Although the settlement agreement could potentially waive Princeton’s obligation to notify the Allens to cure nonconformance of a general tenant duty under RCW 59.18.190 (assuming all of the requirements of RCW 59.18.360 are met), none of the Allens’ arguments implicate RCW 59.18.190 notices—they implicate issues and procedures more concretely related to an eviction. Accordingly, RCW 59.18.360 and its exemptions have no application.
+ 
+[12]¶41 Having concluded that the settlement agreement violates the antiwaiver provision, the result is absolute—the agreement “is void and unenforceable.” RCW 59.18.230(1)(b). In such cases, the remedy is typically to place the parties back to where they were before the agreement. See New York Life Ins. Co. v. Mitchell, 1 Wash.3d 545, 556, 528 P.3d 1269 (2023) (explaining that “if the contract is rendered void ab initio” then the contract was never in force in the first place). Accordingly, we reverse and remand to the superior court for proceedings consistent with this opinion.5
+ 
+5
+
+Because we hold that the settlement agreement was void and unenforceable, we do not address the Allens’ other arguments for reversal.
+
+
+¶42 Princeton raises practical concerns with this result. Princeton argues that declaring the settlement agreement void would place landlords in an “untenable position” every time they were attempting to settle an unlawful detainer action. Br. of Resp’t at 32. Such an interpretation of the statute, according to Princeton, will greatly reduce the use of settlement agreements, which would not only harm landlords but also tenants, and waste judicial resources. Princeton claims landlords will have no incentive to resolve disputes if they are forced to follow the usual unlawful detainer procedures upon a tenant’s breach of a settlement agreement. At oral argument, Princeton suggested landlords would “never enter into a CR 2A agreement because you [would] never be able to resolve the case without having a show cause hearing.” See Wash. Ct. of Appeals oral argument, Princeton v. Allen, No. 58183-3-II (May 7, 2024), at 20 min., 40 sec. through 20 min., 53 sec., video recording by TVW, Washington State’s Public Affairs Network, https://tvw.org/video/division-2-court-of-appeals-2024051016/?eventID=2024051016.
+ 
+¶43 We disagree with Princeton’s suggestion that settlement agreements will have no utility following our holding. But it is true that RCW 59.18.230(1)(b) will likely change how these settlement agreements are drafted. And Princeton’s view may be a valid policy argument for why settlement agreements (especially when both parties are represented) should be treated more favorably under RLTA. But that policy argument is better made to the legislature.
+ 
+
+
+*64 III. ATTORNEY FEES
+[13]¶44 Both parties request attorney fees on appeal. We deny Princeton’s request because they are not the prevailing party on appeal.
+ 
+[14]¶45 The Allens seek attorney fees under RAP 18.1(a) (which authorizes an award of fees if “applicable law” permits), RCW 59.18.290(2), the lease agreement, and RCW 59.18.650. But it is not yet clear which party will prevail on the merits of the unlawful detainer action. MOSM, 544 P.3d at 594. Thus, any determination of the prevailing party is premature. Accordingly, we deny the Allens’ request for attorney fees at this time.
+ 
+
+CONCLUSION
+¶46 We hold that the settlement agreement between Princeton and the Allens was void and unenforceable. Accordingly, we reverse and remand to the superior court for proceedings consistent with this opinion.
+ 
+We concur:
+Maxa, P.J.
+Che, J.
+All Citations
+550 P.3d 56
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+

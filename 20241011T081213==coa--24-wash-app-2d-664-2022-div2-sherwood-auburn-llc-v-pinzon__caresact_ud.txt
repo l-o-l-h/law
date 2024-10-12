@@ -1,0 +1,613 @@
+title:      24 Wash. App 2d 664 (2022 Div2) Sherwood Auburn LLC v Pinzon
+date:       2024-10-11
+tags:       caresact  ud
+identifier: 20241011T081213
+---------------------------
+
+Sherwood Auburn LLC v. Pinzon
+Court of Appeals of Washington, Division 1. | December 5, 2022 | 24 Wash.App.2d 664 | 521 P.3d 212
+
+washington Citation: Sherwood Auburn LLC v. Pinzon, 24 Wn. App. 2d 664, 521 P.3d 212 (2022)
+
+All Citations: 24 Wash.App.2d 664, 521 P.3d 212
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Housing Authority of County of King v. Knight, Wash.App. Div. 1, February 26, 2024
+24 Wash.App.2d 664
+Court of Appeals of Washington, Division 1.
+SHERWOOD AUBURN LLC, Respondent,
+v.
+Joel PINZON and Rosa Mendez, Appellants.
+No. 84119-0-I
+|
+Filed December 5, 2022
+Synopsis
+Background: Landlord brought unlawful detainer action against tenants. After the Superior Court, King County, Mark J. Hillman, Commissioner, entered judgment in favor of landlord and issued writ of restitution, tenants filed motion to revise commissioner’s decision. A judge of the Superior Court denied the motion and adopted ruling of the commissioner. Tenants appealed.
+ 
+Holdings: The Court of Appeals, Dwyer, J., held that:
+ 
+[1] notice provision of Coronavirus Aid, Relief, and Economic Security Act (CARES Act) requires that landlords subject to the Act provide a 30-day notice to pay rent or vacate premises to tenants prior to commencing an unlawful-detainer action, and
+ 
+[2] landlord’s notice to tenants was insufficient for landlord to avail itself of superior court’s jurisdiction over its unlawful-detainer action.
+ 
+Reversed and remanded.
+ 
+Procedural Posture(s): On Appeal; Judgment; Other; Motion for Attorney’s Fees.
+
+
+West Headnotes (22)
+
+
+[1]
+
+Court CommissionersProcedure
+
+
+105Court Commissioners
+105k5Procedure
+
+
+When a superior court rules on a motion for revision of court commissioner’s decision, the appeal is from the superior court’s decision, not the commissioner’s.
+
+
+
+
+[2]
+
+Court CommissionersProcedure
+
+
+105Court Commissioners
+105k5Procedure
+
+
+Findings and orders of a court commissioner not successfully revised become the orders and findings of the superior court. Wash. Rev. Code Ann. § 2.24.050.
+
+
+
+
+[3]
+
+Appeal and ErrorStatutory or legislative law
+
+
+30Appeal and Error
+30XVIReview
+30XVI(D)Scope and Extent of Review
+30XVI(D)2Particular Subjects of Review in General
+30k3169Construction, Interpretation, or Application of Law
+30k3173Statutory or legislative law
+
+
+Meaning of a statute is a question of law reviewed de novo.
+
+
+
+
+[4]
+
+StatutesIntent
+
+
+361Statutes
+361IIIConstruction
+361III(A)In General
+361k1071Intent
+361k1072In general
+
+
+In interpreting a federal statute, the court’s objective is to ascertain Congress’s intent.
+
+
+
+
+[5]
+
+StatutesPlain Language;  Plain, Ordinary, or Common Meaning
+
+
+361Statutes
+361IIIConstruction
+361III(B)Plain Language;  Plain, Ordinary, or Common Meaning
+361k1091In general
+
+
+If a statute’s meaning is plain on its face, then the court must give effect to that plain meaning as an expression of legislative intent.
+1 Case that cites this headnote
+
+
+
+[6]
+
+Forcible Entry and DetainerNature and Form of Remedy
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k6Nature and Form of Remedy
+179k6(1)In general
+
+
+An unlawful detainer action is a statutorily created proceeding that provides an expedited method of resolving the right to possession of property. Wash. Rev. Code Ann. § 59.18.130.
+
+
+
+
+[7]
+
+Landlord and TenantActions for Unlawful Detainer
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1780In general
+
+
+Unlawful detainer action relieves a landlord of having to file an expensive and lengthy common law action of ejectment. Wash. Rev. Code Ann. § 59.18.130.
+
+
+
+
+[8]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+The purpose of notice requiring tenant to pay rent or surrender the premises is to provide the tenant with at least one opportunity to correct a breach before forfeiture of a lease under the accelerated restitution provisions of the unlawful detainer statutes. Wash. Rev. Code Ann. § 59.12.030(3).
+
+
+
+
+[9]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+Required notice to tenant of default and expiration of period to cure before unlawful detainer must be sufficiently particular and certain so as not to deceive or mislead. Wash. Rev. Code Ann. § 59.12.030(3).
+
+
+
+
+[10]
+
+Landlord and TenantDemand or Notice
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(1)In general
+
+
+Only after the proper notice is provided and the cure period has expired can the tenant be said to be unlawfully detaining the premises. Wash. Rev. Code Ann. § 59.18.130.
+
+
+
+
+[11]
+
+United StatesRecipients, Terms, and Conditions in General
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(G)Fiscal Matters
+393k312Spending
+393k314Recipients, Terms, and Conditions in General
+393k314(1)In general
+
+
+When Congress acts pursuant to its spending power, it generates legislation much in the nature of a contract: in return for federal funds, the recipients agree to comply with federally imposed conditions. U.S. Const. art. 1, § 8, cl. 1.
+
+
+
+
+[12]
+
+United StatesRecipients, Terms, and Conditions in General
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(G)Fiscal Matters
+393k312Spending
+393k314Recipients, Terms, and Conditions in General
+393k314(1)In general
+
+
+Unlike ordinary legislation, which imposes congressional policy on regulated parties involuntarily, Spending Clause legislation operates based on consent: in return for federal funds, the recipients agree to comply with federally imposed conditions. U.S. Const. art. 1, § 8, cl. 1.
+
+
+
+
+[13]
+
+Federal PreemptionConflicting or Conforming Laws or Regulations; Conflict Preemption
+
+
+170HFederal Preemption
+170HIIn General
+170Hk5Conflicting or Conforming Laws or Regulations; Conflict Preemption
+170Hk6In general
+(Formerly 360k18.5)
+
+
+Pursuant to the Supremacy Clause, courts must not give effect to state laws that conflict with federal laws. U.S. Const. art. 6, cl. 2.
+1 Case that cites this headnote
+
+
+
+[14]
+
+StatesOperation Within States of Constitution and Laws of United States
+
+
+360States
+360IStatus, Powers, and Functions
+360I(B)Federalism; Relationship Between Federal and State Governments
+360k331Operation Within States of Constitution and Laws of United States
+360k332In general
+(Formerly 360k4.1(1))
+
+
+State courts are charged by the Supremacy Clause with a coordinate responsibility to enforce federal law, as the Constitution and laws passed pursuant to it are as much laws in the states as laws passed by the state legislature. U.S. Const. art. 6, cl. 2.
+
+
+
+
+[15]
+
+Federal PreemptionImpossibility of complying with both state and federal law
+Federal PreemptionState law as obstacle to objectives or purpose of federal law
+
+
+170HFederal Preemption
+170HIIn General
+170Hk5Conflicting or Conforming Laws or Regulations; Conflict Preemption
+170Hk7Impossibility of complying with both state and federal law
+(Formerly 360k18.5)
+170HFederal Preemption
+170HIIn General
+170Hk5Conflicting or Conforming Laws or Regulations; Conflict Preemption
+170Hk8State law as obstacle to objectives or purpose of federal law
+(Formerly 360k18.5)
+
+
+Pursuant to the Supremacy Clause, state law is preempted by federal law if the state law conflicts with federal law due to impossibility of compliance with state and federal law or when state law acts as an obstacle to the accomplishment of the federal purpose. U.S. Const. art. 6, cl. 2.
+1 Case that cites this headnote
+
+
+
+[16]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+Notice provision of Coronavirus Aid, Relief, and Economic Security Act (CARES Act) requires that landlords subject to the Act provide a 30-day notice to pay rent or vacate premises to tenants prior to commencing an unlawful-detainer action. 15 U.S.C.A. § 9058(c).
+2 Cases that cite this headnote
+
+
+
+[17]
+
+Landlord and TenantStatutory provisions
+Landlord and TenantDemand or Notice
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1782Statutory provisions
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(1)In general
+
+
+Since the Residential Landlord-Tenant Act (RLTA) explicitly provides that federal law may require greater notice than that required by state law, the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) notice requirement is properly considered as a limitation to the state’s unlawful detainer statute. 15 U.S.C.A. § 9058(c); Wash. Rev. Code Ann. § 59.18.057(3).
+
+
+
+
+[18]
+
+Landlord and TenantLandlord’s Notice of Termination
+
+
+233Landlord and Tenant
+233IVParticular Kinds of Tenancies and Attributes Thereof
+233IV(F)Termination
+233IV(F)5Landlord’s Notice of Termination
+233k950In general
+
+
+Pursuant to its plain language, landlords subject to the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) by virtue of their acceptance of certain federal financial benefits must provide a 30-day notice to pay or vacate to tenants residing in covered dwellings. 15 U.S.C.A. §§ 9058, 9058(c); Wash. Rev. Code Ann. § 59.18.057(3).
+3 Cases that cite this headnote
+
+
+
+[19]
+
+Forcible Entry and DetainerRequisites and sufficiency
+
+
+179Forcible Entry and Detainer
+179ICivil Liability
+179k11Notice to Quit and Demand of Possession
+179k11(2)Requisites and sufficiency
+
+
+A party who files an unlawful detainer action after improper notice may not maintain such action or avail itself of the superior court’s jurisdiction. Wash. Rev. Code Ann. § 59.12.030(3).
+
+
+
+
+[20]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+When notice is deficient, the landlord cannot prove a cause of action for unlawful detainer, and accordingly, a court cannot grant relief. Wash. Rev. Code Ann. § 59.12.030(3).
+
+
+
+
+[21]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+When a landlord files an unlawful detainer action after providing inadequate notice, which includes failing to clearly set forth the requisite period to cure the alleged default, the action must be dismissed. Wash. Rev. Code Ann. § 59.12.030(3).
+
+
+
+
+[22]
+
+Landlord and TenantNecessity and sufficiency
+
+
+233Landlord and Tenant
+233VIIIReentry and Recovery of Possession by Landlord
+233VIII(D)Actions for Unlawful Detainer
+233k1790Actions
+233k1794Demand or Notice
+233k1794(2)Necessity and sufficiency
+
+
+Landlord’s notices to tenants, the first, a 14-day pay or vacate notice pursuant to the Residential Landlord-Tenant Act (RLTA), and a second notice entitled “30-DAY NOTICE (CARES ACT)” and stating that tenants could be required to vacate the residential unit in not less than 30 days from date of notice, were not sufficiently particular so as not to deceive or mislead because they did not accurately convey correct time period to cure or vacate, and thus, landlord did not provide sufficient notice to avail itself of superior court’s jurisdiction over its unlawful detainer action; notices did not unequivocally inform tenants that, pursuant to the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), they had 30 days from date of notice to cure alleged nonpayment of rent or to vacate the premises. 15 U.S.C.A. § 9058(c); Wash. Rev. Code Ann. § 59.12.030(3).
+4 Cases that cite this headnote
+
+
+
+**214 Honorable Mark J. Hillman.
+Attorneys and Law Firms
+Edmund Robert Witter, Attorney at Law, Yuan Ting, Rolando Cardona-Roman, Kaitlin Rachel Heinen, King County Bar Association, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Dashiell George Degraff, Housing Justice Project, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, for Appellants.
+Thomas Martin Morningstar, Puckett & Redford PLLC, 901 5th Ave. Ste. 800, Seattle, WA, 98164-2048, Andrew Peterson Mazzeo, Harbor Appeals and Law, PLLC, 2401 Bristol Ct. Sw. Ste. C102, Olympia, WA, 98502-6037, for the Respondent.
+Joseph Robert Shaeffer, MacDonald Hoague & Bayless, 705 2nd Ave. Ste. 1500, Seattle, WA, 98104-1745, Amici Curiae on behalf of National Housing Law Project, Mobilization for Justice, Kathryn A. Sabbeth.
+
+
+
+
+PUBLISHED OPINION
+Dwyer, J.
+*667 ¶1 When a landlord has accepted the financial benefits of certain federal programs, Congress is authorized pursuant to the Constitution’s spending clause1 to impose on that landlord rules, regulations, or restrictions premised on the landlord’s participation in such a program. The supremacy clause2 of the Constitution makes such laws paramount to those enacted by state legislatures. In the federal CARES Act,3 Congress mandated that landlords who have accepted certain federal financial benefits must provide to tenants living in covered housing units a 30-day notice to cure the rental payment deficiency or vacate the premises before the landlord may commence an eviction action.
+ 
+1
+
+U.S. CONST. art. I, § 8, cl. 1.
+
+
+2
+
+U.S. CONST. art. VI, cl. 2.
+
+
+3
+
+See Pub. L. No. 116-136, 134 Stat. 281 (2020); see also 15 U.S.C. § 9058.
+
+
+¶2 Here, the notice provided to tenants Joel Pinzon and Rosa Mendez by landlord Sherwood Auburn LLC, did not comply with the federal CARES Act. The landlord nevertheless filed an unlawful detainer action against the tenants. Because Sherwood Auburn did not comply with the CARES *668 Act notice requirement, the superior court was without the authority to issue a writ of restitution or enter judgment against Pinzon and Mendez. Accordingly, we reverse the superior court’s order so doing.
+ 
+
+I
+¶3 Pinzon and Mendez began renting an apartment owned by Sherwood Auburn in May 2019. They lived in the apartment with their four young children. Pinzon has worked in construction his whole life. During the COVID-19 pandemic, his workplace closed and he was unable to find work. Pinzon and Mendez fell behind on their rent.
+ 
+¶4 On December 21, 2021, Sherwood Auburn served on Pinzon and Mendez a “14-Day Notice to Pay Rent or Vacate the Premises.” The notice provided:
+You must pay the total amount due to your landlord within fourteen (14) days after service of this notice or you must vacate the premises. Any payment you make to the landlord must first be applied to the total amount due as shown on this **215 notice. Any failure to comply with this notice within fourteen (14) days after service of this notice may result in a judicial proceeding that leads to your eviction from the premises.
+(Emphasis added.) On the same day, Sherwood Auburn, an entity with a federally backed mortgage loan, served the tenants with a document entitled “30-DAY NOTICE (CARES Act).” The document stated:
+YOU ARE HEREBY NOTIFIED, pursuant to the obligations of the CARES Act as passed by the United States Congress, that the Landlord has served a notice to vacate, or a notice to comply or vacate on you pursuant to the laws of the State of Washington, and in accordance with the requirements of emergency orders promulgated by Governor Jay Inslee, and that if a court so orders in any unlawful detainer action, you may be required to vacate the residential unit in not less than 30 days from the date of this notice.
+(Emphasis added.)
+ 
+*669 ¶5 On February 12, 2022, Sherwood Auburn served Pinzon and Mendez with an eviction summons and complaint for unlawful detainer. The landlord thereafter filed in the superior court a complaint for unlawful detainer and order to show cause. Pinzon and Mendez were ordered to appear at a hearing before the court on March 10, 2022, to show cause why the court should not issue a writ of restitution restoring to Sherwood Auburn possession of the apartment and enter judgment against the tenants.
+ 
+¶6 Following the show cause hearing, a superior court commissioner issued a writ of restitution and entered judgment against Pinzon and Mendez. At the hearing, the commissioner “acknowledge[d] that the requirements of the federal law and the state law being different, certainly could be confusing,” but determined that Mendez had not found the two notices to be confusing, “because he still hasn’t vacated the premises.” The commissioner thus found that, in issuing the two notices, Sherwood Auburn was “in compliance with the state statute and the federal statute.”
+ 
+¶7 Pinzon and Mendez thereafter filed a motion to revise the commissioner’s order. On May 6, 2022, a superior court judge denied the motion, thus adopting the ruling of the commissioner. Pinzon and Mendez appeal.
+ 
+
+II
+¶8 Pinzon and Mendez assert that, pursuant to the federal CARES Act, Sherwood Auburn was required to provide a 30-day notice to pay rent or vacate the premises prior to commencing an unlawful detainer action. Indeed, the plain language of the CARES Act mandates that a landlord that has received certain federal financial benefits must provide such a notice to tenants residing in housing units covered by the Act. Sherwood Auburn nevertheless contends that the CARES Act simply precludes state trial courts from enforcing eviction actions on a timeline not in keeping with *670 the CARES Act requirements. This interpretation is both contrary to the statute’s plain language and inconsistent with the authority pursuant to which Congress enacted the statute. Accordingly, we agree with Pinzon and Mendez and hold that, pursuant to the CARES Act, Sherwood Auburn was required to provide a clear 30-day notice to pay rent or vacate the premises.
+ 
+
+A
+[1] [2]¶9 When a superior court rules on a motion for revision, “the appeal is from the superior court’s decision, not the commissioner’s.” State v. Ramer, 151 Wn.2d 106, 113, 86 P.3d 132 (2004) (quoting State v. Hoffman, 115 Wn. App. 91, 101, 60 P.3d 1261 (2003)). Accordingly, we review the ruling of the superior court, not the ruling of the commissioner. Faciszewski v. Brown, 187 Wash.2d 308, 313 n.2, 386 P.3d 711 (2016). “ ‘Under RCW 2.24.050, the findings and orders of a court commissioner not successfully revised become the orders and findings of the superior court.’ ” In re Det. of L.K., 14 Wash. App. 2d 542, 550, 471 P.3d 975 (2020) (quoting Maldonado v. Maldonado, 197 Wash. App. 779, 789, 391 P.3d 546 (2017)).
+ 
+[3] [4] [5]¶10 “The meaning of a statute is a question of law reviewed de novo.”  **216 Dep’t of Ecology v. Campbell & Gwinn, LLC, 146 Wash.2d 1, 9, 43 P.3d 4 (2002). In interpreting a federal statute, our objective is to ascertain Congress’s intent. Kitsap County Consol. Hous. Auth. v. Henry-Levingston, 196 Wash. App. 688, 701, 385 P.3d 188 (2016). “[I]f the statute’s meaning is plain on its face, then [we] must give effect to that plain meaning as an expression of legislative intent.” Dep’t of Ecology, 146 Wash.2d at 9-10, 43 P.3d 4.
+ 
+
+B
+1
+[6] [7]¶11 Washington’s Residential Landlord-Tenant Act of 1973 (RLTA), chapter 59.18 RCW, provides that a landlord *671 may commence an unlawful detainer action if a tenant breaches a rental agreement by failing to make timely rental payments. RCW 59.18.130, .180(2). See Christensen v. Ellsworth, 162 Wash.2d 365, 370, 173 P.3d 228 (2007). “An unlawful detainer action is a statutorily created proceeding that provides an expedited method of resolving the right to possession of property.” Christensen, 162 Wash.2d at 370-71, 173 P.3d 228. In so doing, it “relieves a landlord of having to file an expensive and lengthy common law action of ejectment.” FPA Crescent Assocs. v. Jamie’s LLC, 190 Wash. App. 666, 675, 360 P.3d 934 (2015). “However, in order to take advantage of [the unlawful detainer statute’s] favorable provisions, a landlord must comply with the requirements of the statute.” Hous. Auth. of City of Everett v. Terry, 114 Wash.2d 558, 563-64, 789 P.2d 745 (1990).
+ 
+[8] [9]¶12 In residential tenancies, a tenant is liable for unlawful detainer “[w]hen he or she continues in possession ... after a default in the payment of rent, and after notice in writing requiring in the alternative the payment of the rent or the surrender of the detained premises ... [and the request] has remained uncomplied with ... for the period of 14 days after service.” RCW 59.12.030(3); see also RCW 59.18.650(2)(a). Thus, pursuant to Washington law, both notice of the tenant’s default and the expiration of the requisite period to cure are required before a tenant can be in the status of unlawful detainer. RCW 59.12.030(3). “The purpose of the notice is to provide the tenant with ‘at least one opportunity to correct a breach before forfeiture of a lease under the accelerated restitution provisions of RCW 59.12.’ ” Christensen, 162 Wash.2d at 371, 173 P.3d 228 (quoting Terry, 114 Wash.2d at 569, 789 P.2d 745). Such “notice must ... be sufficiently particular and certain so as not to deceive or mislead.” IBC, LLC v. Heuft, 141 Wash. App. 624, 632, 174 P.3d 95 (2007).
+ 
+
+2
+¶13 The federal CARES Act, enacted by Congress in response to the economic disruption resulting from the *672 COVID-19 pandemic, provides protections for tenants living in housing units owned by landlords that have received the financial benefits of certain federal programs. 15 U.S.C. § 9058. The statute applies to tenants living in any “covered dwelling,” which includes housing units on properties with “[f]ederally backed mortgage loan[s].” 15 U.S.C. § 9058(a)(1), (2)(B)(i). In addition to imposing a 120-day moratorium on eviction actions for nonpayment of rent or other charges, 15 U.S.C. § 9058(b), the CARES Act established a 30-day notice requirement, which provides that “[t]he lessor of a covered dwelling unit ... may not require the tenant to vacate the covered dwelling unit before the date that is 30 days after the date on which the lessor provides the tenant with a notice to vacate.” 15 U.S.C. § 9058(c)(1).4
+ 
+4
+
+The full text of this provision states:
+The lessor of a covered dwelling unit—
+(1) may not require the tenant to vacate the covered dwelling unit before the date that is 30 days after the date on which the lessor provides the tenant with a notice to vacate; and
+(2) may not issue a notice to vacate under paragraph (1) until after expiration of the period described in subsection (b) [the 120-day eviction moratorium].
+15 U.S.C. § 9058(c).
+
+
+
+C
+1
+¶14 Pinzon and Mendez assert that the CARES Act notice provision requires that **217 tenants residing in “covered dwellings” receive an unequivocal 30-day notice to pay rent or vacate the premises before the landlord may commence an unlawful detainer action. In contrast, Sherwood Auburn contends that the CARES Act simply prohibits state trial courts from evicting tenants during the 30-day period following service of a pay or vacate notice required by state law. Indeed, as Sherwood Auburn clarified at oral argument, its interpretation of the CARES Act notice provision *673 would replace the word “lessor” with the words “superior court.”5 Thus, Sherwood Auburn’s preferred interpretation of the notice provision would merely preclude the superior court from enforcing a breach of a lease agreement during the 30-day notice period. It would not preclude the landlord from commencing an unlawful detainer action during that time.
+ 
+5
+
+Sherwood Auburn clarified its interpretation of the CARES Act notice provision at oral argument. According to Sherwood Auburn, the proper interpretation of the provision would replace the word “lessor” with the words “superior court.” Thus, Sherwood Auburn asserts that the statute should be understood as providing that the superior court—not the lessor—“may not require the tenant to vacate the covered dwelling unit before the date that is 30 days after the date on which the lessor provides the tenant with a notice to vacate.” 15 U.S.C. § 9058(c). Those are not the words that Congress chose.
+
+
+¶15 The plain language of the statute, however, belies such an interpretation. The CARES Act notice provision clearly prohibits the lessor (the beneficiary of the federal financial assistance)—not a state trial court—from requiring a tenant to vacate a covered housing unit prior to expiration of the notice period. “The lessor of a covered dwelling unit,” the statute plainly states, “may not require the tenant to vacate the covered dwelling unit before the date that is 30 days after the date on which the lessor provides the tenant with a notice to vacate.” 15 U.S.C. § 9058(c)(1) (emphasis added). “An unambiguous statute is not subject to judicial construction,” and we “must derive its meaning from the plain language” of the statute. Sprint Spectrum, LP/Sprint PCS v. City of Seattle, 131 Wash. App. 339, 346, 127 P.3d 755 (2006). Here, Congress unambiguously provided that “the lessor” may not require a tenant to vacate prior to providing a 30-day notice.6
+ 
+6
+
+Based on decisional authority holding that a landlord may not use “self-help methods to remove a tenant,” Gray v. Pierce County Hous. Auth., 123 Wash. App. 744, 757, 97 P.3d 26 (2004), Sherwood Auburn concludes that it is not the landlord but, instead, the superior court that requires a tenant to vacate. However, the fact that a landlord must follow lawful methods in evicting a tenant—i.e., providing proper notice—does not mean that it is the superior court that does so.
+
+
+
+*674 2
+[10]¶16 Moreover, Sherwood Auburn’s interpretation of the CARES Act notice provision would render that provision meaningless. See Ballard Square Condo. Owners Ass’n v. Dynasty Constr. Co., 158 Wash.2d 603, 610, 146 P.3d 914 (2006) (“[A] court may not construe a statute in a way that renders statutory language meaningless or superfluous.”). The purposes of the notice requirement in an unlawful detainer action are to both notify the tenant of the alleged default and allow for a period of time in which the tenant may cure the alleged breach or vacate the premises. See RCW 59.12.030(3); see also Christensen, 162 Wash.2d at 371, 173 P.3d 228 (noting that “[t]he purpose of the notice is to provide the tenant with ‘at least one opportunity to correct a breach before forfeiture of a lease under the accelerated restitution provisions of RCW 59.12’ ” (emphasis omitted) (quoting Terry, 114 Wn.2d at 569)). Indeed, only after the proper notice is provided and the cure period has expired can the tenant be said to be unlawfully detaining the premises. See Indigo Real Est. Servs., Inc. v. Wadsworth, 169 Wash. App. 412, 421, 280 P.3d 506 (2012) (“Once a tenant is in the status of unlawful detainer, the landlord may commence an unlawful detainer action by serving a summons and complaint.”). Only then can the landlord avail itself of the superior court’s authority to enforce the provisions of a lease agreement. Henry-Levingston, 196 Wash. App. at 699, 385 P.3d 188 (recognizing that “[a] trial court cannot grant relief in an unlawful detainer action when a landlord has failed to **218 comply with the relevant [notice provisions]”).
+ 
+¶17 If the CARES Act provision simply prevented the eviction of tenants for 30 days following notice, without providing tenants the ability to cure the breach or vacate the premises during that period, the notice provision would be rendered meaningless. In Washington, where our state’s unlawful detainer statute provides for a 14-day pay or vacate notice in residential tenancies, a landlord subject to *675 the CARES Act would nevertheless be permitted to commence an unlawful detainer action after 14 days. Thus, the CARES Act would provide no additional protection for tenants.
+ 
+¶18 Sherwood Auburn disputes this conclusion, asserting that, if the landlord were permitted to commence an unlawful detainer action on the 14th day after providing notice, tenants would nevertheless benefit from being permitted to remain in the premises for an additional 16 days before being required to vacate. This assertion reflects a misunderstanding of unlawful detainer law. Indeed, service of the pay or vacate notice is the landlord requiring the tenant to quit the premises. Only when the tenant refuses the demand to vacate the premises (or to pay the rent deficiency) can the landlord commence an unlawful detainer action. In other words, it is the landlord—not the superior court—that requires the tenant to vacate the premises. The superior court simply enforces that requirement if the tenant refuses.
+ 
+
+3
+[11] [12]¶19 In addition, Sherwood Auburn’s preferred interpretation of the statutory language disregards the source of Congress’s authority to impose the CARES Act notice requirement. In enacting § 9058, Congress acted pursuant to its “broad power under the Spending Clause of the Constitution to set the terms on which it disburses federal funds.” Cummings v. Premier Rehab Keller, PLLC, ––– U.S. ––––, 142 S. Ct. 1562, 1568, 212 L. Ed. 2d 552 (2022).7 “ ‘When Congress acts pursuant to its spending power, it generates legislation much in the nature of a contract: in return for federal funds, the [recipients] agree to comply with federally imposed conditions.’ ”  *676 S.S. v. Alexander, 143 Wash. App. 75, 94-95, 177 P.3d 724 (2008) (internal quotation marks omitted) (quoting Davis v. Monroe County Bd. of Educ., 526 U.S. 629, 640, 119 S. Ct. 1661, 143 L. Ed. 2d 839 (1999)). Thus, “[u]nlike ordinary legislation, which ‘imposes congressional policy’ on regulated parties ‘involuntarily,’ Spending Clause legislation operates based on consent: ‘in return for federal funds, the [recipients] agree to comply with federally imposed conditions.’ ” Cummings, 142 S. Ct. at 1570 (second alteration in original) (quoting Pennhurst State Sch. & Hosp. v. Halderman, 451 U.S. 1, 17, 101 S. Ct. 1531, 67 L. Ed. 2d 694 (1981)). Thus, only landlords that have accepted certain federal financial benefits are subject to the mandates of § 9058. See 15 U.S.C. § 9058(a)(2) (defining “covered propert[ies]”). Although Sherwood Auburn would prefer that the CARES Act notice provision simply proscribed the superior court’s authority to enforce a lease agreement, it is only those landlords that have accepted certain federal financial benefits on which Congress has the authority to impose restrictions.8
+ 
+7
+
+The spending clause of U.S. Constitution provides that “[t]he congress shall have power to lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States.” U.S. CONST. art. I, § 8, cl. 1.
+
+
+8
+
+Sherwood Auburn does not address the constitutionality of its preferred interpretation of the notice provision, which would have Congress imposing limitations on the authority of state courts. See U.S. CONST. amend. X (“The powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people.”). We are nevertheless mindful of our duty “to construe a statute so as to uphold its constitutionality.” Associated Gen. Contractors of Wash. v. State, 200 Wn.2d 396, 518 P.3d 639 (2022) (internal quotation marks omitted) (quoting State v. Abrams, 163 Wn.2d 277, 282, 178 P.3d 1021 (2008)).
+
+
+
+4
+[13] [14] [15]¶20 Sherwood Auburn further asserts that a conflict between § 9058(c) of the CARES Act and our state’s 14-day notice requirement, RCW 59.12.030(3), precludes imposition of a 30-day notice requirement. However, the supremacy clause of our federal **219 constitution9 “creates a rule *677 of decision: Courts ‘shall’ regard the ‘Constitution,’ and all laws ‘made in Pursuance thereof,’ as ‘the supreme Law of the Land.’ ” Armstrong v. Exceptional Child Ctr., Inc., 575 U.S. 320, 324, 135 S. Ct. 1378, 191 L. Ed. 2d 471 (2015) (quoting U.S. CONST. art. VI, cl. 2). Thus, courts “must not give effect to state laws that conflict with federal laws.” Armstrong, 575 U.S. at 324, 135 S.Ct. 1378. Indeed, state courts are charged with a “coordinate responsibility” to enforce federal law, as “the Constitution and laws passed pursuant to it are as much laws in the States as laws passed by the state legislature.” Howlett v. Rose, 496 U.S. 356, 367, 110 S. Ct. 2430, 110 L. Ed. 2d 332 (1990). Accordingly, pursuant to the supremacy clause, state law is preempted by federal law “ ‘if the state law conflicts with federal law due to impossibility of compliance with state and federal law or when state law acts as an obstacle to the accomplishment of the federal purpose.’ ” Progressive Animal Welfare Soc’y v. Univ. of Wash., 125 Wn.2d 243, 265, 884 P.2d 592 (1994) (plurality opinion) (quoting Wash. State Physicians Ins. Exch. & Ass’n v. Fisons Corp., 122 Wn.2d 299, 326, 858 P.2d 1054 (1993)).
+ 
+9
+
+The supremacy clause provides:
+This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, any thing in the Constitution or laws of any state to the contrary notwithstanding.
+U.S. CONST. art. VI, cl. 2.
+
+
+¶21 Here, however, in enacting our state’s notice requirements for residential evictions, our legislature wisely envisioned circumstances in which federal statutes would provide tenants with additional protections. Thus, the RLTA itself contemplates that federal notice requirements may supplant the 14-day notice to pay or vacate required by state law. See RCW 59.18.057(3) (providing that the form for compliance with RCW 59.12.030(3)’s 14-day notice requirement “does not abrogate any additional notice requirements to tenants as required by federal, state, or local law”). Because our state law explicitly provides for additional notice requirements imposed on landlords by federal mandate, Sherwood Auburn is incorrect that a conflict is created by the imposition of a 30-day notice requirement.
+ 
+*678 ¶22 Indeed, we have previously held that, when a landlord accepts the financial benefits of a federal program, the federal protections provided to tenants therein “are properly considered as limitations to our state’s unlawful detainer statute.” Indigo, 169 Wash. App. at 423, 280 P.3d 506. There, federal law required the landlord, which had accepted the financial benefits of participation in the federal section 8 program, to prove good cause to terminate a tenancy. Indigo, 169 Wash. App. at 414, 280 P.3d 506. Notwithstanding that our state law did not require such proof, we held that the landlord was required to comply with the federal program’s rules and regulations in the state unlawful detainer action. Indigo, 169 Wash. App. at 414, 280 P.3d 506. We reasoned that, until the landlord had proved good cause, the tenant could not be found to be unlawfully detaining the premises. Indigo, 169 Wash. App. at 414, 280 P.3d 506.
+ 
+¶23 We explained:
+Just as the parties to a lease may contract to allow additional time for compliance before a tenant may be found to have unlawfully detained the premises, so may a lease require something more than an immaterial breach of a lease provision to support such a determination. Similarly, where a landlord has accepted the substantial financial benefits that accompany participation in the section 8 program, a higher bar to a finding of wrongful occupation is imposed.
+Indigo, 169 Wash. App. at 423, 280 P.3d 506 (citation omitted).10 Thus, we concluded that, **220 “where a landlord has accepted the substantial financial benefits” of a federal program, “the landlord must abide by the rules of that program in any unlawful detainer action.” Indigo, 169 Wash. App. at 422, 280 P.3d 506.
+ 
+10
+
+Washington courts have repeatedly held that when a tenant is entitled to more notice than that provided by the unlawful detainer statute, a landlord can commence an unlawful detainer action only after affording the greater notice period. “When a tenant contracts with his landlord for a notice period longer than the statutory period, he is entitled to the full time stated just as he is under the statute.” Cmty. Invs., Ltd. v. Safeway Stores, Inc., 36 Wash. App. 34, 38, 671 P.2d 289 (1983) (holding that unlawful detainer action could not be sustained when landlord filed the action 19 days after providing notice of default when the lease provided a 20-day opportunity to cure). See also Heuft, 141 Wash. App. at 629, 633, 174 P.3d 95 (vacating judgment against tenant when landlord provided less than the 10-day notice required by the lease).
+
+
+*679 [16] [17] [18]¶24 Here, the plain language of the CARES Act notice provision requires that landlords subject to the act provide a 30-day notice to tenants prior to commencing an unlawful detainer action. Sherwood Auburn has availed itself of the “substantial financial benefits” of a federally backed mortgage loan but does not wish to comply with the additional requirements imposed by Congress on landlords that have accepted such benefits. Our state’s RLTA explicitly provides that federal law may require greater notice than that required by state law. RCW 59.18.057(3). Indeed, tenant protections provided by federal law, such as the CARES Act notice requirement, “are properly considered as limitations to our state’s unlawful detainer statute.” Indigo, 169 Wash. App. at 423, 280 P.3d 506. Thus, pursuant to the plain language of § 9058(c), landlords subject to the CARES Act by virtue of their acceptance of certain federal financial benefits must provide a 30-day notice to pay or vacate to tenants residing in “covered dwellings.”
+ 
+
+III
+¶25 Pinzon and Mendez further assert that the notices provided by Sherwood Auburn were misleading and contradictory and, thus, that the superior court was without authority to determine that they were unlawfully detaining the premises. We agree.
+ 
+
+A
+¶26 In Washington, when nonpayment of rent is alleged, a tenant is liable for unlawful detainer only after the landlord provides notice of the alleged default and the requisite period to cure that default has expired. RCW 59.12.030(3). The notice period provides a tenant “with an opportunity to correct a breach before the commencement of an unlawful detainer proceeding.” Christensen, 162 Wash.2d at 377, 173 P.3d 228. “The provisions governing the time and manner of bringing an unlawful detainer action are to be strictly construed.” *680 Cmty. Invs., Ltd. v. Safeway Stores, Inc., 36 Wash. App. 34, 37-38, 671 P.2d 289 (1983). Moreover, the notice “must ... be sufficiently particular and certain so as not to deceive or mislead.” Heuft, 141 Wash. App. at 632, 174 P.3d 95.
+ 
+[19] [20] [21]¶27 A landlord that commences an unlawful detainer action after providing inadequately clear notice may not “ ‘avail itself of the superior court’s jurisdiction.’ ” Hous. Auth. v. Bin, 163 Wn. App. 367, 374, 260 P.3d 900 (2011) (quoting Tacoma Rescue Mission v. Stewart, 155 Wn. App. 250, 254 n.9, 228 P.3d 1289 (2010)). This is because, until the notice requirements are met, the tenant cannot be said to be unlawfully detaining the premises. RCW 59.12.030(3); see also Indigo, 169 Wash. App. at 421, 280 P.3d 506. Thus, when notice is deficient, the landlord cannot prove a cause of action for unlawful detainer. Terry, 114 Wash.2d at 563-64, 789 P.2d 745 (“Because it gave deficient notice, the Housing Authority could not prove a cause of action for unlawful detainer.”). Accordingly, “[a] trial court cannot grant relief in an unlawful detainer action when a landlord has failed to comply with the relevant [notice requirement].” Henry-Levingston, 196 Wash. App. at 699, 385 P.3d 188. When a landlord files an unlawful detainer action after providing inadequate notice, which includes failing to clearly set forth the requisite period to cure the alleged default, the action must be dismissed. See, e.g., Heuft, 141 Wash. App. at 633, 174 P.3d 95 (vacating the judgment entered in an unlawful detainer action because the landlord failed to provide the cure period provided by the lease); Cmty. Invs., Ltd., 36 Wash. App. at 37-38, 671 P.2d 289 (affirming the trial court’s dismissal of an unlawful detainer action because the landlord did not provide the required 20 days to cure the default).
+ 
+
+B
+[22]¶28 Here, Sherwood Auburn served Pinzon and Mendez with two notices—a 14-day pay or vacate notice pursuant to **221 RCW 59.12.030(3), and an additional notice entitled “30-DAY *681 NOTICE (CARES Act)” stating that, “if a court so order[ed],” Pinzon and Mendez could be “required to vacate the residential unit in not less than 30 days” from the date of the notice. These notices did not unequivocally inform Pinzon and Mendez that, pursuant to the CARES Act, they had 30 days from the date of notice to cure the alleged nonpayment of rent or to vacate the premises. Notice must be “sufficiently particular and certain so as not to deceive or mislead.” Heuft, 141 Wash. App. at 632, 174 P.3d 95. Thus, when the notice provided does not accurately convey the correct time period to cure or vacate, the notice is not sufficient. Heuft, 141 Wash. App. at 633, 174 P.3d 95 (landlord provided a three-day pay or vacate notice when lease provided for 10 days); Cmty. Invs., Ltd., 36 Wash. App. at 37-38, 671 P.2d 289 (landlord provided two conflicting notices, one providing for 10 days to pay or vacate, and the other providing for the 20 days required by the lease). Here, the conflicting notices provided by Sherwood Auburn were misleading and equivocal and failed to adequately, precisely, and correctly inform the tenants of the rights to which they were entitled.11
+ 
+11
+
+Sherwood Auburn incorrectly asserts that it was not required to provide any notice pursuant to the CARES Act, but argues that it “should be praised” for nevertheless doing so. Br. of Resp’t at 20. Indeed, Sherwood Auburn discloses in its briefing, “[l]andlords routinely provide superfluous notices and/or information to tenants in eviction notices, or otherwise, for no other reason than to keep eviction costs down.” Br. of Resp’t at 18. “Providing superfluous information and notices to tenants,” the landlord tells us, “is just a commonsense practice of law.” Br. of Resp’t at 19. As we hold herein, this purportedly “commonsense practice” may undermine the landlord’s attempt to comply with legal obligations.
+
+
+¶29 Because Pinzon and Mendez were not afforded clear and accurate notice, the superior court was without the authority to issue a writ of restitution or enter judgment against them.12 Accordingly, we reverse the superior court’s *682 order and remand for dismissal of the unlawful detainer action.13
+ 
+12
+
+When notice is inadequate in an unlawful detainer action, Washington courts have at times referred to the superior court’s lack of authority to enter judgment as an issue of “jurisdiction.” See, e.g., Heuft, 141 Wash. App. at 633, 174 P.3d 95 (“Because compliance with service procedures is jurisdictional, we conclude that the trial court lacked jurisdiction.”); Terry, 114 Wash.2d. at 560, 789 P.2d 745 (“We hold that ... there is no jurisdiction without statutory notice.”). Indeed, Pinzon and Mendez discuss this as a “jurisdictional” issue.
+However, our “Supreme Court has noted that ‘[t]he term “subject matter jurisdiction” is often confused with a court’s “authority” to rule in a particular manner,’ leading to ‘improvident and inconsistent use of the term.’ ” In re Marriage of McDermott, 175 Wn. App. 467, 480, 307 P.3d 717 (2013) (alteration in original) (internal quotation marks omitted) (quoting Marley v. Dep’t of Lab. & Indus., 125 Wn.2d 533, 539, 886 P.2d 189 (1994)). Indeed, the unlawful detainer statute itself provides that the superior court “of the county in which the property or some part of it is situated” has jurisdiction over unlawful detainer proceedings. RCW 59.12.050. Thus, “[t]he proper terminology is that a party who files an [unlawful detainer] action after improper notice may not maintain such action or avail itself of the superior court’s jurisdiction.’ ” Bin, 163 Wn. App. at 374 (quoting Stewart, 155 Wn. App. at 254 n.9)..
+
+
+13
+
+Sherwood Auburn requests an award of attorney fees on appeal pursuant to RCW 59.18.410 and RCW 59.18.290. Because Sherwood Auburn is not the prevailing party, it is not entitled to such an award.
+
+
+¶30 Reversed and remanded.
+ 
+Chung and Birk, JJ., concur.
+
+Review denied at 1 Wn.3d 1005 (2023).
+ 
+All Citations
+24 Wash.App.2d 664, 521 P.3d 212
+End of Document
+
+© 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+
