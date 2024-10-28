@@ -1,0 +1,584 @@
+#+title:      Garrand v. Cornett, 550 P.3d 64 (Wash. Ct. App. 2024)
+#+date:       [2024-06-11 Tue 00:00]
+#+filetags:   :case:
+#+identifier: 20240611T000000
+
+* Garrand v. Cornett -- Court of Appeals of Washington, Division 2. | June 11, 2024 | 550 P.3d 64 | 2024 WL 2929015
+
+- Washington Citation :: Garrand v. Cornett, 550 P.3d 64 (Wash. Ct. App. 2024)
+
+- All Citations :: 550 P.3d 64
+
+
+                             550 P.3d 64
+             Court of Appeals of Washington, Division 2.
+                      Amie GARRAND, Respondent,
+                                  v.
+Robin Patrick CORNETT; and all other persons occupying 1200 NE Keyes Road. Vancouver, WA 98684, Appellant.
+
+                            No. 58002-1-II
+                            June 11, 2024
+
+** Synopsis
+
+Background: Landlord brought unlawful detainer action against tenant after tenant failed to vacate following service of 90-day notice that landlord was terminating his tenancy because unit’s owner or owner’s immediate family member intended to occupy the unit as their principal residence. The Superior Court, Clark County, Emily A. Sheldrick, J., granted landlord’s motion for writ of restitution and awarded her damages, attorney fees, and costs, and denied tenant’s motion to dismiss. Tenant appealed.
+
+Holdings: The Court of Appeals, Cruser, C.J., held that:
+
+[1] termination notice satisfied the specificity requirement in the Residential Landlord-Tenant Act (RLTA);
+
+[2] RLTA authorized the trial court to award damages for rent incurred during unlawful detainer period;
+
+[3] trial court’s judgment for unpaid rent was not supported by substantial evidence;
+
+[4] Court of Appeals could not determine if trial court properly granted landlord’s request for attorney fees and costs; and
+
+[5] appellate attorney fees and expenses could not be awarded even though landlord prevailed on central issue in appeal.
+
+Affirmed in part, vacated in part, and remanded.
+
+Procedural Posture(s): On Appeal; Motion for Attorney’s Fees; Motion for Costs; Motion to Dismiss.
+
+** West Headnotes (28)
+
+*** [1] Landlord and Tenant _233-k-1781_ Nature and form
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1781_ *Nature and form*
+
+An unlawful detainer is a summary proceeding that offers an expedited means to resolve competing claims of possession between landlords and tenants.
+
+*** [2] Forcible Entry and Detainer _179-k-2_ Statutory provisions
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-2_ *Statutory provisions*
+
+Unlawful detainer statutes are strictly construed in tenant’s favor. Wash. Rev. Code Ann. §§ 59.12, 59.18.
+
+*** [3] Landlord and Tenant _233-k-1786_ Grounds of action
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1783_ *Right of Action and Defenses*
+- _233-k-1786_ *Grounds of action*
+
+Under the Residential Landlord-Tenant Act (RLTA), a landlord may file an unlawful detainer complaint only if the tenant remains in possession of the premises in violation of the terms of the landlord’s notice. Wash. Rev. Code Ann. § 59.18.650(6)(b).
+
+- 1 Case that cites this headnote
+
+*** [4] Landlord and Tenant _233-k-1747_ Right to Maintain Action and Conditions Precedent
+Landlord and TenantNecessity
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(C) /Actions for Recovery of Possession/
+- _233-k-1747_ *Right to Maintain Action and Conditions Precedent*
+- _233-k-1748_ *In general*
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(C) /Actions for Recovery of Possession/
+- _233-k-1747_ *Right to Maintain Action and Conditions Precedent*
+- _233-k-1751_ *Demand or Notice*
+- _233-k-1751(2)_ *Necessity*
+
+To physically evict the tenant, a landlord must move for a writ of restitution, for which the landlord must request an order for a show cause hearing. Wash. Rev. Code Ann. § 59.18.370.
+
+- 1 Case that cites this headnote
+
+*** [5] Forcible Entry and Detainer _179-k-21_ Inquisition or Other Summary Proceeding, and Review Thereof
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-21_ *Inquisition or Other Summary Proceeding, and Review Thereof*
+- _179-k-21(.5)_ *In general*
+
+Show cause hearings in unlawful detainer actions are summary proceedings to determine the issue of possession pending a lawsuit, not a final determination of the parties’ rights. Wash. Rev. Code Ann. § 59.18.370.
+
+*** [6] Forcible Entry and Detainer _179-k-21_ Inquisition or Other Summary Proceeding, and Review Thereof
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-21_ *Inquisition or Other Summary Proceeding, and Review Thereof*
+- _179-k-21(.5)_ *In general*
+
+A show cause hearing in an unlawful detainer action must be meaningful, as it is the first and sometimes the only step of the eviction process in which the tenant is able to participate. Wash. Rev. Code Ann. § 59.18.380.
+
+- 1 Case that cites this headnote
+
+*** [7] Landlord and Tenant _233-k-1801(4)_ Weight and sufficiency
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1801_ *Evidence*
+- _233-k-1801(4)_ *Weight and sufficiency*
+
+In an unlawful detainer action, the landlord bears the burden of proving the right of possession by a preponderance of the evidence. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [8] Landlord and Tenant _233-k-1807_ Costs and attorney fees
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1807_ *Costs and attorney fees*
+
+At show cause hearing in an unlawful detainer action, court may grant relief including damages and attorney fees if there are no substantial issues of material fact regarding the landlord’s entitlement to that relief. Wash. Rev. Code Ann. § 59.18.380.
+
+- 2 Cases that cite this headnote
+
+*** [9] Forcible Entry and Detainer _179-k-29(4)_ Weight and sufficiency
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-29_ *Evidence*
+- _179-k-29(4)_ *Weight and sufficiency*
+
+Notwithstanding the issuance of a writ of possession in an unlawful detainer action, the court must direct the parties to proceed to trial if it finds at show cause hearing that material issues of fact exist. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [10] Forcible Entry and Detainer _179-k-43(7)_ Review, and determination and disposition of cause
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-42_ *Review*
+- _179-k-43_ *Appeal and Trial De Novo*
+- _179-k-43(7)_ *Review, and determination and disposition of cause*
+
+Court of Appeals reviews the trial court’s findings of fact in an unlawful detainer action for substantial evidence.
+
+*** [11] Evidence _157-k-2980_ Substantial Evidence
+
+- 157 /Evidence/
+- 157-XX /Weight and Sufficiency/
+- 157-XX(C) /Standard, Degree, or Quantum of Proof/
+- _157-k-2980_ *Substantial Evidence*
+- _157-k-2981_ *In general*
+
+“Substantial evidence” is evidence sufficient in quantum to persuade a fair-minded person that a given premise is the truth.
+
+*** [12] Forcible Entry and Detainer _179-k-43(7)_ Review, and determination and disposition of cause
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-42_ *Review*
+- _179-k-43_ *Appeal and Trial De Novo*
+- _179-k-43(7)_ *Review, and determination and disposition of cause*
+
+Court of Appeals reviews conclusions of law in unlawful detainer actions de novo.
+
+*** [13] Landlord and Tenant _233-k-1771(4)_ Scope and standards of review
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(C) /Actions for Recovery of Possession/
+- _233-k-1758_ *Actions*
+- _233-k-1771_ *Appeal*
+- _233-k-1771(4)_ *Scope and standards of review*
+
+A challenge to the adequacy of a landlord’s termination notice under the Residential Landlord-Tenant Act (RLTA) is a mixed question of law and fact that is reviewed de novo. Wash. Rev. Code Ann. § 59.18.650(6)(b).
+
+*** [14] Landlord and Tenant _233-k-1751(3)_ Sufficiency
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(C) /Actions for Recovery of Possession/
+- _233-k-1747_ *Right to Maintain Action and Conditions Precedent*
+- _233-k-1751_ *Demand or Notice*
+- _233-k-1751(3)_ *Sufficiency*
+
+Landlord’s termination notice under the Residential Landlord-Tenant Act (RLTA) must be sufficiently particular and certain so as not to deceive or mislead. Wash. Rev. Code Ann. § 59.18.650(6)(b).
+
+*** [15] Landlord and Tenant _233-k-1751(3)_ Sufficiency
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(C) /Actions for Recovery of Possession/
+- _233-k-1747_ *Right to Maintain Action and Conditions Precedent*
+- _233-k-1751_ *Demand or Notice*
+- _233-k-1751(3)_ *Sufficiency*
+
+Specificity requirement in provision of Residential Landlord-Tenant Act (RLTA) setting forth requirements for notice of tenancy termination does not obligate a landlord to disclose identity of intended resident in notices issued for cause for termination based on owner’s or owner’s family member intended occupation of the unit. Wash. Rev. Code Ann. §§ 59.18.650(2)(d), 59.18.650(6)(b).
+
+*** [16] Landlord and Tenant _233-k-1794(2)_ Necessity and sufficiency
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1794_ *Demand or Notice*
+- _233-k-1794(2)_ *Necessity and sufficiency*
+
+Landlord’s 90-day notice that she was terminating tenancy because “Owner and/or Owner’s immediate family are moving into this unit as their principal place of residence” provided tenant with enough facts to allow tenant to respond and prepare defense and therefore satisfied the Residential Landlord-Tenant Act’s (RLTA) specificity requirement for notices in unlawful detainer actions, even though notice did not identify actual family member or members who planned to occupy the residence; tenant knew relevant facts because he knew landlord was owner of the unit and knew that notice referred to landlord or one of landlord’s immediate family members. Wash. Rev. Code Ann. §§ 59.18.650(2)(d), 59.18.650(6)(b).
+
+- 1 Case that cites this headnote
+
+*** [17] Landlord and Tenant _233-k-1794(2)_ Necessity and sufficiency
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1794_ *Demand or Notice*
+- _233-k-1794(2)_ *Necessity and sufficiency*
+
+Tenant’s contention that identity of landlord’s family members who intended to move into rental unit were needed in termination notice in order for tenant to prepare defense on ground that landlord did not intend to have an immediate family member move into the unit did not undermine adequacy of the notice under the Residential Landlord-Tenant Act (RLTA), because landlord’s veracity and good faith was factual issue about which tenant needed to demonstrate a genuine dispute at show cause hearing in landlord’s unlawful detainer action. Wash. Rev. Code Ann. §§ 59.18.380, 59.18.650(2)(d), 59.18.650(6)(b).
+
+*** [18] Forcible Entry and Detainer _179-k-6(2)_ Trial of title and right of possession
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-6_ *Nature and Form of Remedy*
+- _179-k-6(2)_ *Trial of title and right of possession*
+
+Although the court’s jurisdiction in unlawful detainer actions is restricted to those issues related to the question of possession, it includes related issues such as restitution of the premises and rent.
+
+*** [19] Forcible Entry and Detainer _179-k-43(7)_ Review, and determination and disposition of cause
+
+- 179 /Forcible Entry and Detainer/
+- 179-I /Civil Liability/
+- _179-k-42_ *Review*
+- _179-k-43_ *Appeal and Trial De Novo*
+- _179-k-43(7)_ *Review, and determination and disposition of cause*
+
+Court of Appeals reviews a trial court’s decision to award other relief after a show cause hearing in an unlawful detainer action for abuse of discretion. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [20] Landlord and Tenant _233-k-1774_ Damages
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(C) /Actions for Recovery of Possession/
+- _233-k-1758_ *Actions*
+- _233-k-1774_ *Damages*
+
+Court of Appeals reviews the amount of a trial court’s damages award under the Residential Landlord-Tenant Act (RLTA) for sufficiency of the evidence. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [21] Damages _115-k-183_ Weight and Sufficiency
+
+- 115 /Damages/
+- 115-IX /Evidence/
+- _115-k-183_ *Weight and Sufficiency*
+- _115-k-184_ *In general*
+
+Evidence of damage is sufficient if it affords a reasonable basis for estimating loss and does not subject the trier of fact to mere speculation or conjecture.
+
+*** [22] Landlord and Tenant _233-k-1806_ Damages and amount of recovery
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1806_ *Damages and amount of recovery*
+
+Residential Landlord-Tenant Act (RLTA) authorized the trial court to award landlord damages for rent incurred during tenant’s unlawful detainer of the property. Wash. Rev. Code Ann. §§ 59.18.290(2), 59.18.380, 59.18.410(1).
+
+*** [23] Landlord and Tenant _233-k-1805_ Review
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1805_ *Review*
+
+Court of Appeals would exercise its discretion to reach tenant’s argument that trial court’s award of damages for unpaid rent in landlord’s unlawful detainer action was unsupported by substantial evidence in the record, despite tenant’s failure to assign error to the pertinent finding of fact, where nature of appeal was clear and tenant argued the issue in the body of the brief with citations to authority. Wash. Rev. Code Ann. § 59.18.380; Wash. R. App. P. 1.2(a).
+
+*** [24] Landlord and Tenant _233-k-1806_ Damages and amount of recovery
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1806_ *Damages and amount of recovery*
+
+Lease indicating that tenant’s monthly rent was $1,500, did not provide substantial evidence to support trial court’s judgment for unpaid rent during tenant’s holdover period in landlord’s unlawful detainer action, where landlord failed to provide any evidence showing, or even allege facts indicating, that tenant had stopped paying rent when he received the termination notice. Wash. Rev. Code Ann. § 59.18.380.
+
+- 1 Case that cites this headnote
+
+*** [25] Appeal and Error _30-k-3714_ Authorization, eligibility, and entitlement in general;  prevailing party
+
+- 30 /Appeal and Error/
+- 30-XVI /Review/
+- 30-XVI(D) /Scope and Extent of Review/
+- 30-XV /I(D)21Costs and Fees/
+- _30-k-3712_ *Attorney Fees*
+- _30-k-3714_ *Authorization, eligibility, and entitlement in general;  prevailing party*
+
+Court of Appeals reviews de novo whether there is a legal basis for a trial court’s award of attorney fees.
+
+*** [26] Appeal and Error _30-k-3712_ Attorney Fees
+
+- 30 /Appeal and Error/
+- 30-XVI /Review/
+- 30-XVI(D) /Scope and Extent of Review/
+- 30-XV /I(D)21Costs and Fees/
+- _30-k-3712_ *Attorney Fees*
+- _30-k-3713_ *In general*
+
+Court of Appeals reviews a trial court’s discretionary decision to award or deny attorney fees and the reasonableness of that award for an abuse of discretion.
+
+*** [27] Landlord and Tenant _233-k-1806_ Damages and amount of recovery
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1806_ *Damages and amount of recovery*
+
+Issue of whether Residential Landlord-Tenant Act (RLTA) permitted award of attorney fees and costs incurred as result of tenant’s holdover could not be determined on appeal from judgment in landlord’s unlawful detainer action, where amount of unpaid rent that may be awarded to landlord was yet to be determined by the trial court. Wash. Rev. Code Ann. §§ 59.18.290(2), 59.18.290(3)(b).
+
+*** [28] Landlord and Tenant _233-k-1807_ Costs and attorney fees
+
+- 233 /Landlord and Tenant/
+- 233-VIII /Reentry and Recovery of Possession by Landlord/
+- 233-VIII(D) /Actions for Unlawful Detainer/
+- _233-k-1790_ *Actions*
+- _233-k-1807_ *Costs and attorney fees*
+
+Appellate attorney fees and expenses could not be awarded to landlord even though she prevailed on central issue in appeal of unlawful detainer action because decision that returned the rental property to her possession was affirmed, where Court of Appeals could not determine whether applicable law entitled landlord to reasonable attorney fees and expenses for appeal without knowing whether she was entitled to judgment for unpaid rent that met threshold contained in the Residential Landlord-Tenant Act (RLTA), and in such circumstance, delegating determination of appellate attorney fee award to the trial court was appropriate. Wash. Rev. Code Ann. § 59.18.290(3)(b); Wash. R. App. P. 18.1(a).
+
+*67 Appeal from Clark Superior Court, Docket No: 23-2-00250-8, Honorable Emily A Sheldrick, Judge
+
+** Attorneys and Law Firms
+
+- Michael Robert Abrams, Northwest Justice Project, 500 W 8th St. Ste. 275, Vancouver, WA, 98660-3086, Christopher Brunetti, Northwest Justice Project, 715, Tacoma Ave. S. Tacoma, WA, 98402-2206, Carrie Suzanne Graf, Northwest Justice Project, 711 Capitol Way S. Ste. 704, Olympia, WA, 98501-1237, for Appellant.
+
+- Andrew Peterson Mazzeo, Attorney at Law, 3510 53rd St., Gig Harbor, WA, 98335-8512, for Respondent.
+
+** PUBLISHED OPINION
+
+Cruser, C.J.
+
+¶1 This appeal concerns an unlawful detainer action brought by owner and landlord Amie Garrand against her tenant, Robin Cornett. Prior to serving Cornett with a formal termination notice, Garrand asked Cornett to vacate his residence so that Garrand’s niece and niece’s boyfriend (Dodge and Brewer) could move into the unit. When Cornett did not vacate, Garrand served Cornett with a 90-day notice that she was terminating his tenancy.
+
+¶2 The notice stated that the tenancy was being terminated because the unit’s owner or owner’s immediate family member intended to occupy the unit as their principal residence, a circumstance that constitutes cause for eviction under the Residential Landlord-Tenant Act of 1973 (RLTA).1 The notice did not specify the identity of the person who intended to occupy the unit.
+
+1
+
+Chapter 59.18 RCW.
+
+¶3 Cornett refused to vacate the unit and Garrand filed an unlawful detainer complaint against him, moved for a writ of restitution, and requested a show cause hearing. Two days before the show cause hearing, Garrand submitted declarations indicating that her sister planned to move into the unit with Dodge and Brewer. In his answer, Cornett argued (1) that the notice was inadequate, and (2) that an issue of fact remained as to whether Garrand actually intended for an immediate family member to move into the unit. At the show cause hearing, the trial court heard testimony from Garrand and concluded that no material factual dispute remained as to Garrand’s right to possession of the unit. Accordingly, the trial court granted Garrand’s motion for a writ of restitution and awarded damages, attorney fees, and costs to Garrand.
+
+¶4 Cornett appeals the trial court’s order granting Garrand’s motion for a writ of restitution, arguing that the superior court erred by ordering the writ because Garrand did not provide him with sufficient detail to decide whether to vacate in response to the notice and, if not vacating, to defend against the unlawful detainer as required by RCW 59.18.650(6)(b). Cornett also appeals the trial court’s award of damages, attorney fees, and costs to Garrand, arguing that the award was in excess of the trial court’s statutory authority or, in the alternative, that the award was unsupported by sufficient evidence. Cornett and Garrand each request attorney fees on appeal.
+
+¶5 We affirm the trial court’s order entering the writ of restitution. Assuming that RCW 59.18.650(6)(b) applies here, Garrand’s notice complied with that provision because it does not require landlords to identify the actual family member that intends to occupy the residence.
+
+Additionally, we hold that although the trial court had statutory authority to award damages for unpaid rent accrued during Cornett’s holdover period under the RLTA provision entitling landlords to damages incurred due to a holdover tenant’s unlawful detainer, Garrand presented no factual basis to support the trial court’s award of damages. Accordingly, we vacate the trial court’s *68 award of damages for unpaid rent and remand for additional proceedings.
+
+¶6 Finally, because the RLTA authorizes attorney fees and costs to prevailing landlords only if the landlord is also entitled to damages for unpaid rent, we vacate the award of attorney fees and costs and direct the superior court to determine, following its determination on the question of whether there is unpaid rent, whether Garrand is entitled to attorney fees and costs, both for the trial court proceedings and the proceedings in this court.
+
+FACTS
+
+I. BACKGROUND
+
+¶7 Robin Cornett resided in a rental unit owned by Amie Garrand. The parties’ rental agreement created a one-year tenancy that would thereafter revert to a month-to-month tenancy in August 2022. Cornett agreed to pay $1,500 per month in rent.
+
+¶8 On September 23, 2022, Garrand asked Cornett via email to “be out by September 30.” Clerk’s Papers (CP) at 56.2 Garrand explained that her niece and niece’s boyfriend (Dodge and Brewer) had nowhere else to live and would be taking occupancy of the unit at the beginning of October. Garrand had previously texted Cornett to inform him, “my niece and I will be com[ing] in your unit, ... so she can check it out and to take measurements.” Id. at 55. Cornett did not vacate the unit by September 30.
+
+2
+
+The email implies that Garrand had previously asked Cornett to vacate by September 30, be it orally or in writing, but the record does not contain an indication of when that initial request occurred. See CP at 56 (writing on September 23 that “I gave you twice the notice that I legally have to.”).
+
+¶9 On October 27, 2022, Garrand served Cornett with a 90-day notice that she was terminating his tenancy effective January 31, 2023. The notice provided, “Owner and/or Owner’s immediate family are moving into this unit as their principal place of residence and there is no substantially equivalent unit available in the same building.” Id. at 20 (boldface omitted). The notice did not contain further detail regarding Garrand’s plan for who would occupy the unit. Cornett failed to vacate the premises by the termination date.
+
+II. UNLAWFUL DETAINER PROCEEDINGS
+
+¶10 Garrand filed an unlawful detainer complaint requesting a writ of restitution and requesting “rent and late charges owing at the time of judgment” and “reasonable attorney fees and costs.” Id. at 2. The complaint did not allege that Cornett stopped paying rent. Garrand also moved the court for an order to show cause. A show cause hearing was set for February 16, 2023.
+
+¶11 On February 14, Garrand filed a declaration stating, “My sister, Tanya Garrand, ... will be residing in my rental unit, along with her adult daughter Courtney Dodge and Courtney’s boyfriend, Spencer Brewer.” Id. at 39. Garrand also filed a declaration in which Tanya Garrand declared, “When my sister’s rental home is available, I will be relocating to Vancouver, from Rochester, Washington to start my life over. My daughter Courtney Dodge and Courtney’s boyfriend Spencer Brewer will be sharing the rental home with me.” Id. at 40.
+
+¶12 On February 15, Cornett filed an answer denying that Garrand was entitled to any relief, moving the court to dismiss the action because the termination notice was legally insufficient, and alternatively asking that the case be set for trial because a material issue of fact remained as to whether the person who intended to move into the residence was an immediate family member. Cornett attached a declaration stating that Garrand “informed me orally that her niece, Courtney Dodge, and her niece’s boyfriend, Spencer Brewer, would be moving in rather than my landlord or an immediate family member of hers.” Id. at 53. Cornett also attached copies of text and email exchanges regarding Garrand’s intended tenants, as described above. Cornett also attached photographs of packages addressed to Dodge and Brewer at the address of the unit in question.
+
+¶13 At the show cause hearing on February 16, Cornett asked that the case be dismissed because the termination notice was legally insufficient. Cornett argued that the *69 specificity requirement in RCW 59.18.650(6)(b) required Garrand to provide him specific facts known to Garrand at the time of the notice that would allow Cornett to meaningfully respond and prepare a defense. The trial court rejected Cornett’s argument, stating: “I don’t see something in the statute that specifically requires that the plaintiff specify who is moving in.” Rep. of Proc. (RP) at 8.
+
+¶14 The trial court then heard testimony from Garrand indicating that Garrand’s sister planned to occupy the unit. Garrand testified that she did not mention her sister in any messages to Cornett because her sister “wasn’t going to be going into the unit to look at it” and had “already been in it ... So she didn’t need to go check it out.” Id. at 12. The parties did not offer testimony regarding any other issue. The trial court ultimately found it dispositive that “we do have a sworn declaration by the plaintiff that says that their sister is moving in” and that Garrand testified consistently with that statement at the hearing. Id. at 9.
+
+¶15 The trial court concluded that no issue of material fact remained regarding the issue of possession and that a writ of restitution should be granted without a trial. The parties made no argument regarding back-owed rent or attorney fees and the court made no oral findings or conclusions regarding the monetary relief requested in Garrand’s complaint.
+
+¶16 The trial court then entered written findings of fact and conclusions of law. The court found that Cornett “failed to pay rent or vacate the premises as required by the notice.” CP at 65. The court concluded that Cornett was guilty of unlawful detainer and that Cornett should be evicted under a writ of restitution. The court went on to conclude that
+
+Judgment should be entered in favor of [Garrand] and against [Cornett] for the principal sum of $6000.00, reasonable attorney’s fees in the sum of $1100.00, costs and disbursements in the sum of $204.00 for filing fee, $240.00 for process server fees, $20.00 for the Writ fee, and $135.00 for the sheriffs fees, if any, required to enforce any Writ of Restitution issued in this matter.
+
+Id. Accordingly, the court ordered the issuance of a writ of restitution and entered a final judgment against Cornett for the total amount of $7,699.
+
+¶17 Cornett now appeals the trial court’s order directing the issuance of a writ of restitution and the trial court’s final judgment against him.
+
+ANALYSIS
+
+I. UNLAWFUL DETAINER PROCESS
+
+[1] [2]¶18 Unlawful detainer actions are governed by chapters 59.12 and 59.18 RCW. An unlawful detainer is a summary proceeding that offers an expedited means to resolve competing claims of possession between landlords and tenants. Randy Reynolds & Assocs., Inc. v. Harmon, 193 Wash.2d 143, 156, 437 P.3d 677 (2019). Chapters 59.12 and 59.18 RCW are strictly construed in the tenant’s favor. Id.
+
+¶19 Under a newly-enacted RLTA provision, residential landlords generally may not terminate a tenancy without cause. RCW 59.18.650(1)(a); see LAWS OF 2021, ch. 212, § 2. The statute provides an exclusive list of causes for termination, including:
+
+[t]he tenant continues in possession after the landlord of a dwelling unit in good faith seeks possession so that the owner or his or her immediate family may occupy the unit as that person’s principal residence and no substantially equivalent unit is vacant and available to house the owner or his or her immediate family in the same building.
+
+RCW 59.18.650(2)(d). “ ‘Immediate family’ includes state registered domestic partner, spouse, parents, grandparents, children, including foster children, siblings, and in-laws.” RCW 59.18.030(14).3
+
+3
+
+We cite to the current version of this statute because recent statutory amendments do not affect our analysis of this case. See LAWS OF 2023, ch. 331, § 2; LAWS OF 2023, ch. 277, § 10.
+
+[3]¶20 The statute also requires landlords to serve tenants with a written termination notice containing “facts and circumstances” supporting the cause for termination *70 “with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” RCW 59.18.650(6)(b). A landlord may file an unlawful detainer complaint only if the tenant remains in possession of the premises in violation of the terms of the landlord’s notice. See Randy Reynolds, 193 Wash.2d at 156, 437 P.3d 677. The complaint must “set forth the facts on which [the landlord] seeks to recover.” RCW 59.12.070.
+
+[4] [5]¶21 To physically evict the tenant, a landlord must also move for a writ of restitution. Randy Reynolds, 193 Wash.2d at 157, 437 P.3d 677. To obtain a writ of restitution, the landlord must request an order for a show cause hearing. Id.; RCW 59.18.370. “Show cause hearings are summary proceedings to determine the issue of possession pending a lawsuit,” not a final determination of the parties’ rights. Carlstrom v. Hanline, 98 Wash. App. 780, 788, 990 P.2d 986 (2000).
+
+[6] [7]¶22 At the show cause hearing, the court examines the parties and decides whether the case should proceed to trial or whether the landlord is entitled to a writ of restitution on the merits of the complaint and answer. RCW 59.18.380. “A show cause hearing must be meaningful, as it is the first (and sometimes the only) step of the eviction process in which the tenant is able to participate.” Faciszewski v. Brown, 187 Wash.2d 308, 321, 386 P.3d 711 (2016). The landlord bears the burden of proving the right of possession by a preponderance of the evidence. Hous. Auth. v. Pleasant, 126 Wash. App. 382, 392, 109 P.3d 422 (2005).
+
+[8] [9]¶23 If the court determines at the show cause hearing that there are no substantial issues of material fact regarding possession and that the landlord has the right to be restored possession of the property, the court may order the issuance of a writ of restitution. RCW 59.18.380. The court may also grant other relief including damages and attorney fees if there are no substantial issues of material fact regarding the landlord’s entitlement to that relief. Id.; Indigo Real Est. Servs., Inc. v. Wadsworth, 169 Wash. App. 412, 421, 280 P.3d 506 (2012); Hartson P’ship v. Goodwin, 99 Wash. App. 227, 230-31, 991 P.2d 1211 (2000). Notwithstanding the issuance of a writ, the court must direct the parties to proceed to trial if it finds that material issues of fact exist. Randy Reynolds, 193 Wash.2d at 157, 437 P.3d 677.
+
+[10] [11] [12]¶24 We review the trial court’s findings of fact in an unlawful detainer action for substantial evidence. Tedford v. Guy, 13 Wash. App. 2d 1, 12, 462 P.3d 869 (2020). “Substantial evidence is evidence sufficient in quantum to persuade a fair-minded person that a given premise is the truth.” Phillips v. Hardwick, 29 Wash. App. 382, 387, 628 P.2d 506 (1981). We review conclusions of law de novo. Tedford, 13 Wash. App. 2d at 12, 462 P.3d 869.
+
+II. TERMINATION NOTICE
+
+¶25 Cornett argues that the superior court erred by denying his motion to dismiss and subsequently granting Garrand’s motion for a writ of restitution. We disagree and affirm.
+
+A. LEGAL PRINCIPLES
+
+[13]¶26 A challenge to the adequacy of a landlord’s termination notice under the RLTA is a mixed question of law and fact that we review de novo. Kiemle & Hagood Co. v. Daniels, 26 Wash. App. 2d 199, 215, 528 P.3d 834 (2023).
+
+[14]¶27 In 2021, the legislature amended the RLTA to require a termination notice to
+
+[i]dentify the facts and circumstances known and available to the landlord at the time of the issuance of the notice that support the cause or causes with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.
+
+RCW 59.18.650(6)(b); see LAWS OF 2021, ch. 212, § 2. The notice must also be “sufficiently particular and certain so as not to deceive or mislead.” IBF, LLC v. Heuft, 141 Wash. App. 624, 632, 174 P.3d 95 (2007).
+
+¶28 Interpreting this new law, Division Three of this court recently held in Kiemle, 26 Wash. App. 2d at 215-16, 528 P.3d 834, that the specificity provision requires landlords to provide sufficient facts to provide the *71 tenant a meaningful opportunity to rebut the landlord’s allegations, but not more.
+
+¶29 The termination notice in Kiemle informed the tenant that her tenancy was being terminated due to nuisance. Id. at 206, 528 P.3d 834. Prior to the termination notice, the landlord issued six notices directing the tenant to clean her unit in order to comply with her lease obligations. Id. The prior notices contained “detailed descriptions, citing recent inspections” and described specific unsanitary and unsafe conditions in the unit. Id. at 205, 528 P.3d 834. The termination notice cited the prior notices and explained that the landlord again inspected the unit and found that it had not been cleaned. Id. at 206, 528 P.3d 834.
+
+¶30 The tenant in Kiemle argued that the termination notice did not satisfy RCW 59.18.650(6)(b)’s specificity requirement because it did not identify the alleged victim of her conduct to support her eviction under RCW 59.18.650(2)(c). Id. at 216, 528 P.3d 834. The relevant cause for termination was the “substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant.” RCW 59.18.650(2)(c) (emphasis added). The tenant complained that the notice did not identify whether the victim was “the landlord or a neighbor and, if a neighbor, which one.” Kiemle, 26 Wash. App. 2d at 216, 528 P.3d 834.
+
+¶31 Division Three rejected that argument because the “critical question” was whether the notice contained “enough facts to allow [the tenant] to ‘effectively rebut the conclusion reached’ ” by the landlord. Id. at 215, 528 P.3d 834 (quoting Hous. Auth. v. Pyrtle, 167 Ga. App. 181, 182, 306 S.E.2d 9 (1983)). The court reasoned that the notice made clear that the termination was a result of “the generally unsanitary condition of her apartment, conduct that could plausibly impair others’ enjoyment even when discrete victims are difficult to identify.” Id. at 217, 528 P.3d 834. The court noted however, that “in some cases, identifying victims is logically necessary to afford a tenant a meaningful ability to rebut allegations, such as where the tenant’s purportedly violative conduct is alleged threats, harassment, or violence directed at specific people.” Id.
+
+B. APPLICATION
+
+¶32 Cornett argues that the 90-day notice here was deficient under RCW 59.18.650(6)(b) because that provision requires more than boilerplate notice when a landlord terminates a tenancy for cause pursuant to RCW 59.18.650(2)(d). Specifically, Cornett argues that the immediate family member or members have to be identified in the notice so that a tenant can “respond and prepare a defense.” Br. of Appellant at 9. Cornett contends that unless the identity of the family member(s) is known, the tenant cannot know (1) whether the landlord is acting in “ ‘good faith,’ ” (2) whether the owner or the immediate family member will actually be moving in, (3) whether there is no substantially equivalent and vacant unit that can house the person seeking possession, and (4) whether the owner has provided “valid notice that the ‘tenant’s possession is to end.’ ” Br. of Appellant at 9-10 (quoting RCW 59.18.650(2)(d)). Implicit in Cornett’s argument is that a tenant needs an opportunity to investigate whether the person named in the notice is actually an immediate family member and, presumably, contact and question that person about their plans so that the tenant can be sure the landlord is telling the truth.
+
+¶33 Garrand responds, first, that RCW 59.18.650(6)(b) does not even apply to lease terminations under RCW 59.18.650(2)(d) because (6)(b) refers to “incidents alleged.” Br. of Resp’t at 32-33. Garrand contends that by using the language “incidents alleged,” the legislature was clearly referring to terminations and evictions that are sought in response to improper acts allegedly committed by the tenant prior to the issuance of the notice rather than the future intent of an owner to have an immediate family member occupy the property. Id. Because terminations under (2)(d) have nothing to do with any act or omission by the tenant, Garrand argues that application of the specificity requirement in (6)(b) to terminations under (2)(d) would be an absurd reading of the statute.
+
+*72 ¶34 Second, Garrand argues that under the plain language of RCW 59.18.650(2)(d), identifying the actual family member or members who plan to occupy the residence is not required. Garrand points out that she never told Cornett that her niece was the only family member who planned to move into the unit, and that an owner is free to allow a different family member to move in than the one additionally planned so long as the owner or an immediate family member occupies the residence for 60 of the 90 days following the tenant’s departure from the unit.
+
+¶35 Regarding Garrand’s argument that the specificity requirement of RCW 59.18.650(6)(b) does not apply to termination notices issued under RCW 59.18.650(2)(d), Cornett responds that the plain language of (6)(b) makes clear that this provision applies to all notices issued under subsection (2) of RCW 59.18.650.
+
+[15]¶36 Assuming without deciding that RCW 59.18.650(6)(b) applies to termination notices governed by RCW 59.18.650(2)(d),4 we hold that the specificity requirement in (6)(b) does not obligate a landlord to disclose the identity of the intended resident in their termination notices issued under (2)(d). In our view, all that is necessary for a tenant to defend against this type of termination is the knowledge that the owner or an immediate family member intends to move into the unit, which the notice in this case did when it advised Cornett that the “Owner and/or Owner’s immediate family” would be moving into the unit. CP at 20 (boldface omitted).
+
+4
+
+We need not address Garrand’s argument that subsection (6)(b) does not apply to terminations like the one here because at most, Garrand can show only that an ambiguity exists in RCW 59.18.650 and if that were the case, we would be required to resolve the ambiguity in the tenant’s favor. See, e.g., Wilson v. Daniels, 31 Wash.2d 633, 643, 198 P.2d 496 (1948) (“Since unlawful detainer statutes are in derogation of the common law, they must be strictly construed in favor of the tenant.”); Hous. Auth. v. Terry, 114 Wash.2d 558, 563, 789 P.2d 745 (1990); Randy Reynolds, 193 Wash.2d at 156, 437 P.3d 677. We also need not address Garrand’s untethered arguments that requiring more detail than what was given here would violate the constitutional rights of landlords or expose landlords to violence. Cowiche Canyon Conservancy v. Bosley, 118 Wash.2d 801, 809, 828 P.2d 549 (1992); State v. Blilie, 132 Wash.2d 484, 493 n.2, 939 P.2d 691 (1997) (“[N]aked castings into the constitutional sea are not sufficient to command judicial consideration and discussion.”) (alteration in original). Additionally, we need not entertain Garrand’s argument that Faciszewski, 187 Wash.2d 308, 386 P.3d 711, is binding. That case involved an analogous city ordinance, but did not address the issue we face in this case and Garrand has greatly overstated its applicability here. Finally, to the extent Garrand refers to substantial compliance, that concept is inapplicable because Garrand does not actually argue that she substantially complied with the statute, save a technical violation; rather, she is arguing that she completely complied with the statute.
+
+[16]¶37 The relevant statutory provision requires termination notices to include “facts and circumstances” supporting the cause for termination “with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” RCW 59.18.650(6)(b) (emphasis added). Cornett asks us to hold that this language makes boilerplate notices per se insufficient and that all termination notices issued pursuant to RCW 59.18.650(2)(d) must identify the intended future resident of the rental unit. However, Cornett’s central claim that tenants need to be able to discover whether an owner is lying about their intention to either occupy or have an immediate family member occupy the unit does not bear upon the sufficiency of the notice. Unlike the myriad situations set forth in RCW 59.18.650(2) in which the termination of a lease is based on some alleged act or omission of the tenant, a termination under (2)(d) is self-explanatory. If the legislature felt that identification of the actual family member is required for a termination notice to be adequate under (2)(d), it would have said so. See State v. Taylor, 97 Wash.2d 724, 728-29, 649 P.2d 633 (1982) (courts do not read words into a statute unless doing so is “ ‘imperative’ ” to make the statute rational).
+
+[17]¶38 Cornett’s contention that tenants must be able to challenge the veracity of the owner’s claim of intended future occupancy by either the owner or an immediate family member is satisfied by the protective procedures of the unlawful detainer statute. Any facts known to the tenant that bear upon the veracity of the owner’s claim do not serve *73 to undermine the sufficiency of the notice. Rather, they are facts that can be presented at a show cause hearing and, if found by the trial court to create a genuine issue of fact about whether the notice was issued in good faith, they entitle the tenant to a trial on that question. RCW 59.18.380. Cornett implies that the boilerplate notice prejudiced his ability to prepare a defense on the ground that Garrand’s sister did not actually intend to move into the unit, but, again, Cornett’s assertion that Garrand did not intend to have an immediate family member (as opposed to a tangential family member) move into the unit does not undermine the adequacy of the language in the notice. Rather, Garrand’s veracity and good faith is a factual issue about which Cornett needed to demonstrate a genuine dispute.5
+
+5
+
+Based on the parties’ agreement, we assume without deciding that a niece is not “immediate family” within the meaning of RCW 59.18.030(14) (“ ‘Immediate family’ includes state registered domestic partner, spouse, parents, grandparents, children, including foster children, siblings, and in-laws.”).
+
+¶39 Moreover, the record actually shows that Cornett had the relevant facts but made little effort to utilize them in his defense. Because Cornett knew Garrand to be the owner of the unit, Cornett knew that the notice referred to Garrand or one of Garrand’s immediate family members. Cornett was informed as early as September 2022 that Garrand’s niece and her niece’s boyfriend would be moving into the property. After initiating the unlawful detainer, but before Cornett filed his answer, Garrand provided additional information that her sister, an immediate family member, would also be occupying the unit.
+
+¶40 At the show cause hearing, Cornett gave scant attention to his defense that a material issue of fact remained as to whether Garrand actually intended for an immediate family member to move into the unit. Cornett’s sole argument that an issue of material fact remained as to the identity of the future resident was, “I do think there’s still a factual dispute here where we’ve presented evidence, including at my client’s declaration, indicating that it was just the niece and the boyfriend that would be moving in.” RP at 10. Cornett had the opportunity to cross examine Garrand and did not ask questions that would have developed the issue further. Notably, Cornett did not ask Garrand about the reason her sister wished to reside in the unit or about the timeline at which she knew of the sister’s decision. Nor did Cornett ask any questions about Garrand’s state of mind at the time she provided the notice, which could have shed light on whether the notice was provided in good faith. Cornett did not even attempt to argue at the show cause hearing that there was an issue of material fact requiring trial on his defense of pretext or the issue of Garrand’s good faith.
+
+¶41 Even without these questions, Cornett could have argued that the timing of Garrand’s disclosures (mentioning only her niece and niece’s boyfriend as early as September, then revealing her sister on the eve of the show cause hearing in February) created an inference of bad faith. He did not do so. The availability of this argument, though not actually made, shows that the notice in this case was sufficient under the operative statute.
+
+¶42 Accordingly, we affirm the trial court’s order granting the writ of restitution.
+
+III. DAMAGES AWARD
+
+[18]¶43 Cornett argues that even if the writ of restitution was not entered in error, the trial court lacked statutory authority to award damages for unpaid rent6 in this unlawful *74 detainer action. Cornett also argues that the trial court’s award of damages is unsupported by sufficient evidence.
+
+6
+
+Cornett occasionally refers to this argument as a challenge to the court’s jurisdiction throughout his briefing. Although the court’s jurisdiction in unlawful detainer actions is restricted to those issues related to the question of possession, it includes “related issues such as restitution of the premises and rent.” Munden v. Hazelrigg, 105 Wash.2d 39, 45, 711 P.2d 295 (1985). We reject Cornett’s argument to the extent it concerns the court’s subject matter jurisdiction because case law makes it clear that the issue of rent is within the court’s limited jurisdiction in unlawful detainer actions and because the issue of the court’s statutory authority is distinct from its jurisdiction to enter the award.
+
+We also reject Cornett’s analogy to Angelo Property Co., LP v. Hafiz, 167 Wash. App. 789, 274 P.3d 1075 (2012), through which Cornett argues that the trial court was required to convert the action into an ordinary civil suit for damages. In Angelo, the reason the court could not award damages was because the tenant’s counterclaim was unrelated to possession of the property, thus was outside the trial court’s subject matter jurisdiction. 167 Wash. App. at 816, 274 P.3d 1075.Here, the alleged unpaid rent was related to Cornett’s possession of the unit during the period of his unlawful detainer. The analogy is unpersuasive.
+
+¶44 We hold that the trial court did not exceed its statutory authority when it made an award of unpaid rent in this case, but nonetheless vacate the trial court’s judgment and remand for further proceedings because the trial court lacked sufficient evidence in the record to support its award.
+
+A. LEGAL PRINCIPLES
+
+¶45 The RLTA provides that a landlord in an unlawful detainer action may request “other relief” beyond the requested writ of restitution, as “provided for in this chapter.” RCW 59.18.380. The RLTA also provides that it is unlawful for tenants to “hold over” after their tenancy is terminated and provides that the trial court has discretion to award damages sustained by the landlord as a result of a tenant’s holdover. RCW 59.18.290(2).
+
+¶46 A trial court may grant a landlord’s request for “other relief” following a show cause hearing only if the court determines that there is “no substantial issue of material fact” regarding the landlord’s right to the requested relief. RCW 59.18.380. The court may grant only “so much of such relief as may be sustained by the proof.” Id.
+
+¶47 If material issues of fact remain as to the relief requested, the case must proceed to trial, regardless of whether a writ of restitution has already been issued. See Webster v. Litz, 18 Wash. App. 2d 248, 255-56, 491 P.3d 171 (2021). If the landlord prevails at trial, the factfinder
+
+shall also assess the damages arising out of the tenancy occasioned to the landlord by any forcible entry, or by any forcible or unlawful detainer, alleged in the complaint and proved at trial, and, if the alleged unlawful detainer is based on default in the payment of rent, find the amount of any rent due.
+
+RCW 59.18.410(1) (emphasis added).
+
+[19] [20] [21]¶48 We review a trial court’s decision to award “other relief” after a show cause hearing for abuse of discretion. See RCW 59.18.380 (court “may” grant other relief). We review the amount of a trial court’s damages award for sufficiency of the evidence. IBF, 141 Wash. App. at 638, 174 P.3d 95. “ ‘Evidence of damage is sufficient if it affords a reasonable basis for estimating loss and does not subject the trier of fact to mere speculation or conjecture.’ ” Clayton v. Wilson, 168 Wash.2d 57, 72, 227 P.3d 278 (2010) (quoting State v. Mark, 36 Wash. App. 428, 434, 675 P.2d 1250 (1984)).
+
+B. APPLICATION
+
+(1) The trial court did not lack statutory authority to award rent damages for the period of Cornett’s unlawful detainer.
+
+¶49 Cornett argues that RCW 59.18.410(1) precludes entry of judgment for unpaid rent in an unlawful detainer action that is not based on the tenant’s failure to pay rent. Cornett maintains that the court’s authority is restricted by that provision’s use of the phrase “ ‘if the alleged unlawful detainer is based on default in the payment of rent.’ ” Br. of Appellant at 21 (quoting RCW 59.18.410(1)). We disagree because a separate RLTA provision grants the trial court discretion to award damages incurred as a result of a holdover tenant’s unlawful detainer.
+
+¶50 As a threshold matter, we reject Garrand’s argument that Cornett’s challenge is barred because the issue of the trial court’s authority to award rent was not raised below. If the trial court lacked statutory authority to award the damages it did, as Cornett argues, then Garrand has failed to allege sufficient facts showing relief in the form of rent damages could be granted. RAP 2.5(a). This entitles Cornett to raise this argument for the first time on appeal.
+
+*75 [22]¶51 Turning to the merits of Cornett’s argument, we disagree with Cornett and hold that the RLTA authorizes the trial court to award damages for rent that a tenant has failed to pay during their holdover period. As Garrand correctly points out, RCW 59.18.410(1) governs relief that may be awarded after trial, but here, the rent award was entered following the show cause hearing. Another RLTA provision, RCW 59.18.380, governs the relief that may be awarded after a show cause hearing, and that provision plainly authorizes a trial court to award damages for unpaid rent for the period of unlawful detainer.
+
+¶52 RCW 59.18.380 provides that trial courts may grant “other relief ... provided for in this chapter” following the show cause hearing so long as the court determines “that there is no substantial issue of material fact” regarding the landlord’s entitlement to that relief. Elsewhere in the chapter, the RLTA gives the trial court discretion to award damages sustained by the landlord as a result of a tenant’s unlawful detainer. RCW 59.18.290(2). Where, as here, the trial court’s damages award purports to reflect only unpaid rent incurred during the tenant’s unlawful detainer of the property, such an award is not in excess of the court’s statutory authority.
+
+(2) The trial court’s judgment for unpaid rent is unsupported by evidence in the record.
+
+¶53 Cornett also argues that the trial court’s award of damages for unpaid rent was unsupported by substantial evidence in the record. We agree.
+
+[23]¶54 Despite Cornett’s failure to assign error to the pertinent finding of fact, we exercise our discretion to consider Cornett’s argument. The supreme court has explained that “there is no compelling reason for the appellate court not to exercise its discretion to consider the merits of the case” where “the nature of the appeal is clear” and the appellant’s brief contains argument and supporting legal citation such that we are “not greatly inconvenienced and the respondent is not prejudiced.” State v. Olson, 126 Wash.2d 315, 323, 893 P.2d 629 (1995); RAP 1.2(a). See also In re De Facto Parentage of A.H., 28 Wash. App. 2d 412, 421-22, 536 P.3d 719 (2023) (reaching appellant’s argument despite appellant’s failure to assign error to any specific trial court rulings). Here, Cornett’s brief assigns error to the trial court’s damages award and lists the insufficiency of the evidence supporting the award as an issue pertaining to that assignment of error. The nature of the appeal is clear and Cornett argues the issue in the body of the brief with citations to authority. Therefore, we exercise our discretion to reach this argument.7
+
+7
+
+Nor do we decline to review the issue based on Garrand’s argument that Cornett’s challenge is barred because the argument was not raised below. If Garrand presented no allegations or evidence to warrant such an award, as Cornett argues, then Garrand has failed to allege sufficient facts entitling her to relief. RAP 2.5(a). This entitles Cornett to raise the argument for the first time on appeal.
+
+[24]¶55 On the merits, we conclude that the trial court’s finding that Cornett “failed to pay rent or vacate the premises” after receiving the termination notice was unsupported by substantial evidence. CP at 65. First, Garrand’s complaint did not allege that Cornett had ever failed to pay rent that was owed. Rather, the complaint merely prayed that Garrand be awarded “rent and late charges owing at the time of judgment.” Id. at 2. But a “fact” is “[s]omething that actually exists” or “[a]n actual or alleged event or circumstance, as distinguished from its legal effect, consequence, or interpretation.” BLACK’S LAW DICTIONARY 735 (11th ed. 2019). By contrast, a “prayer for relief” is a “request addressed to the court and appearing at the end of a pleading; esp., a request for specific relief or damages.” Id. at 1422. We decline Garrand’s invitation to treat her prayer for relief as an allegation of fact or as evidence that could support the trial court’s finding that Cornett failed to pay rent.
+
+¶56 Turning from the complaint to the actual evidence presented to the trial court, Garrand failed to mention any unpaid rent in the two declarations she submitted to the *76 court.8 Nor did Garrand mention any unpaid rent when she testified at the show cause hearing. The only evidence in the record obliquely related to the issue of rent is the lease indicating that Cornett’s monthly rent was $1,500. But that is not sufficient to show that Cornett owed $6,000 at the time of judgment where no evidence was presented to show that Cornett stopped paying rent when he received the termination notice.
+
+8
+
+At oral argument, counsel for Garrand implied that Garrand’s first declaration contained an allegation supporting her claim for unpaid rent. However, the declaration states in relevant part only, “Defendants did not vacate the premises within the time frame set after the service of the notice. Accordingly, we are asking for an Order for Writ of Restitution, as well as a money judgment as set out in the complaint, together with standard court costs and attorney fees.” CP at 30. A general request for monetary relief that refers back to the complaint does not cure the problem with Garrand’s failure to provide evidence or even to allege facts supporting her request for rent damages.
+
+¶57 We reverse the judgment for unpaid rent and remand to the trial court to determine whether Garrand is entitled to damages for unpaid rent accrued during Cornett’s unlawful detainer and, if so, to determine the amount of those damages.
+
+IV. ATTORNEY FEES
+
+¶58 Cornett challenges the trial court’s award of attorney fees and costs as unsupported by the evidence. Both parties request attorney fees and costs on appeal. We remand for the trial court to determine what, if any, attorney fees and costs Garrand is entitled to both for the trial court proceedings and for this appeal.
+
+A. LEGAL PRINCIPLES
+
+[25] [26]¶59 We review de novo whether there is a legal basis for a trial court’s award of attorney fees. Gander v. Yeager, 167 Wash. App. 638, 647, 282 P.3d 1100 (2012). By contrast, we review a trial court’s discretionary decision to award or deny attorney fees and the reasonableness of that award for an abuse of discretion. Id. We may award reasonable attorney fees on appeal if “applicable law” entitles a party to recover those fees. RAP 18.1(a).
+
+¶60 The RLTA provides that when a tenant unlawfully holds over after a valid termination, “the prevailing party may recover his or her costs of suit or arbitration and reasonable attorneys’ fees subject to subsections (3) and (4) of this section.” RCW 59.18.290(2). In turn, subsection (3) provides:
+
+Where the court has entered a judgment in favor of the landlord restoring possession of the property to the landlord, the court may award reasonable attorneys’ fees to the landlord; however, the court shall not award attorneys’ fees in the following instances:
+
+....
+
+(b) If the total amount of rent awarded in the judgment for rent is equal to or less than two months of the tenant’s monthly contract rent or one thousand two hundred dollars, whichever is greater.
+
+RCW 59.18.290(3). Accordingly, trial courts are authorized to enter an award of reasonable attorney fees to a prevailing landlord only if they also award unpaid rent in excess of the statutory threshold. RCW 59.18.290(3)(b). Any provision in a rental agreement that requires the tenant to pay the landlord’s attorney fees in excess of what is authorized by the RLTA is unenforceable. RCW 59.18.230(1)(a), (2)(c).
+
+B. APPLICATION
+
+¶61 Cornett challenges the attorney fee award made by the trial court and requests appellate attorney fees under RAP 18.1 and RCW 59.18.290. Garrand requests attorney fees under RAP 18.1, RCW 59.18.410(1), RCW 59.18.290, and under the terms of the rental agreement.
+
+[27]¶62 Here, Garrand successfully obtained a judgment restoring the rental property to her possession, so the RLTA would typically permit an award of reasonable attorney fees and costs incurred as a result of Cornett’s holdover. RCW 59.18.290(2). However, the RLTA instructs that courts “shall not” award attorney fees to a prevailing landlord “[i]f the total amount of rent awarded in the judgment for rent is equal to or less than two months of the tenant’s monthly contract *77 rent or one thousand two hundred dollars, whichever is greater.” RCW 59.18.290(3)(b). Because the amount of unpaid rent that may be awarded to Garrand is to be determined on remand, we cannot determine whether the trial court properly granted her request for attorney fees and costs in light of the statutory threshold contained in RCW 59.18.290(3)(b). Accordingly, the trial court is in the best position to determine whether Garrand is entitled to attorney fees and costs incurred before the trial court.
+
+[28]¶63 Similarly, Garrand has prevailed on the central issue in this appeal because we affirm the decision that returned to the rental property to her possession. But without knowing whether Garrand is entitled to a judgment for unpaid rent that meets the threshold contained in RCW 59.18.290(3)(b), we cannot determine whether applicable law entitles Garrand to reasonable attorney fees and expenses for this appeal. RAP 18.1(a). In such circumstances, it is appropriate to delegate the determination of an appellate attorney fee award to the trial court. RAP 18.1(i); Silver v. Rudeen Mgmt. Co., Inc., 197 Wash.2d 535, 551, 484 P.3d 1251 (2021).
+
+¶64 Therefore, we remand for the trial court to determine what, if any, attorney fees and costs Garrand is entitled to both for the proceedings before the trial court and for this appeal. RAP 18.1(i).
+
+CONCLUSION
+
+¶65 We affirm the court’s order directing the issuance of a writ of restitution but vacate the trial court’s award of damages, attorney fees, and costs. We remand for further proceedings at which the trial court should consider whether Garrand is entitled to damages for unpaid rent for the period of Cornett’s unlawful detainer. The trial court on remand should also determine whether Garrand is entitled to attorney fees and costs for both the trial court proceedings and for this appeal.
+
+We concur:
+
+LEE, J.
+
+PRICE, J.
+

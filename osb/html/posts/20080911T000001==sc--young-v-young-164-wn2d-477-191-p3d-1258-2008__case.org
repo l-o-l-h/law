@@ -1,0 +1,497 @@
+#+title:      Young v. Young, 164 Wn.2d 477, 191 P.3d 1258 (2008)
+#+date:       [2008-09-11 Thu 00:00]
+#+filetags:   :case:
+#+identifier: 20080911T000001
+
+* Young v. Young -- Supreme Court of Washington, En Banc. | September 11, 2008 | 164 Wash.2d 477 | 191 P.3d 1258
+
+- Washington Citation :: Young v. Young, 164 Wn.2d 477, 191 P.3d 1258 (2008)
+
+- All Citations :: 164 Wash.2d 477, 191 P.3d 1258
+
+
+                           164 Wash.2d 477
+                Supreme Court of Washington, En Banc.
+                     Judith A. YOUNG, Petitioner,
+                                  v.
+   James M. YOUNG and Shannon Young, husband and wife, Respondent,
+                                 and
+        State of Washington, Department of Labor & Industries.
+
+                             No. 79207–1
+                        Argued Oct. 11, 2007.
+
+- Decided Sept. 11, 2008.
+
+** Brief
+
+** Synopsis
+
+Background: Property owner brought action against occupants of property, seeking to quiet title and to eject occupants. Occupants counterclaimed for unjust enrichment, based on improvements they made to property. After quieting title in property owner’s name, the Superior Court, Thurston County, Gary R. Tabor, J., awarded occupants the market value of the improvements, less certain general contractor’s costs that occupants did not incur in making the improvements. Occupants appealed. The Court of Appeals, 134 Wash.App. 1033, 2006 WL 2329471, reversed and remanded. Property petitioned for review.
+
+[Holding:] The Supreme Court, sitting en banc, Sanders, J., held that occupants were entitled entire value of the benefit property owner received as determined by either the fair market value of the services rendered or the amount the improvements enhanced the value of the property, without a blanket deduction for general contractor’s costs.
+
+Affirmed.
+
+Owens, J., filed a dissenting opinion.
+
+Procedural Posture(s): On Appeal.
+
+** West Headnotes (17)
+
+*** [1] Appeal and Error  [[1: 30-k-3402][30-k-3402]]  Conclusiveness and effect of verdict or findings in general
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XVI(D)9 Verdict and Findings in General/
+- *30-k-3402 Conclusiveness and effect of verdict or findings in general*
+- /(Formerly 30k1008.1(1))/
+
+Unchallenged findings of fact become verities on appeal.
+
+- 3 Cases that cite this headnote
+
+*** [2] Appeal and Error  [[2: 30-k-3690][30-k-3690]]  Contract cases in general
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)20Monetary Relief/
+- *30-k-3687 Particular Cases and Items*
+- *30-k-3690 Contract cases in general*
+- /(Formerly 30k893(1))/
+
+On appeal of trial court’s award of damages in an unjust enrichment case, the Supreme Court’s review was de novo because the only issue was the legal standard of recovery.
+
+- 4 Cases that cite this headnote
+
+*** [3] Unjust Enrichment and Constructive Contracts Nature and Grounds of Liability
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(A) In General/
+- *395H-k-11 In general*
+- /(Formerly 205Hk3 Implied and Constructive Contracts)/
+
+“Unjust enrichment” is the method of recovery for the value of the benefit retained absent any contractual relationship because notions of fairness and justice require it.
+
+- 161 Cases that cite this headnote
+
+*** [4] Unjust Enrichment and Constructive Contracts  [[4: 395H-k-15][395H-k-15]]  Constructive, implied-in-law, and quasi-contracts
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(A) In General/
+- *395H-k-13 Nature and Elements of Particular Theories, Claims, or Causes of Action*
+- *395H-k-15 Constructive, implied-in-law, and quasi-contracts*
+- /(Formerly 205Hk3 Implied and Constructive Contracts)/
+
+In situations where a party is awarded the value of a benefit retained by another party absent any contractual relationship because notions of fairness and justice require it, a quasi contract is said to exist between the parties.
+
+- 118 Cases that cite this headnote
+
+*** [5] Unjust Enrichment and Constructive Contracts  [[5: 395H-k-12][395H-k-12]]  Elements of unjust enrichment in general
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(A) In General/
+- *395H-k-12 Elements of unjust enrichment in general*
+- /(Formerly 205Hk3 Implied and Constructive Contracts)/
+
+Three elements must be established in order to sustain a claim based on “unjust enrichment”: (1) a benefit conferred upon the defendant by the plaintiff; (2) an appreciation or knowledge by the defendant of the benefit; and (3) the acceptance or retention by the defendant of the benefit under such circumstances as to make it inequitable for the defendant to retain the benefit without the payment of its value.
+
+- 172 Cases that cite this headnote
+
+*** [6] Unjust Enrichment and Constructive Contracts  [[6: 395H-k-15][395H-k-15]]  Constructive, implied-in-law, and quasi-contracts
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(A) In General/
+- *395H-k-13 Nature and Elements of Particular Theories, Claims, or Causes of Action*
+- *395H-k-15 Constructive, implied-in-law, and quasi-contracts*
+- /(Formerly 205Hk3 Implied and Constructive Contracts)/
+
+The elements of a “contract implied in law” are: (1) the defendant receives a benefit, (2) the received benefit is at the plaintiff’s expense, and (3) the circumstances make it unjust for the defendant to retain the benefit without payment.
+
+- 166 Cases that cite this headnote
+
+*** [7] Unjust Enrichment and Constructive Contracts Claims for Services Rendered; Quantum Meruit
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(B) Claims for Services Rendered; Quantum Meruit/
+- *395H-k-41 In general*
+- /(Formerly 205Hk30 Implied and Constructive Contracts)/
+
+“Quantum meruit” is the method of recovering the reasonable value of services provided under a contract implied in fact.
+
+- 22 Cases that cite this headnote
+
+*** [8] Contracts  [[8: 95-k-27][95-k-27]]  Implied agreements
+
+- /95 Contracts/
+- /95-I Requisites and Validity/
+- /95-I(B) Parties, Proposals, and Acceptance/
+- *95-k-27 Implied agreements*
+
+A “contract implied in fact” is an agreement depending for its existence on some act or conduct of the party sought to be charged and arising by implication from circumstances which, according to common understanding, show a mutual intention on the part of the parties to contract with each other; the services must be rendered under such circumstances as to indicate that the person rendering them expected to be paid therefor, and that the recipient expected, or should have expected, to pay for them.
+
+- 6 Cases that cite this headnote
+
+*** [9] Contracts  [[9: 95-k-27][95-k-27]]  Implied agreements
+
+- /95 Contracts/
+- /95-I Requisites and Validity/
+- /95-I(B) Parties, Proposals, and Acceptance/
+- *95-k-27 Implied agreements*
+
+The elements of a “contract implied in fact” are: (1) the defendant requests work, (2) the plaintiff expects payment for the work, and (3) the defendant knows or should know the plaintiff expects payment for the work.
+
+- 19 Cases that cite this headnote
+
+*** [10] Unjust Enrichment and Constructive Contracts Unjust Enrichment and Constructive Contracts
+Unjust Enrichment and Constructive ContractsClaims for Services Rendered; Quantum Meruit
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-I In General/
+- *395H-k-1 In general*
+- /(Formerly 205Hk3 Implied and Constructive Contracts)/
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(B) Claims for Services Rendered; Quantum Meruit/
+- *395H-k-41 In general*
+- /(Formerly 205Hk30 Implied and Constructive Contracts)/
+
+Unjust enrichment is founded on notions of justice and equity whereas quantum meruit is founded in the law of contracts.
+
+- 8 Cases that cite this headnote
+
+*** [11] Unjust Enrichment and Constructive Contracts  [[11: 395H-k-89][395H-k-89]]  Leased property; landlord and tenant
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-II Nature and Grounds of Liability/
+- /395H-II(D) Particular Cases and Contexts/
+- *395H-k-86 Real Property*
+- *395H-k-89 Leased property; landlord and tenant*
+- /(Formerly 205Hk30 Implied and Constructive Contracts)/
+
+Property owner’s obligation to occupants of property who made improvements to property would be determined under an implied-in-law contract and the equitable theory of unjust enrichment, even though it was unclear whether there was a contract implied in fact or a contract implied in law between the parties, since occupants did not argue for an implied-in-fact contract.
+
+- 26 Cases that cite this headnote
+
+*** [12] Property  [[12: 315-k-873(7)][315-k-873(7)]]  Amount of recovery
+Unjust Enrichment and Constructive ContractsMeasure and Amount of Recovery
+
+- /315 Property/
+- /315-IX Remedies, Actions, and Proceedings/
+- /315-IX(I) Relief/
+- *315-k-871 Improvements and Fixtures*
+- *315-k-873 Compensation for Improvements*
+- *315-k-873(7) Amount of recovery*
+- /(Formerly 206k4(5) Improvements)/
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-V Measure and Amount of Recovery/
+- /395H-V(A) In General/
+- *395H-k-311 In general*
+- /(Formerly 205Hk110 Implied and Constructive Contracts)/
+
+Occupants of property who made improvements to the property were entitled, as the measure of their recovery from property owner for unjust enrichment, to the entire value of the benefit property owner received as determined by either the fair market value of the services rendered or the amount the improvements enhanced the value of the property, without a blanket deduction for costs that a general contractor would have incurred if general contractor had performed the work, absent a showing of fault on occupants’ part; property owner derived benefits from some general contractor’s costs, such as cost of providing tools and general equipment and the cost for debris disposal. Restatement (Second) of Contracts § 371.
+
+- 1 Case that cites this headnote
+
+*** [13] Property  [[13: 315-k-873(7)][315-k-873(7)]]  Amount of recovery
+Unjust Enrichment and Constructive ContractsMeasure and Amount of Recovery
+
+- /315 Property/
+- /315-IX Remedies, Actions, and Proceedings/
+- /315-IX(I) Relief/
+- *315-k-871 Improvements and Fixtures*
+- *315-k-873 Compensation for Improvements*
+- *315-k-873(7) Amount of recovery*
+- /(Formerly 206k4(5) Improvements)/
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-V Measure and Amount of Recovery/
+- /395H-V(A) In General/
+- *395H-k-311 In general*
+- /(Formerly 205Hk110 Implied and Constructive Contracts)/
+
+The measure of recovery for unjust enrichment to a faultless claimant for the claimant’s improvement to land is measured in one of two ways: it may be measured by the amount which the benefit conferred would have cost the defendant had it obtained the benefit from some other person in the plaintiff’s position, or alternatively, it may be measured by the extent to which the other party’s property has been increased in value or his other interests advanced. Restatement (Second) of Contracts § 371.
+
+- 24 Cases that cite this headnote
+
+*** [14] Unjust Enrichment and Constructive Contracts Measure and Amount of Recovery
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-V Measure and Amount of Recovery/
+- /395H-V(A) In General/
+- *395H-k-311 In general*
+- /(Formerly 205Hk110 Implied and Constructive Contracts)/
+
+In determining the measure of recovery for unjust enrichment, a trial court has tremendous discretion to fashion a remedy to do substantial justice to the parties and put an end to the litigation.
+
+- 10 Cases that cite this headnote
+
+*** [15] Unjust Enrichment and Constructive Contracts Measure and Amount of Recovery
+
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-V Measure and Amount of Recovery/
+- /395H-V(A) In General/
+- *395H-k-311 In general*
+- /(Formerly 205Hk110 Implied and Constructive Contracts)/
+
+Unjust enrichment recovery is limited only by the claimant’s actual cost when the claimant is at fault.
+
+- 2 Cases that cite this headnote
+
+*** [16] Property  [[16: 315-k-873(7)][315-k-873(7)]]  Amount of recovery
+Unjust Enrichment and Constructive ContractsParticular Theories, Claims, or Causes of Action
+
+- /315 Property/
+- /315-IX Remedies, Actions, and Proceedings/
+- /315-IX(I) Relief/
+- *315-k-871 Improvements and Fixtures*
+- *315-k-873 Compensation for Improvements*
+- *315-k-873(7) Amount of recovery*
+- /(Formerly 206k4(5) Improvements)/
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-V Measure and Amount of Recovery/
+- /395H-V(A) In General/
+- *395H-k-312 Particular Theories, Claims, or Causes of Action*
+- *395H-k-313 In general*
+- /(Formerly 205Hk110 Implied and Constructive Contracts)/
+
+In an unjust enrichment case, where the claimant is not at fault and the defendant agreed to improvements to land, fairness and justice dictate the defendant should be held to pay the entire amount as measured by how much it would have cost the defendant to purchase the improvements or by how much the improvement enhanced the value of the property. Restatement (Second) of Contracts § 371.
+
+*** [17] Property  [[17: 315-k-873(7)][315-k-873(7)]]  Amount of recovery
+Unjust Enrichment and Constructive ContractsConstructive, implied-in-law, and quasi-contracts in general
+
+- /315 Property/
+- /315-IX Remedies, Actions, and Proceedings/
+- /315-IX(I) Relief/
+- *315-k-871 Improvements and Fixtures*
+- *315-k-873 Compensation for Improvements*
+- *315-k-873(7) Amount of recovery*
+- /(Formerly 206k4(5) Improvements)/
+- /395 HUnjust Enrichment and Constructive Contracts/
+- /395H-V Measure and Amount of Recovery/
+- /395H-V(A) In General/
+- *395H-k-312 Particular Theories, Claims, or Causes of Action*
+- *395H-k-314 Constructive, implied-in-law, and quasi-contracts in general*
+- /(Formerly 205Hk110 Implied and Constructive Contracts)/
+
+When calculating an unjust enrichment award in a quasi-contract action for improvements to real property the award may not be reduced by the claimant’s actual cost absent fault by the claimant or inconsequential relationship to the benefit conferred to the defendant.
+
+- 3 Cases that cite this headnote
+
+** Attorneys and Law Firms
+
+- {{**1260}} Timothy R. Gosselin, Gosselin Law Office PLLC, Tacoma, WA, for Petitioner.
+
+- Matthew Bryan Edwards, Owens Davies PS, Olympia, WA, for Respondent.
+
+** Opinion
+
+SANDERS, J.
+
+{{*480}} ¶ 1 Judith Young brought an action to quiet title against her nephew Jim Young and his wife, Shannon Young, over property located in Thurston County. Jim and Shannon[fn:1] counterclaimed for unjust enrichment based on improvements they made to the property. At issue is the measure of recovery in their unjust enrichment claim.
+
+
+[fn:1] For clarity this opinion refers to the parties by first name.
+
+
+¶ 2 The trial court awarded Jim and Shannon the market value of the improvements less certain costs the trial court determined did not apply. The Court of Appeals reversed, concluding the trial court should have used the full market value as the measure of recovery. We affirm the Court of Appeals.
+
+I. FACTS
+
+¶ 3 The facts are undisputed. Judith runs an otter sanctuary in rural Georgia. Jim is a licensed and bonded contractor {{*481}} engaged in timber cutting, clearing, grading, dozing, and concrete slab construction. Jim and Shannon reside in Washington with their four children.
+
+¶ 4 Judith expressed to Jim and Shannon her desire to move her otter sanctuary away from Georgia. In 1998 Jim became familiar with a piece of property for sale in Thurston County; the land and the buildings were in significant disrepair but Jim and Shannon thought it had characteristics suitable to Judith’s needs. Jim and Shannon told Judith about the property, including its run-down condition and potential for development. The three agreed Jim and Shannon would do all the work necessary to ready the property for Judith and her otters.
+
+¶ 5 Judith purchased the Thurston County property in 1998 for $1,050,000. Judith included Jim’s name on the title in the good-faith belief this would allow Jim to obtain the necessary permits and approvals for the improvements. As a result of conversations with Judith, Jim reasonably believed Judith would pay him for his improvements to the property.
+
+¶ 6 That year Jim and Shannon moved onto the property with Judith’s knowledge and lived there rent-free. Between the purchase of the property and the time of trial, Jim and Shannon did a large amount of work on the property. They extensively remodeled the house, demolished an older farmhouse, repaired a number of outbuildings, replaced the well equipment, cleared the property, and replaced the fencing, among other projects. All of the work was of workmanlike quality or better.
+
+¶ 7 By the spring of 2001 Jim and Shannon began to suspect Judith would not move to the Thurston County property. They contacted her to discuss the possibility of turning the property into a working cattle ranch. By June 2001 all three believed in good faith they had formed an oral agreement to develop a cattle ranch. Jim and Shannon’s understanding {{**1261}} of the agreement differed significantly from Judith’s understanding, but they began to develop the cattle ranch in good faith according to their respective {{*482}} understandings of the agreement. By the fall of 2002 the relationship had soured and the parties had stopped communicating with each other.
+
+¶ 8 In April 2003 Judith brought an action to quiet title in her name and to eject Jim and Shannon from the property, among other claims. Jim and Shannon counterclaimed for unjust enrichment based on the work they performed on the property, among other claims. The trial court quieted title in Judith’s name.
+
+[1] <<1: 30-k-3402>> ¶ 9 The court then determined it would be unjust for Judith to retain the value of the work on the Thurston County property without compensating Jim and Shannon for it. Expert testimony established the improvements would have cost Judith $760,382 if she had hired a third-party contractor to perform them. The court also found the value of the property increased by $1,150,000 to $1,450,000, but only $750,000 to $1,050,000 of the increased value was attributable to Jim and Shannon’s improvements. Neither party contests these findings.[fn:2]
+
+
+[fn:2] “[U]nchallenged findings of fact become verities on appeal.” Davis v. Dep’t of Labor & Indus., 94 Wash.2d 119, 123, 615 P.2d 1279 (1980) (citing Goodman v. Bethel Sch. Dist. No. 403, 84 Wash.2d 120, 124, 524 P.2d 918 (1974)).
+
+
+¶ 10 The court found the measure of recovery in an unjust enrichment claim is generally the greater of: (1) the cost to the owner of obtaining the same services from a third party, and (2) the amount the services have increased the value of the property. However, the court declined to apply this measure under the “particular circumstances of this case.” Clerk’s Papers (CP) at 639. Instead, it awarded Jim and Shannon the market value of the improvements, less the “general contractor’s costs” listed in the cost expert’s report. CP at 640. The total award was $501,866.
+
+¶ 11 Jim and Shannon appealed. In an unpublished opinion Division Two of the Court of Appeals reversed, holding the trial court incorrectly measured recovery. It remanded for an award based on the full amount it would have cost Judith to pay a third-party to make the improvements. {{*483}} Young v. Young, noted at 134 Wash.App. 1033, 2006 WL 2329471, at {{*10}}–15. We granted Judith’s petition for review, 160 Wash.2d 1010, 161 P.3d 1027 (2007), and affirm the Court of Appeal.
+
+II. ANALYSIS
+
+A
+
+[2] <<2: 30-k-3690>> ¶ 12 Jim and Shannon argue the measure of recovery is either the market value of the services provided or the increase in value attributable to their work. Judith argues the circumstances of the claimant affect the measure of recovery. Our review is de novo because the only issue is the legal standard of recovery. See Crafts v. Pitts, 161 Wash.2d 16, 22, 162 P.3d 382 (2007); Fisher Props., Inc. v. Arden–Mayfair, Inc., 106 Wash.2d 826, 843, 726 P.2d 8 (1986).
+
+B
+
+¶ 13 Jim and Shannon characterize the measure of recovery as “unjust enrichment” whilst Judith characterizes the measure of recovery as “quantum meruit.” As an initial matter we take this opportunity to conceptually clarify the distinction between “unjust enrichment” and “quantum meruit.” Washington courts have historically used these terms synonymously, but the distinction between them is legally significant. Our purpose is to standardize the nomenclature and eliminate unnecessary multiplicity of terms.[fn:3]
+
+
+[fn:3] Occam’s Razor instructs “Entia non sunt multiplicanda praeter necessitate,” which translates into today’s vernacular as “Keep it simple.” Casarez v. Val Verde County, 16 F.Supp.2d 727, 729 (1998).
+
+
+¶ 14 The two terms are distinct approaches founded on discrete legal theories: contracts {{**1262}} implied in law and contracts implied in fact. See Chandler v. Wash. Toll Bridge Auth., 17 Wash.2d 591, 600, 137 P.2d 97 (1943) (“[T]he law recognizes two classes of implied contracts: those implied in {{*484}} fact, and others implied in law.”). See also Martin v. Campanaro, 156 F.2d 127, 130 n. 5 (2d Cir.1946).
+
+[3] ¶ 15 Unjust enrichment is the method of recovery for the value of the benefit retained absent any contractual relationship because notions of fairness and justice require it. See Bailie Commc’ns, Ltd. v. Trend Bus. Sys., Inc., 61 Wash.App. 151, 160, 810 P.2d 12 (1991) (“Unjust enrichment occurs when one retains money or benefits which in justice and equity belong to another.”).
+
+[4] <<4: 395H-k-15>> [5] <<5: 395H-k-12>> [6] <<6: 395H-k-15>> ¶ 16 In such situations a quasi contract is said to exist between the parties. Bill v. Gattavara, 34 Wash.2d 645, 650, 209 P.2d 457 (1949) (stating “the terms ‘restitution’ and ‘unjust enrichment’ are the modern designations for the older doctrine of ‘quasi contracts.’ ”); State v. Cont’l Baking Co., 72 Wash.2d 138, 143, 431 P.2d 993 (1967) (“ ‘If the defendant be under an obligation, from the ties of natural justice, to refund; the law implies a debt, and gives this action, founded in the equity of the plaintiff’s case, as it were upon a contract, (quasi ex contractu) ....’ ”) (internal quotation marks omitted) (quoting State ex rel. Employment Sec. Bd. v. Rucker, 211 Md. 153, 157–58, 126 A.2d 846 (1956) (quoting Moses v. Macferlan, 2 Burr. 1005, 97 Eng. Rep. 676, 678 (1760))).
+
+“Three elements must be established in order to sustain a claim based on unjust enrichment: a benefit conferred upon the defendant by the plaintiff; an appreciation or knowledge by the defendant of the benefit; and the acceptance or retention by the defendant of the benefit under such circumstances as to make it inequitable for the defendant to retain the benefit without the payment of its value.”
+
+Bailie Commc’ns, 61 Wash.App. at 159–60, 810 P.2d 12 (quoting Black’s Law Dictionary 1535–36 (6th ed.1990)). See also Lynch v. Deaconess Med. Ctr., 113 Wash.2d 162, 165, 776 P.2d 681 (1989) (stating elements as “the enrichment of the defendant must be unjust; and ... the plaintiff cannot be a mere volunteer.”). In other words the elements of a contract implied in law are: (1) the defendant receives a benefit, (2) the received benefit is at the plaintiff’s expense, and (3) the {{*485}} circumstances make it unjust for the defendant to retain the benefit without payment.
+
+[7] ¶ 17 “Quantum meruit,” on the other hand, is the method of recovering the reasonable value of services provided under a contract implied in fact.[fn:4] See, e.g., Eaton v. Engelcke Mfg., Inc., 37 Wash.App. 677, 681 P.2d 1312 (1984) (affirming quantum meruit award on basis of contract implied in fact); see also A.F.A.B., Inc. v. Town of Old Orchard Beach, 639 A.2d 103, 105 n. 3 (Me.1994) (“Quantum meruit denotes recovery for the value of services or materials provided under an actual, implied-in-fact contract.”).5
+
+
+[fn:4] “Quantum meruit” has also been used to recover the reasonable value of services provided when a change occurs that was not within the contemplation of the parties, and the change requires extra work and materials or causes a substantial loss to the claimant. Bignold v. King County, 65 Wash.2d 817, 826, 399 P.2d 611 (1965) (citing Schuehle v. City of Seattle, 199 Wash. 675, 92 P.2d 1109 (1939)). In addition “Quantum meruit” has been used to measure recovery for part performance. See Dravo Corp. v. L.W. Moses Co., 6 Wash.App. 74, 492 P.2d 1058 (1971). In each of these instances, however, some underlying contractual relationship between the parties affects the measure of recovery. See id. at 91–92, 492 P.2d 1058. Hence the quantum meruit recovery falls under a contract implied in fact theory.
+
+
+[fn:5] But see Heaton v. Imus, 93 Wash.2d 249, 253–54, 608 P.2d 631 (1980) (applying quantum meruit to contract implied in law) and Losli v. Foster, 37 Wash.2d 220, 222 P.2d 824 (1950) (same). In Heaton and Losli the parties believed there was a binding contract. See Heaton, 93 Wash.2d at 251, 608 P.2d 631; Losli, 37 Wash.2d at 223, 222 P.2d 824. Nevertheless, in each case the court awarded recovery based on an implied in law contract, imprecisely using “quantum meruit” to describe the unjust enrichment remedy. Courts and litigants have applied the term “quantum meruit” to contracts implied in law and contracts implied in fact, institutionalizing ambiguity. See, e.g., Park v. Ross Edwards, Inc., 41 Wash.App. 833, 837–38, 706 P.2d 1097 (1985). Such proliferate application of legal terms is the “bane of the law” not easily eradicated. ConFold Pac., Inc. v. Polaris Indus., Inc., 433 F.3d 952, 957 (7th Cir.2006).
+
+
+[8] <<8: 95-k-27>> [9] <<9: 95-k-27>> ¶ 18 A contract implied in fact:
+
+is an agreement depending for its existence on some act or conduct of the party {{**1263}} sought to be charged and arising by implication from circumstances which, according to common understanding, show a mutual intention on the part of the parties to contract with each other. The services must be rendered under such circumstances as to indicate that the person rendering them expected to be paid therefor, and that the recipient expected, or should have expected, to pay for them.
+
+{{*486}} Johnson v. Nasi, 50 Wash.2d 87, 91, 309 P.2d 380 (1957) (citing Ross v. Raymer, 32 Wash.2d 128, 137, 201 P.2d 129 (1948)). In other words the elements of a contract implied in fact are: (1) the defendant requests work, (2) the plaintiff expects payment for the work, and (3) the defendant knows or should know the plaintiff expects payment for the work.
+
+[10] ¶ 19 In sum, “unjust enrichment” is founded on notions of justice and equity whereas “quantum meruit” is founded in the law of contracts, a legally significant distinction. See Bailie Commc’ns, 61 Wash.App. at 160, 810 P.2d 12 (“Thus while quantum meruit, inasmuch as it involves retention of benefits in the form of services received, falls within the unjust enrichment doctrine, unjust enrichment applies to a far broader category of cases.”); see also Candace S. Kovacic, A Proposal to Simplify Quantum Meruit Litigation, 35 AM. U.L.REV. 547, 553–62 (1986) (discussing the confusion surrounding these theories).
+
+[11] <<11: 395H-k-89>> ¶ 20 After reviewing the trial court’s findings of fact and conclusions of law, we find it is unclear whether there was a contract implied in fact or a contract implied in law. Clearly Judith received a benefit at the plaintiff’s expense and the circumstances make it unjust for her to retain that benefit without payment. Equally clear, however, is Judith’s request for the work, Jim’s reasonable expectation of payment for the work, and Judith’s knowledge that Jim expected compensation.
+
+¶ 21 Under a contract implied in fact, Jim and Shannon’s recovery would be limited to the value of services rendered. See Bailie Commc’ns, 61 Wash.App. at 160, 810 P.2d 12; Eaton, 37 Wash.App. at 682, 681 P.2d 1312. Nevertheless, Jim and Shannon do not to argue for an implied-in-fact contract. See Cahn v. Foster & Marshall, Inc., 33 Wash.App. 838, 840, 658 P.2d 42 (1983) (stating, “[t]he burden of proving a contract, whether express or implied, is on the party asserting it....”). Therefore, we must determine Judith’s obligation under an implied-in-law contract and the equitable theory of unjust enrichment.
+
+{{*487}} C
+
+[12] <<12: 315-k-873(7)>> ¶ 22 In the abstract the issue is whether the proper measure of recovery under unjust enrichment is the market value of the services rendered or the claimant’s actual cost to render those services. In real terms the issue is whether the trial judge properly deducted $258,5166 from the cost Judith would have paid a normal contractor to perform the work performed by Jim and Shannon, or whether Jim and Shannon are entitled to the full amount despite not incurring certain costs normally incurred in a business relationship
+
+6
+
+$258,516 is the difference between the total market cost, $760,382, and the amount awarded by the trial judge, $501,866. Alternatively, the trial judge deducted $248,134 from the amount recoverable by Jim and Shannon, which is the difference between the lowest accretion in value attributable to Jim and Shannon’s improvements, $750,000, and the amount awarded by the trial judge.
+
+[13] <<13: 315-k-873(7)>> ¶ 23 Washington law states the measure of recovery for unjust enrichment to a faultless claimant for the claimant’s improvement to land is measured in one of two ways. It may be measured “by the amount which the benefit conferred would have cost {{**1264}} the defendant had it obtained the benefit from some other person in the plaintiff’s position.” Noel v. Cole, 98 Wash.2d 375, 383, 655 P.2d 245 (1982) (citing RESTATEMENT (SECOND) OF CONTRACTS § 371, cmt. b (1981)), superseded by statute as stated in Dioxin/Organochlorine Ctr. v. Pollution Control Hearings Bd., 131 Wash.2d 345, 360, 932 P.2d 158 (1997). Alternatively, it may be measured by “the extent to which the other party’s property has been increased in value or his other interests advanced.” RESTATEMENT (SECOND) OF CONTRACTS § 371(b) (1981); see also Smith v. Favilla, 23 Wash.App. 59, 62–63, 593 P.2d 564 (1979).
+
+[14] ¶ 24 Here, the value of the first measure is $760,382 while the value of the second measure is between $750,000 and $1,050,000. Therefore, under Washington law Jim and Shannon are entitled to an award between $750,000 and $1,050,000. Within this range the trial court, reviewing the {{*488}} complex factual matters involved in the case, has tremendous discretion to fashion a remedy “to do substantial justice to the parties and put an end to the litigation.” Esmieu v. Hsieh, 92 Wash.2d 530, 535, 598 P.2d 1369 (1979); Hough v. Stockbridge, 150 Wash.2d 234, 76 P.3d 216 (2003). Yet here the trial court awarded $501,866, supposing the circumstances of the claimant affected the quantum of recovery. We find no support for this proposition.
+
+¶ 25 Certainly, when a court calculates the recovery for unjust enrichment not all cost is recoverable. As stated in the RESTATEMENT (SECOND) OF CONTRACTS, “a party’s expenditures in preparation for performance that do not confer a benefit on the other party do not give rise to a restitution interest.” RESTATEMENT (SECOND) OF CONTRACTS § 370 cmt. a (1981); see also id. § 371 cmt. b (stating, “expenditures are excluded to the extent that they conferred no benefit.”). Here, however, the trial court deducted “mobilization/demobilization costs; the cost of providing supervision, tools and general equipment; the cost for debris disposal; a markup for overhead and profit; and construction contingency; the cost of bonds; insurance and business taxes; and the cost of Washington State sales tax.” CP at 640. Undoubtedly some of these costs conferred a benefit to Judith.
+
+¶ 26 Contrary to the dissent’s assertion, the benefits derived from some of these costs are independent of the formality of the relationship. See dissent at 495. For example, Judith benefited by having Jim and Shannon dispose of the debris generated by the improvements she requested. Moreover, Judith benefited by having Jim and Shannon provide tools and equipment. In short, justice requires Judith to pay for the benefit she received from these services.7 The trial court erred in totally deducting all of these costs without an examination of whether these {{*489}} costs had some consequential relationship to the value of the benefit conferred.8 See A.F.A.B., Inc., 639 A.2d at 106 (“Such a blanket exclusion of a plaintiff’s overhead, costs, and profits is improper unless the court determines that they have no meaningful relationship to the value of the benefit conferred and the extent to which a defendant has been enriched.”) (emphasis in original).
+
+7
+
+“ ‘If the defendant be under an obligation, from the ties of natural justice, to refund; the law implies a debt, and gives this action, founded in the equity of the plaintiff’s case, as it were upon a contract, (quasi ex contractu),....’ ” State v. Cont’l Baking Co., 72 Wash.2d 138, 143, 431 P.2d 993 (1967) (internal quotation marks omitted) (quoting State ex rel. Employment Sec. Bd. v. Rucker, 211 Md. 153, 157–58, 126 A.2d 846 (1956) (quoting Moses v. Macferlan, 2 Burr. 1005, 97 Eng. Rep. 676, 678 (1760))).
+
+8
+
+The dissent conflates cost with value, often correlated but not intertwined terms. Dissent at 1266–67. Cost refers to whatever is given to secure the benefit received, whereas value refers to the relative worth of the benefit to the recipient.
+
+¶ 27 This approach does not bind the hand of the trial court as the dissent suggests. Dissent at 495-96. To the contrary, we recognize the complexity of informal construction arrangements and demand a careful analysis of the benefits conferred. This approach ensures the defendant remunerates {{**1265}} the faultless claimant for every benefit conferred independent of the formality of the relationship.
+
+D
+
+¶ 28 Judith argues the court should not be constrained when calculating the unjust enrichment award based on improvements to real property. Instead, Judith argues, the trial court should have broad discretion to fashion a remedy based on the unique facts and circumstances of the parties. Judith’s argument overlooks the focus of an unjust enrichment calculation.
+
+¶ 29 The obligation to repay the debt or disgorge the value of the received benefit focuses on the receiver of the benefit, not on the provider of the benefit. See RESTATEMENT OF RESTITUTION: QUASI CONTRACTS AND CONSTRUCTIVE TRUSTS § 155(1) (1937) (stating “the measure of recovery for the benefit thus received is the value of what was received”).
+
+[W]here money is awarded to protect a claimant’s restitution interest, it may, depending on what “justice requires,” be measured either by the reasonable value of what the other party has received, as viewed through the eyes of the recipient, by looking to what the recipient would have had to pay {{*490}} someone in the claimant’s position to obtain the goods or services, or by the extent to which the other party’s property has been increased in value....
+
+26 SAMUEL WILLISTON & RICHARD A. LORD, A TREATISE ON THE LAW OF CONTRACTS § 68:35, at 424 (4th ed.2003) (emphasis added).
+
+[15] ¶ 30 Judith understands the phrase “in the claimant’s position” to mean the court considers the claimant’s circumstances when calculating his recovery. The claimant’s position, however, refers to similar providers of like services, not the actual claimant; otherwise, the quantum of recovery would always be limited by the claimant’s actual cost. Unjust enrichment recovery is limited only by the claimant’s actual cost when the claimant is at fault. See Noel, 98 Wash.2d at 383 n. 6, 655 P.2d 245 (citing Edwards v. City of Renton, 67 Wash.2d 598, 607, 409 P.2d 153 (1965)). Here, neither Jim nor Shannon was at fault, so they are entitled to full restitution of Judith unjust enrichment. Phrased alternatively, Judith must disgorge the entire value of the benefit she received as determined by either the fair market value of the services rendered or the amount the improvements enhanced the value of the property.
+
+¶ 31 Notably, Judith requested the work. Under circumstances where a person asks for and receives valuable improvements to property the person is required to pay the market value of what was received. See RESTATEMENT OF RESTITUTION, supra, § 155, cmt. d (1937) (stating “the fact that [she] asked for them shows that they are of value to [her] ... and normally [she] would be required to pay the market price of such services....”).
+
+[16] <<16: 315-k-873(7)>> ¶ 32 Judith’s theory of recovery is based on preventing a supposedly unconscionable gain to the claimant. Yet, her theory of recovery permits a defendant to retain some benefit.9 Under circumstances where the claimant is at {{*491}} fault and/or the defendant did not consent to the benefit such a theory of recovery may be sound. See Edwards, 67 Wash.2d at 607, 409 P.2d 153 (limiting the recovery to cost because of violation to bidding statute). But where the claimant is not at fault and the defendant agreed to the improvements, fairness and justice dictate the defendant should be held to pay the entire amount as measured by how much it would have cost the defendant to purchase the improvements or by how much the improvement enhanced the value of the property. See Noel, 98 Wash.2d at 383, 655 P.2d 245; see also RESTATEMENT OF RESTITUTION, supra, § 158, cmt. d (1937) (stating “where it is clear that the owner did desire {{**1266}} improvements, it is fair that [she] should pay for them.”).
+
+9
+
+In fact, the property increased in value by at least $750,000 on account of Jim and Shannon’s improvements. Limiting recovery to $501,866 allows Judith to retain a windfall of at least $248,134.
+
+III. CONCLUSION
+
+[17] <<17: 315-k-873(7)>> ¶ 33 We affirm the Court of Appeals. We hold when calculating an unjust enrichment award in a quasi-contract action for improvements to real property the award may not be reduced by the claimant’s actual cost absent fault by the claimant or inconsequential relationship to the benefit conferred to the defendant. We remand to the trial court for recalculation of Jim and Shannon’s award.
+
+WE CONCUR: ALEXANDER, C.J., MADSEN, CHAMBERS, and J. JOHNSON, JJ.
+
+** OWENS, J. (dissenting).
+
+¶ 34 The majority insists that a professional, licensed and bonded general contractor is in the same position as Jim and Shannon Young, who were not licensed and bonded as general contractors, did not pay taxes, and performed work on their own time line while living on Judith Young’s property. In so holding, the majority strips trial judges of the discretion to craft appropriate equitable remedies in unjust enrichment cases.
+
+¶ 35 Additionally, in its discussion of implied contract theory, the majority changes—it does not merely “clarify”—the definition of the long-used common-law phrase “quantum {{*492}} meruit.” The majority does not adequately acknowledge this change, nor does it support the change in a principled way.
+
+¶ 36 For these reasons, I dissent.
+
+The Measure of Recovery in Unjust Enrichment Actions
+
+¶ 37 Jim and Shannon10 brought a quasi-contract or unjust enrichment claim. At issue here is the proper application of the “reasonable value of services” measure of recovery for unjust enrichment, set forth in the Restatement (Second) of Contracts. The Restatement, section 371, adopted by this court in Noel v. Cole, 98 Wash.2d 375, 655 P.2d 245 (1982), superseded by statute on other grounds as stated in Dioxin/Organochlorine Center v. Pollution Control Hearings Board, 131 Wash.2d 345, 362, 932 P.2d 158 (1997), states that unjust enrichment recovery11 may be measured as “the reasonable value to the other party of what [she] received in terms of what it would have cost [her] to obtain it from a person in the claimant’s position.” RESTATEMENT (SECOND) OF CONTRACTS § 371(a) (1981).
+
+10
+
+For ease in identification, we refer to the parties by their first names as they are identified in the parties’ briefings.
+
+11
+
+The Restatement, section 371, describes restitution. The remedy for unjust enrichment is restitution. See BLACK’S LAW DICTIONARY 1573–74 (8th ed.2004); 1 ARTHUR LINTON CORBIN & JOSEPH M. PERILLO, A TREATISE ON THE LAW OF CONTRACTS § 1.20, at 63 (rev. ed.1993).
+
+¶ 38 I agree with the majority that a person “in the claimant’s position” means a “similar provider[ ] of like services.” Majority at 490. Jim and Shannon urge us to calculate the “reasonable value” of the benefit as the sum Judith would have paid a professional general contractor to perform the work. But Jim and Shannon are dissimilar to professional general contractors.12 They undertook to perform the work on an informal basis, on their own time line, {{*493}} while living on the property. They were not licensed, bonded, or insured as general contractors. They paid no state taxes; they incurred no overhead costs. The court was correct to measure the value of their services as informal contractors, not professional general contractors.
+
+12
+
+Jim was not a licensed and bonded general contractor. Clerk’s Papers (CP) at 659. The findings of fact state that Jim was licensed and bonded for the activities of “timber cutting, clearing, grading, dozing, and concrete slab construction.” CP at 618. The activities in which he engaged far exceeded the scope of this list. See CP at 219–27.
+
+¶ 39 Contrary to the majority’s assertion, this reading of “in the claimant’s position” does not ignore the fact that the remedy of restitution should cause the recipient of the benefit to disgorge that benefit in full. See majority at 490. Instead, this approach recognizes {{**1267}} that receiving the benefit from informal workers reduces the actual value of the benefit, largely because the recipient bears increased risk. For example, no performance bond guarantees that the project will be completed. If a construction accident occurs for which the recipient could be liable or if construction defects surface, the recipient lacks insurance protection. The recipient cannot seek recourse with the state Department of Licensing if she is unsatisfied with the work. There is no doubt that the provider’s circumstances affect the work’s value to the recipient, thus trial judges may adjust recovery accordingly.
+
+¶ 40 Our case law and the Restatement show that the trial judge had ample discretion when fashioning the remedy in this case. Initially, the majority correctly notes that unjust enrichment is an equitable doctrine.13 Precisely for that reason, there can be no strict rule for calculating “reasonable value of services” recovery in an unjust enrichment action. See 26 SAMUEL WILLISTON & RICHARD A. LORD, A TREATISE ON THE LAW OF CONTRACTS § 68:36, at 445 & n. 89 (4th ed.2003). “ ‘[E]quitable doctrines grew naturally out of the humane desire to relieve [parties] under special circumstances {{*494}} from the harshness of strict legal rules.’ ” Kingery v. Dep’t of Labor & Indus., 132 Wash.2d 162, 173–74, 937 P.2d 565 (1997) (quoting Ames v. Dep’t of Labor & Indus., 176 Wash. 509, 513, 30 P.2d 239 (1934)). When fashioning equitable remedies, trial courts’ aim is “to do substantial justice to the parties.” See Esmieu v. Hsieh, 92 Wash.2d 530, 535, 598 P.2d 1369 (1979); Hough v. Stockbridge, 150 Wash.2d 234, 236, 76 P.3d 216 (2003). To that end, trial courts sitting in equity must look to the circumstances surrounding each case when determining remedies. Esmieu, 92 Wash.2d at 535, 598 P.2d 1369.
+
+13
+
+Though quasi-contract doctrine developed in the common law, and thus unjust enrichment actions are often considered “legal” in nature, the doctrine is squarely founded on equitable principles. 26 SAMUEL WILLISTON & RICHARD A. LORD, A TREATISE ON THE LAW OF CONTRACTS § 68:1, at 24–25 (4th ed.2003). A party is liable in an unjust enrichment action when she possesses another’s money or property and “ ‘in equity and good conscience, [she] ought not to retain it.’ ” Heaton v. Imus, 93 Wash.2d 249, 252, 608 P.2d 631 (1980) (quoting Bill v. Gattavara, 34 Wash.2d 645, 650, 209 P.2d 457 (1949)).
+
+¶ 41 The Restatement rule for “reasonable value” recovery contemplates this flexible approach to calculating awards. As noted above, it states that “reasonable value” is “what [the other party] received in terms of what it would have cost [her] to obtain it from a person in the claimant’s position.” RESTATEMENT (SECOND) OF CONTRACTS § 371(a) (1981) (emphasis added). Further, the Restatement acknowledges that the measure of “reasonable value” is “usually based on the market price of ... a substitute.” RESTATEMENT (SECOND) OF CONTRACTS § 371 cmt. a, at 203 (1981) (emphasis added). The Restatement invites courts sitting in equity to consider the claimant’s position, using market value as a starting point.
+
+¶ 42 In Noel, this court established that the court may take a plaintiff’s circumstances into account when calculating the amount of recovery. 98 Wash.2d at 383, 655 P.2d 245. In Noel, an unjust enrichment case about improvements to state timber lands, this court remanded to the trial court for a computation of recovery. Id. at 383–84, 655 P.2d 245. This court ordered the trial court to allow the plaintiff to prove the “reasonable value” of its improvements. Id. at 383, 655 P.2d 245. Specifically, this court advised the trial court that the reasonable value of the services “might be either more or less” than cost, plainly intending to allow the trial court to consider the circumstances of the case when determining “reasonable value.” Id.
+
+¶ 43 Other Washington cases have taken a flexible approach and used factors other than strict “market value” in {{*495}} calculating reasonable value awards. In Losli v. Foster, 37 Wash.2d 220, 232, 222 P.2d 824 (1950), this court used “the actual cost to appellant of the labor and materials supplied” as the basis for its calculations.14 In Heaton v. Imus, 93 Wash.2d 249, 254, 608 P.2d 631 (1980), this {{**1268}} court recognized that lost profits may also factor into the calculation at a trial court’s discretion. This sort of flexibility is crucial in fashioning remedies that do equity to the parties.
+
+14
+
+The majority cites Noel for the proposition that “[u]njust enrichment recovery is limited only by the claimant’s actual cost when the claimant is at fault.” Majority at 1265 (citing Noel, 98 Wash.2d at 383 n. 6, 655 P.2d 245). First, the record gives no indication that the trial judge found himself legally constrained to limit Jim and Shannon’s recovery to cost. He simply seems to have decided that a measure of recovery that approximated cost was the most appropriate for the situation. Second, the Noel passage cited by the majority does not state a clear rule that cost is a limit only when the claimant is at fault. Noel says, “In general, a court should not limit maximum recovery to cost as was directed in Edwards.... That limitation was justified there because the statute violated was a bidding statute.” 98 Wash.2d at 383 n. 6, 655 P.2d 245. (citing Edwards v. City of Renton, 67 Wash.2d 598, 607, 409 P.2d 153 (1965)). In Edwards, the claimant was a shopping center that agreed with the city to pay for a traffic light and to be reimbursed later. 67 Wash.2d at 600, 409 P.2d 153. The defendant city, not the claimant shopping center, violated the bidding statute by agreeing to pay for the signal without taking bids for its construction. Id. at 602–03, 409 P.2d 153. In these special circumstances, the court concluded that the recovery should be what the low bid would have been, not to exceed the amount actually paid. Id. at 607, 409 P.2d 153.
+
+¶ 44 Here, when Jim and Shannon brought an unjust enrichment claim, they asked the trial judge to sit in equity. Accordingly, the trial judge had broad discretion to fashion a remedy that did substantial justice to the parties. By deducting general contractors’ costs from the expert’s cost estimate, the trial judge awarded “reasonable value” of the benefit in terms of what it would have cost Judith to obtain it in an informal arrangement with other parties who were not professional general contractors. The remedy he ordered here was well within the bounds of his discretion under the doctrine of unjust enrichment.
+
+¶ 45 Informal arrangements for home improvement and construction are common, especially in rural areas, and they present a dizzying variety of circumstances for trial judges to consider. By limiting trial judges to strict market value of professional contracting services as the measure of “reasonable value,” the majority ties the hands of trial {{*496}} judges when faced with nuanced conflicts arising from these informal construction arrangements. I dissent.
+
+The Meaning of “Quantum Meruit”
+
+¶ 46 The majority also devotes a number of pages to a discussion of implied contract theory, and its outline of the distinction between implied-in-law and implied-in-fact contracts may prove useful. However, in that discussion, the majority makes an unannounced and unprincipled change to the definition of the phrase “quantum meruit,” a change that may be confusing to litigants and courts alike.
+
+¶ 47 In examining this change in the definition of “quantum meruit,” we must first note that payment of the “reasonable value” of services rendered is a remedy for breach of both types of implied contracts: contracts implied in fact and contracts implied in law. Implied-in-law contracts are also called “quasi contracts,” and they seek to remedy “unjust enrichment,” thus all three terms are regularly used to describe the action itself. The remedy in an unjust enrichment action is restitution, see BLACK’S LAW DICTIONARY 1573–74 (8th ed.2004), which is measured as either: (1) the reasonable value of the services or (2) the increase in value of the recipient’s property, RESTATEMENT (SECOND) OF CONTRACTS  § 371(a), (b) (1981). The remedy for breach of an implied-in-fact contract is simply the reasonable value of services. Eaton v. Engelcke Mfg., Inc., 37 Wash.App. 677, 682, 681 P.2d 1312 (1984).
+
+¶ 48 At least until now, “quantum meruit” simply has been the Latin shorthand for the “reasonable value” measure of recovery, regardless of whether the plaintiff sought recovery under a contract implied in law (quasi contract, unjust enrichment) or a contract implied in fact. 1 ARTHUR LINTON CORBIN & JOSEPH M. PERILLO, A TREATISE ON THE LAW OF CONTRACTS § 4.5, at 596 (rev. ed. 1993) (“ ‘Reasonable value’ is often expressed in the law-[L]atin phrase quantum meruit. {{**1269}} This phrase, or its English equivalent, reasonable value, is used in express or implied-in-fact contracts, and in quasi contract cases.” (footnote omitted));  {{*497}} Heaton, 93 Wash.2d at 252–53, 608 P.2d 631 (stating that “[q]uantum meruit is not a legal obligation like quasi contract, but is rather a remedy: ‘a reasonable amount for work done,’ ” granting “quantum meruit” recovery on the basis of a quasi-contract claim); Black’s, supra, at 1276 (“the reasonable value of services.”); Eaton, 37 Wash.App. at 680, 681 P.2d 1312 (stating that quantum meruit applied in quasi-contract and implied-in-fact contract cases.); Bailie Commc’ns, Ltd. v. Trend Bus. Sys., Inc., 61 Wash.App. 151, 159, 810 P.2d 12 (1991) (“ ‘ “Quantum meruit” as amount of recovery ... measures recovery under implied contract to pay compensation as reasonable value of services rendered.’ ” (quoting BLACK’S LAW DICTIONARY 1243 (6th ed.1990))). The term “quantum meruit” logically describes a measure of recovery for both implied-in-law and implied-in-fact contracts, because both can be remedied by a “reasonable value” recovery, for which the phrase “quantum meruit” is merely a shorthand description.
+
+¶ 49 The majority now states, as though it were an unshakable historical premise, that the term “quantum meruit” can be used only in the context of a contract implied in fact. Majority at 484. The majority cites to Eaton for the proposition that quantum meruit recovery applies to contracts implied in fact (presumably to the exclusion of contracts implied in law/quasi contracts). Majority at 485. Eaton, however, clearly demonstrates an expansive usage of the term:
+
+The remedy of quantum meruit applies in a variety of situations. See Heaton ..., [93 Wash.2d 249, 608 P.2d 631] (quasi contract); Lester N. Johnson Co. v. [City of] Spokane, 22 Wash.App. 265, 588 P.2d 1214 (1978) (when parties enter into a contract and substantial change not within their contemplation later occurs); Dravo Corp. v. L.W. Moses Co., 6 Wash.App. 74, 492 P.2d 1058 (1971) (restitution for part performance); Kintz v. Read, 28 Wash.App. 731, 626 P.2d 52 (1981); Hopkins v. Anderson, 7 Wash.App. 762, 502 P.2d 473 (1972) (implied in fact contract to pay the reasonable value for services rendered).
+
+37 Wash.App. at 680–81, 681 P.2d 1312. The majority’s only other support for restricting the use of the term “quantum meruit” to implied-in-fact {{*498}} contract situations is a Maine case. The majority then goes on, in a footnote, to dismiss the significance of two cases from this court that gave “quantum meruit” awards based on contracts implied in law.
+
+¶ 50 The majority tells us that the distinction between “quantum meruit” recovery and recovery under an unjust enrichment (implied-in-law contract) theory is “legally significant” because one is equitable while the other is legal. Majority at 486. But the “legal significance” lies in the nature of the underlying cause of action, not the name of the measure of recovery. The term “quantum meruit” as the name for a remedy garnered this kind of “legal significance” for the first time today, when the majority declared that it could no longer be used in the implied-in-law contract context.
+
+¶ 51 Of course, this court is entitled to change its mind. It has the prerogative to decide that “quantum meruit” describes “reasonable value” recovery under implied-in-fact contracts, and to banish the term from the discussion of “reasonable value” recovery under implied-in-law contracts. After all, because the majority does not change the substance of implied contract claims, the distinction is purely semantic.
+
+¶ 52 But when this court changes the definition of a long-used common-law term, it should be clear about it. It should inform future litigants that they can no longer rely on the dictionary definition of the term, see BLACK’S, supra, at 1276, nor on the explanations in major treatises, see 26 LORD, supra, § 68:1, at 5. And it should make such a change for a well-articulated reason. The majority does not do so.
+
+¶ 53 Because this court and future litigants should be apprised of this change, and because {{**1270}} the majority inadvisably constrains the discretion of trial judges to do equity to the parties in unjust enrichment cases involving informal construction agreements, I write in dissent.
+
+WE CONCUR: FAIRHURST, C. JOHNSON, JJ., and BRIDGE, J.P.T.
+
