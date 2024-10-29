@@ -1,0 +1,160 @@
+#+title:      Hernandez-Madrid v. Chen, 28 Wn. App. 2d 1016 (2023)
+#+date:       [2023-09-18 Mon 00:00]
+#+filetags:   :case:deposit:dv:rlta:sj:
+#+identifier: 20230918T000000
+
+* Hernandez-Madrid v. Chen -- Court of Appeals of Washington, Division 1. | September 18, 2023 | Not Reported in Pac. Rptr. | 28 Wash.App.2d 1016
+
+- Washington Citation :: Hernandez-Madrid v. Chen, 28 Wn. App. 2d 1016 (2023)
+
+- All Citations :: Not Reported in Pac. Rptr., 28 Wash.App.2d 1016, 2023 WL 6060517
+
+
+                         28 Wash.App.2d 1016
+             Court of Appeals of Washington, Division 1.
+        Paola HERNANDEZ-MADRID and Rene Vasquez, Respondents,
+                                  v.
+              Amanda CHEN a/k/a Chunyao Chen, Appellant.
+
+                            No. 85065-2-I
+                       Filed September 18, 2023
+
+- Honorable Leroy McCullough, Judge
+- Attorneys and Law Firms
+- Amanda Chen (Appearing Pro Se), 15 Barcelona Circle, Redwood, CA, 94065.
+- Joseph B. Jordan, Northwest Justice Project, 401 2nd Ave S Ste 407, Seattle, WA, 98104-3811, for Respondents.
+
+** Brief
+
+** UNPUBLISHED OPINION
+
+Dwyer, J.
+
+{{*1}} Amanda Chen appeals from a trial court order granting summary judgment to Chen’s tenants, who sued her for a return of their security deposit after terminating their lease under the statute governing lease terminations by victims of domestic violence. Because Chen does not establish an entitlement to appellate relief, we affirm.
+
+I
+
+In August 2021, Paola Hernandez-Madrid and her partner, Rene Vasquez, agreed to lease a Kent townhome from Chen. They paid a $3,500 deposit, $500 of which the lease agreement designated as nonrefundable, and moved in on September 1, 2021. The lease agreement contained a liquidated damages clause stating, “In the event tenants terminate the lease prior to the lease ending date of August 31, 2022, the tenant will pay the landlord a fixed sum of $6750 as liquidated damages.”
+
+On March 29, 2022, about seven months into the lease’s 12-month term, Hernandez-Madrid notified Chen by e-mail that she and Vasquez intended to vacate the townhome due to domestic violence perpetrated by Hernandez-Madrid’s former husband, Samuel Rebollo:
+
+This is to be considered as formal notification that Rene Vasquez and Paola Hernandez-Madrid will be vacating the unit ... on March 31st, 2022, due to domestic violence. My kids, husband Rene Vasquez and I ... are victims of domestic violence by my ex-husband and biological father of my children. The incidents occurred on February 10, 15, 22, 28th March 4, 12, 13, 20 and ongoing he has been stalking us at home and has been stalking our kids he has been seen walking around our kids’ school. We fear for our safety and do not feel safe at [home] anymore and fear that if we stay, he will keep on stalking and coming over to harass us.
+
+Attached to Hernandez-Madrid’s e-mail were copies of: (1) a February 14, 2022 petition for a domestic violence protection order (DVPO) protecting Hernandez-Madrid, her children, and Vasquez from Rebollo, (2) a temporary protection order issued on February 14, 2022, (3) a March 23, 2022 order reissuing the temporary protection order, and (4) an excerpt from an article describing RCW 59.18.575, which Hernandez-Madrid stated “allows us to be released of any obligation under the rental agreement.”
+
+On March 30, 2022, Chen confirmed receipt of Hernandez-Madrid’s e-mail and documents, indicated she was “Ok” with “terminat[ing the] lease based on the referenced legal proceeding,” and scheduled a move-out inspection for April 1, 2022. It is undisputed that after the inspection, Chen initially determined that her tenants were entitled to a refund of $3,000, the full refundable portion of their security deposit. It is also undisputed that Hernandez-Madrid and Vasquez never received that refund. And, it is undisputed that although Hernandez-Madrid notified Chen that the refund was not received, Chen never provided it. Instead, Chen later insisted that because Hernandez-Madrid’s DVPO petition was ultimately denied at a final hearing, “the foundation of early lease termination without penalty is not valid/voided.”
+
+{{*2}} Hernandez-Madrid and Vasquez initiated this lawsuit against Chen, and on September 21, 2022, Chen filed a motion to dismiss on the following bases: (1) designation of the improper case assignment area (Seattle rather than Kent), (2) failure to state a claim on which relief could be granted, and (3) fraudulent misrepresentation by Hernandez-Madrid and Vasquez that they were indigent, which Chen asserted resulted in insufficiency of process.
+
+On September 23, 2022, Hernandez-Madrid and Vasquez moved for summary judgment in the form of a declaration that they were entitled to terminate their lease under RCW 59.18.575 and did not owe anything to Chen for an alleged breach or early termination. They also requested judgment in the amount of $6,000 under the Residential Landlord-Tenant Act of 1973 (RLTA), chapter 59.18 RCW. And they requested an award of attorney fees.
+
+Both Chen’s motion to dismiss and Hernandez-Madrid and Vasquez’s motion for summary judgment came before the trial court for a hearing on January 27, 2023. According to a minute entry, also before the court was a motion by Chen to continue the summary judgment hearing.
+
+The trial court denied Chen’s motion to dismiss and her motion to continue the summary judgment hearing. It entered a written order granting Hernandez-Madrid and Vasquez’s motion for summary judgment, ruling that “Plaintiffs were entitled to terminate their residential lease agreement with [Chen] pursuant to RCW 59.18.575” and “do not owe any amount to [Chen] for alleged breach or early termination of the residential lease agreement, including any amount pursuant to paragraph 23 of the agreement, regarding liquidated damages.” The trial court also granted Hernandez-Madrid and Vasquez’s money judgment request in part, awarding them $4,500.00. It reserved on the issue of attorney fees, setting a deadline for additional briefing on the matter. Hernandez-Madrid and Vasquez later filed a cost bill seeking solely costs totaling $741.50, including statutory attorney fees of $200.00.[fn:1]
+
+
+[fn:1] Hernandez-Madrid and Vasquez represent on appeal that they elected not to seek attorney fees due to Chen’s status as a pro se defendant.
+
+
+Chen appeals.
+
+II
+
+Chen first argues that the trial court’s summary judgment order must be vacated because the court erred by denying her motion to continue the summary judgment hearing. We disagree.
+
+Under CR 56(f), a court may order a continuance to allow the nonmoving party in a summary judgment proceeding to obtain discovery needed to respond to the motion “[s]hould it appear from the affidavits of a party opposing the motion that, for reasons stated, the party cannot present by affidavit facts essential to justify the party’s opposition.” The trial court may deny a motion for a continuance if: “(1) the requesting party does not offer a good reason for the delay in obtaining the desired evidence; (2) the requesting party does not state what evidence would be established through the additional discovery; or (3) the desired evidence will not raise a genuine issue of material fact.” Turner v. Kohler, 54 Wn. App. 688, 693, 775 P.2d 474 (1989). We review a trial court’s ruling on a CR 56(f) motion for abuse of discretion. Bavand v. OneWest Bank, 196 Wn. App. 813, 822, 385 P.3d 233 (2016). A trial court abuses its discretion if its decision is manifestly unreasonable or based on untenable grounds or untenable reasons. In re Marriage of Littlefield, 133 Wn.2d 39, 46-47, 940 P.2d 1362 (1997).
+
+{{*3}} Chen asserts that the trial court “did not allow [a] continuance for discovery even after being informed with an email notice from Renton Police of the imminent arrival of some critical information,” which Chen claims discredited Hernandez-Madrid’s domestic violence claim. She also asserts that she was “offline” from November 18, 2022 to January 15, 2023, and that “the court’s notice of [the] hearing date of Jan[uary] 27, 2022 was only sent via email on Nov[ember] 22, 2022.” Thus, Chen asserts, she had only the 12 days between January 15 and January 27 to prepare for the hearing. But Chen does not provide any citations to the record to support the foregoing assertions. See RAP 10.3(a)(6) (requiring argument section of brief to include “references to relevant parts of the record”). Furthermore, the record does not include a copy of Chen’s motion for a continuance or a transcript of the argument thereon, so we have no basis to conclude that the trial court’s decision to deny the motion was manifestly unreasonable or based on untenable grounds or reasons. Cf. Sunderland Fam. Treatment Servs. v. City of Pasco, 107 Wn. App. 109, 116, 26 P.3d 955 (2001) (appellant has the burden of providing a record sufficient to review the issues raised).
+
+Meanwhile, the record reflects that Hernandez-Madrid and Vasquez filed their summary judgment motion more than four months before it was heard. To the extent Chen made her continuance motion orally at the hearing or in e-mails to the court,[fn:2] the four-month lead time, together with Chen’s failure to comply with CR 56(f)’s requirement that she show by affidavit the grounds for her motion, were tenable bases to deny it. Chen argues that she was “not provided equitable treatment in preparing for the summary judgment hearing” because she did not receive a break to “process” the trial court’s denial of her motion to dismiss or consult with someone, “collect files and documents,” or do any research and formulate a reply before turning to the summary judgment hearing. But again, Chen had more than four months to prepare for the hearing. She does not show that the trial court erred by denying her motion to continue it.
+
+
+[fn:2] Chen indicates in her opening brief that she objected via e-mail to having the summary judgment hearing and the hearing on her motion to dismiss on the same morning.
+
+
+III
+
+Chen next argues that the trial court’s summary judgment order must be reversed because RCW 59.18.575, the RLTA provision on which her tenants relied to terminate their lease, did not apply under the circumstances. We review an order granting summary judgment de novo, performing the same inquiry as the trial court. Nichols v. Peterson Nw., Inc., 197 Wn. App. 491, 498, 389 P.3d 617 (2016). Summary judgment is proper if “the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” CR 56(c).
+
+A
+
+When Hernandez-Madrid and Vasquez notified Chen in March 2022 of their intent to terminate the lease, RCW 59.18.575 provided, as relevant here:
+
+(1)(a) If a tenant notifies the landlord in writing that he or she or a household member was a victim of an act that constitutes a crime of domestic violence, sexual assault, unlawful harassment, or stalking, and ... (a)(i) ... of this subsection applies, then subsection (2) of this section applies:
+
+(i) The tenant or the household member has a valid order for protection under ... Chapter ... 26.50 ... ;
+
+....
+
+(b) When a copy of a valid order for protection ... as required under (a) of this subsection, is made available to the landlord, the tenant may terminate the rental agreement and quit the premises without further obligation under the rental agreement or under this chapter. However, the request to terminate the rental agreement must occur within ninety days of the reported act, event, or circumstance that gave rise to the protective order ....
+
+(2) A tenant who terminates a rental agreement under this section is discharged from the payment of rent for any period following the last day of the month of the quitting date. ... Notwithstanding lease provisions that allow for forfeiture of a deposit for early termination, a tenant who terminates under this section is entitled to the return of the full deposit, subject to RCW 59.18.020 and 59.18.280.
+
+{{*4}} Former RCW 59.18.575 (2019).[fn:3]
+
+
+[fn:3] RCW 59.18.575 was amended effective July 2022 to reflect other amendments that consolidated various protection order statutes into a single new chapter. See LAWS OF 2021, ch. 215, §§ 87, 155. It was later amended again to add provisions related to a landlord mitigation program. See LAWS OF 2022, ch. 196, §§ 4-5.
+
+
+Here, it is undisputed that Hernandez-Madrid and Vasquez notified Chen in writing, as required by RCW 59.18.575(1)(a), that they were the victims of domestic violence and stalking. And they provided evidence at summary judgment that, as required by RCW 59.18.575(1)(a)(i), Hernandez-Madrid had a valid order for protection under former chapter 26.50 RCW, which authorized a court (1) to grant an ex parte temporary order for protection where a petition “alleges that irreparable injury could result from domestic violence if an order is not issued immediately without prior notice to the respondent” and (2) to reissue such orders. Former RCW 26.50.070(1), (5) (2019). It is further undisputed that, as required by RCW 59.18.575(1)(b), copies of the temporary protection order and the order reissuing it were made available to Chen. In addition, Hernandez-Madrid and Vasquez provided declarations describing Rebollo’s stalking and harassment beginning in early February 2022, i.e., within 90 days, as required by RCW 59.18.575(1)(b), of their request to terminate the lease agreement.
+
+Meanwhile, the record reflects that Chen did not file a formal response to her tenants’ motion for summary judgment,[fn:4] much less provide any affidavits or other admissible evidence in opposition thereto. See CR 56(e) (party opposing summary judgment must respond with admissible evidence demonstrating that the moving party is not entitled to judgment as a matter of law). In short, Hernandez-Madrid and Vasquez submitted evidence establishing their entitlement to relief under RCW 59.18.575, while Chen did not raise a genuine issue of material fact in that regard. Summary judgment was proper.
+
+
+[fn:4] According to Hernandez-Madrid and Vasquez’s reply in support of their summary judgment motion, Chen “addressed several emails to the Court setting forth arguments related to the motion.” Those e-mails are not in the record.
+
+
+B
+
+Chen makes a number of arguments in support of reversal, but none are persuasive. She first points out, and it is undisputed, that Hernandez-Madrid’s DVPO petition was denied on April 13, 2022, after she did not appear for the final hearing thereon. Chen asserts that only a final protection order qualifies as a “valid order for protection” under RCW 59.18.575(1)(a)(i). Chen is incorrect. The statute requires, as relevant here, that the tenant or household member have “a valid order for protection under ... Chapter ... 26.50.” Former RCW 59.18.575(1)(a)(i). As discussed, that chapter expressly authorizes a court to grant an ex parte temporary protection order based on the allegations in the petition, without regard for whether the petition is ultimately granted. See former RCW 26.50.070(1). Thus, the legislature’s intent to include temporary protection orders within the coverage of RCW 59.18.575 is plain from the statute’s text. Although Chen advances a number of policy arguments against the inclusion of temporary orders, we do not second guess the legislature’s policy determinations. See Cannabis Action Coal. v. City of Kent, 180 Wn. App. 455, 470, 322 P.3d 1246 (2014) (“ ‘If the statute’s meaning is plain on its face, we give effect to that plain meaning as the expression of what was intended.’ ” (quoting TracFone Wireless, Inc. v. Dep’t of Revenue, 170 Wn.2d 273, 281, 242 P.3d 810 (2010))), aff’d, 183 Wn.2d 219, 351 P.3d 151 (2015); Nw. Animal Rights Network v. State, 158 Wn. App. 237, 246, 242 P.3d 891 (2010) (“The courts are not in a position to agree or disagree with our legislature’s balancing of public policy interests.”).
+
+{{*5}} Chen next argues that the final order denying Hernandez-Madrid’s DVPO petition voided the temporary protection order and, thus, relieved her of any obligation under RCW 59.18.575. In support of her argument, Chen cites a number of out-of-state cases that she claims stand for the proposition that dismissal of a lawsuit extinguishes a party’s obligations under predismissal orders. But these cases not only are not binding, they are inapposite. Chen’s obligation to refund her tenants’ deposit did not arise under the temporary protection order but under RCW 59.18.575. And it arose when a copy of the temporary protection order “[wa]s made available to” her, without regard for whether Hernandez-Madrid’s DVPO petition was ultimately granted or denied. Former RCW 59.18.575(1)(b), (2).
+
+Chen next asserts that relief is warranted because “[e]vidence points to fraud in the underlying case and the current case.” She makes a number of factual assertions that she claims undermine Hernandez-Madrid’s domestic violence allegations. For example, she asserts that Hernandez-Madrid never contacted law enforcement about Rebollo’s conduct, never attempted to serve him with the DVPO petition, and kept her children in the same school even though one of the alleged incidents of harassment occurred there. She also points again to the fact that Hernandez-Madrid did not appear for the final hearing on the DVPO petition. Finally, she claims that documents she received from the Renton Police Department after the summary judgment hearing called Hernandez-Madrid’s claim of domestic violence into question. But Chen does not cite to the record to support the bulk of her assertions about Hernandez-Madrid, and we do not consider her claims about the police department records, which were not before the trial court at summary judgment.5 See RAP 9.12 (“On review of an order granting or denying a motion for summary judgment the appellate court will consider only evidence and issues called to the attention of the trial court.”); see also State v. Elmore, 139 Wn.2d 250, 302, 98[fn:5] P.2d 289 (1999) (appellate court generally does not take evidence and is confined to the evidence presented to the trial court).
+
+
+[fn:5] Chen later moved to vacate the trial court’s summary judgment order based in part on those records, but Chen indicates the trial court has not ruled on her motion. Thus, no decision on Chen’s motion to vacate is before us in this appeal.
+
+
+Furthermore, and in any event, Chen’s conjectural assertions about fraud on the part of her tenants are immaterial to the issue that was before the trial court and that which is now before us, i.e., whether the plain terms of RCW 59.18.575 were satisfied. Accordingly, they are insufficient to raise a genuine issue of material fact, and they do not entitle her to appellate relief. Cf. Geer v. Tonnon, 137 Wn. App. 838, 843, 155 P.3d 163 (2007) (material fact is one that affects the outcome of the litigation). Chen does not show that the trial court erred by determining as a matter of law that Hernandez-Madrid and Vasquez were entitled to terminate their lease and obtain a refund of their security deposit under RCW 59.18.575.[fn:6]
+
+
+[fn:6] Chen does not separately assign error to the trial court’s decision to deny her motion to dismiss. But to the extent she argues that decision was in error, she advances no additional arguments beyond those on which her challenge to the trial court’s summary judgment order is based. Thus, any challenge to the trial court’s denial of Chen’s motion to dismiss also fails.
+
+
+IV
+
+Chen asserts that the trial court erred by imposing a $1,500 penalty in addition to the $3,000 judgment for the security deposit. We disagree.
+
+The RLTA provided, at the relevant time, that “[w]ithin twenty-one days after the termination of the rental agreement and vacation of the premises, ... the landlord shall give a full and specific statement of the basis for retaining any of the deposit together with the payment of any refund due the tenant under the terms and conditions of the rental agreement.” Former RCW 59.18.280(1)(a) (2016) (emphasis added).[fn:7] “The court may in its discretion award up to two times the amount of the deposit for the intentional refusal of the landlord to give the ... refund due.” RCW 59.18.280(2) (emphasis added).
+
+
+[fn:7] This statute was later amended to give the landlord 30 instead of 21 days, and to require the landlord to provide additional documentation. See LAWS OF 2023, ch. 331, § 4.
+
+
+{{*6}} Chen contends that she did not intentionally refuse to refund her tenants’ $3,000 security deposit. This is so, she asserts, because she decided to withhold the refund only after learning of the final order denying Hernandez-Madrid’s DVPO petition, and her decision was based on “a genuinely confusing legal question” about “the treatment of [the] pending deposit obligation after the final order.” But Chen acknowledges that her decision to withhold the refund was intentional, and she cites no authority for the proposition that her subjective belief as to the lawfulness of that decision made it any less so. Chen does not show that the trial court erred. Cf. State v. Grocery Mfrs. Ass’n, 195 Wn.2d 442, 471, 461 P.3d 334 (2020) (“The ordinary meaning of intentional, in both civil and criminal contexts, requires intent to accomplish an unlawful act, but not subjective knowledge that the act is unlawful.” (emphasis added)); Burton v. Lehman, 153 Wn.2d 416, 422, 103 P.3d 1230 (2005) (undefined statutory term should be given its usual and ordinary meaning).
+
+V
+
+Chen next argues that relief is warranted because Hernandez-Madrid and Vasquez designated the incorrect case assignment area for the underlying lawsuit. Chen argued below that the incorrect designation was a basis for dismissal, but King County Local Court Rule 82(e)(4)(B) expressly provides that “[t]he designation of the improper case assignment area shall not be a basis for dismissal of any action.” (Emphasis added.) Chen now acknowledges that moving to dismiss on the basis of an incorrect case assignment area was a “mistake[ ]” but asserts that the trial court nonetheless “should have taken action to correct this known and undisputed defect before proceeding.” However, she cites no authority for the proposition that the trial court was required to do so. Chen’s assertion fails.
+
+VI
+
+Finally, Chen contends that the trial court erred in awarding costs, including statutory attorney fees, to Hernandez-Madrid and Vasquez. The record does not reflect whether judgment was entered on Hernandez-Madrid and Vasquez’s cost bill. In any case, it does not appear Chen objected to the cost bill below, and we decline to entertain an objection thereto for the first time on appeal. See RAP 2.5(a) (“The appellate court may refuse to review any claim of error which was not raised in the trial court.”); see also Simpson Logging Co. v. Chehalis County, 80 Wash. 245, 250, 141 P. 344 (1914) (declining to consider objection to cost bill where “[t]he trial court was given no opportunity to pass upon th[e] question”).
+
+VII
+
+Hernandez-Madrid and Vasquez request an award of fees on appeal under RAP 18.1, which authorizes an award of reasonable attorney fees on appeal if applicable law grants a party the right to recover attorney fees. “In an action brought by the tenant [under the RLTA] to recover their deposit, the prevailing party is entitled to the cost of suit, including reasonable attorney fees.” Silver v. Rudeen Mgmt. Co., 197 Wn.2d 535, 551, 484 P.3d 1251 (2021) (citing RCW 59.18.270, .280(2)). Because Hernandez-Madrid and Vasquez are the prevailing parties on appeal, we grant their request for an award of reasonable attorney fees under the RLTA,[fn:8] subject to their compliance with RAP 18.1(d).
+
+
+[fn:8] Because we award fees under the RLTA, we need not decide whether, as Hernandez-Madrid and Vasquez claim, they are also entitled to fees under the parties’ lease agreement or as sanctions for a frivolous appeal.
+
+
+Affirmed.
+
+WE CONCUR:
+
+Bowman, J
+
+Hazelrigg, ACJ
+

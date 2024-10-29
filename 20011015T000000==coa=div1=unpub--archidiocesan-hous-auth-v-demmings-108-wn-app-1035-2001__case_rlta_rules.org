@@ -1,0 +1,86 @@
+#+title:      Archidiocesan Hous. Auth. v. Demmings, 108 Wn. App. 1035 (2001)
+#+date:       [2001-10-15 Mon 00:00]
+#+filetags:   :case:rlta:rules:
+#+identifier: 20011015T000000
+
+* Archidiocesan Housing Authority v. Demmings -- Court of Appeals of Washington, Division 1. | October 15, 2001 | Not Reported in P.3d | 108 Wash.App. 1035
+
+- Washington Citation :: Archidiocesan Hous. Auth. v. Demmings, 108 Wn. App. 1035 (2001)
+
+- All Citations :: Not Reported in P.3d, 108 Wash.App. 1035, 2001 WL 1229809
+
+
+                          108 Wash.App. 1035
+             Court of Appeals of Washington, Division 1.
+             ARCHDIOCESAN HOUSING AUTHORITY, Respondent,
+                                  v.
+                     Roland DEMMINGS, Appellant.
+
+                            No. 46157–5–I.
+                            Oct. 15, 2001.
+
+- Appeal from Superior Court of King County, Docket No. 99–2–27096–7, judgment or order under review, date filed 03/02/2000; Robert Alsdorf, Judge.
+- Attorneys and Law Firms
+- Jon E. Mueller, Seattle, WA, for appellant(s).
+- Joseph D. Puckett, Attorney At Law, Seattle, WA, for respondent(s).
+
+** Brief
+
+** UNPUBLISHED OPINION
+
+ELLINGTON, J.
+
+{{*1}} A landlord may adopt a new rule, and upon 30 days’ notice, apply it to current tenants. The key question is whether the rule is reasonable. A rule excluding convicted sex offenders from low income housing is not unreasonable.
+
+FACTS
+
+Roland Demmings is a convicted sex offender.[fn:1] Since 1996, he has been a resident of the Josephinium Apartments, which are owned and operated by the Archdiocesan Housing Authority (Housing Authority). On his rental application, Demmings was asked if he was a convicted felon, to which he truthfully answered yes, indicating he had been incarcerated in Monroe State Penitentiary at the Special Offender Program from December 1992 until April 1994. He was not asked the nature of his offense.
+
+
+[fn:1] See RCW 9A.44.130(9)(a).
+
+
+Demmings has resided at the Josephinium ever since without incident. He is compliant with his treatment plan, including medication and daily counseling.
+
+In June 1999, the Josephinium learned that three of its residents were convicted sex offenders. After considering the risk involved in light of its primary mission of providing safe housing to its tenants, who include children and vulnerable adults, the Housing Authority decided it would not knowingly continue to permit convicted sex offenders to reside in its permanent housing programs.
+
+The Housing Authority advised the three affected tenants of the new rule. The other two tenants agreed to vacate the premises; Demmings did not. In September 1999, the Housing Authority sent formal notice to all residents that effective October 31, 1999, convicted sex offenders would no longer be permitted to live at the Josephinium.
+
+Demmings did not vacate by the deadline. The Housing Authority sent the required notice, and then commenced an unlawful detainer action. Demmings argued it was unreasonable for the Housing Authority to apply the rule retroactively to evict him because the Housing Authority knew he was a convicted sex offender when it accepted him and he had not committed a sex offense during his tenancy. The superior court granted the writ. Demmings appeals.
+
+DISCUSSION
+
+The Residential Landlord–Tenant Act of 1973 requires ‘tenants to conform to all reasonable obligations or restrictions, whether denominated by the landlord as rules, rental agreement, rent, or otherwise....’ RCW 59.18.140. Demmings does not contend the rule barring sex offenders is unreasonable. Rather, he contends it is unreasonable as applied to him because he disclosed his status as a felon at the outset, has committed no offenses, has complied with his treatment plan, and according to his counselor, ‘has never exhibited any behavior which suggests that he is at-risk of reoffending or engaging { in}  any other behavior that makes him a threat to others.’ Clerk’s Papers at 38. We are sympathetic to Demmings, and applaud his successful rehabilitation. But it is not Demmings’ conduct at the Josephinium that is at issue here, it is his status as a convicted sex offender. The issue is not whether a rule is reasonable as applied to an individual, but whether the rule itself is reasonable. Both state and federal governments agree that recidivism in sex offenders presents an increased risk to the public. The Washington legislature determined that protection of the public from sex offenders is a ‘paramount governmental interest.’ Russell v. Gregoire, 124 F.3d 1079, 1089–90 (9th Cir.1997) (quoting1990 Laws of Washington, ch. 3, sec. 116). Recognizing that sex offenders present a high risk of recidivism, the legislature required in the 1990 Community Protection Act that all convicted sex offenders must register upon release from prison. See 1990 Laws of Washington, ch. 3, sec. 402; RCW 9A.44.130(1).
+
+{{*2}} An individual who must register may not be a tenant in federal housing programs. The federal government requires that ‘an owner of federally assisted housing shall prohibit admission to such housing for any ... individual who is subject to a lifetime registration requirement under a State sex offender registration program.’ 42 U.S.C. sec. 13663(a). Given these strong statements of public policy, a low-income landlord who is providing housing for vulnerable tenants can reasonably enact a rule to exclude convicted sex offenders. Demmings argues that the Housing Authority’s eviction, based on the retroactive application of a new rule after he has proven himself to be a good tenant for nearly four years, evidenced bad faith in violation of RCW 59.18.020 (landlord must act in good faith). But the Residential LandlordTenant Act of 1973 contemplates that new rules will be applied to current tenants. Upon 30 days’ written notice, a new rule may ‘become effective upon completion of the term of the rental agreement or sooner upon mutual consent.’ RCW 59.18.140. The statute permits rule changes that, when effectuated, require a non-compliant tenant to vacate even though the rule was not in effect when the tenancy began, as long as the rule is reasonable and the requisite notice given. Examples include conversion of apartments to condominiums and exclusion of children or animals in tenancies in which they were previously allowed. See, e.g., RCW 59.18.200.
+
+Demmings argues that because the Housing Authority was aware of his criminal status at the time it agreed to rent to him, it is precluded from evicting him under the doctrine of equitable estoppel. But Demmings cannot satisfy the requirements of the doctrine.
+
+Equitable estoppel is based on the proposition that a party should not be allowed to disavow a representation made to another party if that other party would be injured by reliance on the representation. Crown Plaza Corp. v. Synapse Software Sys., Inc., 87 Wn.App. 495, 502, 962 P.2d 824 (1997). Estoppel requires an admission, statement, or act inconsistent with the claim afterward asserted; action by the other party on the faith of the admission, statement or act; and injury to the other party resulting from permitting the first party to contradict or repudiate the admission, statement or act. Crown Plaza, 87 Wn.App. at 502.
+
+Demmings contends that the Housing Authority’s agreement to his tenancy is inconsistent with its claim that he poses a risk to other tenants. There is no evidence, however, that the Housing Authority knew Demmings was a sex offender, nor does Demmings demonstrate detrimental reliance on representations or acts of the Housing Authority. Without a representation or act and detrimental reliance, the doctrine of equitable estoppel is not applicable. Crown Plaza, 87 Wn.App. at 502.
+
+Demmings also claims that status as a convicted or registered sex offender does not constitute just cause for eviction under Seattle’s Just Cause Eviction ordinance[fn:2] because the rule is arbitrary, and even with the required notice, it is impossible for him to comply with the rule.
+
+
+[fn:2] ‘The reasons for termination of tenancy listed below, and no others, shall constitute just cause under this section: (a) The tenant fails to comply with ... a ten day notice to comply or vacate pursuant to RCW 59.12.030(4).’ SMC 22.206.160(C)(1)(a).
+
+
+{{*3}} Prior to the commencement of any action based on the tenant’s breach of a lease covenant, the tenant must be given notice of an opportunity to perform the covenant and avoid eviction. RCW 59.12.030(4).[fn:3] Here, Demmings received timely notice satisfying both the unlawful detainer statute and the Just Cause Eviction ordinance. Had the Housing Authority been misinformed about his offender status, the requisite notice would have given him time to correct the misapprehension. The fact that it may be impossible for a tenant to comply does not vitiate a reasonable rule. See Housing Authority of City of Everett v. Terry, 114 Wn.2d 558, 569 n. 23, 789 P.2d 745 (1990) (if impossible for a tenant to control his disruptive behavior, court might after 10 days find his breach of covenant not cured for purposes of unlawful detainer proceedings).
+
+
+[fn:3] The statute provides: Unlawful detainer defined. A tenant of real property for a term less than life is guilty of unlawful detainer either:
+
+
+....
+
+(4) When { the tenant}  continues in possession ... after a neglect or failure to keep or perform any ... condition or covenant of the lease or agreement ... and after notice in writing requiring in the alternative the performance of such condition or covenant or the surrender of the property, served ... upon { the tenant}  ... shall remain uncomplied with for ten days after service thereof. Within ten days after the service of such notice the tenant ... may perform such condition or covenant and thereby save the lease from such forfeiture.
+
+RCW 59.12.030.
+
+Finally, Demmings argues that the federal Fair Housing Amendments Act is violated by the Housing Authority’s effort to evict him, because he has a mental illness the Housing Authority was obligated to accommodate. But Demmings was not evicted on account of mental illness, and he does not explain how his handicap could be accommodated in the face of the new rule. In addition, Demmings does not acknowledge Terry, in which the court indicated that failure to accommodate a handicap is a counterclaim impermissible in an unlawful detainer action. While the discussion in Terry is dicta, Demmings offers no basis for a different analysis or result here.
+
+A prevailing party is entitled to recover the cost of the suit and reasonable attorney fees in an unlawful detainer action. RCW 59 .18.290. The Housing Authority is the prevailing party and therefore entitled to attorney fees on appeal. We recognize that the Housing Authority’s rule is harsh as applied to Demmings, and regret that he must suffer adverse consequences. Indeed, the rule is harsh as to all sex offenders, who increasingly struggle to find housing upon their release. The rule is, however, reasonable.
+
+We affirm.
+

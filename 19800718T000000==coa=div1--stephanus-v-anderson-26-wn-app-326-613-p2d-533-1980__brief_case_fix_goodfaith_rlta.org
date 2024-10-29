@@ -1,0 +1,400 @@
+#+title:      Stephanus v. Anderson, 26 Wn. App. 326, 613 P.2d 533 (1980)
+#+date:       [1980-07-18 Fri 00:00]
+#+filetags:   :brief:case:fix:goodfaith:rlta:
+#+identifier: 19800718T000000
+
+* Stephanus v. Anderson -- Court of Appeals of Washington, Division 1. | June 2, 1980 | 26 Wash.App. 326 | 613 P.2d 533
+
+- Washington Citation :: Stephanus v. Anderson, 26 Wn. App. 326, 613 P.2d 533 (1980)
+
+- All Citations :: 26 Wash.App. 326, 613 P.2d 533
+
+
+                           26 Wash.App. 326
+             Court of Appeals of Washington, Division 1.
+   Paul C. STEPHANUS and Barbara Stephanus, his wife, Respondents,
+                                  v.
+            Bettina ANDERSON and Mark Bussell, Appellants.
+
+                            No. 7563-2-I.
+                            June 2, 1980.
+
+- Rehearing Denied July 18, 1980.
+
+** Brief
+
+** Synopsis
+
+The Superior Court, King County, Barbara Durham, J., entered a judgment of unlawful detainer against tenants and they appealed. The Court of Appeals, Ringold, J., held that: (1) month to month tenancy which landlord terminated according to procedures required by statute, was not subject to prohibition against retaliatory eviction, since statute defining retaliatory eviction included an express exception for such a termination; (2) statutory right of tenants to good-faith treatment by landlord and city housing ordinance could not be used as substantive legal rights for fashioning equitable defense of retaliatory eviction with respect to landlord’s termination of month to month tenancy according to procedures required by statute; and (3) landlord’s alleged infringement of tenants’ First Amendment rights by terminating their month to month tenancy according to procedures required by statute due to their assertion of their rights under Residential Landlord Tenant Act was not state action, even though state court enforced the termination by issuance of a writ of restitution, since court was not required to determine landlord’s reasons for the termination.
+
+Judgment affirmed.
+
+Procedural Posture(s): On Appeal.
+
+** West Headnotes (18)
+
+*** [1] Statutes  [[1: 361-k-1374][361-k-1374]]  Giving effect to entire statute and its parts;  harmony and superfluousness
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(M) Presumptions and Inferences as to Construction/
+- *361-k-1372 Statute as a Whole;  Relation of Parts to Whole and to One Another*
+- *361-k-1374 Giving effect to entire statute and its parts;  harmony and superfluousness*
+- /(Formerly 361k212.4)/
+
+Court of Appeals presumes legislature does not engage in unnecessary or meaningless acts.
+
+*** [2] Statutes  [[2: 361-k-1071][361-k-1071]]  Intent
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(A) In General/
+- *361-k-1071 Intent*
+- *361-k-1072 In general*
+- /(Formerly 361k181(1))/
+
+Court of Appeals must construe statutes in accordance with the intent of the legislature.
+
+*** [3] Statutes  [[3: 361-k-1080][361-k-1080]]  Language and intent, will, purpose, or policy
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(A) In General/
+- *361-k-1078 Language*
+- *361-k-1080 Language and intent, will, purpose, or policy*
+- /(Formerly 361k188)/
+
+Legislature authoritatively expresses its intent and binds the court when it defines its terms.
+
+*** [4] Landlord and Tenant  [[4: 233-k-1815][233-k-1815]]  Retaliatory eviction
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(E) Wrongful Dispossession/
+- *233-k-1812 Grounds*
+- *233-k-1815 Retaliatory eviction*
+- /(Formerly 233k116(4))/
+
+Month to month tenancy, which landlord terminated according to procedures required by statute, was not subject to prohibition against retaliatory eviction, since statute defining retaliatory eviction included an express exception for such a termination. West’s RCWA 59.18.200, 59.18.240, 59.18.250.
+
+*** [5] Statutes  [[5: 361-k-1217][361-k-1217]]  General and specific statutes
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(G) Other Law, Construction with Reference to/
+- *361-k-1210 Other Statutes*
+- *361-k-1217 General and specific statutes*
+- /(Formerly 361k223.4)/
+
+To the extent that two statutory sections conflict, the one which treats the subject matter in a more specific manner will prevail.
+
+*** [6] Landlord and Tenant  [[6: 233-k-1815][233-k-1815]]  Retaliatory eviction
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(E) Wrongful Dispossession/
+- *233-k-1812 Grounds*
+- *233-k-1815 Retaliatory eviction*
+- /(Formerly 233k116(4))/
+
+Statutory right of tenant to good-faith treatment by landlord could not be used as the substantive legal right for fashioning equitable defense of retaliatory eviction with respect to landlord’s termination of month to month tenancy according to procedures required by statute, where there was a more specific statutory provision exempting such a termination of tenancy from the prohibition against retaliatory eviction. West’s RCWA 59.18.200, 59.18.240, 59.18.250.
+
+- 1 Case that cites this headnote
+
+*** [7] Landlord and Tenant  [[7: 233-k-1815][233-k-1815]]  Retaliatory eviction
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(E) Wrongful Dispossession/
+- *233-k-1812 Grounds*
+- *233-k-1815 Retaliatory eviction*
+- /(Formerly 233k116(4))/
+
+Statute, exempting termination of month to month tenancy according to procedures required by statute from prohibition against retaliatory eviction, preempted city housing ordinance prohibiting any eviction instituted for the reason that the tenant has in good faith exercised his legal right in relation to the leased premises, and, therefore, such ordinance could not be used as a substantive legal right for fashioning of equitable defense of retaliatory eviction with respect to such a termination. West’s RCWA 59.18.200, 59.18.240.
+
+- 1 Case that cites this headnote
+
+*** [8] Municipal Corporations  [[8: 268-k-77][268-k-77]]  Operation and Effect of Legislative Acts
+
+- /268 Municipal Corporations/
+- /268-III Legislative Control of Municipal Acts, Rights, and Liabilities/
+- *268-k-77 Operation and Effect of Legislative Acts*
+- *268-k-78 In general*
+
+Local governments may not enact laws which conflict with the general laws of the state. West’s RCWA Const. Art. 11, § 11.
+
+*** [9] Municipal Corporations  [[9: 268-k-592][268-k-592]]  Concurrent and Conflicting Exercise of Power by State and Municipality
+
+- /268 Municipal Corporations/
+- /268-X Police Power and Regulations/
+- /268-X(A) Delegation, Extent, and Exercise of Power/
+- *268-k-592 Concurrent and Conflicting Exercise of Power by State and Municipality*
+- *268-k-592(1) In general*
+
+A city may not require that which the state statute exempts from its requirements. West’s RCWA Const. Art. 11, § 11.
+
+- 1 Case that cites this headnote
+
+*** [10] Equity  [[10: 150-k-55][150-k-55]]  Equity suffers no right to be without a remedy
+
+- /150 Equity/
+- /150-I Jurisdiction, Principles, and Maxims/
+- /150-I(C) Principles and Maxims of Equity/
+- *150-k-55 Equity suffers no right to be without a remedy*
+
+Equity ordinarily will not suffer a wrong without a remedy.
+
+- 1 Case that cites this headnote
+
+*** [11] Equity  [[11: 150-k-62][150-k-62]]  Equity follows the law
+
+- /150 Equity/
+- /150-I Jurisdiction, Principles, and Maxims/
+- /150-I(C) Principles and Maxims of Equity/
+- *150-k-62 Equity follows the law*
+
+Equity follows the law and cannot provide a remedy where legislation expressly denies it.
+
+- 5 Cases that cite this headnote
+
+*** [12] Landlord and Tenant  [[12: 233-k-1815][233-k-1815]]  Retaliatory eviction
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(E) Wrongful Dispossession/
+- *233-k-1812 Grounds*
+- *233-k-1815 Retaliatory eviction*
+- /(Formerly 233k116(4))/
+
+Court of Appeals was precluded from allowing equitable defense of retaliatory eviction to landlord’s termination of month to month tenancy according to procedures required by statute on public policy grounds, where statute expressly exempted from prohibition against retaliatory eviction such a termination of tenancy. West’s RCWA 59.18.200, 59.18.240.
+
+*** [13] Constitutional Law  [[13: 92-k-3851][92-k-3851]]  First Amendment
+
+- /92 Constitutional Law/
+- /92-XXVI IDue Process/
+- /92X-XVII(A) In General/
+- *92-k-3848 Relationship to Other Constitutional Provisions;  Incorporation*
+- *92-k-3851 First Amendment*
+- /(Formerly 92k254.2)/
+
+First Amendment freedom to associate for the advocacy of ideas by lawful means is one of the liberties protected by the due process clause of the Fourteenth Amendment. U.S.C.A.Const. Amends. 1, 14.
+
+*** [14] Constitutional Law  [[14: 92-k-1151][92-k-1151]]  Applicability to governmental or private action;  state action
+
+- /92 Constitutional Law/
+- /92-X First Amendment in General/
+- /92-X(A) In General/
+- *92-k-1151 Applicability to governmental or private action;  state action*
+- /(Formerly 92k82(1))/
+
+Constitution does not prohibit a private person’s infringement of another person’s First Amendment rights; it forbids only such infringement which may properly be attributable to the state. U.S.C.A.Const. Amends. 1, 14.
+
+- 1 Case that cites this headnote
+
+*** [15] Constitutional Law  [[15: 92-k-3941][92-k-3941]]  Non-government entities and individuals, actions of
+
+- /92 Constitutional Law/
+- /92-XXVI IDue Process/
+- /92X-XVII(D) Applicability to Governmental or Private Conduct;  State Action/
+- *92-k-3941 Non-government entities and individuals, actions of*
+- /(Formerly 92k254(4))/
+
+Landlord’s alleged infringement of tenants’ rights by terminating their month to month tenancy according to procedures required by statute due to their assertion of their rights under Residential Landlord Tenant Act was not state action, even though state court enforced the termination by issuance of a writ of institution, since the court was not required to determine landlord’s reasons for the termination. West’s RCWA 59.18.200; U.S.C.A.Const. Amends. 1, 14.
+
+*** [16] Constitutional Law  [[16: 92-k-3941][92-k-3941]]  Non-government entities and individuals, actions of
+
+- /92 Constitutional Law/
+- /92-XXVI IDue Process/
+- /92X-XVII(D) Applicability to Governmental or Private Conduct;  State Action/
+- *92-k-3941 Non-government entities and individuals, actions of*
+- /(Formerly 92k254(4))/
+
+Generally, state action requirement of Fourteenth Amendment is satisfied where state is significantly intertwined with acts of private parties. U.S.C.A.Const. Amend. 14.
+
+- 1 Case that cites this headnote
+
+*** [17] Constitutional Law  [[17: 92-k-1179][92-k-1179]]  Private property
+
+- /92 Constitutional Law/
+- /92-X First Amendment in General/
+- /92-X(B) Particular Issues and Applications/
+- *92-k-1179 Private property*
+- /(Formerly 92k82(6.1), 92k82(6))/
+
+Unlawful detainer statutes were neutral concerning First Amendment rights and such neutrality was not compromised by system of retaliatory eviction defense for some, but not all, tenancies. U.S.C.A.Const. Amend. 1.
+
+- 1 Case that cites this headnote
+
+*** [18] Constitutional Law  [[18: 92-k-3036][92-k-3036]]  Gradual, incremental, or non-comprehensive approach
+
+- /92 Constitutional Law/
+- /92-XXVI Equal Protection/
+- /92-XXVI(A) In General/
+- /92-XXVI(A)5 Scope of Doctrine in General/
+- *92-k-3031 Limits of Doctrine*
+- *92-k-3036 Gradual, incremental, or non-comprehensive approach*
+- /(Formerly 92k211(1))/
+
+A statute remains valid and is not invidiously discriminatory when it remedies only part of an evil. U.S.C.A.Const. Amend. 14.
+
+** Attorneys and Law Firms
+
+- {{*328}} {{**535}} Walter G. Palmer, Baker & Palmer, Donald S. Cooper, Bogle & Gates, Seattle, for appellants.
+
+- Bruce A. Wolf, Kargianis & Austin, Seattle, for respondents.
+
+** Opinion
+
+RINGOLD, Judge.
+
+Bettina Anderson and Mark Bussell appeal a judgment of unlawful detainer. They raise statutory and constitutional challenges to the trial court’s decision to strike their affirmative defense of retaliatory eviction.
+
+Anderson and Bussell are former month to month tenants of the Malloy Apartments in Seattle. On October 9, 1978, they organized a meeting of tenants to protest alleged violations of the Residential Landlord Tenant Act of 1973, RCW 59.18 (the Act), by their landlord, Paul Stephanus. After two meetings were held, Stephanus reviewed the situation and decided to evict Anderson and Bussell. In compliance with RCW 59.18.200(1),[fn:1] he served notices on January 9, 1979, terminating their tenancies as of the end of that month. They refused to vacate the premises and on February 8, 1979, Paul and Barbara Stephanus2 commenced this unlawful detainer action.
+
+
+[fn:1] RCW 59.18.200(1) states: “When premises are rented for an indefinite time, with monthly or other periodic rent reserved, such tenancy shall be construed to be a tenancy from month to month, or from period to period on which rent is payable, and shall be terminated by written notice of twenty days or more, preceding the end of any of said months or periods, given by either party to the other.”
+
+
+[fn:2] For convenience, the plaintiffs are hereinafter referred to in the singular.
+
+
+In their answer, Anderson and Bussell asserted as affirmative defenses that the evictions were retaliatory under the Act and Seattle Housing Code s 4.17. Stephanus moved pursuant to CR 12(f) to strike these affirmative defenses, and the trial court granted the motion, concluding the allegations did not state a defense. Based on the proper notice terminating the tenancies and the tenants’ refusal to {{*329}} vacate, the trial court entered judgment for Stephanus, issued a writ of restitution entitling him to the aid of the sheriff to obtain immediate possession of the premises and awarded damages for rent accruing since January 31, 1979.
+
+PROHIBITED RETALIATORY CONDUCT UNDER THE ACT
+
+Anderson and Bussell allege they were evicted in retaliation for their assertion of {{**536}} their rights under the Act. They contend that RCW 59.18.240(2) and .250 authorize this retaliatory eviction defense. Stephanus responds that RCW 59.18.240(2)(1) expressly and unambiguously exempts evictions pursuant to RCW 59.18.200 from the prohibition against retaliatory action.
+
+RCW 59.18.240 reads:
+
+So long as the tenant is in compliance with this chapter, the landlord shall not take or threaten to take reprisals or retaliatory action against the tenant because of any good faith and lawful:
+
+(1) Complaints or reports by the tenant to a governmental authority concerning the failure of the landlord to substantially comply with any code, statute, ordinance, or regulation governing the maintenance or operation of the premises, if such condition may endanger or impair the health or safety of the tenant;
+
+(2) Assertions or enforcement by the tenant of his rights and remedies under this chapter.
+
+“Reprisal or retaliatory action” shall mean and include but not be limited to any of the following actions by the landlord when such actions are intended primarily to retaliate against a tenant because of the tenant’s good faith and lawful act:
+
+(1) Eviction of the tenant other than giving a notice to terminate tenancy as provided in RCW 59.18.200 ;
+
+(2) Increasing the rent required of the tenant;
+
+(3) Reduction of services to the tenant;
+
+(4) Increasing the obligations of the tenant.
+
+(Italics ours).
+
+[1] <<1: 361-k-1374>> [2] <<2: 361-k-1071>> [3] <<3: 361-k-1080>> [4] <<4: 233-k-1815>> We agree with Stephanus that the plain words of RCW 59.18.240 state that a tenancy terminated pursuant to RCW 59.18.200 is not subject to the prohibition against retaliatory eviction. The definition of the prohibited {{*330}} “REPRISAL OR RETALIATORY ACTION” INCLUDES RETaliation by eviction but also includes an express exception for an eviction pursuant to RCW 59.18.200.
+
+Anderson and Bussell argue that we are not bound by this exception because the definition allows a finding of retaliation for circumstances not listed in the statute. They contend the sole purpose of the list and the exception is to define conduct which can be presumed retaliatory under RCW 59.18.250.
+
+RCW 59.18.250 reads:
+
+Initiation by the landlord of any action listed in RCW 59.18.240 within ninety days after a good faith and lawful act by the tenant as enumerated in RCW 59.18.240, or within ninety days after any inspection or proceeding of a governmental agency resulting from such act, shall create a rebuttable presumption affecting the burden of proof, that the action is a reprisal or retaliatory action against the tenant . . . .
+
+It is true that the examples in RCW 59.18.240 (section 24 of the Act) are presumed retaliatory under RCW 59.18.250 (section 25 of the Act). The legislature, however, would have placed these examples in section 25 if that were their only intended meaning. By placing them in section 24, the legislature made them part of the definition of “reprisal or retaliatory action.” A contrary conclusion would render their placement into section 24 an unnecessary act. We presume the legislature does not engage in unnecessary or meaningless acts. John H. Sellen Constr. Co. v. Department of Revenue, 87 Wash.2d 878, 558 P.2d 1342 (1976).
+
+We must construe statutes in accordance with the intent of the legislature. Janovich v. Herron, 91 Wash.2d 767, 592 P.2d 1096 (1979); State v. Lake City Bowlers’ Club, Inc., 26 Wash.2d 292, 173 P.2d 783 (1946). The legislature authoritatively expresses its intent and binds the courts when it defines its terms. Seattle v. State, 54 Wash.2d 139, 338 P.2d 126 (1959). The legislature’s definition of “reprisal or retaliatory action” manifests its intent to permit evictions pursuant to RCW 59.18.200 without giving tenants {{*331}} the protection of RCW 59.18.240. Supporting our decision is the view of the Supreme Court in  {{**537}} Washington Ass’n. of Apartment Ass’ns., Inc. v. Evans, 88 Wash.2d 563, 570, 564 P.2d 788, 793 (1977), that section 24 of the Act applies to “evictions excluding those provided in section 20” (codified at RCW 59.18.200). We find further support for our view in the unsuccessful effort during the 1980 legislative session to enact HB 614. The proponents of the bill intended to eliminate the exception by striking all of the language following “(e)viction of the tenant” in RCW 59.18.240(2)(1). See House of Representatives Transcript of Proceedings, HB 614, 46th Leg. (Feb. 4, 1980).
+
+EQUITABLE DEFENSES
+
+Anderson and Bussell next contend that retaliatory eviction is an equitable defense allowed by RCW 59.18.400 even if RCW 59.18.240 dos not expressly prohibit the landlord’s conduct in this case. They rely upon the last sentence of RCW 59.18.400 which states that “(t)he defendant in his answer may assert any legal or equitable defense or set-off arising out of the tenancy.” Similar language appears in the first sentence of RCW 59.18.380.
+
+Even prior to the passage of the Act, we recognized that tenants could raise affirmative equitable defenses to unlawful detainer actions. Motoda v. Donohoe, 1 Wash.App. 174, 459 P.2d 654 (1969). The equitable defense of retaliatory eviction, however, does not arise spontaneously whenever it seems “equitable” to recognize it. It must be premised upon an established substantive legal right. Motoda at 175, 459 P.2d 654. The court in Motoda held that retaliatory eviction was not a cognizable equitable defense because the required substantive legal right did not exist.
+
+[5] <<5: 361-k-1217>> [6] <<6: 233-k-1815>> The State of Washington, in its amicus curiae brief, argues that the necessary substantive right can now be found in RCW 59.18.020, which reads:
+
+Every duty under this chapter and every act which must be performed as a condition precedent to the exercise of a right or remedy under this chapter imposes an {{*332}} obligation of good faith in its performance or enforcement.
+
+Contending that a tenant now has a substantive right to good faith treatment by the landlord, the State argues that the denial of this right can be remedied by allowing the equitable defense of retaliatory eviction. Assuming, without deciding, that retaliatory eviction deprives a tenant of a substantive legal right under RCW 59.18.020, that assumption creates a conflict between RCW 59.18.020 and RCW 59.18.240. The latter statute exempts from prohibition that conduct which we have assumed is barred by RCW 59.18.020. To the extent these two sections conflict, the one which treats the subject matter in a more specific manner will prevail. Pannell v. Thompson, 91 Wash.2d 591, 589 P.2d 1235 (1979); Knowles v. Holly, 82 Wash.2d 694, 513 P.2d 18 (1973). The obligation of good faith applies to all conduct under RCW 59.18. The much narrower application of the exemption from the prohibition on retaliatory evictions makes it the more specific of the two sections. We cannot use the good faith duty as the substantive legal right necessary for fashioning an equitable defense because the more specific conflicting provision in RCW 59.18.240 controls.
+
+SEATTLE HOUSING CODE
+
+Anderson and Bussell next contend that Seattle Housing Code s 4.17(4) prohibits the retaliatory eviction alleged in this case and that the ordinance can be used as the substantive legal right necessary for an equitable defense under RCW 59.18.400.
+
+The relevant portion of the ordinance reads:
+
+It is unlawful for the owner of any building for the purpose of harassing, punishing or retaliating against the tenant thereof to interfere with the peaceable possession of the tenant by committing any of the following acts:
+
+(4) Evicting, increasing rent, or otherwise imposing, threatening or attempting any punitive measure against a tenant for the reason that the tenant has in good faith {{*333}} reported violations of this Code or otherwise exercised or attempted to exercise {{**538}} his legal rights in relation to such building . . . .
+
+(Italics ours).
+
+[7] <<7: 233-k-1815>> [8] <<8: 268-k-77>> [9] <<9: 268-k-592>> This ordinance, among other things, prohibits any eviction which is instituted for the reason that the tenant has in good faith exercised his legal rights in relation to the leased premises. We conclude, however, that RCW 59.18.240 preempts Seattle Housing Code s 4.17(4) insofar as it applies to this case.
+
+Local governments may not enact laws which conflict with the general laws of the state. Const. art. 11, s 11; Spokane v. J-R Distributors, Inc., 90 Wash.2d 722, 585 P.2d 784 (1978); Lenci v. Seattle, 63 Wash.2d 664, 388 P.2d 926 (1964); Ritchie v. Markley, 23 Wash.App. 569, 597 P.2d 449 (1979). Anderson and Bussell correctly argue that a local ordinance may require more than does a state statute. Lenci at 63 Wash.2d 670-71, 388 P.2d 926. State ex rel. Isham v. Spokane, 2 Wash.2d 392, 98 P.2d 306 (1940). They overlook, however, an exception to this rule where the state law expressly limits the scope of the statute’s requirements. Lenci, 63 Wash.2d at 671, 388 P.2d 926, Isham, 2 Wash.2d at 398, 98 P.2d 306. A city may not require that which the state statute exempts from its requirements. Ritchie, 23 Wash.App. at 574, 597 P.2d 449, RCW 59.18.240 expressly limits the requirement that landlords refrain from retaliatory acts by exempting the conduct alleged in this case. The state statute, therefore, preempts the use of the city ordinance as the basis for fashioning an equitable defense to the eviction alleged in this case.3
+
+3
+
+We express no view as to the enforceability of s 4.17(4) as a misdemeanor under Seattle Housing Code s 4.31(1).
+
+The required substantive legal right did not exist at the time of the opinion in Motoda. For evictions pursuant to RCW 59.18.200, we cannot recognize retaliatory eviction as an equitable defense because there is still no established substantive legal right in this state from which we can fashion the defense.
+
+{{*334}} PUBLIC POLICY ARGUMENT
+
+[10] <<10: 150-k-55>> [11] <<11: 150-k-62>> [12] <<12: 233-k-1815>> Anderson and Bussell next urge us to adopt the defense of retaliatory eviction as a matter of public policy. We would seriously consider this contention if the legislature had not already declared public policy in this area. Equity ordinarily will not suffer a wrong without a remedy. Rummens v. Guaranty Trust Co., 199 Wash. 337, 92 P.2d 228 (1939). Equity, however, also follows the law and cannot provide a remedy where legislation expressly denies it. Williams v. Duke, 125 Wash. 250, 215 P. 372 (1923). We are precluded from following the lead of courts in other jurisdictions and allowing this defense as a matter of public policy. Those decisions either occurred in the context of no legislative guidance or legislation which did not limit the definition of retaliatory eviction. See e. g., Edwards v. Habib, 397 F.2d 687 (D.C.Cir. 1968), cert. denied, 393 U.S. 1016, 89 S.Ct. 618, 21 L.Ed.2d 560 (1969); Schweiger v. Superior Court, 3 Cal.3d 507, 476 P.2d 97, 90 Cal.Rptr. 729 (1970); Portnoy v. Hill, 57 Misc.2d 1097, 294 N.Y.S.2d 278 (1968). See also Sims v. Century Kiest Apartments, 567 S.W.2d 526 (Tex.App.1978). We may not agree with the wisdom of the legislature’s decision, but we are powerless to ignore it.
+
+STATE ACTION
+
+Anderson and Bussell finally argue that a Washington court may not issue a writ of restitution when the landlord’s sole reason for an eviction is to retaliate for a tenant’s exercise of First Amendment4 rights. Stated another way, they contend that the court’s decision to strike their affirmative defense is constitutionally impermissible because the resulting eviction is state action that violates their freedoms of speech and assembly.
+
+4
+
+“Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.”
+
+[13] <<13: 92-k-3851>> [14] <<14: 92-k-1151>> [15] <<15: 92-k-3941>> {{*335}} The First Amendment freedom to associate for the advocacy of ideas by {{**539}} lawful means is one of the liberties protected by the Due Process Clause of the Fourteenth Amendment.5 NAACP v. Alabama ex rel. Flowers, 377 U.S. 288, 84 S.Ct. 1302, 12 L.Ed.2d 325 (1964). This right of association, like free speech, lies at the foundation of a free society. Shelton v. Tucker, 364 U.S. 479, 81 S.Ct. 247, 5 L.Ed.2d 231 (1960). The constitution, however, does not prohibit a private person’s infringement of another’s First Amendment rights. It forbids only such infringements which may properly be attributable to the State. Lloyd Corp., Ltd. v. Tanner, 407 U.S. 551, 92 S.Ct. 2219, 33 L.Ed.2d 131 (1972). New York Times Co. v. Sullivan, 376 U.S. 254, 84 S.Ct. 710, 11 L.Ed.2d 686 (1964). Without this requisite state action, there is no constitutional right to a retaliatory eviction defense. Edwards v. Habib, supra. The issue presented, therefore, is whether state action exists when a private landlord evicts tenants for the reasons alleged in this case and utilizes the unlawful detainer statutes to obtain a court-ordered writ of restitution. In accord with recently developed limits on the state action concept, we conclude that Stephanus’ alleged infringement of the tenants’ First Amendment rights is not attributable to the State.
+
+5
+
+“No State shall . . . deprive any person of life, liberty, or property, without due process of law . . . .”
+
+[16] <<16: 92-k-3941>> As a general rule, the state action requirement of the Fourteenth Amendment is satisfied where the State is significantly intertwined with the acts of the private parties. Flagg Bros., Inc. v. Brooks, 436 U.S. 149, 98 S.Ct. 1729, 56 L.Ed.2d 185 (1978); Kennebec v. Bank of the West, 88 Wash.2d 718, 565 P.2d 812 (1977). The application of this rule has been cogently described in Lavoie v. Bigwood, 457 F.2d 7, 10 (1st Cir. 1972):
+
+Conventionally, there is thought to be a line somewhere between two “polar propositions”: that under the {{*336}} Fourteenth Amendment, a state may not deprive a person of his constitutional rights; and that a person may for any reason discriminate against other persons in his private affairs. The notion that these are polar propositions has led courts, in cases involving nominally private actions, to explore from each pole in order better to locate the equator. With the “state action” pole are associated such phrases as “state compulsion or involvement”, and with the opposite pole, state “neutrality” and “purely private” or “merely private” conduct. In attempting to sort out the uses of these phrases, we recognize that in the broadest senses of the words, the states are always involved in private actions, are never pristinely neutral.
+
+(Footnotes omitted).
+
+The tenants’ argument that this case lies closest to the state action “pole” depends heavily on the seminal opinion by Judge Skelly Wright in Edwards. Judge Wright discussed in dicta a theory for finding state action in a retaliatory eviction enforced by a court. He used as the premise for his analysis the suggestion by some commentators that state action may exist whenever the State resolves a private dispute according to its laws. Edwards v. Habib, supra (dicta). This approach, however, is no longer viable. It was unequivocally rejected in Flagg Bros. where the court found no state action in a warehouseman’s private sale of goods even though the sale was authorized by the New York version of the Uniform Commercial Code. In its reasoning, the court hypothesized the absence of any statute and then discussed the state action consequences of a judicial decision to refuse to enjoin the sale. The court concluded that judicial resolution of a private dispute, without more, is in the realm of private conduct. Flagg Bros., 436 U.S. at 165, 98 S.Ct. at 1730, 56 L.Ed.2d 185. Using the metaphor of Lavoie, the court required additional state involvement to move the judicial resolution of a private dispute across the equator into the hemisphere of “state action.”
+
+Typical examples of state action arising in a litigated private dispute include court {{**540}} action without adequate {{*337}} notice to a party, Olympic Forest Products, Inc. v. Chaussee Corp., 82 Wash.2d 418, 511 P.2d 1002 (1973), and court action that denies a fair trial. See generally Shelley v. Kraemer, 334 U.S. 1, 68 S.Ct. 836, 92 L.Ed. 1161, 3 A.L.R.2d 441 (1948). These factors are not alleged in this case. Courts have also found state action where the state involvement is similar to that alleged by Anderson and Bussell, New York Times Co. v. Sullivan, supra; Shelley v. Kraemer, supra; American Federation of Labor v. Swing, 312 U.S. 321, 61 S.Ct. 568, 85 L.Ed. 855 (1941), but a careful examination of these cases reveals state involvement not found here.
+
+Shelley concerned judicial enforcement of racially restrictive covenants limiting real property ownership to Whites. The Supreme Court reviewed two cases arising out of agreements among private individuals. The participation of the State consisted of the enforcement of the restrictions in the agreements. Holding such enforcement to be unlawful state action, the Court described the state involvement as the use of the full coercive power of the government to deny the enjoyment of property rights to willing purchasers solely because of their race or color. Shelley, 334 U.S. at 19, 68 S.Ct. at 845, 92 L.Ed. 1161.
+
+In New York Times, state action was founded upon the state court’s enforcement of a state common law definition of civil libel that unduly restricted free speech. Consistent with this holding are other cases which have found state action in the judicial enforcement of common law rules that violated First Amendment rights. American Federation of Labor v. Swing, supra; Cantwell v. Connecticut, 310 U.S. 296, 60 S.Ct. 900, 84 L.Ed. 1213, 128 A.L.R. 1352 (1940).
+
+To find state action in this case, we would have to expand the holdings of the foregoing cases. In Shelley, the courts made findings about race and drew conclusions based solely on race. They had to identify the purchasers as Black, determine the scope of the racially restrictive covenants and enforce them by enjoining sales to Blacks. See Lavoie v. Bigwood, supra. In New York Times, the state court made findings about the content of speech and {{*338}} penalized that speech by enforcing a rule of law which on its face violated the First Amendment. Constitutionally infirm state laws were also enforced by the state courts in Swing and Cantwell.
+
+[17] <<17: 92-k-1179>> [18] <<18: 92-k-3036>> Unlike Shelley, the trial court in this case was not required to learn the motivations of the party seeking the court’s assistance. It did not have to determine the reasons for the eviction, and it was not asked to enforce a contract containing a constitutionally suspect term. Unlike Shelley and New York Times, it made no findings concerning constitutionally protected status or conduct. The State’s role was limited to providing a disinterested forum for the resolution of a private dispute. The court found that a periodic lease was terminated at the end of one of the periods according to the procedures required by statute. Unlike New York Times, Swing, and Cantwell, it did not enforce unconstitutional state law. The unlawful detainer statutes are neutral concerning First Amendment rights, and this neutrality is not compromised by the existence of the retaliatory eviction defense for some, but not all, tenancies. A statute remains valid and is not invidiously discriminatory when it remedies only part of an evil. Buckley v. Valeo, 424 U.S. 1, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976).
+
+Many courts addressing this issue have found these distinctions meaningful and have refused to extend state action to this type of case. Weigand v. Afton View Apartments, 473 F.2d 545 (8th Cir. 1973); Lavoie v. Bigwood, supra; McGuane v. Chenango Court, Inc., 431 F.2d 1189 (2d Cir. 1970), cert. denied 401 U.S. 994, 91 S.Ct. 1238, 28 L.Ed.2d 532 (1971); Lincoln Financial Corp. v. Ferrier, 567 P.2d 1102 (Utah 1977); Aluli v. Trusdell, 54 Haw. 417, 508 P.2d 1217 (1973), cert. denied, 414 U.S. 1040, 94 S.Ct. 542, 38 L.Ed.2d 331 (1973). Particularly {{**541}} compelling is the rationale in Lavoie, [FN6] 457 F.2d at 11-12:
+
+6
+
+The court in Lavoie v. Bigwood, 457 F.2d 7 (1st Cir. 1972), ultimately found state action, but that holding was based upon facts unrelated to the allegations in this case.
+
+{{*339}} (A) state may at the behest of private persons apply sanctions pursuant to general rules of law which have discriminatory as well as non-discriminatory application if it does not accept the responsibility of employing a discriminatory classification. Such responsibility would exist when, in resorting to a state sanction, a private party must necessarily make the state privy to his discriminatory purpose. Similarly, in such a case as this, the state would retain a neutral posture unless it was necessarily apprised of the landlord’s purpose to violate rights of free speech and association.
+
+This analysis, which we adopt, is consistent with both the reasoning in Flagg Bros. and the finding of state action in Swing, Cantwell, New York Times, and Shelley.
+
+The tenants contend that the issuance of the writ of restitution distinguishes this case from civil rights actions like Lavoie where the state had not issued a writ or taken other enforcement action at the time of the federal court decision. We reject this contention. The writ does not make the state privy to the landlord’s motivations. It is rather a neutral enforcement mechanism which ensures compliance with the court’s judgment. Implicit in the rationale of Flagg Bros. is the notion that state action under the Fourteenth Amendment should not be extended into every private dispute which winds up in a state court. That notion would be entirely undermined if we found state action in the mere enforcement of a judgment where we could find no state action in the judgment itself.
+
+Our conclusion is also supported by several cases that, like Flagg Bros., have recognized limits on when state involvement in nominally private conduct constitutes state action under the Fourteenth Amendment. In Marsh v. Alabama, 326 U.S. 501, 66 S.Ct. 276, 90 L.Ed. 265 (1946), the Court held that state action exists if a company town exercises powers traditionally exclusively reserved to the state. Jackson v. Metropolitan Edison Co., 419 U.S. 345, 95 S.Ct. 449, 42 L.Ed.2d 477 (1974), and Lloyd Corp. v. Tanner, supra, {{*340}} are cases that refused to extend this rule to a public utility and a private shopping center, respectively.
+
+In Moose Lodge No. 107 v. Irvis, 407 U.S. 163, 92 S.Ct. 1965, 32 L.Ed.2d 627 (1972), the Court found no state action in the conduct of a private club which excluded Blacks and held a state liquor license. In so holding, the Court refused to extend the rule that state action is present in the racially discriminatory conduct of a private party holding a lease on public property. Burton v. Wilmington Parking Authority, 365 U.S. 715, 6 L.Ed.2d 45, 81 S.Ct. 856 (1961).
+
+State action was found in a city’s exclusion of Blacks from land willed to it as a park for Whites only. Evans v. Newton, 382 U.S. 296, 86 S.Ct. 486, 15 L.Ed.2d 373 (1966). State action, however, was not found in a court’s application of racially neutral law to determine that the testator intended the land to revert to his heirs if the park could not be used by Whites only. Evans v. Abney, 396 U.S. 435, 90 S.Ct. 628, 24 L.Ed.2d 634 (1970).
+
+Washington courts have also recognized limits on the state action concept. As in Flagg Bros., our cases have found that the use of statutorily authorized self-help remedies by creditors is not state action. Kennebec v. Bank of the West, 88 Wash.2d 718, 565 P.2d 812 (1977); Faircloth v. Old Nat’l Bank, 86 Wash.2d 1, 541 P.2d 362 (1975). In Lehmann v. Board of Trustees, 89 Wash.2d 874, 576 P.2d 397 (1978), the court held that, ordinarily, the conduct of a private college is not state action.
+
+These state and federal decisions which refuse to extend state action concepts developed in prior case law are founded upon a concern for preserving the vitality of the Fourteenth Amendment’s state action requirement. A common thread running through the foregoing authorities is the recognition {{**542}} that the state action requirement is more than just a limitation on state power. It also protects the right to freedom from governmental interference with private conduct. Jackson, 419 U.S. at 352-53, 95 S.Ct. at 454-455, 42 L.Ed.2d 477; Moose Lodge No. 107, 407 U.S. at 173, 92 S.Ct. at 1971, 32 L.Ed.2d 627; Lloyd, 407 U.S. at 565, 92 S.Ct. at 2227, 33 L.Ed.2d 131; Evans, 382 U.S. at 445-47, 90 S.Ct. at 633-35, 24 L.Ed.2d 634; Faircloth, 86 Wash.2d at 4, 541 P.2d 362. A finding of state {{*341}} action in this case would emasculate this purpose of the state action requirement by subjecting all private conduct which results in litigation to the broad restrictions of the Fourteenth Amendment.
+
+To briefly summarize, finding state action in this case is unwarranted for two reasons. First, the trial court merely resolved a private dispute without becoming privy to the landlord’s motivations. Characterizing these facts as state action would be contrary to the concept in Flagg Bros. that the mere judicial resolution of a private dispute should not be state action. Second, a state action holding would overlook the recent development of principled limits on the scope of state action. These limits were designed to prevent governmental interference with private conduct. Private choice should not be subject to state action limitations merely because the result of that choice is state court litigation.
+
+Several courts have ruled otherwise and held that the Fourteenth Amendment prohibits a state court from evicting a tenant when the landlord seeks the eviction in retaliation for the tenant’s exercise of his constitutional rights. Hosey v. Club Van Cortlandt, 299 F.Supp. 501 (S.D.N.Y.1959); Church v. Allen Meadows Apts., 69 Misc.2d 254, 329 N.Y.S.2d 148 (Sup.Ct.1972); E. & E. Newman, Inc. v. Hallock, 116 N.J.Super. 220, 281 A.2d 544 (1971); cf., Abstract Investment Co. v. Hutchinson, 204 Cal.App.2d 242, 22 Cal.Rptr. 309 (1962) (evicted solely because of race). Except for the distinguishable racial motivation case, we believe these cases either relied too heavily on the unduly expansive dicta in Edwards v. Habib, 397 F.2d 687 (D.C.Cir. 1968), or did not recognize the need for workable limits on the state action requirement to prevent governmental interference with private conduct.
+
+Of the numerous remaining cases cited by the parties and those located in our own research, we have found nothing significant to add to the analysis presented here. The fashioning of a precise formula for recognition of state action is {{*342}} an impossible task, and only by sifting the facts and weighing the circumstances alleged in each case can we determine the significance of state involvement in private conduct. Burton v. Wilmington Parking Authority, supra. The tenants’ allegations do not reveal any conceivably significant state involvement in the landlord’s private conduct. Whether these alleged facts should be recognized as a defense is a question that must remain with the legislature. Our concern about the wisdom of the legislature’s decision cannot provide a basis for declaring that decision constitutionally invalid. Standing v. Department of Labor & Industries, 92 Wash.2d 463, 598 P.2d 725 (1979).
+
+For the reasons set forth herein, we affirm the judgment of the trial court.
+
+JAMES and SWANSON, JJ., concur.
+

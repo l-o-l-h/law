@@ -1,0 +1,16 @@
+#+title:      RCW 59 18 020 -- Rights and remedies—Obligation of good faith imposed
+#+date:       [2024-10-29 Tue 04:02]
+#+filetags:   :goodfaith:rcw5918:rlta:
+#+identifier: 20241029T040225
+
+* Rights and remedies—Obligation of good faith imposed.
+
+Every duty under this chapter and every act which must be performed as a condition precedent to the exercise of a right or remedy under this chapter imposes an obligation of good faith in its performance or enforcement.
+
+** Citing Cases
+
+[[file:19800718T000000==coa=div1--stephanus-v-anderson-26-wn-app-326-613-p2d-533-1980__brief_case_fix_goodfaith_rlta.org][Stephanus v. Anderson, 26 Wn. App. 326, 613 P.2d 533 (1980)]]
+
+** Sources
+
+- [[https://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20s%201][[ 1973 1st ex.s. c 207 s 2.]​]]

@@ -1,0 +1,143 @@
+#+title:      Duranzan v. Seattle Hous. & Res. Effort, 15 Wn. App. 2d 1011 (2020)
+#+date:       [2018-07-13 Fri 00:00]
+#+filetags:   :case:ejectment:fix:rlta:tenantatwill:
+#+identifier: 20180713T000000
+
+* Duranzan v. Seattle Housing and Resource Effort -- Court of Appeals of Washington, Division 1. | November 9, 2020 | Not Reported in Pac. Rptr. | 15 Wash.App.2d 1011
+
+- Washington Citation :: Duranzan v. Seattle Hous. & Res. Effort, 15 Wn. App. 2d 1011 (2020)
+
+- All Citations :: Not Reported in Pac. Rptr., 15 Wash.App.2d 1011, 2020 WL 6561304
+
+
+                         15 Wash.App.2d 1011
+             Court of Appeals of Washington, Division 1.
+                     Dameas DURANZAN, Appellant,
+                                  v.
+SEATTLE HOUSING AND RESOURCE EFFORT, a Washington Corporation, Respondent.
+
+                            No. 79700-0-I
+                              11/9/2020
+
+- Honorable Dean S Lum, J.
+- Attorneys and Law Firms
+- Jamie Corrine Clausen, Phinney Estate Law, 751 N. 75th St., Seattle, WA, 98103-4720, Marcus Richard Esq Williamson, Attorney at Law, Po Box 311, Keyport, WA, 98345-0311
+- Scott Roberts Weaver, Carney Badley Spellman, 701 5th Ave. Ste. 3600, Seattle, WA, 98104-7010
+
+** Brief
+
+** UNPUBLISHED OPINION
+
+Leach, J.
+
+{{*1}} Dameas Duranzan appeals a trial court order ejecting him from housing provided through a housing-for-work program. Finding no error in the trial court’s conclusions that Duranzan was a tenant at will and not covered by the Seattle Just Cause Eviction Ordinance, we affirm.
+
+BACKGROUND
+
+Seattle Housing and Resource Effort (SHARE) is a non-profit homeless shelter and a housing-for-work program. Bunkhouse SHARE 2 (BHS2) is an 8-unit single family duplex that houses low-income and homeless tenants. Residents of BHS2 resided there in exchange for work performed with SHARE. Residents paid monthly utility co-payments.
+
+Between July and August 2018, SHARE agents terminated Dameas Duranzan, Brett Gaspard, Emily Walker, and Joshua Dennard (residents) from employment and housing with SHARE. The residents refused to vacate and sued for declarative and injunctive relief to prevent their eviction. The trial court consolidated their cases.
+
+SHARE asked the court to dismiss the residents’ claims on summary judgment. The trial court denied this request but stated SHARE could bring a later summary judgment on the issue of ejectment “as long as the legal basis is something other than one of the exemptions under RCW 59.18.040 that was argued” previously. SHARE later filed another summary judgment request. The trial court granted SHARE’s request in part finding the residents were “tenants at will” and not periodic tenants, and the residents’ housing with SHARE was not subject to Seattle’s Just Cause Eviction Ordinance. It denied SHARE’s request based on unjust enrichment and denied the residents’ request for summary judgment.
+
+SHARE made a third request for summary judgment. Before the court hearing on this request, Duranzan’s court appointed counsel Paul Gill asked the court to let him withdraw as Duranzan’s counsel. On March 4, 2019, the trial court granted SHARE’s third summary judgment request and ordered entry of final judgment on the ejectment claim only. The trial court then allowed Gill to withdraw as counsel.
+
+STANDARD OF REVIEW
+
+Duranzan appeals the trial court’s summary judgment decisions granting SHARE’s requests and denying his own request. We review an order granting summary judgment de novo.[fn:1] Summary judgment is appropriate when “there is no genuine issue as to any material fact” and “the moving party is entitled to a judgment as a matter of law.”2 We view the evidence in the light most favorable to the nonmoving party.3
+
+
+[fn:1] Loeffelholz v. University of Washington, 175 Wn.2d 264, 271, 285 P.3d 854 (2012).
+
+
+[fn:2] CR 56(c); Ranger Ins. Co. v. Pierce County, 164 Wn.2d 545, 552, 192 P.3d 886 (2008).
+
+
+3
+
+Loeffelholz, 175 Wn.2d at 271.
+
+ANALYSIS
+
+Residential Landlord-Tenant Act
+
+Duranzan first challenges the trial court’s conclusion that he was a tenant at will. The State of Washington’s Residential Landlord-Tenant Act of 1973 (RLTA) outlines requirements and duties a landlord owes a residential tenant.4 The duties owed depend on the tenant’s classification.5
+
+4
+
+RCW 59.18.020.
+
+5
+
+Turner v. White, 20 Wn. App. 290, 292, 579 P.2d 410 (1978).
+
+{{*2}} In Turner v. White, an employer allowed its employee to live rent free on employer owned property in exchange for his work.6 The court there held the employee was a tenant at will where “the tenant had come upon the premises with the permission of the owner, the tenancy was terminable without notice and provided for no monthly or periodic payments.”7 Just as in Turner, the residents here had permission to be on the premises in exchange for services provided, the tenancy was terminable without notice, and the residents provided no periodic rent payments. So, the trial court correctly decided Duranzan was a tenant at will.
+
+6
+
+Turner, 20 Wn. App. at 292.
+
+7
+
+Turner, 20 Wn. App. at 292.
+
+SHARE required Duranzan to pay a utility co-payment. Duranzan also asserts “[u]nder the RLTA utility payments are rent.” But, the RLTA does not say this.
+
+RCW 59.18.030(28) states, “ ‘[r]ent’ or ‘rental amount’ means recurring and periodic charges identified in the rental agreement for the use and occupancy of the premises, which may include charges for utilities.” This means rent may include utilities but does not mean a charge for only utilities is rent. Duranzan’s assertion fails.
+
+Seattle Just Cause Eviction Ordinance
+
+Duranzan next claims his ejection violated the Seattle Just Cause Eviction Ordinance. In his complaint he alleges,
+
+4.2 Respondent has intentionally or negligently failed to comply with landlord duties outlined in SMC 22.206.160. They have failed to remedy defective issues reported within 10 days as prescribed by law.
+
+4.3 As a result of the violations of SMC 22.206, any notices and actions that Respondent has implemented or intends to implement since Ferbuary (sic), 2018 violate SMC22.206.180 and are unlawful.
+
+In his declaration of opposing summary judgment he states SHARE told him he was terminated because he interfered with its daily operations. He contends his termination was a retaliation for his earlier complaints about facilities and program participants.
+
+MC 22.206.160(C)(1)(g) provides:
+
+The reasons for termination of tenancy listed below, and no others, shall constitute just cause under this Section 22.206.160:
+
+(g) The tenant’s occupancy is conditioned upon employment on the property and the employment relationship is terminated ....
+
+SHARE presented unchallenged evidence that Duranzan’s occupancy of its property was conditioned on his employment by SHARE and that this occupancy right terminated upon the termination of his employment. In his complaint, Duranzan admitted that previously SHARE employed him, terminated him on July 13, 2018, and required him to vacate its property. So, SHARE presented unchallenged evidence satisfing the requirements of SMC 22.206.160(C)(1)(g) as just cause for terminating a tenancy. Not stated in Duranzan’s appellate briefing, but implicit in his trial court pleadings, is a claim that the termination of his employment does not provide just cause to terminate until any claim that he was wrongfully terminated is resolved. Duranzan points to nothing in the Seattle Just Cause Eviction Ordinance that supports this claim. Without any persuasive reason for delaying an eviction to allow resolution of wrongful employment termination claims, for which the law provides other remedies, we reject Duranzan’s claim.
+
+Ineffective Assistance of Counsel
+
+Duranzan next claims he received ineffective assistance of counsel because his attorney failed to respond to SHARE’s third summary judgment motion. He makes this claim in the context of an accommodation provided to him by the trial court appointed counsel at public expense.
+
+We do not need to decide whether this claim is available to Duranzan in an ejectment proceeding or the correct test to apply. Duranzan cannot satisfy the most stringent test that could apply, the standard courts use in criminal cases. To establish an ineffective assistance of counsel in a criminal case, a defendant must show (1) counsel’s conduct fell below an objective standard of reasonableness, and (2) that a reasonable possibility exists that, but for counsel’s deficient performance, the outcome of his trial would have been different.8 Our scrutiny of counsel’s performance is highly deferential, and we employ a strong presumption of reasonableness.9 Failure to satisfy either prong of the test defeats an ineffective assistance of counsel claim.10
+
+8
+
+State v. Reichenbach, 153 Wn.2d 126, 130, 101 P.3d 80 (2004) (citing State v. Thomas, 109 Wn.2d 222, 225-26, 743 P.2d 816 (1987)).
+
+9
+
+Strickland v. Washington, 466 U.S. 668, 104 S. Ct. 205, 280 L. Ed. 2d 674 (1984); State v. McFarland, 127 Wn.2d 322, 335-36, 899 P.2d 1251 (1995).
+
+10
+
+Strickland, 466 U.S. at 697.
+
+{{*3}} Duranzan complains his counsel did not file a response to the third summary judgment request. But, the trial court received written responses to this request from counsel for other residents. Duranzan does not question the adequacy of this briefing. He does not explain how the outcome would have been any different had his counsel also responded to the third summary judgment request. He simply states the case was “fatally compromised” by his counsel’s inaction. He does not show that any response from his counsel would have changed the outcome.
+
+Duranzan also claims the trial court abused its discretion by failing to inquire why his counsel did not respond to the third summary judgment request. Because Duranzan fails to show how the lack of response prejudiced him, he also fails to show how any inquiry by the court would have changed the result.11
+
+11
+
+RAP 10.3(a)(6); Cowiche Canyon Conservancy v. Bosley, 118 Wn.2d 801, 809, 828 P.2d 549 (1992).
+
+Finally, Duranzan claims the trial court should have allowed him to speak at the hearing on the third request. But, because Duranzan’s counsel was present until after the third summary judgment request, and the trial court clarified this was why he could not speak, Duranzan’s claim fails.
+
+CONCLUSION
+
+We affirm. Duranzan fails to show the trial court erred when it found he and other residents were tenants at will, and because the Seattle Just Cause Eviction Ordinance does not apply to the residents housed by SHARE.
+
+WE CONCUR:
+
+Andrus, J.
+
+Mann, J.
+
