@@ -1,0 +1,7 @@
+#+title:      Practical Typography
+#+date:       [2024-11-06 Wed 11:24]
+#+filetags:   :pollen:racket:typography:
+#+identifier: 20241106T112408
+
+* Practical Typography Cite
+https://practicaltypography.com

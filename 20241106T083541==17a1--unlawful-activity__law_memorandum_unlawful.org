@@ -1,0 +1,9 @@
+#+title:      Unlawful Activity
+#+date:       [2024-11-06 Wed 08:35]
+#+filetags:   :law:memorandum:unlawful:
+#+identifier: 20241106T083541
+
+* Memorandum on Unlawful Activity                                               :ATTACH:
+:PROPERTIES:
+:DIR:      ~/.local/share/notes/law/memoranda/
+:END:

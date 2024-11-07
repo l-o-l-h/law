@@ -1,0 +1,9 @@
+#+title:      Waste and Nuisance Memoranda
+#+date:       [2024-11-06 Wed 08:21]
+#+filetags:   :law:memorandum:nuisance:waste:
+#+identifier: 20241106T082120
+
+* Waste and Nuisance Memorandum                                                 :ATTACH:
+:PROPERTIES:
+:DIR:      ~/.local/share/notes/law/memoranda
+:END:

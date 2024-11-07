@@ -1,0 +1,10 @@
+#+title:      Memoranda of Law
+#+date:       [2024-11-06 Wed 08:31]
+#+filetags:   :law:memorandum:meta:
+#+identifier: 20241106T083140
+
+* Linkds to Memoranda of Law
+#+BEGIN: denote-links :regexp "_memorandum" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20241106T082120][17a  Waste and Nuisance Memoranda]]
+- [[denote:20241106T083541][17a1  Unlawful Activity]]
+#+END:

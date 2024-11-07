@@ -90,3 +90,13 @@
 
 ** 15u Unconscionability
 * 16. Derogation of the Common Law
+* 17. Waste and Nuisance and Unlawful Activity
+[[denote:20241106T081908][17  Waste and Nuisance and Unlawful Activityy]]
+* 18. Memoranda of Law
+[[denote:20241106T083140][18  Memoranda of Law]]
+* 19. Typography
+[[denote:20241106T111903][19a  Typography for Lawyers]]
+[[denote:20241106T112408][19b  Practical Typography]]
+* 20. Publishing
+** Pollen
+[[denote:20241106T112216][20a  Pollen]]
