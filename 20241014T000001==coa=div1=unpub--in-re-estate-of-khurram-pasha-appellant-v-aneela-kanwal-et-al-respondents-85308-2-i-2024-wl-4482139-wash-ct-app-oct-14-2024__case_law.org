@@ -1,0 +1,108 @@
+#+title:      In re Estate of: KHURRAM PASHA, Appellant v. ANEELA KANWAL et al., Respondents, 85308-2-I, 2024 WL 4482139 (Wash. Ct. App. Oct. 14, 2024)
+#+date:       [2024-10-14 Mon 00:00]
+#+filetags:   :case:law:
+#+identifier: 20241014T000001
+
+* In the Matter of the Estate of: KHURRAM PASHA, Deceased, HASSAN PASHA, Appellant, v. ANEELA KANWAL; MSKHRSP, LLC, a Washington Limited Liability Company; RSISP CORPORATION, a Washington corporation; RSSA SERVICES, LLC, a Washington Limited Liability Company; HAMZA PASHA; HAMMAD PASHA; and FARKHAM PASHA, Respondents. -- Court of Appeals of Washington, Division 1. | October 14, 2024 | Not Reported in Pac. Rptr. | 2024 WL 4482139
+
+- Washington Citation :: In re Estate of: KHURRAM PASHA, Appellant v. ANEELA KANWAL et al., Respondents, 85308-2-I, 2024 WL 4482139 (Wash. Ct. App. Oct. 14, 2024)
+- All Citations :: Not Reported in Pac. Rptr., 2024 WL 4482139
+
+** Brief
+
+** Document Details
+
+- Outline
+- Opinion
+- All Citations
+
+** Inline KeyCite:
+
+- Inline KeyCite completed successfully.
+
+* Case
+
+                           2024 WL 4482139
+
+           NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+
+             Court of Appeals of Washington, Division 1.
+
+       In the Matter of the Estate of: KHURRAM PASHA, Deceased,
+
+                       HASSAN PASHA, Appellant,
+
+                                  v.
+
+ANEELA KANWAL; MSKHRSP, LLC, a Washington Limited Liability Company; RSISP CORPORATION, a Washington corporation; RSSA SERVICES, LLC, a Washington Limited Liability Company; HAMZA PASHA; HAMMAD PASHA; and FARKHAM PASHA, Respondents.
+
+                            No. 85308-2-I
+                              10/14/2024
+
+** Opinion
+
+Dwyer, J.
+
+<<*1>> After his brother died intestate, Hassan Pasha filed a petition pursuant to the Trust and Estate Dispute Resolution Act (TEDRA), chapter 11.96A RCW, to request that the King County Superior Court resolve certain questions concerning the ownership of the deceased’s businesses. Pasha now appeals entry of the order awarding monetary damages and attorney fees and costs to the widow of the deceased. However, Pasha’s appeal is untimely as to all issues except an attorney fee award. Accordingly, we do not reach the merits of his underlying claims.
+
+I
+
+In March 2020, Khurram Pasha, the owner of two smoke shops, died intestate. His widow, Aneela Kanwal, was appointed administrator of his estate. In September 2020, Hassan Pasha, Khurram’s brother, filed a TEDRA petition in the King County Superior Court. In the petition, Pasha alleged that he held a 50 percent ownership interest in the smoke shop businesses and requested that he be awarded exclusive ownership of one of the two stores.
+
+In September 2021, Kanwal moved the trial court for summary judgment in which she agreed to Pasha’s proposed division of the stores but sought monetary damages. On December 1, 2021, a commissioner granted Kanwal’s motion for summary judgment, wherein Pasha received sole ownership of one store, while Kanwal received sole ownership of one store as well as an award of monetary damages from Pasha. The commissioner ordered Pasha to pay Kanwal’s reasonable attorney fees “to be determined by agreement or by presentation by motion to the Court.” Additionally, the trial court set a hearing for the purpose of permitting Pasha to provide an accounting to justify a reduction in the amount of damages awarded to Kanwal.
+
+On May 16, 2022, the trial court entered an “Order Awarding Damages and Attorney Fees and Costs” to Kanwal. The trial court found that Pasha had not provided the accounting as directed, but agreed with Pasha’s claim that he was entitled to a setoff and, accordingly, reduced the damages payable to Kanwal. The trial court ordered Pasha to pay $55,488.69 in damages to Kanwal as well as her reasonable attorney fees and costs “to be determined by agreement or by presentation of motion to the Court.”
+
+Pasha moved the superior court for revision of the commissioner’s order as permitted by RCW 2.24.050. On June 24, 2022, the superior court entered an order that denied Pasha’s motion for revision and reaffirmed the commissioner’s order, thus adopting the commissioner’s rulings. The court also ordered Pasha to pay Kanwal’s reasonable attorney fees and costs pursuant to the commissioner’s prior order.
+
+On March 10, 2023, the trial court entered a “Stipulated Order Awarding Attorneys’ Fees and Costs to Aneela Kanwal,” in which the parties stipulated to an award of $10,000 in attorney fees payable from Pasha to Kanwal.
+
+On March 31, 2023, the trial court entered “Judgment Against Hassan Pasha” in the total amount of $65,488.69.
+
+Pasha filed a notice of appeal with this court on April 28, 2023, wherein he seeks review of the order granting summary judgment entered December 1, 2021, the order granting the motion for damages entered May 16, 2022, the order denying his motion for revision entered June 24, 2022, and the judgment against him entered March 31, 2023.
+
+II
+
+<<*2>> Pasha asserts that the trial court erred in granting summary judgment in favor of Kanwal. However, his appeal is untimely such that we will not reach the merits of these claims.
+
+A
+
+Pursuant to RAP 2.2(a)(1), a party may appeal “[t]he final judgment entered in any action or proceeding, regardless of whether the judgment reserves for future determination an award of attorney fees or costs.” A notice of appeal must be filed within 30 days of the entry of the decision for which review is sought. RAP 5.2(a)(1). When a notice of appeal is not filed within 30 days of the entry of an appealable order, “the appellate court is without jurisdiction to consider it.” In re Marriage of Maxfield, 47 Wn. App. 699, 710, 737 P.2d 671 (1987).
+
+While our Rules of Appellate Procedure do not define the term “final judgment,” our Supreme Court has arrived at a definition, relying, in part, on the definition of “final judgment” found in Black’s Law Dictionary: “ ‘A court’s last action that settles the rights of the parties and disposes of all issues in controversy, except for the award of costs (and, sometimes, attorney’s fees) and enforcement of the judgment.’ ” Denney v. City of Richland, 195 Wn.2d 649, 653-54, 462 P.3d 842 (2020) (internal quotation marks omitted) (quoting State v. Taylor, 150 Wn.2d 599, 602, 80 P.3d 605 (2003) (quoting BLACK’S LAW DICTIONARY 847 (7th ed. 1999))). The determination that an order is a “final judgment” relates to its effect on the underlying cause of action, that is, “whether it resolved the merits of a party’s legal claims.” Denney, 195 Wn.2d at 654.
+
+In Denney, our Supreme Court considered whether an order on summary judgment met the definition of a final judgment. 195 Wn.2d at 654. There, the trial court granted summary judgment for the defendant, denied summary judgment for the plaintiff, dismissed with prejudice the plaintiff’s claims and causes of action, and entered an order to this effect on February 12, 2019. Denney, 195 Wn.2d at 651-52. On March 14, 2019, pursuant to CR 54, the trial court entered a final judgment that included an award of costs. Denney, 195 Wn.2d at 652. Denney filed a notice of appeal on April 1, 2019, more than 30 days after the summary judgment and dismissal order but only two weeks after entry of the final judgment. Denney, 195 Wn.2d at 652.
+
+The court determined that the summary judgment order, rather than the final judgment entered pursuant to CR 54, was the final judgment for the purpose of appeal, explaining that “the summary judgment order wholly resolved Denney’s suit on the merits and reserved a cost award for later determination, triggering the deadline.” Denney, 195 Wn.2d at 659-60. In reaching this conclusion, the Denney court identified “CR 54’s interaction with our RAPs” as a source of appellant’s confusion as to which order was the final judgment for the purpose of appeal. 195 Wn.2d at 658. CR 54 directs the prevailing party to “ ‘prepare and present a proposed form of order or judgment not later than 15 days after the entry of the verdict or decision’ ” which “promotes uniformity and lessens the potential for confusion stemming from multiple final judgments.” Denney, 195 Wn.2d at 657-58 (quoting CR 54(e)). However, compliance with CR 54, while a best practice, does not establish the correct procedure to secure appellate review. Denney, 195 Wn.2d at 658-59. As the court expressly warned: “we caution future, similarly situated appellants that our appellate rules establish the correct procedure on review.” Denney, 195 Wn.2d at 659. Thus, the order which resolves the legal merits, regardless of whether it is formally entered as the final judgment pursuant to CR 54, is the final judgment for the purpose of RAP 2.2(a)(1).
+
+<<*3>> Here, Pasha is the aforementioned “similarly situated appellant.” He filed his appeal within 30 days of the “Judgment Against Hassan Pasha” entered March 31, 2023, which was a final judgment pursuant to CR 54. However, entry of the judgment was a mere formality as the issues in controversy had been resolved by the superior court’s order of June 24, 2022. By rejecting Pasha’s motion for revision and affirming the commissioner’s order, the June 24 order constituted the “court’s last action that settles the rights of the parties and disposes of all issues in controversy, except for the award of costs.” BLACK’S, supra, at 847).
+
+Thus, the June 24, 2022 order was the final judgment for the purpose of appeal. Accordingly, given the timeline established in RAP 5.2(a)(1), Pasha was required to file a notice of appeal within 30 days of entry of that order. As Pasha filed for appeal on April 28, 2023, more than 10 months after entry of the order, his appeal is untimely. We therefore dismiss the appeal as to all issues except the attorney fee award.
+
+III
+
+Pasha contends that the trial court erred by granting Kanwal’s request to recover her attorney fees and costs by way of the equitable grounds provided in TEDRA, RCW 11.96A.150. We disagree.
+
+Trial courts have broad discretion to award attorney fees in estate actions. RCW 11.96A.150(1)(a). “In exercising its discretion under this section, the court may consider any and all factors that it deems to be relevant and appropriate, which factors may but need not include whether the litigation benefits the estate or trust involved.” RCW 11.96A.150(1)(c). We review the trial court’s award of fees for abuse of discretion. In re Estate of Evans, 181 Wn. App. 436, 451, 326 P.3d 755 (2014). A trial court abuses its discretion when its exercise thereof is based on untenable grounds, is made for untenable reasons, or evinces a conclusion that no reasonable judge would have reached. Chuong Van Pham v. City of Seattle, 159 Wn.2d 527, 538, 151 P.3d 976 (2007); State v. Comcast Cable Commc’ns Mgmt., LLC, 16 Wn. App. 2d 664, 676, 482 P.3d 925 (2021) (citing Sofie v. Fibreboard Corp., 112 Wn.2d 636, 667, 771 P.2d 711, 780 P.2d 260 (1989)).
+
+Here, in support of her request for attorney fees and costs, Kanwal asserted to the superior court that Pasha’s arguments were “obstreperous and for purpose of delay, harassment and increase in cost of litigation.” By ordering Pasha to pay Kanwal’s reasonable attorney fees and costs, the trial court agreed.1 Because we do not reach the merits of this untimely appeal, we leave undisturbed the trial court’s findings of fact. Thus, we cannot say that no reasonable judge would have reached the same conclusion as the trial court.
+
+1
+
+We also note that the trial court determined that Kanwal was entitled to payment of her reasonable attorney fees and costs as early as the order on summary judgment on December 1, 2021. The order awarding damages and fees also awarded fees to Kanwal, and the superior court affirmed this decision on June 24, 2022. Thus, only the amount of fees owed by Pasha remained unresolved until entry of the stipulated amount.
+
+Furthermore, as to the amount of fees awarded, Pasha stipulated to Kanwal’s “reasonable fees and costs in the amount of $10,000.” In so doing, Pasha materially contributed to entry of the order of which he now complains. He has, therefore, invited any error as to the amount awarded.
+
+IV
+
+Kanwal requests that we award her recovery of her reasonable attorney fees on appeal.
+
+RAP 18.1 permits attorney fees to be awarded on appeal if applicable law grants the party the right to recover reasonable attorney fees. RCW 11.96A.150 provides us broad discretion to award attorney fees on appeal. Accordingly, we exercise that discretion and award Kanwal her fees and costs for having to defend against this untimely appeal. Upon compliance with RAP 18.1, a commissioner of this court will enter the appropriate order.
+
+<<*4>> The underlying appeal is dismissed; the attorney fee order is affirmed.2
+
+2
+
+Although it appears that Pasha’s appeal from the order awarding attorney fees is also untimely, we acknowledge that Carrara, LLC v. Ron & E Enters., Inc., 137 Wn. App. 822, 155 P.3d 161 (2007), can be read to hold to the contrary. Thus, we have chosen to address this issue on its merits.
+
+WE CONCUR:

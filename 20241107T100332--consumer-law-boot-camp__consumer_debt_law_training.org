@@ -1,0 +1,35 @@
+#+title:      Consumer Law Boot Camp
+#+date:       [2024-11-07 Thu 10:03]
+#+filetags:   :consumer:debt:law:training:
+#+identifier: 20241107T100332
+
+* The Life or a Debt
+
+
+* Medical Debt - Charity Care
+
+* FCRA
+
+** Dispute
+is this the right webpage to file complaint for ftc: https://reportfraud.ftc.gov/assistant?orgcode=MC
+
+
+** TransUnion Dispute with FTC
+On the FTC case against Transunion:
+
+Here is the  summary I have on the case:
+
+The Fair Credit Reporting Act requires consumer reporting agencies to
+follow “reasonable procedures to assure maximum possible accuracy” of
+the information in consumer reports, including reports used to screen
+prospective tenants. Last year, the FTC and CFPB settled with Trans
+Union and its tenant screening subsidiary, alleging the companies
+failed to meet that standard. To settle the case, the companies agreed
+to significant changes in how they do business.
+
+This is a link to the order I found online:
+https://www.ftc.gov/system/files/ftc_gov/pdf/turss_tu_final_order.pdf
+
+Here are the emails for folks at the FTC who discussed this:
+Colin MacDonald cmacdonald@ftc.gov
+Nicole Worley nworley@ftc.gov
