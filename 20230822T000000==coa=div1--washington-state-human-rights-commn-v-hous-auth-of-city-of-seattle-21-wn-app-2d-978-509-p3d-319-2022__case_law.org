@@ -1,0 +1,376 @@
+#+title:      Washington State Human Rights Comm’n v. Hous. Auth. of City of Seattle, 21 Wn. App. 2d 978, 509 P.3d 319 (2022)
+#+date:       [2023-08-22 Tue 00:00]
+#+filetags:   :case:law:
+#+identifier: 20230822T000000
+
+* Washington State Human Rights Commission v. Housing Authority of City of Seattle -- Court of Appeals of Washington, Division 1. | May 9, 2022 | 21 Wash.App.2d 978 | 509 P.3d 319
+
+- Washington Citation :: Washington State Human Rights Comm’n v. Hous. Auth. of City of Seattle, 21 Wn. App. 2d 978, 509 P.3d 319 (2022)
+- All Citations :: 21 Wash.App.2d 978, 509 P.3d 319
+
+** Brief
+
+** Document Details
+
+- Outline
+- Synopsis
+- West Headnotes
+- Attorneys and Law Firms
+- OPINION PUBLISHED IN PART
+- All Citations
+
+** KeyCite:
+
+- KeyCite Yellow Flag - Negative Treatment
+- Distinguished byBranchick v. Melrose Station Homeowner’s Association, Wash.App. Div. 2, August 22, 2023
+
+* Case
+
+                          21 Wash.App.2d 978
+
+             Court of Appeals of Washington, Division 1.
+
+WASHINGTON STATE HUMAN RIGHTS COMMISSION, presenting the case in support of the complaint filed by Carmen Romero, Appellant,
+
+                                  v.
+
+        HOUSING AUTHORITY OF the CITY OF SEATTLE, Respondent.
+
+                            No. 82877-1-I
+                            FILED 5/9/2022
+** Synopsis
+
+Background: The Washington State Human Rights Commission (HRC) brought action against city housing authority alleging that it had discriminated against disabled Section 8 housing voucher program participant in violation of the Washington Law Against Discrimination (WLAD) when it refused to provide a reasonable accommodation that was necessary to afford her an equal opportunity to use and enjoy a dwelling. The Superior Court, King County, Suzanne R. Parisien, J., 2021 WL 3162972, granted housing authority’s motion to dismiss. HRC appealed.
+
+Holdings: The Court of Appeals, Smith, C.J., held that:
+
+[1] conversion of motion to dismiss to one for summary judgment was not required, and
+
+[2] housing authority engaged in “real estate transactions” or “services in connection therewith” within meaning of the WLAD when it administered Section 8 housing vouchers.
+
+Reversed.
+
+Procedural Posture(s): On Appeal; Motion to Dismiss for Failure to State a Claim.
+
+** West Headnotes (16)
+
+*** [1] Appeal and Error  [[1: 30-k-3284][30-k-3284]]  De novo review
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XVI(D)4 Pleading/
+- *30-k-3280 Failure to State Claim, and Dismissal Therefor*
+- *30-k-3284 De novo review*
+
+Court of Appeals reviews orders on motions to dismiss for failure to state a claim de novo. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+*** [2] Pretrial Procedure  [[2: 307A-k-679][307A-k-679]]  Construction of pleadings
+
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)6 Proceedings and Effect/
+- *307A-k-679 Construction of pleadings*
+
+On motion to dismiss for failure to state a claim, all facts alleged in the complaint are taken as true, and the court may consider hypothetical facts supporting the plaintiff’s claim. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+- 1 Case that cites this headnote
+
+*** [3] Pretrial Procedure  [[3: 307A-k-624][307A-k-624]]  Availability of relief under any state of facts provable
+
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)4 Pleading, Defects In, in General/
+- *307A-k-623 Clear and Certain Nature of Insufficiency*
+- *307A-k-624 Availability of relief under any state of facts provable*
+
+Dismissal based on failure to state a claim is appropriate only if the court concludes, beyond a reasonable doubt, that the plaintiff cannot prove any set of facts consistent with the complaint which would justify recovery. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+*** [4] Pretrial Procedure  [[4: 307A-k-622][307A-k-622]]  Insufficiency in general
+
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)4 Pleading, Defects In, in General/
+- *307A-k-622 Insufficiency in general*
+
+Motion to dismiss for failure to state a claim should be granted sparingly and with care and, as a practical matter, only in the unusual case in which plaintiff includes allegations that show on the face of the complaint that there is some insuperable bar to relief. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+*** [5] Pretrial Procedure  [[5: 307A-k-681][307A-k-681]]  Matters considered in general
+
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)6 Proceedings and Effect/
+- *307A-k-681 Matters considered in general*
+
+Documents whose contents are alleged in a complaint but which are not physically attached to the pleading may be considered in ruling on a motion to dismiss for failure to state a claim. Wash. Super. Ct. Civ. R. 12(b)(6).
+
+- 3 Cases that cite this headnote
+
+*** [6] Evidence  [[6: 157-k-2851][157-k-2851]]  Public records and documents in general
+Pretrial ProcedureMatters considered in general
+
+- /157 Evidence/
+- /157-XIX Judicial Notice/
+- /157-XIX(B) Particular Matters/
+- /157-XIX(B)2 Government or Public Entities, Institutions, and Officials/
+- *157-k-2849 Official Proceedings and Acts*
+- *157-k-2851 Public records and documents in general*
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)6 Proceedings and Effect/
+- *307A-k-681 Matters considered in general*
+
+In ruling on a motion to dismiss for failure to state a claim, the court may take judicial notice of public documents if their authenticity cannot be reasonably disputed without converting the motion to a motion for summary judgment. Wash. Super. Ct. Civ. R. 12(b)(6), 12(b)(7), 56.
+
+- 4 Cases that cite this headnote
+
+*** [7] Pretrial Procedure  [[7: 307A-k-671][307A-k-671]]  Nature and Form of Proceeding
+Summary JudgmentMotion to dismiss
+
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)6 Proceedings and Effect/
+- *307A-k-671 Nature and Form of Proceeding*
+- *307A-k-671.1 In general*
+- /368 HSummary Judgment/
+- /368H-VI Proceedings/
+- /368H-VI(A) In General/
+- *368H-k-272 Motion or Other Request*
+- *368H-k-278 Conversion of Other Motions*
+- *368H-k-278(2) Motion to dismiss*
+- /(Formerly 228k183)/
+
+Where the basic operative facts are undisputed and the core issue is one of law, a motion to dismiss for failure to state a claim need not be treated as a motion for summary judgment. Wash. Super. Ct. Civ. R. 12(b)(6), 12(b)(7), 56.
+
+- 1 Case that cites this headnote
+
+*** [8] Pretrial Procedure  [[8: 307A-k-681][307A-k-681]]  Matters considered in general
+Summary JudgmentMotion to dismiss
+
+- /307 APretrial Procedure/
+- /307A-III Dismissal/
+- /307A-III(B) Involuntary Dismissal/
+- /307A-III(B)6 Proceedings and Effect/
+- *307A-k-681 Matters considered in general*
+- /368 HSummary Judgment/
+- /368H-VI Proceedings/
+- /368H-VI(A) In General/
+- *368H-k-272 Motion or Other Request*
+- *368H-k-278 Conversion of Other Motions*
+- *368H-k-278(2) Motion to dismiss*
+- /(Formerly 228k183)/
+
+To extent that trial court considered exhibits attached to city housing authority’s motion to dismiss for failure to state a claim, in action brought against it by Washington State Human Rights Commission (HRC) regarding housing authority’s alleged disability discrimination by failing to provide reasonable accommodation that was necessary to afford participant in Section 8 housing voucher program an equal opportunity to use and enjoy dwelling, conversion to motion for summary judgment was not required, where exhibits, which included letter from HRC informing participant it was considering her complaint and copies of housing authority’s public information website, were matters of public record for which court could take judicial notice, even if court did not specify that it had done so. Wash. Rev. Code Ann. § 49.60.227; Wash. Super. Ct. Civ. R. 12(b)(6), 12(b)(7), 56.
+
+- 2 Cases that cite this headnote
+
+*** [9] Statutes  [[9: 361-k-1071][361-k-1071]]  Intent
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(A) In General/
+- *361-k-1071 Intent*
+- *361-k-1072 In general*
+
+Primary goal in statutory interpretation is to ascertain and give effect to the intent of the Legislature.
+
+*** [10] Statutes  [[10: 361-k-1082][361-k-1082]]  Construction based on multiple factors
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(A) In General/
+- *361-k-1082 Construction based on multiple factors*
+
+A court begins statutory interpretation by examining the plain meaning of the statute, which is discerned from the ordinary meaning of the language at issue and the context of the statute and statutory scheme in which that language is found.
+
+*** [11] Statutes  [[11: 361-k-1405][361-k-1405]]  Relation to plain, literal, or clear meaning;  ambiguity
+
+- /361 Statutes/
+- /361-IV Operation and Effect/
+- *361-k-1402 Construction in View of Effects, Consequences, or Results*
+- *361-k-1405 Relation to plain, literal, or clear meaning;  ambiguity*
+
+In undertaking a plain language analysis when interpreting a statute, the court avoids interpreting a statute in a manner that leads to unlikely, strained, or absurd results.
+
+*** [12] Statutes  [[12: 361-k-1080][361-k-1080]]  Language and intent, will, purpose, or policy
+StatutesAbsent terms;  silence;  omissions
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(A) In General/
+- *361-k-1078 Language*
+- *361-k-1080 Language and intent, will, purpose, or policy*
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(D) Particular Elements of Language/
+- *361-k-1139 Absent terms;  silence;  omissions*
+
+When interpreting a statute, the court may not add words to a statute and must construe it in a way that gives effect to all the language within the statute.
+
+- 1 Case that cites this headnote
+
+*** [13] Statutes  [[13: 361-k-1102][361-k-1102]]  What constitutes ambiguity;  how determined
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(C) Clarity and Ambiguity;  Multiple Meanings/
+- *361-k-1102 What constitutes ambiguity;  how determined*
+
+A statute is “ambiguous” only if susceptible to two or more reasonable interpretations, but a statute is not ambiguous merely because different interpretations are conceivable.
+
+*** [14] Statutes  [[14: 361-k-1177][361-k-1177]]  Titles, headings, and captions
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(F) Extrinsic Aids to Construction/
+- *361-k-1172 Ancillary Provisions or Material*
+- *361-k-1177 Titles, headings, and captions*
+
+Where a statute is ambiguous, section headings enacted as a part of the act may assist in determining legislative intent, but they do not control the plain meaning.
+
+*** [15] Statutes  [[15: 361-k-1111][361-k-1111]]  Plain language;  plain, ordinary, common, or literal meaning
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(C) Clarity and Ambiguity;  Multiple Meanings/
+- *361-k-1107 Absence of Ambiguity;  Application of Clear or Unambiguous Statute or Language*
+- *361-k-1111 Plain language;  plain, ordinary, common, or literal meaning*
+
+If a statute is unambiguous after a review of the plain meaning, the court’s inquiry is at an end.
+
+*** [16] Civil Rights  [[16: 78-k-1082][78-k-1082]]  Public housing;  public assistance
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1082 Public housing;  public assistance*
+
+City housing authority engaged in “real estate transactions” or “services in connection therewith” within meaning of the Washington Law Against Discrimination (WLAD) when it administered Section 8 housing vouchers, and therefore, it was required by WLAD to provide disabled housing voucher program participant reasonable accommodation to afford her an equal opportunity to access housing; under WLAD, “real estate transactions” were defined to include rentals of real property, and the provision of a subsidy for such rental was a service that enabled, and was therefore connected to, such a transaction, and further, issuance of a Section 8 voucher affected a person’s opportunity to use and enjoy a dwelling by enabling access to the dwelling in the first place. Wash. Rev. Code Ann. §§ 49.60.222(1)(b), 49.60.222(2)(b).
+
+- 1 Case that cites this headnote
+
+<<**321>> Honorable Suzanne Parisien, Judge
+** Attorneys and Law Firms
+
+- Ashley McDowell, Attorney at Law, 800 5th Ave. Ste. 2000, Seattle, WA, 98104-3188, for Appellant.
+- Leigh Ann Collings Tift, Seattle Housing Authority, 190 Queen Anne Ave. N Ste. 500, Seattle, WA, 98109-4975, for Respondent.
+
+** OPINION PUBLISHED IN PART
+
+Smith, A.C.J.
+
+<<*979>> ¶1 Carmen Romero relinquished her Section 8 housing subsidy under circumstances that she claims were less than voluntary because her disabilities prevented her from fully understanding the consequences. The Washington State Human Rights Commission (HRC) brought this action against the Seattle Housing Authority (SHA), requesting a reasonable accommodation of Romero’s disabilities in the form of a reinstatement of her housing <<*980>> voucher. The Superior Court dismissed HRC’s complaint on SHA’s CR 12(b)(6) motion.
+
+¶2 We conclude that SHA is subject to the requirements of the Washington Law Against Discrimination (WLAD), ch. 49.60 RCW, because it provides services in connection with real estate transactions. And because HRC sufficiently alleged that Romero may have needed an accommodation to afford her an equal opportunity to access housing, the court erred by dismissing HRC’s complaint. Accordingly, we reverse.
+
+FACTS
+
+¶3 SHA administers a Section 8 Housing Choice Voucher program providing rent subsidies to low-income tenants in Seattle.1 SHA issued a Section 8 voucher to Romero beginning in January 2012.
+
+1
+
+The facts are taken from the allegations in HRC’s complaint. “When reviewing the denial of a CR 12(b)(6) motion, we presume that the complaint’s factual allegations are true.” Trujillo v. Nw. Tr. Servs., Inc., 183 Wash.2d 820, 827 n.1, 355 P.3d 1100 (2015).
+
+¶4 In May 2017, Romero began an e-mail exchange with Katherine Wiles, an SHA employee, about Romero’s plan to move to Florida. Romero told Wiles that it was her understanding that she could not transfer her voucher out of state and would need to reapply in Florida. She asked Wiles about the process for giving up her voucher, and asked for confirmation that she could not transfer her voucher to St. Augustine, Florida. Wiles told Romero she could not transfer her voucher because there was no housing authority in the zip code Romero provided and gave Romero a “Voluntary Program Exit” form. Romero signed the form on June 19, 2017, and wrote on the form, “I am moving to Florida (Palatka). I gave [Wiles] the zip code however there is no housing authority office with the zip[ ]code I provided.” But the zip code that Romero provided is in fact served by the Palatka Housing Authority.
+
+<<*981>> ¶5 One week later on June 26, Romero e-mailed Wiles, providing a new zip code where she was living and asking if Wiles could transfer her paper work to that zip code’s housing authority office. Wiles responded that Romero could not reverse the voluntary relinquishment of her voucher.
+
+¶6 Romero, who had moved to Florida to pursue a job opportunity, later learned that the opportunity was in fact a sex trafficking scheme. Romero was able to avoid the scheme and returned to Seattle on July 4, 2017, where she had difficulty obtaining stable housing.
+
+¶7 On January 26, 2018, Romero submitted a request to SHA for a reasonable accommodation of her disabilities in the form of a voucher reinstatement. Romero has posttraumatic stress disorder, bipolar depression, generalized anxiety disorder, panic disorder, and learning disabilities that impact her decision making ability, comprehension, and ability to process directions. In her request, she attached a letter from her psychiatric mental health provider, who explained that Romero “needed to be given detailed information in order to understand the consequences of her actions and that she <<**322>> benefitted from in-person interaction in order to comprehend information at the same level as someone without her disability.”
+
+¶8 SHA denied Romero’s request on June 16, 2018 and denied her appeal on November 27, 2018. Romero has faced housing insecurity as a result.
+
+PROCEDURAL BACKGROUND
+
+¶9 After her SHA appeal was denied, Romero timely filed a complaint with the United States Department of Housing and Urban Development (HUD), which later referred the complaint to HRC. In March 2021, HRC initiated a complaint against SHA in superior court, alleging a violation of the WLAD. HRC alleged that SHA has an administrative plan that provides for “Special Issuance <<*982>> Vouchers,” which can be issued outside of the waiting list, including as an accommodation for a person with a disability, and that Romero’s requested accommodation was therefore reasonable.
+
+¶10 SHA moved for judgment on the pleadings under CR 12(b)(6), alleging that the issuance of Section 8 vouchers was not a “real estate transaction” subject to the WLAD, that SHA did not fail to reasonably accommodate Romero, and that HRC’s complaint was untimely. It attached copies of Romero’s program exit form and some of the e-mail correspondence that had been referenced in the complaint. Along with its response, HRC attached documentation of Romero’s complaint to HUD. SHA then conceded that the request was timely. With its reply, SHA also submitted copies of its website showing that the voucher wait list was closed at the time that Romero requested reinstatement of her voucher. The court granted SHA’s motion, and HRC appeals.
+
+ANALYSIS
+
+¶11 HRC contends that the court erred by considering facts outside of the pleadings and by granting SHA’s motion to dismiss. We conclude that the court did not err by considering attachments to the parties’ briefing, that SHA is subject to the WLAD in its role as a voucher administrator, and that HRC adequately pleaded a discrimination claim. Therefore, we reverse.
+
+Standard of Review and Consideration of Facts outside of Pleadings
+
+[1] <<1: 30-k-3284>> [2] <<2: 307A-k-679>> [3] <<3: 307A-k-624>> [4] <<4: 307A-k-622>>¶12 We review orders on CR 12(b)(6) motions de novo. Trujillo v. Nw. Tr. Servs., Inc., 183 Wash.2d 820, 830, 355 P.3d 1100 (2015). “All facts alleged in the complaint are taken as true, and we may consider hypothetical facts supporting the plaintiff’s claim.”  <<*983>> FutureSelect Portfolio Mgmt., Inc. v. Tremont Grp. Holdings, Inc., 180 Wash.2d 954, 962, 331 P.3d 29 (2014). “Dismissal based on failure to state a claim is appropriate only if we conclude, beyond a reasonable doubt, that the plaintiff cannot prove any set of facts consistent with the complaint which would justify recovery.” Byrd v. Pierce County, 5 Wash. App. 2d 249, 256-57, 425 P.3d 948 (2018). Therefore, a CR 12(b)(6) motion should be granted “ ‘sparingly and with care’ and, as a practical matter, ‘only in the unusual case in which plaintiff includes allegations that show on the face of the complaint that there is some insuperable bar to relief.’ ” Kinney v. Cook, 159 Wash.2d 837, 842, 154 P.3d 206 (2007) (internal quotation marks omitted) (quoting Hoffer v. State, 110 Wash.2d 415, 420, 755 P.2d 781, 793 (1988)).
+
+[5] <<5: 307A-k-681>> [6] <<6: 157-k-2851>> [7] <<7: 307A-k-671>>¶13 HRC challenges the court’s consideration of various factual assertions and exhibits submitted by SHA. Generally, on a CR 12(b)(6) motion, if “matters outside the pleading are presented to and not excluded by the court, the motion shall be treated as one for summary judgment ... and all parties shall be given reasonable opportunity to present all material made pertinent to such a motion by rule 56.” CR 12(b)(7). However, “ ‘[d]ocuments whose contents are alleged in a complaint but which are not physically attached to the pleading may ... be considered in ruling on a CR 12(b)(6) motion to dismiss.’ ” Trujillo, 183 Wash.2d at 827 n.2, 355 P.3d 1100 (second alteration in original) (quoting Rodriguez v. Loudeye Corp., 144 Wash. App. 709, 726, 189 P.3d 168 (2008)). Furthermore, the court “may take judicial notice of public documents if their authenticity cannot be reasonably disputed” without <<**323>> converting the motion to a motion for summary judgment. Rodriguez, 144 Wash. App. at 725-26, 189 P.3d 168. Finally, “where the ‘basic operative facts are undisputed and the core issue is one of law,’ the motion to dismiss need not be treated as a motion for summary judgment.” Trujillo, 183 Wash.2d at 827 n.2, 355 P.3d 1100 (quoting Ortblad v. State, 85 Wash.2d 109, 111, 530 P.2d 635 (1975)).
+
+[8] <<8: 307A-k-681>>¶14 Here, SHA attached two documents to its motion to dismiss: Romero’s May 30, 2017 e-mail to Wiles and Romero’s Voluntary Program Exit form. These were referenced in <<*984>> HRC’s complaint and were therefore appropriately considered by the trial court. The other documents submitted by the parties were not referenced in the complaint, but the parties alleged that the court could take judicial notice of them as matters of public record: a July 19, 2019 HUD letter referring Romero’s complaint to the Seattle Office for Civil Rights, an October 28, 2019 letter informing Romero that HRC was considering her complaint, and copies of SHA’s public information website. The trial court did not specify that it took judicial notice of these exhibits, and it is somewhat unclear whether it considered them at all.2 Nonetheless, we conclude that the court did not err to the extent it considered these exhibits and that its consideration of these documents does not transform the motion to a motion for summary judgment. Jackson v. Quality Loan Serv. Corp., 186 Wash. App. 838, 845, 347 P.3d 487 (2015) (“Although the record does not indicate whether the trial court did in fact take judicial notice of these documents, the court’s consideration of the documents was appropriate in this CR 12(b)(6) motion. ... Because Jackson cannot challenge the authenticity of these readily available public documents, the trial court did not err in taking judicial notice of these documents.”).
+
+2
+
+The court’s order specified that it considered:
+
+1. Defendant’s Motion for Judgment on the Pleadings Pursuant to CR 12(b)(6) and supporting Declaration;
+
+2. Plaintiff’s Opposition to the Motion for Judgment on the Pleadings Pursuant to CR 12(b)(6), including
+
+3. Defendant’s Reply to Plaintiffs Opposition to the Motion for Judgment on the Pleadings Pursuant to CR 12(b)(6), including
+
+; and
+
+4. the records and files herein.
+
+(Emphasis added.) The conspicuous omissions in items 2 and 3 seem to suggest that the court did not consider the attachments to those filings, while item 4 indicates that the court did consider those attachments. The hearing transcript does suggest that the court read the attachments although it did not refer to them specifically.
+
+<<*985>> Real Estate Transactions and Services
+
+¶15 The first issue is whether SHA engages in “real estate transactions” or “services in connection therewith” when it administers Section 8 vouchers, such that it is subject to the requirements of the WLAD under RCW 49.60.222. We conclude that it does.
+
+[9] <<9: 361-k-1071>> [10] <<10: 361-k-1082>> [11] <<11: 361-k-1405>> [12] <<12: 361-k-1080>> [13] <<13: 361-k-1102>> [14] <<14: 361-k-1177>> [15] <<15: 361-k-1111>>¶16 “The primary goal in statutory interpretation is to ascertain and give effect to the intent of the Legislature.” Nat’l Elec. Contractors Ass’n v. Riveland, 138 Wash.2d 9, 19, 978 P.2d 481 (1999). We begin by examining the plain meaning of the statute, which is discerned from the ordinary meaning of the language at issue and the context of the statute and statutory scheme in which that language is found. Lake v. Woodcreek Homeowners Ass’n, 169 Wash.2d 516, 526, 243 P.3d 1283 (2010). “In undertaking a plain language analysis, we avoid interpreting a statute in a manner that leads to unlikely, strained, or absurd results.” Burns v. City of Seattle, 161 Wash.2d 129, 150, 164 P.3d 475 (2007). We may not add words to a statute and must construe it in a way that gives effect to all the language within the statute. Lake, 169 Wash.2d at 526, 243 P.3d 1283. “A statute is ambiguous only if susceptible to two or more reasonable interpretations, but a statute is not ambiguous merely because different interpretations are conceivable.” Burton v. Lehman, 153 Wash.2d 416, 423, 103 P.3d 1230 (2005). “Where a statute is ambiguous, section headings enacted as a part of the act may assist in determining legislative intent, but they do not control the plain meaning.” In re Est. of Ray, 15 Wash. App. 2d 353, 362, 478 P.3d 1126 (2020), review denied <<**324>> , 197 Wash.2d 1009, 484 P.3d 1264 (2021). “If the statute is unambiguous after a review of the plain meaning, the court’s inquiry is at an end.” Lake, 169 Wash.2d at 526, 243 P.3d 1283.
+
+¶17 The provisions of the WLAD “shall be construed liberally for the accomplishment of [its] purposes,” which <<*986>> are to protect the “public welfare, health, and peace of the people.” RCW 49.60.020, .010. Under the WLAD, the “right to be free from discrimination because of ... any sensory, mental, or physical disability ... is ... a civil right.” RCW 49.60.030(1). RCW 49.60.222(1)(b) specifically prohibits “discriminat[ion] against a person in the terms, conditions, or privileges of a real estate transaction or in the furnishing of facilities or services in connection therewith” on the basis of a disability. “Real estate transaction” is defined as “includ[ing] the sale, appraisal, brokering, exchange, purchase, rental, or lease of real property, transacting or applying for a real estate loan, or the provision of brokerage services.” RCW 49.60.040(22). Discrimination under this chapter also specifically includes a “refus[al] to make reasonable accommodation in rules, policies, practices, or services when such accommodations may be necessary to afford a person with the presence of any sensory, mental, or physical disability ... equal opportunity to use and enjoy a dwelling.” RCW 49.60.222(2)(b).
+
+[16] <<16: 78-k-1082>>¶18 We conclude that the plain language of the statute includes the administration of Section 8 vouchers in its prohibition on discrimination. “Real estate transactions” are defined to include rentals of real property, and the provision of a subsidy for such a rental is a service that enables, and is therefore connected to, this transaction. Therefore, at the very least, issuing a Section 8 voucher is a “service[ ] in connection” with a real estate transaction under RCW 49.60.222(1)(b).3 Similarly, the issuance of a Section 8 voucher affects a person’s “opportunity to use and <<*987>> enjoy a dwelling” under RCW 49.60.222(2)(b) by enabling access to the dwelling in the first place.
+
+3
+
+The parties both advocate for their interpretation in the context of the section heading for RCW 49.60.222: “Unfair practices with respect to real estate transactions, facilities, or services.” This heading appears to have been created by the code reviser, as it was not included in the original act, and it is therefore not useful to our statutory interpretation. LAWS OF 1969, 1st Ex. Sess., ch. 167, § 4; State v. Lundell, 7 Wash. App. 779, 782 n.1, 503 P.2d 774 (1972) (“Section headings which appear in RCW have three derivations: (1) they are placed there by the code reviser, (2) they are placed there by the legislature but there is a specific provision in the statute that section headings do not become a part of the act, or (3) they are placed in the original act by the legislature without any limiting provisions. It is only in the latter instance that section headings become an integral part of the law and are useful in statutory interpretation.”).
+
+¶19 We note that this interpretation is in line with Washington precedent, which has construed RCW 49.60.222 to apply to a broad range of situations. McFadden v. Elma Country Club, 26 Wash. App. 195, 201, 613 P.2d 146 (1980) (grant of membership in a country club was a real estate transaction where membership was a prerequisite to the use and possession of a home on the club’s property—RCW 49.60.222 was intended to “ ‘cover every possible real property transaction without exception’ ” (quoting Wash. State Human Rights Comm’n, Declaratory Ruling No. 9, 1 Wash. Human Rights Rep. IC-11 (1974))); Williams-Batchelder v. Quasim, 103 Wash. App. 8, 14-15, 19 P.3d 421 (2000) (analyzing WLAD reasonable accommodation claim in the context of the denial of a day care home license). This interpretation is also in line with federal precedent holding that virtually identical language in the Fair Housing Amendments Act of 1988, Title 42 U.S.C., requires Section 8 voucher administrators to make reasonable accommodations. See 42 U.S.C. § 3604(f)(3)(B) (requiring “reasonable accommodations in rules, policies, practices, or services, when such accommodations may be necessary to afford such person equal opportunity to use and enjoy a dwelling,” with language identical to RCW 49.60.222(2)(b) except where italicized); Marquis v. City of Spokane, 130 Wash.2d 97, 109, 922 P.2d 43 (1996) (“In construing the [WLAD], we have sometimes looked for guidance to cases interpreting equivalent federal law.”); Burgess v. Alameda Hous. Auth., 98 Fed. Appx. 603, 606 (9th Cir. 2004) (holding plaintiff adequately stated a <<**325>> claim under 42 U.S.C. § 3604(f)(3)(B) that housing authority failed to reasonably accommodate her by denying approval of a voucher extension);  *988 Lihosit v. San Diego Hous. Comm’n, 06CV1149 J (BLM), 2006 WL 7354096, at *4 (S.D. Cal. Dec. 29, 2006) (court order) (plaintiff had standing under 42 U.S.C. § 3604(f)(3)(B) based on claim that housing authority failed to reasonably accommodate him in reducing housing subsidy from a two-bedroom voucher to one-bedroom voucher). Therefore, we conclude that RCW 49.60.222 prohibits SHA from discrimination in the issuance of housing vouchers and requires SHA to reasonably accommodate people with disabilities.
+
+¶20 A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record in accordance with RCW 2.06.040, it is so ordered.
+
+Unpublished Text Follows
+
+Reasonable Accommodation
+
+¶21 HRC contends that given the WLAD’s applicability to SHA, the court erred by concluding that HRC failed to state a claim for reasonable accommodation. We agree.
+
+¶22 To state a claim under the WLAD, HRC was required to show that (1) Romero had a sensory, mental, or physical disability and that (2) SHA refused to make a reasonable accommodation that was (3) necessary to afford Romero “equal opportunity to use and enjoy a dwelling.” RCW 49.60.222(2)(b). The facts alleged in the complaint are sufficient to establish, and SHA does not dispute, that Romero has a disability. The issues are whether the accommodation that SHA refused to make was reasonable and whether it was necessary for Romero to have an equal opportunity to use and enjoy a dwelling.
+
+¶23 First, we cannot conclude as a matter of law that Romero’s requested accommodation is unreasonable. See Trujillo, 183 Wash.2d at 830, 355 P.3d 1100 (dismissal under CR 12(b)(6) is appropriate if a claim is legally insufficient even under plaintiff’s proposed hypothetical facts). “An accommodation is reasonable, and therefore required, if it does not cause a ‘fundamental alteration in the nature of a program’ or ‘undue financial and administrative burdens.’ ” Josephinium Associates v. Kahli, 111 Wash. App. 617, 623, 45 P.3d 627 (2002) (quoting Groner v. Golden Gate Gardens Apts., 250 F.3d 1039, 1044 (6th Cir. 2001)). The question of whether an accommodation is reasonable is highly fact-specific and requires the fact finder to balance the burdens imposed on the accommodating party and the benefits imposed on the tenant. Josephinium, 111 Wash. App. at 623-24, 45 P.3d 627 (referring to the FHAA but noting that “Washington Law imposes the same prohibitions and requirements” and analyzing both laws). In its complaint, HRC specified that the accommodation Romero was requesting was a reinstatement of her voucher. It alleged that SHA’s administrative plan provides for “Special Issuance Vouchers,” which SHA may issue outside of the public waiting list in response to specific situations, including “as an accommodation for a person with a disability.” Drawing all reasonable inferences in HRC’s favor, this implies that reissuing a voucher to Romero would not fundamentally change the nature of the program or cause undue burdens to SHA.4 Trujillo, 183 Wash.2d at 830, 355 P.3d 1100.
+
+4
+
+Furthermore, SHA’s counsel stated at oral argument that there probably was a situation in which SHA would allow someone to rescind their program exit form if they could show that the exit was involuntary. Because Romero has alleged that her exit was involuntary, rescinding her program exit form would seem to be in a reasonable realm of possibility for SHA.
+
+¶24 SHA disagrees, contending that federal regulations require it to issue vouchers only to applicants on the waitlist, Romero was not on the waitlist, and SHA’s waitlist was closed at the time that Romero requested the accommodation. But federal regulations provide that in closing the waitlist, a housing authority may either “stop accepting new applications, or may accept only applications meeting criteria adopted” by the authority. 24 C.F.R. § 982.206(c). The regulations also do not appear to address reinstatement of a housing voucher, which was Romero’s requested accommodation. We are therefore not convinced that, as a matter of law, Romero’s requested accommodation was necessarily legally foreclosed. SHA also contends that the accommodation was impossible as a matter of fact, but this assertion requires evidence about SHA’s budget that is not part of the record and would not be properly before us on a CR 12(b)(6) motion. Moreover, counsel for SHA indicated at oral argument that exceptions are sometimes made to various rules concerning eligibility and applications for vouchers. Given the deferential standard of review, we cannot conclude beyond a reasonable doubt that Romero’s requested accommodation is unreasonable.5
+
+5
+
+For the first time on appeal, SHA included new portions of its administrative plan in its brief to contend that the accommodation was unreasonable. However, SHA “does not even address RAP 9.11,” which restricts appellate consideration of new evidence on review in addition to the normal judicial notice standard. Spokane Research & Def. Fund v. City of Spokane, 155 Wash.2d 89, 98-99, 117 P.3d 1117 (2005). Therefore, we do not consider this evidence.
+
+¶25 We also conclude that HRC sufficiently pled that an accommodation was necessary to afford Romero an equal opportunity to use and enjoy a dwelling. HRC’s complaint alleges that Romero’s mental health disabilities made it difficult for her to comprehend the consequences of giving up her voucher in Seattle without clear, detailed, accurate, and in-person communication, and that because she did not receive this communication, her exit from the program was not voluntary. The court could reasonably infer from these allegations that if not for her disability, Romero would still have a voucher. Thus, we conclude that HRC has sufficiently pleaded the third element, that is, that some accommodation is required for Romero to have an equal opportunity to use and enjoy a dwelling as someone without a disability. Riehl v. Foodmaker, Inc., 152 Wash.2d 138, 148 n.4, 94 P.3d 930 (2004) (noting in the employment context that plaintiff “must show only a medical nexus between the disability and the need for any accommodation” (emphasis added)), abrogated on other grounds by Mikkelsen v. Pub. Util. Dist. No. 1 of Kittitas County, 189 Wash.2d 516, 404 P.3d 464 (2017).
+
+¶26 SHA contends that there is no nexus between Romero’s disability and her requested accommodation because her health provider only referenced accommodations like providing Romero with detailed information and in-person interactions to comprehend information. However, the allegation is that because Romero did not receive these accommodations when she was exiting the program in 2017, she was not able to make a voluntary choice to exit the program. Under these facts, Romero’s requested accommodation in 2018 would put her in the same position that she would be in if she was not disabled. This is a sufficient nexus between the disability and Romero’s requested accommodation.6
+
+6
+
+We note that SHA’s argument to the contrary relies on an employment discrimination case. Riehl, 152 Wash.2d at 148 n.4, 94 P.3d 930. But the requirements for reasonable accommodation in the employment context are stricter than in other contexts and refer specifically to documentation showing a link between a disability and the person’s ability to perform the job. RCW 49.60.040(7)(d).
+
+¶27 SHA also contends that it had no duty to accommodate Romero because she was not a participant or applicant in the program at the time she requested an accommodation. The authority it cites does not support this position. See Josephinium, 111 Wash. App. at 629-30, 45 P.3d 627 (not addressing whether landlord’s duty to accommodate continued to date of actual eviction, but noting that “presumably a landlord may not escape an obligation to accommodate merely by serving a notice to vacate.”). RCW 49.60.222 makes no such limitation, and indeed makes references to discrimination in the negotiation or issuance of real estate services. RCW 49.60.222(1)(j). While SHA certainly does not have a duty to issue a voucher to every disabled voucher applicant, it does have a duty to reasonably accommodate applicants to put them on equal footing with non-disabled applicants. This may include assisting individuals with filling out forms in the application process, an accommodation that SHA makes “all the time.” In Romero’s case, it is possible that this includes reissuing her voucher. We therefore conclude that HRC adequately pleaded its claim that SHA failed to reasonably accommodate Romero.
+
+¶28 We reverse.
+
+End of Unpublished Text
+
+Andrus, C.J., and Appelwick, J. Pro Tem., concur.

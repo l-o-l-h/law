@@ -1,0 +1,169 @@
+#+title:      Refined Holdings, LLC v. Olsen, 58563-4-II, 2024 WL 4851430 (Wash. Ct. App. Nov. 21, 2024)
+#+date:       [2024-11-21 Thu 00:00]
+#+filetags:   :case:law:
+#+identifier: 20241121T000000
+
+* Refined Holdings, LLC v. Olsen -- Court of Appeals of Washington, Division 2. | November 21, 2024 | Not Reported in Pac. Rptr. | 2024 WL 4851430
+
+- Washington Citation :: Refined Holdings, LLC v. Olsen, 58563-4-II, 2024 WL 4851430 (Wash. Ct. App. Nov. 21, 2024)
+- All Citations :: Not Reported in Pac. Rptr., 2024 WL 4851430
+
+** Brief
+
+** Document Details
+
+- Outline
+- Attorneys and Law Firms
+- UNPUBLISHED OPINION
+- All Citations
+
+** Inline KeyCite:
+
+- Inline KeyCite completed successfully.
+
+* Case
+
+                           2024 WL 4851430
+
+           NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+
+             Court of Appeals of Washington, Division 2.
+
+                  REFINED HOLDINGS, LLC, Respondent,
+
+                                  v.
+
+       Stephanie Beth OLSEN and All Other Occupants, Appellant.
+
+                                 No.
+
+                                58563
+
+                                  -
+
+                                  4
+
+                                  -
+
+                                  II
+                       Filed November 21, 2024
+
+- Appeal from Grays Harbor County Superior Court, Docket No: 23-2-00305-1, Honorable David L. Edwards, Judge
+- Attorneys and Law Firms
+- Christina Eugenie Jaccard, Yuan Ting, King County Bar Association, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Edmund Robert Witter, Attorney at Law, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Ashleen Elisabeth O’Brien, Housing Justice Project, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, for Appellant.
+- David James Britton, Britton Law Office, PLLC, 535 Dock St. Ste. 108, Tacoma, WA, 98402-4629, for Respondent.
+
+
+** UNPUBLISHED OPINION
+
+Price, J.
+
+<<*1>> Stephanie Olsen appeals the superior court’s order directing a writ of restitution to issue that restored possession of leased property to the landlord, Refined Holdings, LLC. Olsen argues the superior court erred because Refined Holdings failed to prove it was entitled to possession of the property. Olsen also argues that the superior court erred by awarding Refined Holdings attorney fees. We reverse the superior court’s order directing a writ of restitution to issue and the superior court’s judgment awarding Refined Holdings attorney fees based on that order. We remand to the superior court for further proceedings consistent with this opinion.
+
+FACTS
+
+Olsen was a tenant of a property owned by Refined Holdings in Ocean Shores, WA. In June 2023, Refined Holdings filed a complaint for unlawful detainer against Olsen. The complaint alleged that Olsen was served with a 60-day notice to terminate her tenancy on January 20, 2023, and Olsen had failed to vacate the premises. The notice to terminate was attached to the complaint.
+
+The notice to terminate stated that the termination was based on Olsen being served with four 10-day notices to comply or vacate within a 12-month period. The four 10-day notices were identified as follows:
+
+• December 2022—unauthorized occupant
+
+• December 2022—unauthorized and inoperable vehicles
+
+• January 2023—improper disposal of pet excrement and garbage
+
+• January 2023—unauthorized occupant, unauthorized and inoperable vehicles, dangerous materials, physical safety and nuisance
+
+The four 10-day notices were also attached to the complaint. Each notice outlined the alleged violations and included boilerplate language informing the tenant that they were required to comply with terms of the lease within 10 days or surrender the premises and that receiving four notices within a 12-month period may result in termination of the tenancy despite remedying the violations.
+
+The first notice was issued on December 8, 2022. The alleged violation stated that Olsen had an unauthorized occupant residing on the premises without written consent and required Olsen to cure the violation by obtaining written consent or having the unauthorized occupant vacate the premises. The notice appeared to quote a section of the lease which provides, in relevant part, “Tenant shall not allow any other person to occupy the Premises without obtaining Landlord’s prior written consent (in Landlord’s sole and absolute discretion)” but referenced RCW 59.18.130(2) (which imposes a duty on tenants to properly dispose of waste). Clerk’s Papers (CP) at 25.
+
+The second notice was issued on December 20, 2022. The alleged violation stated that Olsen had several unauthorized and inoperable vehicles in the parking area of the property. Pictures of the unauthorized and inoperable vehicles were also attached to the notice. To cure the violation, Olsen was required to remove all inoperable vehicles and reduce the number of operable vehicles to two. The notice referenced the parking provision of the lease agreement which provides tenant with two parking spaces and prohibits inoperable or junk vehicles on the premises.
+
+<<*2>> The third notice was issued on January 4, 2023. The alleged violation stated that Olsen had garbage and pet excrement disposed of on the property in an unsanitary manner. The notice included photographs of the garbage and pet excrement on the property. To cure the violation, Olsen was required to properly dispose of all waste on the property. The notice referenced RCW 59.18.130(2), which imposes a duty on tenants to properly dispose of waste.
+
+The fourth notice was issued on January 19, 2023. The alleged violation stated that Olsen had inoperable vehicles on the property, that Olsen had improperly stored gasoline containers on the property, an unauthorized occupant was engaging in welding on the property causing a risk to neighbors’ safety, that Olsen had garbage and pet excrement disposed of in an unsanitary manner on the property, and that several neighbors complained about sawing, hammering, and drilling noises coming from Olsen’s unit. The notice included photographs of the waste and vehicles, as well as screenshots of text messages from neighbors. To cure the violation, Olsen was required to remove all inoperable vehicles from the premises, obtain approval for the unauthorized occupant, remove all dangerous materials from the property, properly dispose of all waste, immediately cease all welding activities, and cease all noise that was creating a nuisance. The notice referenced provisions of the lease addressing parking, compliance with laws, and nuisance and dangerous materials. The notice also referenced RCW 59.18.130(2), (5), and (8) which impose on tenants the duty to properly dispose of waste, not permit nuisance, and not engage in imminently hazardous activities on the premises.
+
+The superior court set a show cause hearing for July 17. Prior to the show cause hearing, the “Governor of Refined Holdings” filed an affidavit stating that he reviewed the complaint and attachments and all the facts were true and accurate. CP at 31. The declaration also documented additional lease violations, consistent with the prior violations, that had continued to occur since Olsen was served with the notice to terminate. Photographs documenting the additional violations were attached to the declaration.
+
+Olsen filed an answer to the complaint specifically denying all of the allegations in each of the 10-day notices attached to the notice to terminate. Olsen claimed that there were genuine issues of material fact related to all of the 10-day notices.
+
+At the show cause hearing, Olsen argued that there were several factual disputes regarding what was happening on the property and requested an evidentiary hearing if the superior court was not going to hear the factual disputes at the show cause hearing. Specifically, Olsen’s attorney stated that Olsen was present and able to testify that the first 10-day notice was invalid because there was no unauthorized occupant living on the property and that the lease provision did not contain ascertainable standards for identifying an unauthorized occupant.
+
+Refined Holdings responded that “unauthorized occupant” was a clear term. Refined Holdings also argued that general denial of the violations was insufficient to create an issue of material fact and that each of the 10-day notice violations were well-documented.
+
+The trial court stated that it had reviewed the entire file including all the attachments to the complaint. Based on the notices and the supporting photographs, the superior court ruled that the notices were “statutorily valid” and there was “sufficient information provided to allow [Olsen] to know what the allegations were.” Verbatim Rep. of Proc. at 7. The superior court granted Refined Holdings’ request for a writ of restitution for the property.
+
+<<*3>> In its written order for the issuance of the writ of restitution, the superior court found that there was no rent currently owing, that Olsen was served with the notice to terminate on January 20, and that Olsen failed to comply with the notice to terminate. Based on the order issuing the writ of restitution, the superior court entered judgment against Olsen for $3,500 in attorney fees. Olsen filed a motion for reconsideration, which was denied.
+
+Olsen appeals.
+
+ANALYSIS
+
+Olsen argues that the superior court erred by ordering a writ of restitution to issue because Refined Holdings failed to meet its burden to show that it had just cause to evict Olsen from the property.1 Olsen also argues that the superior court erred by awarding attorney fees to Refined Holdings. We reverse the superior court’s order and award of attorney fees and remand for further proceedings consistent with this opinion.
+
+1
+
+Refined Holdings did not provide any argument or otherwise participate in this appeal.
+
+A. UNLAWFUL DETAINER
+
+Unlawful detainer actions are governed by chapters 59.12 and 59.18 RCW. Unlawful detainer actions are summary proceedings that provide an expedited means to resolve issues of possession between landlords and tenants. Randy Reynolds & Assoc., Inc. v. Harmon, 193 Wn.2d 143, 156, 437 P.3d 677 (2019). We strictly construe the applicable statutes in the tenant’s favor. Id.
+
+Generally, a landlord may not terminate a tenancy without cause. RCW 59.18.650(1)(a). To terminate a tenancy, a landlord must serve the tenant with a written termination notice identifying “facts and circumstances” supporting the cause for termination “with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” RCW 59.18.650(6)(b). If the tenant remains in possession of the property in violation of the terms of the notice, the landlord may file an unlawful detainer action. See Randy Reynolds, 193 Wn.2d at 156. The complaint for unlawful detainer “must set forth the facts on which [the landlord] seeks to recover ....” RCW 59.12.070.
+
+To physically evict a tenant, the landlord must also move for a writ of restitution. Randy Reynolds, 193 Wn.2d at 157. A show cause hearing is required before a landlord may obtain a writ of restitution. Id. “ ‘Show cause hearings are summary proceedings to determine the issue of possession pending a lawsuit,’ not a final determination of the parties’ rights.” Garrand v. Cornett, 31 Wn. App. 2d 428, 438, 550 P.3d 64 (2024) (quoting Carlstrom v. Hanline, 98 Wn. App. 780, 788, 990 P.2d 986 (2000)).
+
+At the show cause hearing, the superior court “shall examine the parties and witnesses orally to ascertain the merits of the complaint and answer” and determine whether the landlord is entitled to a writ of restitution or whether the case should proceed to trial. RCW 59.18.380. “ ‘A show cause hearing must be meaningful, as it is the first (and sometimes the only) step of the eviction process in which the tenant is able to participate.’ ” Garrand, 31 Wn. App. 2d at 438 (quoting Faciszewski v. Brown, 187 Wn.2d 308, 321, 386 P.3d 711 (2016)). If the superior court determines there are no substantial issues of material fact regarding possession and that the landlord has the right to be restored possession of the property, the superior court may order the writ of restitution to issue. RCW 59.18.380. The landlord bears the burden of proving the right to possession by a preponderance of the evidence. Garrand, 31 Wn. App. 2d at 438.
+
+<<*4>> Olsen argues that the superior court erred by ordering the writ of restitution to issue because Refined Holdings failed to prove just cause for her eviction. Specifically, Olsen argues that the applicable statute not only requires Refined Holdings to prove that it issued four 10-day notices in a 12-month period prior to termination, but also that each alleged violation was a substantial breach of the lease agreement or legal obligation of a tenant. We agree.
+
+A landlord must have cause to terminate a tenancy. RCW 59.18.650(1)(a). RCW 59.18.650(2) provides an exclusive list of reasons establishing cause for terminating a tenancy, including when the tenant receives four or more notices of violations in a 12-month period. RCW 59.18.650(2)(n) provides a tenancy may be terminated if:
+
+(i) The tenant continues in possession after having received at least 60 days’ written notice to vacate prior to the end of the period or rental agreement and the tenant has committed four or more of the following violations, other than ones for monetary damages, within the preceding 12-month period, the tenant has remedied or cured the violation, and the landlord has provided the tenant a written warning notice at the time of each violation: A substantial breach of a material program requirement of subsidized housing, a substantial breach of a material term subscribed to by the tenant within the lease or rental agreement, or a substantial breach of a tenant obligation imposed by law;
+
+(ii) Each written warning notice must:
+
+(A) Specify the violation;
+
+(B) Provide the tenant an opportunity to cure the violation;
+
+(C) State that the landlord may choose to end the tenancy at the end of the rental term if there are four violations within a 12-month period preceding the end of the term; and
+
+(D) State that correcting the fourth or subsequent violation is not a defense to the ending of the lease under this subsection;
+
+(iii) The 60-day notice to vacate must:
+
+(A) State that the rental agreement will end upon the specified ending date for the rental term or upon a designated date not less than 60 days after the delivery of the notice, whichever is later;
+
+(B) Specify the reason for ending the lease and supporting facts; and
+
+(C) Be served to the tenant concurrent with or after the fourth or subsequent written warning notice;
+
+(iv) The notice under this subsection must include all notices supporting the basis of ending the lease;
+
+(v) Any notices asserted under this subsection must pertain to four or more separate incidents or occurrences; and
+
+(vi) This subsection (2)(n) does not absolve a landlord from demonstrating by admissible evidence that the four or more violations constituted breaches under (b) of this subsection at the time of the violation had the tenant not remedied or cured the violation.
+
+To utilize this provision, the landlord must provide admissible evidence supporting the violations alleged in the 10-day notices. Specifically, RCW 59.18.650(2)(n)(vi) requires that the landlord provide admissible evidence proving that the four violations are substantial breaches of the lease agreement or a tenant obligation imposed by law. See RCW 59.18.650(2)(b).
+
+Here, even assuming that the notices (with their supporting materials of photographs and screenshots) attached to the complaint were admissible evidence, at least one of the notices fails to establish a substantial breach of the lease agreement. The December 8 notice only contained a conclusory allegation that an unauthorized occupant was residing on the premises; there was no evidence or specific factual allegations that would allow the superior court to find that an unauthorized occupant was actually residing at the premises. Therefore, Refined Holdings failed to establish the December 8 notice was a violation that constituted a substantial breach of the lease agreement.
+
+<<*5>> Further, after reviewing the record, the superior court determined only that the four 10-day notices were “statutorily valid,” which satisfies the requirement of RCW 59.18.650(2)(n)(ii) (identifying the required contents of the 10-day notice) but falls short of satisfying the requirements of RCW 59.18.650(2)(n)(vi). There is no indication in the record that the superior court even considered, let alone found, that there was no genuine issue of material fact regarding whether the violations alleged in the 10-day notices were substantial breaches of the lease agreement or a tenant obligation imposed by law.
+
+Because Refined Holdings failed to meet its burden to present admissible evidence satisfying the requirement of RCW 59.18.650(2)(n)(vi), Refined Holdings failed to prove that it was entitled to possession of the premises. Therefore, Refined Holdings was not entitled to a writ of restitution, and the case should have proceeded to trial. See RCW 59.18.380 (“If it appears to the court that the plaintiff should not be restored to possession of the property, the court shall deny plaintiff’s motion for a writ of restitution and enter an order directing the parties to proceed to trial within thirty days on the complaint and answer.”). Accordingly, we reverse the superior court’s order directing a writ of restitution to issue.
+
+B. ATTORNEY FEES
+
+Olsen argues that the superior court erred by awarding Refined Holdings attorney fees. Because the judgment awarding attorney fees was based on the order issuing the writ of restitution, the award of attorney fees must be reversed.
+
+CONCLUSION
+
+We reverse the superior court’s order directing a writ of restitution to issue and judgment awarding Refined Holdings attorney fees. We remand to the superior court for further proceedings consistent with this opinion.
+
+We concur:
+
+Cruser, C.J.
+
+Glasgow, J.

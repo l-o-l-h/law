@@ -6,4 +6,6 @@
 * Contracts
 #+BEGIN: denote-links :regexp "=k" :sort-by-component nil :reverse-sort nil :id-only nil
 - [[denote:20240418T105430][k1  Context Rule]]
+- [[denote:20240516T075244][106=k=85=2  Statutory Interpretation Plain Meaning Rule]]
+- [[denote:20241202T172657][k2  Statute of Frauds]]
 #+END:

@@ -1,0 +1,393 @@
+#+title:      Heston v. Christensen, 30 Wn. App. 2d 511, 548 P.3d 961 (2024)
+#+date:       [2024-03-28 Thu 00:00]
+#+filetags:   :attyfees:case:law:soid:
+#+identifier: 20240328T000001
+
+* Heston v. Christensen -- Court of Appeals of Washington, Division 3. | March 28, 2024 | 30 Wash.App.2d 511 | 548 P.3d 961
+
+- Washington Citation :: Heston v. Christensen, 30 Wn. App. 2d 511, 548 P.3d 961 (2024)
+- All Citations :: 30 Wash.App.2d 511, 548 P.3d 961
+
+** Brief
+*** Commentary from Scott Crane
+This case concerned a landlord's refusal to accept rental assistance prior to a POV notice being served.  The first opinion held that RCW 59.18.255 did not require a landlord to accept additional conditions attached to rental assistance because RCW 59.18.410(2) exempts landlords from accepting additional conditions attached to rental assistance.  Nonetheless, the Court affirmed SJ for our client because RCW 59.18.625 prohibited the LL from charging any fees or penalties for past due rent during the pandemic.  We filed a motion for recon, pointing out .410(2) is not applicable here because no POV was issued, and .410(2) by its express terms is limited only to after a POV has been issued or judgment entered.  The Court withdrew its opinion and issued a new opinion, deleting the paragraphs discussing .410(2), instead limiting its holding to say that because the additional conditions attached to the rental assistance were already imposed by .625, the landlord could not refuse the money on that basis.
+
+I think this opinion stands for the proposition that if conditions attached to source of income are imposed by law or regulation, a landlord can't refuse the tenant on the basis the conditions are burdensome (think, for instance, of conditions in a HAP contract, which are required by regulation).  That defense is known as the administrative burden defense, and is frequently employed by landlords in these cases.
+
+Questions that remain undecided are whether .255 requires landlords to accept additional conditions which are not otherwise already imposed by law or regulation (such as those found in the T-RAP 2.0 contracts), and also whether .410(2), when it is applicable, should be read to mean a landlord can refuse the money rather than read to mean the conditions simply have no effect and they still must accept the money.  I am interested in pursuing either of those issues if anyone has that fact pattern.
+
+** Document Details
+
+- Outline
+- Synopsis
+- West Headnotes
+- Attorneys and Law Firms
+- PUBLISHED OPINION
+- All Citations
+
+** Inline KeyCite:
+
+- Inline KeyCite completed successfully.
+
+* Case
+
+                          30 Wash.App.2d 511
+
+             Court of Appeals of Washington, Division 3.
+
+                   Julie Marie HESTON, Respondent,
+
+                                  v.
+
+                    Ed L. CHRISTENSEN, Appellant.
+
+                           No. 39271-6-III
+                         Filed March 28, 2024
+
+- Ordered Published Date May 23, 2024
+
+** Synopsis
+
+Background: Residential tenant brought action against landlord, alleging source-of-income discrimination, improper charges and late fees, and wrongful retention of her security deposit. Tenant requested a permanent injunction and also sought declaratory judgment. The Superior Court, Whitman County, Gary Libey, J., 2022 WL 17224457, dismissed the permanent-injunction and declaratory-judgment counts, which dismissal had been requested by tenant, entered summary judgment for tenant on the remaining counts, and awarded tenant attorney fees. Landlord appealed.
+
+Holdings: The Court of Appeals, John O. Cooney, J., held that:
+
+[1] landlord’s refusal to accept payment from the emergency-rental-assistance organization utilized by tenant constituted improper source-of-income discrimination;
+
+[2] landlord imposed a late fee on tenant in violation of statute that prohibited landlords from charging or imposing any late fees or other charges against any tenant for the nonpayment of rent during Governor’s COVID-19-related eviction moratorium;
+
+[3] landlord’s charging of “trailing interest” on unpaid rent constituted six separate violations of that moratorium statute;
+
+[4] landlord’s charging of statutory interest of 1.5% monthly on tenant’s unpaid rent violated that moratorium statute;
+
+[5] statute on exceptions to prejudgment interest on consumer leases did not preempt that moratorium statute;
+
+[6] circumstances beyond landlord’s control did not exist to excuse landlord’s failure to meet the 21-day deadline under former version of the Residential Landlord-Tenant Act to provide tenant with an explanation for the basis of withholding her security deposit;
+
+[7] pursuant to former version of the Residential Landlord-Tenant Act, landlord “intentionally refused” to refund the security deposit or mail a statement to the tenant explaining the withholding of the deposit, and thus trial court did not err in awarding tenant double the amount of the deposit; and
+
+[8] tenant was entitled to an award of reasonable attorney fees on appeal.
+
+Affirmed.
+
+Procedural Posture(s): On Appeal; Motion for Attorney’s Fees; Motion for Summary Judgment.
+
+** West Headnotes (19)
+
+*** [1] Appeal and Error  [[1: 30-k-3554][30-k-3554]]  De novo review
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)13Summary Judgment/
+- *30-k-3554 De novo review*
+
+Orders on summary judgment are reviewed de novo.
+
+*** [2] Summary Judgment Grounds for Summary Judgment; Factors Considered
+
+- /368 HSummary Judgment/
+- /368H-III Grounds for Summary Judgment; Factors Considered/
+- *368H-k-41 In general*
+
+When reasonable minds could reach but one conclusion, questions of fact may be determined as a matter of law on summary judgment.
+
+- 1 Case that cites this headnote
+
+*** [3] Summary Judgment  [[3: 368H-k-47][368H-k-47]]  What Constitutes “Material” Fact
+
+- /368 HSummary Judgment/
+- /368H-III Grounds for Summary Judgment; Factors Considered/
+- *368H-k-42 Absence of Issue of Fact*
+- *368H-k-47 What Constitutes “Material” Fact*
+- *368H-k-47(1) In general*
+
+As is relevant to summary judgment, a “material fact” is one upon which the outcome of the litigation depends in whole or in part.
+
+- 1 Case that cites this headnote
+
+*** [4] Summary Judgment  [[4: 368H-k-76][368H-k-76]]  Burden of Proof
+Summary JudgmentSpeculation or conjecture; mere assertions, conclusions, or denials
+
+- /368 HSummary Judgment/
+- /368H-IV Ascertaining Whether Fact Issue Exists/
+- *368H-k-76 Burden of Proof*
+- *368H-k-77 In general*
+- /368 HSummary Judgment/
+- /368H-IV Ascertaining Whether Fact Issue Exists/
+- *368H-k-95 Speculation or conjecture; mere assertions, conclusions, or denials*
+
+In response to a motion for summary judgment, the nonmoving party may not rely on speculation or having its own affidavits accepted at face value; instead, the nonmoving party must put forth specific facts that sufficiently rebut the moving party’s contentions and disclose that a genuine issue as to a material fact exists.
+
+*** [5] Appeal and Error  [[5: 30-k-4072(3)][30-k-4072(3)]]  Summary judgment
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(H) Theory and Grounds of Decision Below and on Review/
+- *30-k-4065 Particular Orders or Rulings Below, Theory and Grounds Supporting*
+- *30-k-4072 Verdict, Findings, Sufficiency of Evidence, and Judgment*
+- *30-k-4072(3) Summary judgment*
+
+An appellate court may affirm summary judgment on any basis supported by the record.
+
+*** [6] Civil Rights  [[6: 78-k-1082][78-k-1082]]  Public housing;  public assistance
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1082 Public housing;  public assistance*
+
+Residential landlord’s refusal to accept payment from the emergency-rental-assistance organization utilized by tenant constituted improper “source-of-income discrimination,” despite argument that landlord was not obligated to sign the organization’s “treasury rental assistance program rent payment agreement form” (T-RAP) since acceptance of the terms would have precluded him from assessing fees and additional charges on the unpaid rent, i.e., the form was a coercive contract modification; organization offered rental payments on tenant’s behalf for months covered by Governor’s eviction moratorium, and statute prohibited landlords from charging or imposing any late fees or other charges against any tenant for the nonpayment of rent during that time, i.e., organization’s form reflected statutory prohibitions imposed on landlords. Wash. Rev. Code Ann. §§ 59.18.255, 59.18.625(1), 59.18.630.
+
+*** [7] Landlord and Tenant Amount
+
+- /233 Landlord and Tenant/
+- /233-VII Rent/
+- /233-VII(A) Rights and Liabilities/
+- /233-VII(A)3 Amount/
+- *233-k-1470 In general*
+
+Residential landlord imposed a late fee on tenant in violation of statute that prohibited landlords from charging or imposing any late fees or other charges against any tenant for the nonpayment of rent during Governor’s COVID-19-related eviction moratorium; letter from landlord made clear that the fee was assessed for month covered by the eviction moratorium. Wash. Rev. Code Ann. § 59.18.625.
+
+*** [8] Landlord and Tenant Amount
+
+- /233 Landlord and Tenant/
+- /233-VII Rent/
+- /233-VII(A) Rights and Liabilities/
+- /233-VII(A)3 Amount/
+- *233-k-1470 In general*
+
+Residential landlord’s charging of “trailing interest” on unpaid rent constituted six separate violations, as opposed to one violation or a part of a single violation, of statute that prohibited landlords from charging or imposing any late fees or other charges against any tenant for the nonpayment of rent during Governor’s COVID-19-related eviction moratorium; landlord’s final bill contained six separate entries for interest owed for months covered by the moratorium. Wash. Rev. Code Ann. § 59.18.625.
+
+*** [9] Finance, Banking, and Credit  [[9: 172H-k-81][172H-k-81]]  Late fees and default charges
+
+- /172 HFinance, Banking, and Credit/
+- /172H-III Control and Regulation in General/
+- /172H-III(B) Particular Businesses and Practices/
+- /172H-III(B)2 Regulation of Interest, Charges, and Fees/
+- *172H-k-81 Late fees and default charges*
+
+Residential landlord’s charging of statutory interest of 1.5% monthly on tenant’s unpaid rent violated statute that prohibited landlords from charging or imposing any late fees or other charges against any tenant for the nonpayment of rent during Governor’s COVID-19-related eviction moratorium; landlord testified at his deposition that the 1.5% interest charge was on the entire amount owed and was compounded at 1.5% monthly, and the unpaid rent at issue accrued during months covered by the eviction moratorium. Wash. Rev. Code Ann. §§ 4.56.110(1), 59.18.625.
+
+*** [10] Finance, Banking, and Credit  [[10: 172H-k-122][172H-k-122]]  Exclusive and concurrent remedies or laws; conditions precedent; exhaustion
+
+- /172 HFinance, Banking, and Credit/
+- /172H-III Control and Regulation in General/
+- /172H-III(C) Enforcement, Remedies, and Proceedings/
+- /172H-III(C)1 In General/
+- *172H-k-122 Exclusive and concurrent remedies or laws; conditions precedent; exhaustion*
+
+Statute on exceptions to prejudgment interest on consumer leases did not preempt statute that prohibited landlords from charging or imposing any late fees or other charges against any tenant for the nonpayment of rent during Governor’s eviction moratorium; moratorium statute was the later-adopted statute, it was passed with the specific intent of alleviating some of the burdens renters faced during the public-health crisis brought on during the COVID-19 pandemic, and the statute on exceptions to prejudgment interest on consumer leases did not specifically address the issue of property. Wash. Rev. Code Ann. §§ 19.52.010, 59.18.625.
+
+*** [11] Statutes  [[11: 361-k-1219][361-k-1219]]  Earlier and later statutes
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(G) Other Law, Construction with Reference to/
+- *361-k-1210 Other Statutes*
+- *361-k-1219 Earlier and later statutes*
+
+As a general rule, a later-adopted statute is given preference over a conflicting statute.
+
+*** [12] Statutes  [[12: 361-k-1217][361-k-1217]]  General and specific statutes
+
+- /361 Statutes/
+- /361-III Construction/
+- /361-III(G) Other Law, Construction with Reference to/
+- *361-k-1210 Other Statutes*
+- *361-k-1217 General and specific statutes*
+
+As a principle of statutory construction, the specific statute prevails over a general statute.
+
+*** [13] Landlord and Tenant  [[13: 233-k-1404][233-k-1404]]  Duty to Return
+
+- /233 Landlord and Tenant/
+- /233-VI Deposits and Other Security by Tenant/
+- *233-k-1404 Duty to Return*
+- *233-k-1405 In general*
+
+As is Residential Landlord-Tenant Act’s former provision governing security deposits, which provided that landlords, unless they showed circumstances outside their control, were liable for the full amount of the deposit if they did not timely provide tenant with required documentation, “circumstances within a landlord’s control” can be divided into active or passive delays, with “active delays” being when a landlord simply fails to promptly do something, and “passive delays” being when a landlord permits an unreasonable delay by another. Wash. Rev. Code Ann. § 59.18.280(2) (2021).
+
+*** [14] Landlord and Tenant  [[14: 233-k-1404][233-k-1404]]  Duty to Return
+
+- /233 Landlord and Tenant/
+- /233-VI Deposits and Other Security by Tenant/
+- *233-k-1404 Duty to Return*
+- *233-k-1405 In general*
+
+Circumstances beyond residential landlord’s control did not exist to excuse landlord’s failure to meet the 21-day deadline under former version of the Residential Landlord-Tenant Act to provide tenant with an explanation for the basis of withholding her security deposit; although landlord claimed that he was in poor health and unable leave his residence without assistance, he was capable of managing his rental properties from his home through the assistance of his employees during the time in question. Wash. Rev. Code Ann. § 59.18.280 (2021).
+
+*** [15] Summary Judgment  [[15: 368H-k-329][368H-k-329]]  Sham affidavits or evidence
+
+- /368 HSummary Judgment/
+- /368H-VI Proceedings/
+- /368H-VI(B) Materials Considered/
+- *368H-k-329 Sham affidavits or evidence*
+
+Generally, when a party gives clear answers to unambiguous questions in a deposition that negate the existence of any question of material fact, that party cannot thereafter at the summary-judgment stage create such an issue with an affidavit that merely contradicts, without explanation, previously given clear testimony.
+
+- 1 Case that cites this headnote
+
+*** [16] Landlord and Tenant  [[16: 233-k-1415(2)][233-k-1415(2)]]  Damages
+
+- /233 Landlord and Tenant/
+- /233-VI Deposits and Other Security by Tenant/
+- *233-k-1408 Actions*
+- *233-k-1415 Remedies*
+- *233-k-1415(2) Damages*
+
+Pursuant to former version of the Residential Landlord-Tenant Act, residential landlord “intentionally refused” to refund the security deposit or mail a statement to the tenant explaining the withholding of the deposit, and thus trial court did not err in awarding tenant double the amount of the deposit; landlord did not timely mail a full and specific statement explaining the basis for retaining the deposit, and even if the statement had been timely, landlord justified only withholding $253.20 of the $600.00 deposit. Wash. Rev. Code Ann. § 59.18.280 (2021).
+
+*** [17] Landlord and Tenant  [[17: 233-k-1413(2)][233-k-1413(2)]]  Presumptions and burden of proof
+
+- /233 Landlord and Tenant/
+- /233-VI Deposits and Other Security by Tenant/
+- *233-k-1408 Actions*
+- *233-k-1413 Evidence*
+- *233-k-1413(2) Presumptions and burden of proof*
+
+Pursuant to former version of the Residential Landlord-Tenant Act, a residential tenant seeking an award greater than the security deposit has the burden of proving the landlord intentionally withheld the deposit. Wash. Rev. Code Ann. § 59.18.280 (2021).
+
+*** [18] Costs, Fees, and Sanctions  [[18: 102-k-544][102-k-544]]  Statutory or contractual authorization
+Costs, Fees, and SanctionsReasonableness in general
+
+- /102 Costs, Fees, and Sanctions/
+- /102-III Awards of Costs and Fees/
+- /102-III(A) In General; Grounds and Factors Considered/
+- /102-III(A)1 In General/
+- *102-k-542 Necessity of Authorization for Award; “American Rule”*
+- *102-k-544 Statutory or contractual authorization*
+- /102 Costs, Fees, and Sanctions/
+- /102-III Awards of Costs and Fees/
+- /102-III(B) Amount and Computation of Award/
+- /102-III(B)6 Legal Expenses; Attorney Fees/
+- *102-k-763 Reasonableness in general*
+
+A party is entitled to an award of reasonable attorney fees if an applicable law grants the right to recover attorney fees. Wash. R. App. P. 18.1(a).
+
+*** [19] Civil Rights  [[19: 78-k-1771][78-k-1771]]  Costs and Fees
+
+- /78 Civil Rights/
+- /78-V State and Local Remedies/
+- *78-k-1771 Costs and Fees*
+- *78-k-1774 Other particular cases and contexts*
+
+Residential tenant was entitled to an award of reasonable attorney fees on landlord’s appeal of summary judgment in tenant’s favor on claims of source-of-income discrimination, improper charges and late fees, and wrongful retention of her security deposit, which was a summary judgment affirmed on appeal; each statute that landlord violated contained a provision for an award of reasonable attorney fees to the prevailing party. Wash. Rev. Code Ann. §§ 59.18.255 59.18.625; Wash. Rev. Code Ann. § 59.18.280 (2021); Wash. R. App. P. 18.1(a).
+
+<<**964>> Appeal from Whitman Superior Court, Docket No: 21-2-00150-0, Honorable Gary James Libey, Judge
+** Attorneys and Law Firms
+
+- Cole Wesley Mize, Attorney at Law, 1224 Tamarack Dr, Moscow, ID, 83843-9438, for Appellant.
+- John M. Wolff, Attorney at Law, 1702 W Broadway Ave., Spokane, WA, 99201-1818, for Respondent.
+
+** PUBLISHED OPINION
+
+Cooney, J.
+
+<<*513>> ¶1 Julie Heston filed a complaint against her former landlord, Ed Christensen, that alleged 12 causes of actions, among which were source of income discrimination and wrongful withholding of a security deposit. The trial court granted summary judgment in favor of Ms. Heston on all but two of the causes of action. Mr. Christensen appeals. We affirm.
+
+BACKGROUND
+
+¶2 Ms. Heston had a written residential lease agreement with her former landlord, Mr. Christensen, that began in January 2021 and ended in December 2021. During her tenancy, Ms. Heston suffered financial hardship and applied for rental assistance through the Community Action Center (CAC). The CAC approved Ms. Heston’s application for the months of July through October 2021. The CAC then contacted Mr. Christensen to discuss processing the rental payments. Mr. Christensen responded to the CAC’s request. As the payment agreement was being finalized, the CAC requested Mr. <<**965>> Christensen sign a treasury rental assistance program rent payment agreement form (T-RAP). The T-RAP form required Mr. Christensen to acknowledge the amount received from the CAC and attest that “[n]o late fees or additional charges will be made for the months covered after I receive the T-RAP payment.” Clerk’s Papers (CP) at 104.
+
+<<*514>> ¶3 Rather than signing the T-RAP form, Mr. Christensen responded to the CAC that he was “THRU WITH YOU AND COMMUNITY ACTION CENTER PERTAINING TO JULIE HARRIS [sic]. FINISHED!!!!” CP at 105. After Mr. Christensen refused to accept payment from the CAC, he e-mailed Ms. Heston two letters demanding payment of the late rent and threatening to take “ACTION AS PROVIDED BY RCW 59.18 AND THE LEASE ... IF FUNDS ARE NOT RECEIVED BY WEDNESDAY, JULY 14, 2021.” CP at 126. When asked in his deposition what he meant by “ ‘action as provided by RCW 59.18,’ ” Mr. Christensen testified that he intended the statement to mean he could proceed with an eviction or collection action. CP at 115.
+
+¶4 In his letters to Ms. Heston, Mr. Christensen wrote that a late fee of $65 had been added to her past due rent for July 2021 and demanded payment of $660. Ms. Heston terminated her tenancy effective December 22, 2021. As part of terminating her tenancy, Ms. Heston completed a “CHECK-OUT” process with Jay Showalter, an employee of Mr. Christensen. CP at 95 (underscore omitted). On the “CHECK-OUT” form, Ms. Heston requested a refund of her $600 security deposit, less a $45 special handling fee, within 24 hours. Id.
+
+¶5 Mr. Christensen mailed Ms. Heston a final bill, postmarked on January 15, 2022, that stated her security deposit was being withheld. During his deposition, taken on April 13, 2022, Mr. Christensen testified that he signed the final bill on January 14, 2022. Mr. Christensen further testified that he could not recall experiencing any difficulties between December 22, 2021, when Ms. Heston moved out, through the time that he signed the final bill.
+
+¶6 In a subsequent affidavit, dated August 30, 2022, Mr. Christensen declared that between the time Ms. Heston moved out through when he signed the final bill, his health was very poor, he was not ambulatory, and he was unable to leave his residence without the assistance of a health care provider. In his affidavit, Mr. Christensen claimed he mailed the final bill within the statutorily mandated 21 days.
+
+<<*515>> ¶7 The final bill totaled $4,879.75 and contained numerous charges, including $131.15 in “[t]railing interest” from past due rent for the months of July through December. CP at 100. In his deposition, Mr. Christensen testified each interest charge was based on the previous month’s rent being unpaid. Mr. Christensen also included a statutory interest charge of $248.60.
+
+PROCEDURE
+
+¶8 Ms. Heston filed a complaint against Mr. Christensen that alleged source of income discrimination. She then filed an amended complaint. Later, the superior court granted Ms. Heston leave to file a second amended complaint. In her second amended complaint, Ms. Heston alleged source of income discrimination in violation of RCW 59.18.255 (count 1), charges and late fees in violation of RCW 59.18.625 (counts 2-9), wrongful retention of her security deposit in violation of RCW 59.18.280 (count 10), requested a permanent injunction (count 11), and sought declaratory judgment (count 12). Ms. Heston moved for summary judgment on counts 1 through 10 and moved for voluntary dismissal of counts 11 and 12.
+
+¶9 On September 26, 2022, the trial court dismissed counts 11 and 12 pursuant to CR 41(a)(1)(B) and entered judgment in favor of Ms. Heston on counts 1 through 10. The trial court awarded Ms. Heston attorney fees pursuant to RCW 59.18.255, .280, and .625. Based on Mr. Christensen engaging in source of income discrimination under RCW 59.18.255(4), the trial court awarded Ms. Heston four and one-half times her monthly rental amount on count 1. Under RCW 59.18.625(4), the trial court awarded Ms. Heston two and one-half times her monthly rental amount on counts 2 through 9. The trial court ordered Mr. Christensen return <<**966>> Ms. Heston’s security deposit and imposed a penalty of two times the amount of the security deposit pursuant to RCW 59.18.280(2). The trial court’s judgment totaled $16,377.50. Mr. Christensen timely appeals.
+
+<<*516>> ANALYSIS
+
+¶10 On appeal, Mr. Christensen assigns three errors. First, Mr. Christensen claims the trial court erred in finding his refusal to accept payment from the CAC constituted income discrimination (count 1). Secondly, Mr. Christensen contends the trial court erred in finding his assessment of interest on the balance owed by Ms. Heston constituted a violation of RCW 59.18.625 (counts 2-9). Lastly, Mr. Christensen asserts the trial court erred in finding his refusal to return Ms. Heston’s security deposit constituted a violation of RCW 59.18.280(1) (count 10).
+
+[1] <<1: 30-k-3554>> [2]¶11 The summary judgment procedure is designed to avoid the time and expense of an unnecessary trial. Maybury v. City of Seattle, 53 Wash.2d 716, 719, 336 P.2d 878 (1959). Orders on summary judgment are reviewed de novo. Keck v. Collins, 184 Wash.2d 358, 370, 357 P.3d 1080 (2015). In deciding a summary judgment motion, the court must consider the evidence and all reasonable inferences from the evidence in the light most favorable to the nonmoving party. Id. (citing Folsom v. Burger King, 135 Wash.2d 658, 663, 958 P.2d 301 (1998)). “[W]hen reasonable minds could reach but one conclusion, questions of fact may be determined as a matter of law.” Hartley v. State, 103 Wash.2d 768, 775, 698 P.2d 77 (1985) (citing LaPlante v. State, 85 Wash.2d 154, 531 P.2d 299 (1975)).
+
+[3] <<3: 368H-k-47>> [4] <<4: 368H-k-76>> [5] <<5: 30-k-4072(3)>>¶12 Summary judgment is appropriate only if there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. Keck, 184 Wash.2d at 370, 357 P.3d 1080. “A material fact is one upon which the outcome of the litigation depends in whole or in part.” Atherton Condo. Apartment-Owners Ass’n Bd. of Dirs. v. Blume Dev. Co., 115 Wash.2d 506, 516, 799 P.2d 250 (1990). In response to a motion for summary judgment, the nonmoving party may not rely on speculation or having its own affidavits accepted at face value. Seven Gables Corp. v. MGM/UA Entm’t Co., 106 Wash.2d 1, 13, 721 P.2d 1 (1986). Instead, the nonmoving <<*517>> party must put “forth specific facts that sufficiently rebut the moving party’s contentions and disclose that a genuine issue as to a material fact exists.” Id. An appellate court may affirm summary judgment on any basis supported by the record. Swinehart v. City of Spokane, 145 Wash. App. 836, 844, 187 P.3d 345 (2008).
+
+COUNT 1 − SOURCE OF INCOME DISCRIMINATION
+
+[6] <<6: 78-k-1082>>¶13 Mr. Christensen assigns error to the trial court’s conclusion that his failure to accept payment from the CAC constituted source of income discrimination. Mr. Christensen claims he was not obligated to sign the T-RAP form as acceptance of the terms would preclude him from assessing fees and additional charges on the unpaid rent. According to Mr. Christensen, RCW 59.18.255 does not require a landlord accept rental payments if acceptance would impose additional conditions on the landlord.
+
+¶14 RCW 59.18.255(1) prohibits landlords from, among other acts, attempting to discourage the rental or lease of any real property to a current tenant based on the tenant’s source of income. “ ‘Source of income’ includes benefits or subsidy programs such as housing assistance, public assistance, emergency rental assistance, veterans benefits, social security, supplemental income or other retirement programs, and other programs administered by any federal, state, local, or nonprofit entity.” RCW 59.18.255(5) (emphasis added).
+
+¶15 RCW 59.18.630 regulated the actions of landlords during the Governor’s eviction moratorium. The eviction moratorium applied to rent that accrued between March 1, 2020, and six months following the expiration of the eviction moratorium. RCW 59.18.630(2). The eviction moratorium expired on June 30, 2021. RCW 59.18.630(1). Accordingly, the eviction moratorium covers rent that accrued between March 1, 2020, and December 30, 2021.
+
+<<**967>> ¶16 Under the provisions of RCW 59.18.630(2), if a tenant had unpaid rent, their landlord was required to offer a *518 reasonable schedule for repayment of the unpaid rent prior to initiating an unlawful detainer action. Should a tenant accept a reasonable schedule for repayment of their unpaid rent, RCW 59.18.630(3)(c) required the landlord to accept payment from any source of income as defined in RCW 59.18.255(5).
+
+¶17 RCW 59.18.255(5) defines source of income benefits to include benefits or subsidies from emergency rental assistance, such as the services offered by the CAC. Mr. Christensen contends the T-RAP form imposed additional conditions on him that would interfere with his existing contract with Ms. Heston. Specifically, Mr. Christensen alleges the T-RAP form required him to attest that “[n]o late fees or additional charges will be made for the months covered after I receive the T-RAP Payment.” CP at 104. Such an attestation, according to Mr. Christensen, is a coercive modification to his existing contract. We disagree.
+
+¶18 The CAC offered rental payments on Ms. Heston’s behalf for months covered under RCW 59.18.630. RCW 59.18.625(1) provides, “A landlord may not charge or impose any late fees or other charges against any tenant for the nonpayment of rent that became due between March 1, 2020,” and December 30, 2021. In requesting Mr. Christensen sign the T-RAP form, the CAC was not imposing additional conditions on Mr. Christensen. Rather, the terms of the T-RAP form reflect statutory prohibitions imposed on landlords. Consequently, Mr. Christensen’s rejection of payment from the CAC on behalf of Ms. Heston constituted source of income discrimination under RCW 59.18.255.
+
+COUNTS 2-9 – LATE FEE, TRAILING INTEREST, AND STATUTORY INTEREST
+
+¶19 Mr. Christensen presents a three-fold challenge to the trial court’s conclusion that his demand for interest on Ms. Heston’s unpaid rent constituted a violation of RCW 59.18.625. First, Mr. Christensen contends the interest <<*519>> charge was not “a ‘late fee or other charge for the non-payment of rent’ ” prohibited under RCW 59.18.625. Appellant’s Initial Br. at 17. Secondly, Mr. Christensen claims he only issued one demand for interest, not eight as alleged by Ms. Heston. Thirdly, Mr. Christensen argues RCW 19.52.010 preempts RCW 59.18.625.
+
+¶20 Governor’s proclamation 20.19.6 placed numerous restrictions on landlords throughout the state of Washington. As discussed above, RCW 59.18.625(1) prohibited landlords from assessing late fees or other charges on unpaid rent that became due between March 1, 2020, and December 31, 2021.
+
+[7]¶21 In count 2 of her second amended complaint, Ms. Heston alleged Mr. Christensen violated RCW 59.18.625 when he imposed a $65 late fee for nonpayment of her July 2021 rent. Although Mr. Christensen struggled at his deposition to confirm for what month the $65 late fee was assessed, he testified Ms. Heston owed a total of $660 based on $595 in rent and a $65 late fee. Mr. Christensen’s July 12, 2021, letter makes clear the late fee was assessed for rent due in July 2021. This was during the period protected under RCW 59.18.625. Consequently, Mr. Christensen violated RCW 59.18.625(1) as alleged in count 2.
+
+¶22 In counts 3 through 8 of her second amended complaint, Ms. Heston alleged that Mr. Christensen charged “[t]railing interest” on unpaid rent that was due during the eviction moratorium. CP at 100. On December 22, 2021, Mr. Christensen notified Ms. Heston that he was assessing trailing interest as follows: $15.00 (July 2021), $15.00 (August 2021), $17.85 (September 2021), $23.80 (October 2021), $29.75 (November 2021), and a trailing interest <<*520>> charge of $29.75 from July-November 2021.1 Mr. Christensen claims the trial court erroneously concluded the bill contained eight violations rather than one.
+
+1
+
+The final bill includes an interest charge for the month of December ($29.75) but does not appear to include the charge of $29.75 for July-November. The December charge was not included as one of the counts in the complaint but was referenced in the summary judgment order by the trial judge when deciding on all of the counts including count 8, the July-November charge.
+
+<<**968>> [8]¶23 Ms. Heston’s final bill contained six separate entries for interest owed between the months of July through November 2021. The separate demarcations align with Mr. Christensen’s deposition testimony, wherein he agreed that each month listed in the trailing interest section of the final bill was intended to be a separate charge for the previous month’s unpaid rent. The imposition of six separate trailing interest charges constituted six separate violations of the provisions of RCW 59.18.625(1) as it occurred during the eviction moratorium period in violation of RCW 59.18.625. Consequently, Mr. Christensen violated RCW 59.18.625(1) as alleged in counts 3 through 8.
+
+[9] <<9: 172H-k-81>>¶24 In count 9 of her second amended complaint, Ms. Heston alleged that Mr. Christensen violated RCW 59.18.625 by charging statutory interest on the unpaid rent that accrued between July through November 2021. In the bill dated December 22, 2021, Mr. Christensen cited “RCW 4.56.110(1) Statutory Interest 1.5%/mo” to support his demand of $248.60. CP at 100. During his deposition, Mr. Christensen testified that the one and one-half percent interest charge was on the entire amount owed, compounded at one and one-half percent monthly. The statutory interest charge was imposed on rent that was due during the eviction moratorium period in violation of RCW 59.18.625. Consequently, Mr. Christensen violated RCW 59.18.625(1) as alleged in count 9.
+
+[10] <<10: 172H-k-122>>¶25 Mr. Christensen next challenges the applicability of RCW 59.18.625 to counts 3 through 9 because interest on unpaid rent is permissible under RCW 19.52.010. In support <<*521>> of his argument, Mr. Christensen cites Rental Housing Ass’n v. City of Seattle, 22 Wash. App. 2d 426, 512 P.3d 545 (2022). In Rental Housing Ass’n, we concluded that a city ordinance, containing language similar to RCW 59.18.625, which prohibited landlords from charging interest on past due rent, was preempted by RCW 19.52.010. Id. at 443, 512 P.3d 545. Furthermore, Mr. Christensen asserts that, in passing RCW 59.18.625, the legislature addressed conflicts of law, yet failed to include any reference to RCW 19.52.010. See LAWS OF 2021, ch. 115, § 20.
+
+[11] <<11: 361-k-1219>> [12] <<12: 361-k-1217>>¶26 In the event of a conflict between two statutes, the court looks to a variety of factors to determine which law controls. As a general rule, a later-adopted statute is given preference over a conflicting statute. Ass’n of Wash. Bus. v. Dep’t of Revenue, 155 Wash.2d 430, 449, 120 P.3d 46 (2005). Further, “[u]nder the principle of statutory construction, the specific statute prevails over a general statute.” O.S.T. v. Regence BlueShield, 181 Wash.2d 691, 701, 335 P.3d 416 (2014).
+
+¶27 Here, the statute that barred the imposition of late fees and other charges, RCW 59.18.625, became effective on April 22, 2021, while the current version of RCW 19.52.010 became effective on July 28, 2019. See LAWS OF 2021, ch. 115; LAWS OF 2019, ch. 227. Moreover, RCW 59.18.625 was passed with the specific intent of alleviating some of the burdens renters faced during the public health crisis brought on during the COVID-19 pandemic, while RCW 19.52.010 merely lays out exceptions to prejudgment interest on consumer leases and does not specifically address the issue of property. See LAWS OF 2021, ch. 115. RCW 59.18.625 is both the later-adopted statute as well as the statute specific to the issues raised in this appeal. Accordingly, as it concerns this appeal, RCW 59.18.625 regulates provisions related to late fees and other charges over interest rate provisions of RCW 19.52.010.
+
+¶28 Further, Mr. Christensen’s reliance on Rental Housing Ass’n is misplaced. In Rental Housing Ass’n, we concluded <<*522>> that RCW 19.52.010 entitles a party to “prejudgment interest on any liquidated claim to compensate them for loss of use on money wrongfully withheld by another party.” 22 Wash. App. 2d at 444, 512 P.3d 545 (emphasis added). Here, Mr. Christensen engaged in source of income discrimination by rejecting payment through a rental assistance program on behalf of Ms. Heston. Ms. Heston did not wrongfully withhold money from Mr. Christensen for purposes of RCW 19.52.010. Rather, Mr. Christensen wrongfully rejected payment made on behalf of Ms. Heston.
+
+COUNT 10 – SECURITY DEPOSIT
+
+¶29 Mr. Christensen asserts the trial court erred in concluding his refusal to return Ms. <<**969>> Heston’s security deposit constituted a violation of former RCW 59.18.280(1) (2016). Mr. Christensen claims that, under former RCW 59.18.280(2) (2016), circumstances beyond his control prevented him from timely mailing documents related to the retention of Ms. Heston’s security deposit.
+
+¶30 Under former RCW 59.18.280(1), a landlord was allowed 21 days from the termination of the lease agreement to provide their tenant a full and specific statement explaining the basis for retaining a deposit. Unless the landlord can show circumstances outside their control, should they fail to provide a tenant with the required documentation within the statutory period, they are liable for the full amount of the deposit. Former RCW 59.18.280(2).
+
+[13] <<13: 233-k-1404>>¶31 When deciding whether the exception to former RCW 59.18.280(2) applies, there is no ambiguity as “[c]ircumstances are either beyond a landlord’s control or within a landlord’s control.” Goodeill v. Madison Real Est., 191 Wash. App. 88, 101, 362 P.3d 302 (2015). Circumstances within a landlord’s control can be divided into active or passive delays. Id. at 102, 362 P.3d 302. Active delays are when a landlord simply fails to promptly do something, and passive delays are when a landlord permits an unreasonable delay by another. Id.
+
+<<*523>> [14] <<14: 233-k-1404>>¶32 In viewing the evidence in the light most favorable to Mr. Christensen, his affidavit, dated August 30, 2021, reveals his health was very poor, he was not ambulatory, and he was unable to leave his residence without the assistance of a health care provider at the time his RCW 59.18.280 notice was due. Further, in his affidavit, Mr. Christensen claims he mailed the security deposit reconciliation sheet within the required 21 days.
+
+[15] <<15: 368H-k-329>>¶33 Generally, when a party gives clear answers to unambiguous questions in a deposition that negate the existence of any question of material fact, that party cannot thereafter create such an issue with an affidavit that merely contradicts, without explanation, previously given clear testimony. Cornish Coll. of Arts v. 1000 Va. Ltd. P’ship, 158 Wash. App. 203, 227, 242 P.3d 1 (2010) (quoting Marshall v. AC&S, Inc., 56 Wash. App. 181, 185, 782 P.2d 1107 (1989)).
+
+¶34 Mr. Christensen’s affidavit contradicts his earlier deposition testimony. First, during his deposition, Mr. Christensen testified he signed the final bill on January 14, 2022. This would correspond with the final bill being postmarked January 15, 2022. Later, in his affidavit, Mr. Christensen declared that he mailed the final bill within 21 days of Ms. Heston vacating the property. It is undisputed Ms. Heston vacated the property on December 22, 2021. Therefore, a full and specific statement explaining the basis for retaining Ms. Heston’s security deposit was required to be mailed no later than January 12, 2022.
+
+¶35 Secondly, Mr. Christensen testified at his deposition that he had not experienced any difficulties between the time Ms. Heston vacated the property and January 14, 2022, when he signed the final bill. In his subsequent affidavit, Mr. Christensen cites numerous health conditions and the COVID-19 pandemic as a basis for any delay in mailing the full and specific statement explaining the basis for retaining the deposit.
+
+¶36 Given that subsequent affidavits cannot create an issue of material fact to defeat summary judgment when a <<*524>> prior deposition offered clear testimony, we are bound to rely on Mr. Christensen’s deposition testimony. His testimony established that he did not complete or mail the form within the 21-day statutory period. While Mr. Christensen’s affidavit established that he was is in poor health and was unable leave his residence without assistance, it does not present sufficient facts to support the exception provided in former RCW 59.18.280(1). Clearly, Mr. Christensen was capable of managing his rental properties from his home through the assistance of his employees. Consequently, Mr. Christensen violated former RCW 59.18.280 as alleged in count 10.
+
+[16] <<16: 233-k-1415(2)>>¶37 Mr. Christensen assigns error to the trial court awarding Ms. Heston double the security deposit amount. He claims the evidence failed to establish that he intentionally refused to mail the statement or refund the deposit. Ms. Heston responds that it is <<**970>> undisputed that Mr. Christensen did not return the deposit within 21 days. Such inaction amounts to an intentional refusal to comply with former RCW 59.18.280.
+
+[17] <<17: 233-k-1413(2)>>¶38 Former RCW 59.18.280(2) stated that “[i]f the landlord fails to give the statement together with any refund due the tenant within the time limits specified he or she shall be liable to the tenant for the full amount of the deposit.” In its discretion, a trial court may “award up to two times the amount of the deposit for the intentional refusal of the landlord to give the statement, or refund due.” Id. (emphasis added). A tenant seeking an award greater than their deposit has the burden of proving the landlord intentionally withheld the deposit.
+
+¶39 Here, the final bill claimed cleaning fees and damages totaling $253.20. Without explanation, this amount was increased to $255.00 on the final bill. Also included in the final bill was an additional $240.00 charge for shampooing the carpets in three rooms. However, the fee for carpet cleaning was previously included in the $255.00 total cleaning and damage charge. At his deposition, Mr. Christensen <<*525>> testified that he may have mistakenly assessed the $240.00 carpet cleaning fee.
+
+¶40 Mr. Christensen intentionally refused to timely and sufficiently provide Ms. Heston a full and specific statement explaining the basis for retaining her deposit as well as a refund due. First, Mr. Christensen failed to timely mail a full and specific statement explaining the basis for retaining Ms. Heston’s deposit. Secondly, even if we were to conclude his notice was timely, Mr. Christensen, at best, justified only withholding $253.20 of the deposit, not $600.00. The trial court correctly awarded Ms. Heston double her security deposit per former RCW 59.18.280(2).
+
+ATTORNEY FEES
+
+[18] <<18: 102-k-544>> [19] <<19: 78-k-1771>>¶41 Ms. Heston requests an award of attorney fees on appeal. A party is entitled to an award of reasonable attorney fees if an applicable law grants the right to recover attorney fees. RAP 18.1(a). Mr. Christensen’s violation of RCW 59.18.625, .280, and .255 resulted in a judgment in favor of Ms. Heston. Each statute Mr. Christensen violated contains a provision for an award of reasonable attorney fees to the prevailing party. As the prevailing party, we grant Ms. Heston’s request for an award of reasonable attorney fees on appeal.
+
+¶42 Affirmed.
+
+WE CONCUR:
+
+Fearing, C.J.
+
+Lawrence-Berrey, J.

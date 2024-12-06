@@ -1,0 +1,49 @@
+#+title:      Statute of Frauds
+#+date:       [2024-12-02 Mon 17:26]
+#+filetags:   :contract:fraud:law:statute:
+#+identifier: 20241202T172657
+
+* Overview of Statute of Frauds
+
+Washington State’s Statute of Frauds requires some contractual arrangements to be in writing, and parties generally cannot enforce
+oral contracts subject to the Statute of Frauds.
+
+The Statute of Frauds is not an equitable doctrine, but rather, a statutory mandate requiring written agreements. Failure to meet the Statute of Frauds in the required circumstances renders the undertakings void. Courts generally only disregard the Statute of Frauds to avoid a great injustice or fraud.
+
+The following contracts must be set forth in writing:
+
+1. “Every agreement that by its terms is not to be performed in one year from the making thereof” (i.e. multi-year lease agreements);
+2. “Every special promise to answer for the debt, default, or misdoings of another person” (i.e. a contract to assume another’s debt);
+3. “Every agreement, promise or undertaking made upon consideration of marriage, except mutual promises to marry” (i.e. separate property agreements);
+3. “Every special promise made by an executor or administrator to answer damages out of his own estate” (i.e. an agreement from an executor to personally pay a decedent’s debt);
+4. “An agreement authorizing or employing an agent or broker to sell or purchase real estate for compensation or a commission” (i.e. listing agreements)
+5. “Every conveyance of real estate, or any interest therein, and every contract creating or evidencing any encumbrance upon real estate, shall be by deed” (i.e. statutory warranty deeds, quit claim deeds, deeds of trust);
+6. “A credit agreement is not enforceable against the creditor unless the agreement is in writing and signed by the creditor” (i.e. credit agreements); and
+7. “Except as otherwise provided in this section, a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by his or her authorized agent or broker.” (i.e. agreement of for the sale of goods).
+
+* Statutes of Fraud
+
+** Chapter 19.36 RCW -- Contracts And Credit Agreements Requiring Writings
+
+** RCW 64.04.010 -- Conveyances and encumbrances to be by deed.
+
+** Chapter 62A.2 RCW -- UCC Sales
+
+** Chapter 62A.2A RCW -- UCC Leases
+
+* Defenses to the Statute of Frauds
+
+** Admission
+
+** Partial/Full Performance
+
+** Estoppel
+
+* Law Review Article                                                            :ATTACH:
+:PROPERTIES:
+:DIR:      ~/.local/share/notes/law/law-review
+:END:
+Contracts Not to Be Performed Within a Year under Statute of Frauds in Washington - 2 Wash. L. Rev. 41 (1926)
+
+** Abstract
+The statute of frauds in Washington, states that in certain specified cases an agreement, contract and promise shall be void unless the same or some note or memorandum thereof be in writing and signed by the party to be charged therewith. By subdivision I this provision extends to every agreement that by its terms is not to be performed in one year from the making thereof. Two recent decisions of our Supreme Court have gone into an extended interpretation of this subdivision regarding two troublesome questions of law arising thereunder. The first of these questions is: What is the test for determining whether the oral agreement by its terms is not to be performed within one year from the making thereof? The second question is: Will part performance take an oral agreement, contract or promise, which by its terms can not be performed within a year, outside of the statute of frauds?
