@@ -1,0 +1,55 @@
+#+title:      Moorages
+#+date:       [2024-12-09 Mon 17:13]
+#+filetags:   :boats:law:marinas:
+#+identifier: 20241209T171343
+
+* Law and Notes Governing Moorages
+
+Moorages generally are governed under RCW 53.08.320 and any local rules, not MHLTA or RLTA.  For example, Seattle Municipal Code has from fairly specific rules based on whether it is a floating home or otherwise.  Skagit county may have its own rules.
+
+If it is being used to live in, it can arguably be considered a dwelling unit under the law, but the argument might come down to the definition of "structure" which I don't think is in the RLTA or MHLTA: 10) "Dwelling unit" is a structure or that part of a structure which is used as a home, residence, or sleeping place by one person or by two or more persons maintaining a common household, including but not limited to single-family residences and units of multiplexes, apartment buildings, and mobile homes.
+
+But the defendant probably owns the dwelling unit (not a tenant).
+
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Thu, Dec 5, 10:03 AM (4 days ago)
+to Adam, felicity@skagitvlp.org, HTF@groups.nwjustice.org
+
+There’s a couple of COA cases dealing with Seattle’s houseboat ordinance and, if I remember, they used 59.12 to evict because the tenant is still renting a space. I don’t think a UDA is prohibited if the tenant is renting the space on a periodic basis.
+
+
+Damian NoOneElse via groups.nwjustice.org <damian.nooneelse=nwjustice.org@groups.nwjustice.org>
+Dec 5, 2024, 12:50 PM (4 days ago)
+to felicity@skagitvlp.org, HTF@groups.nwjustice.org
+
+Hello Felicity,
+
+I have a similar case in Kitsap County. I found the Seattle Houseboat cases that were mentioned earlier—they indicate that the unlawful detainer statute is applicable to moorage agreements (though the cases are addressing private landowners, not port authorities). They also indicate that a local government can regulate the application of the unlawful detainer statute to houseboats. Make sure to see if the area your client lives in has any local ordinances or laws that make a difference.
+
+I ended up reaching the conclusion that the marina’s rules and regulations authorizing termination of my client’s moorage agreement were legitimate under RCW 53.08.330.  If you haven’t already, see if you can get a hold of the marina’s rules and regs and see if they have any termination/eviction procedures.
+
+The RLTA shouldn’t apply because your client isn’t renting a dwelling—he owns it. The MHLTA shouldn’t apply because the marina doesn’t fit under the definition of “mobile home park.”
+
+Also, opposing counsel in my case cited to RCW 79.100.010 for the idea that my client’s vessel was “abandoned” because he was allegedly in violation of a port-rule after more than 30 days’ notice. This too would allow separate grounds for the impoundment of my client’s vehicle. There are a bunch of notice requirements for abandoned vessels in RCW 79.100.010 et seq. to check out if that situation applies to your client.
+
+Hope this is helpful!
+
+Damian NoOneElse | CLEAR Staff Attorney
+
+He/Him/His
+
+Northwest Justice Project
+
+(206) 707-7269
+
+(206)-299-3150 (FAX)
+
+www.nwjustice.org | www.washingtonlawhelp.org
+
+Damian NoOneElse via groups.nwjustice.org <damian.nooneelse=nwjustice.org@groups.nwjustice.org>
+Dec 5, 2024, 12:58 PM (4 days ago)
+to felicity@skagitvlp.org, HTF@groups.nwjustice.org
+
+Sorry all.
+I meant RCW 53.08.320 not RCW 53.08.330. 320 authorizes moorage facilities to “adopt all rules necessary for rental and use of moorage facilities and for the expeditious collection of port charges.“
