@@ -105,3 +105,4 @@
 #+BEGIN: denote-links :regexp "=21" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20241209T171343][21  Moorages]]
 #+END:
+* 22. Settlement Agreements
