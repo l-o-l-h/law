@@ -87,6 +87,7 @@
 - [[denote:20240418T105908][k  Contracts]]
 - [[denote:20241007T102808][15u  96-unconscionability-procedural-and-substantive]]
 - [[denote:20241202T172657][k2  Statute of Frauds]]
+- [[denote:20241211T101844][k3  Interpretation of Contracts]]
 #+END:
 
 ** 15u Unconscionability

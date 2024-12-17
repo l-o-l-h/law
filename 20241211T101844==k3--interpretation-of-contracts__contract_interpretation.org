@@ -1,0 +1,9 @@
+#+title:      Interpretation of Contracts
+#+date:       [2024-12-11 Wed 10:18]
+#+filetags:   :contract:interpretation:
+#+identifier: 20241211T101844
+
+* Question of Law Reviewed /De Novo/
+
+“Absent disputed facts, the legal effect of a contract is a question of law that we review de novo.” Keystone Masonry v. Garco Constr., 135 Wn. App. 927, 932, 147 P.3d 610 (2006).
+- Rosen v. Ascentry Techs., Inc., 143 Wn. App. 364, 177 P.3d 765 (2008)

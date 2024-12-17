@@ -1,0 +1,452 @@
+#+title:      Faciszewski v. Brown, 192 Wn. App. 441, 367 P.3d 1085 (2016)
+#+date:       [2016-02-01 Mon 00:00]
+#+filetags:   :case:law:
+#+identifier: 20160201T000000
+
+* Faciszewski v. Brown -- Court of Appeals of Washington, Division 1. | February 1, 2016 | 192 Wash.App. 441 | 367 P.3d 1085
+
+- Washington Citation :: Faciszewski v. Brown, 192 Wn. App. 441, 367 P.3d 1085 (2016)
+- All Citations :: 192 Wash.App. 441, 367 P.3d 1085
+
+** Brief
+
+** Document Details
+
+- Outline
+- Synopsis
+- West Headnotes
+- Attorneys and Law Firms
+- Opinion
+- All Citations
+
+** KeyCite:
+
+- KeyCite Red Flag - Severe Negative Treatment
+- Reversed byFaciszewski v. Brown, Wash., December 22, 2016
+
+* Case
+
+                          192 Wash.App. 441
+
+             Court of Appeals of Washington, Division 1.
+
+       Stephen FACISZEWSKI and Virginia L. Klamon, Respondents,
+
+                                  v.
+
+        Michael R. BROWN and Jill A. Wahleithner, Appellants.
+
+                            No. 72611–1–I
+                            Feb. 1, 2016.
+** Synopsis
+
+Background: Landlords brought action against tenants for unlawful detainer. The Superior Court, King County, Helen L. Halpert, J., entered order for a writ of restitution and judgment in favor of landlords. Tenants appealed.
+
+Holdings: The Court of Appeals, Leach, J., held that:
+
+[1] landlords complied with statute providing for service of a notice by affixing a copy of it to a conspicuous place;
+
+[2] notice to quit included sufficient facts to support landlords’ reason for terminating the tenancy; and
+
+[3] landlords were entitled to recover damages.
+
+Affirmed.
+
+Procedural Posture(s): On Appeal.
+
+** West Headnotes (8)
+
+*** [1] Appeal and Error  [[1: 30-k-3521][30-k-3521]]  Proceedings on Written Evidence
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)11Verdict, Findings, and Sufficiency of Evidence:  Additional Considerations/
+- *30-k-3521 Proceedings on Written Evidence*
+- *30-k-3522 In general*
+- /(Formerly 30k893(1))/
+
+Generally, if the parties base their trial court arguments entirely on written materials, the appellate court reviews the record de novo.
+
+*** [2] Appeal and Error  [[2: 30-k-3173][30-k-3173]]  Statutory or legislative law
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XVI(D)2 Particular Subjects of Review in General/
+- *30-k-3169 Construction, Interpretation, or Application of Law*
+- *30-k-3173 Statutory or legislative law*
+- /(Formerly 30k893(1))/
+
+Interpretation of a statute presents a question of law that is reviewed de novo.
+
+- 1 Case that cites this headnote
+
+*** [3] Landlord and Tenant  [[3: 233-k-1805][233-k-1805]]  Review
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1805 Review*
+
+The adequacy of a notice terminating tenancy presents a mixed question of law and fact that is reviewed de novo.
+
+- 1 Case that cites this headnote
+
+*** [4] Landlord and Tenant  [[4: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+
+A statutory unlawful detainer action provides a summary process for resolving a dispute between a landlord and a tenant about the right to possession of leased property. West’s RCWA 59.12.030.
+
+*** [5] Landlord and Tenant  [[5: 233-k-1794(2)][233-k-1794(2)]]  Necessity and sufficiency
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1794 Demand or Notice*
+- *233-k-1794(2) Necessity and sufficiency*
+
+A court has no power to give a landlord relief from a holdover tenancy unless the landlord gives a tenant proper notice.
+
+*** [6] Landlord and Tenant  [[6: 233-k-1794(3)][233-k-1794(3)]]  Service
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1794 Demand or Notice*
+- *233-k-1794(3) Service*
+
+Landlords complied with statute providing for service of a notice by affixing a copy of it to a conspicuous place on the premises and sending a copy by mail if a suitable person could not be found by taping a copy of the notice terminating tenancy to the front door and sending a copy through the mail addressed to the tenants, although tenants were in the residence when the notice was taped; if tenants could not be served in this manner while they were home, tenants could have completely avoided service by refusing to answer the door. West’s RCWA 59.12.040.
+
+*** [7] Landlord and Tenant  [[7: 233-k-1794(2)][233-k-1794(2)]]  Necessity and sufficiency
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1794 Demand or Notice*
+- *233-k-1794(2) Necessity and sufficiency*
+
+Landlords’ notice to quit served on tenants at rental property stating that landlords sought to possess the property so that at least one immediate family member, or one of the landlords, could occupy the property as a principal residence included sufficient facts to support their reason for terminating the tenancy, even though the notice merely parroted the language of municipal ordinance applicable to the eviction process and safeguarding landlord compliance; landlords were not required to disclose more specific information.
+
+*** [8] Landlord and Tenant  [[8: 233-k-1806][233-k-1806]]  Damages and amount of recovery
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1806 Damages and amount of recovery*
+
+Landlords were entitled to recover damages from tenants for unpaid rent for a month during which the tenants unlawfully detained the property, although tenants tendered payment, which landlords rejected; tenants’ attempt to pay rent for the month was not an attempt to perform an existing contract that the landlords frustrated, as the landlords had terminated the contract. West’s RCWA 59.18.290(2).
+
+** Attorneys and Law Firms
+
+- <<**1085>> Thomas Jeffrey Keane, Keane Law Offices, Seattle, WA, for Appellants.
+- <<**1086>> Evan Lee Loeffler, Jeana Kay Poloni, Christopher Daniel Cutting, Loeffler Law Group PLLC, Seattle, WA, for Respondents.
+
+** Opinion
+
+J. LEACH.
+
+<<*443>> ¶ 1 Michael Brown and his wife, Jill Wahleithner (Tenants), appeal the trial court’s decision evicting them from a house owned by Stephen Faciszewski and his wife, Virginia Klamon (Landlords). The Tenants challenge the sufficiency of the service and the contents of the notice terminating their tenancy and the award of unpaid rent, attorney fees, and cost to Landlords. The Landlords properly served the termination notice and it provided the Tenants with adequate notice about the Landlords’ just cause for eviction. And because the trial court properly awarded the Landlords unpaid rent for the period of unlawful detainer, along with attorney fees and court costs, we affirm.
+
+FACTS
+
+¶ 2 The Tenants leased a house in Seattle from the Landlords. The Landlords lived in a house next door. After the lease expired, Tenants continued to live in the house on a month-to-month basis. In February 2014, the Tenants had a parking dispute with neighbors about a disabled person’s <<*444>> access to those neighbors’ house. The Landlords intervened and asked the Tenants not to park in a certain area that blocked access.
+
+¶ 3 Faciszewski unsuccessfully attempted to serve the Tenants personally with a notice terminating tenancy. Faciszewski then taped a copy of the notice to the front door of the rental property. He also mailed a copy to the Tenants at the same address. The notice required the Tenants to vacate the house on or before July 31 so that one or more members of Landlords’ immediate family could use it as a primary residence.
+
+¶ 4 The Tenants claim to have been at the rental property when Faciszewski taped the notice to the door. The Tenants actually received the notice and did not vacate the rental premises on or before July 31.
+
+¶ 5 On August 1, the Landlords filed a complaint for unlawful detainer and requested a show cause hearing.1 At the show cause hearing, the Tenants alleged retaliation as a defense to the complaint. A court commissioner rejected this defense. But the commissioner set the case for trial because of “subsequent questions at issue” as to who was going to live in the house. The Landlords filed a motion to revise the commissioner’s ruling.
+
+1
+
+RCW 59.18.365.
+
+¶ 6 The trial court revised the commissioner’s decision, struck the trial date, and entered an order for a writ of restitution. The trial court found that the Landlords provided the Tenants with adequate notice to vacate and satisfied the just cause provision of the Seattle Municipal Code (SMC).2 The trial court concluded that the Landlords were entitled to possession of the rental property, a writ of restitution, unpaid rent, court costs, and attorney fees. The trial court also concluded that the Tenants’ subjective belief about the Landlords’ stated reason for the eviction did not excuse the Tenants’ noncompliance with the termination <<*445>> notice. The trial court denied the Tenants’ motion for reconsideration.
+
+2
+
+SMC 22.206.160(C).
+
+¶ 7 The trial court entered judgment in favor of the Landlords, awarding them unpaid rent from August 1 to September 19, attorney fees, and court costs. The Tenants appeal.
+
+STANDARD OF REVIEW
+
+[1] <<1: 30-k-3521>> [2] <<2: 30-k-3173>> [3] <<3: 233-k-1805>> ¶ 8 Generally, if the parties base their trial court arguments entirely on written materials, we review the record de novo.3 Interpretation of a statute presents a question of law that we review de novo.4 The adequacy of a notice terminating tenancy <<**1087>> presents a mixed question of law and fact that we also review de novo.5
+
+3
+
+Indigo Real Estate Servs., Inc. v. Wadsworth, 169 Wash.App. 412, 417, 280 P.3d 506 (2012).
+
+4
+
+Ruvalcaba v. Kwang Ho Baek, 175 Wash.2d 1, 6, 282 P.3d 1083 (2012).
+
+5
+
+Hall v. Feigenbaum, 178 Wash.App. 811, 819, 319 P.3d 61, review denied, 180 Wash.2d 1018, 327 P.3d 54 (2014); RCW 59.12.030.
+
+ANALYSIS
+
+¶ 9 The Tenants assert two reasons why the trial court should have dismissed the Landlords’ complaint or conducted a trial before evicting them: the Landlords did not properly serve the termination notice and the notice did not state sufficient facts in support of the reason for termination. The Tenants also claim that the trial court should not have awarded the Landlords back rent because the Landlords refused to accept payment offered after service of the termination notice. We disagree with each of the Tenants’ assertions.
+
+[4] <<4: 233-k-1781>> ¶ 10 A statutory unlawful detainer action provides a summary process for resolving a dispute between a landlord and a tenant about the right to possession of <<*446>> leased property.6 At the beginning of this action or anytime later in the proceedings, the landlord may ask the court for a writ of restitution restoring to it possession of the property.7 For residential property, a landlord who wants a writ of restitution must schedule a show cause hearing.8 At the show cause hearing, the court decides if the landlord has shown that no substantial issue of material fact exists about the landlord’s right to possession and any other relief requested.9 If so, the court grants this relief. If not, the court sets the case for trial unless the court decides the landlord has no legal right to the relief requested and dismisses the case.10
+
+6
+
+Munden v. Hazelrigg, 105 Wash.2d 39, 45, 711 P.2d 295 (1985); RCW 59.12.030.
+
+7
+
+RCW 59.12.090.
+
+8
+
+Indigo, 169 Wash.App. at 421, 280 P.3d 506; RCW 59.18.370.
+
+9
+
+RCW 59.18.380.
+
+10
+
+RCW 59.18.380.
+
+¶ 11 Although a show cause hearing is not the final determination of the rights of the parties in an unlawful detainer action, the trial court frequently decides the necessity of a trial at the hearing.11 As occurred here, the show cause hearing often provides the only opportunity for a tenant to present any evidence.12
+
+11
+
+Indigo, 169 Wash.App. at 421, 280 P.3d 506; Carlstrom v. Hanline, 98 Wash.App. 780, 788, 990 P.2d 986 (2000); Leda v. Whisnand, 150 Wash.App. 69, 81–82, 207 P.3d 468 (2009).
+
+12
+
+Indigo, 169 Wash.App. at 421, 280 P.3d 506; Carlstrom, 98 Wash.App. at 788, 990 P.2d 986; Leda, 150 Wash.App. at 82, 207 P.3d 468.
+
+¶ 12 The Tenants contend that substantial material issues of fact exist about adequate service, the content of the notice, and just cause for terminating the tenancy. As a result, they claim that the trial court should have dismissed this case or set it for trial.
+
+Sufficiency of Service
+
+¶ 13 The Tenants contend that the Landlords did not properly serve the notice terminating their tenancy. The <<*447>> Tenants also assert that even if the time and manner of service was proper, Faciszewski’s declaration of service did not comply with the statutory form and content requirements.
+
+¶ 14 RCW 59.12.040 controls service of the termination notice and provides three methods of service:
+
+Any notice provided for in this chapter shall be served either (1) by delivering a copy personally to the person entitled thereto; or (2) if he or she be absent from the premises unlawfully held, by leaving there a copy, with some person of suitable age and discretion, and sending a copy through the mail addressed to the person entitled thereto at his or her place of residence; or (3) if the person to be notified be a tenant, or an unlawful holder of premises, and his or her place of residence is not known, or if a person of suitable age and discretion there cannot be found then by affixing a copy of the notice in a conspicuous place on the premises unlawfully held, and also delivering a copy to a person there residing, if such a person can be found, and also sending a copy through the mail addressed to the tenant, or unlawful <<**1088>> occupant, at the place where the premises unlawfully held are situated.
+
+[5] <<5: 233-k-1794(2)>> ¶ 15 A court has no power to give a landlord relief from a holdover tenancy unless the landlord gives a tenant proper notice.13
+
+13
+
+Leda, 150 Wash.App. at 85, 207 P.3d 468.
+
+[6] <<6: 233-k-1794(3)>> ¶ 16 The Tenants claim that the Landlords could not use the third service alternative because they were home when the Landlords taped the notice to their door. Thus, they contend, because they could be found at their residence, service by posting and mailing was not available. We disagree.
+
+¶ 17 As this court has previously observed, the repeated use of the word “or” in RCW 59.12.040 implies that (1), (2), and (3) are equal alternatives for notice.14 In Hall v. Feigenbaum,15 <<*448>> the landlord posted a three-day notice to pay rent or vacate at the unlawfully held premises. The landlord also mailed a copy to that address, even though he knew the commercial tenant was no longer doing business at that location.16 The tenant in Hall argued that service was insufficient because the landlord knew his home address but did not mail the notice there.17 This court held that service of the notice was proper because the tenant did not provide evidence that he provided the landlord with his home address.18
+
+14
+
+Hall, 178 Wash.App. at 820, 319 P.3d 61.
+
+15
+
+178 Wash.App. 811, 816, 820, 319 P.3d 61 (2014).
+
+16
+
+Hall, 178 Wash.App. at 816, 820, 319 P.3d 61.
+
+17
+
+Hall, 178 Wash.App. at 820, 319 P.3d 61.
+
+18
+
+Hall, 178 Wash.App. at 820–21, 319 P.3d 61.
+
+¶ 18 Here, the Tenants contend the Landlords did not properly serve the notice because they were home when Faciszewski taped it to their door. Faciszewski stated in his declaration of service, “I attempted to deliver a copy of said Notice into the hands of the defendants but was unable to do so.” Tenants offer no evidence challenging the truth of this statement. Instead, in their respective declarations, they state, “While we were home on June 29, 2014, Mr. Faciszewski taped a notice of termination on our door,” and nothing more. They make no claim that Faciszewski did not take some action to attempt service before taping the notice on it. They cite no authority supporting their claim that Faciszewski needed to provide greater detail in his declaration of service about his attempt.
+
+¶ 19 Accepting the Tenants’ argument would allow a tenant to refuse to answer the door and completely avoid service. The Tenants do not reconcile their view with any ordinary meaning of the word “found” or the statutory provision giving the landlord an alternative method of service by posting and mailing a notice to quit the premises.19 <<*449>> The Landlords complied with RCW 59.12.040 by taping a copy of the notice to the front door and sending a copy through the mail addressed to the Tenants because Faciszewski could not find them.
+
+19
+
+RCW 59.12.040(3).
+
+¶ 20 Tenants rely on Weiss v. Glemp,20 where our Supreme Court held that the plaintiff’s service did not satisfy the requirements for serving a civil summons21 because the process server saw the defendant through a window, did not give the documents to the defendant’s secretary who came to the door, and left the documents for the defendant on an outside windowsill. In Weiss, the court analyzed RCW 4.28.080(15),22 a statute that does not apply to this case. Instead, as the parties agree, RCW 59.12.040 applies. Unlike RCW 4.28.080(15), RCW 59.12.040 provides for service of a notice by affixing a copy of the notice to a conspicuous place on the premises and sending a copy by mail if a suitable person “cannot be found.”23 The legislature created a more forgiving process for serving <<**1089>> an unlawful detainer preeviction notice24 as opposed to a summons in a civil action.25
+
+20
+
+127 Wash.2d 726, 731–33, 903 P.2d 455 (1995).
+
+21
+
+See RCW 4.28.080(15).
+
+22
+
+Weiss, 127 Wash.2d at 731, 903 P.2d 455.
+
+23
+
+RCW 59.12.040(3).
+
+24
+
+RCW 59.12.040.
+
+25
+
+RCW 4.28.080(15).
+
+Adequate Notice
+
+¶ 21 The Tenants challenge the sufficiency of the content of Landlords’ termination notice. They claim it did not give adequate notice because it failed to state sufficient facts in support of the reason for terminating the tenancy. The Tenants also contend that the Landlords did not have just cause to terminate the tenancy, as required by the applicable city ordinance. Again, we disagree.
+
+<<*450>> ¶ 22 A landlord must obtain a court order to evict a residential tenant.26 Before a court grants this relief, the tenant must receive an opportunity to contest the eviction at a show cause hearing.27 In Seattle, a landlord cannot evict, or attempt to evict, a residential tenant unless the landlord can prove in court that just cause exists.28 With a termination notice, the landlord must provide a written statement of the reason for the termination and facts supporting that reason.29 The reasons for just cause include the following:
+
+26
+
+RCW 59.18.290(1).
+
+27
+
+SMC 22.206.160(C); RCW 59.18.380.
+
+28
+
+SMC 22.206.160(C).
+
+29
+
+SMC 22.206.160(C)(3).
+
+The owner seeks possession so that the owner or a member of his or her immediate family may occupy the unit as that person’s principal residence and no substantially equivalent unit is vacant and available in the same building.... There shall be a rebuttable presumption of a violation of this subsection ... if the owner or a member of the owner’s immediate family fails to occupy the unit as that person’s principal residence for at least 60 consecutive days during the 90 days immediately after the tenant vacated the unit pursuant to a notice of termination or eviction using this subparagraph as the cause for eviction.[30]
+
+30
+
+SMC 22.206.160(C)(1)(e).
+
+¶ 23 If a tenant believes that the owner does not intend to carry out the stated reason for eviction and complains to the city, the landlord must file a certification with the city stating the owner’s intent to carry out the stated reason for eviction.31 A tenant has a private claim for damages against an owner who evicts, or attempts to evict, the tenant because an immediate family member or owner intends to <<*451>> use the premises but does not fulfill or carry out this reason for terminating the tenancy.32
+
+31
+
+SMC 22.206.160(C)(4).
+
+32
+
+SMC 22.206.160(C)(6), (7).
+
+[7] <<7: 233-k-1794(2)>> ¶ 24 The Landlords served a notice to quit at the rental property. The Landlords’ notice to quit the premises stated, “[W]e seek to possess the Property so that at least one immediate family member (or, in the alternative, one of us) may occupy the Property as a principal residence.” After the Tenants complained to the city, the Landlords filed a certified declaration with the city of Seattle, stating that the Landlords intended to use the property as a primary residence for an immediate family member33
+
+33
+
+SMC 22.206.160(C)(4).
+
+¶ 25 Tenants contend that the notice “simply parroted the language” of the statute34 and that the Landlords must provide specific information. Copying the language of former SMC 22.206.160(C)(1)(e) without adding more detailed, specific information does not make the notice insufficient. The plain language of former SMC 22.206.160(C)(3) does not require a landlord to provide more specific information, such as the name of the person or people moving in, when they are moving in, or why they are moving to the premises. The Tenants have not provided any authority indicating that the Landlords were required to disclose this type of specific information. We conclude that the Landlords included sufficient facts to support their reason for terminating the tenancy in the notice because the language complied with the requirements <<**1090>> stated in former SMC 22.206.160(C)(1)(e) and former SMC 22.206.160(C)(3).
+
+34
+
+SMC 22.206.160(C)(1)(e).
+
+¶ 26 The Tenants also claim that the Landlords did not have just cause to terminate the tenancy because of conflicting information about Faciszewski’s mother’s plans. However, the Tenants have only demonstrated that they do not believe the Landlords’ stated reason for terminating the <<*452>> tenancy, not that the Landlords did not carry out the stated reason.
+
+¶ 27 In Housing Authority v. Silva,35 the landlord commenced an unlawful detainer action alleging that the tenant had habitually failed to comply with his lease obligations by causing four disturbances over a 3.5–year period. To terminate the tenancy for just cause, the landlord had to serve the tenant with three 10–day notices within a 12–month period.36 The landlord only provided two 10–day notices within the 12–month period.37 This court held that the landlord failed to prove just cause for eviction.38
+
+35
+
+94 Wash.App. 731, 736, 972 P.2d 952 (1999).
+
+36
+
+Silva, 94 Wash.App. at 736, 972 P.2d 952.
+
+37
+
+Silva, 94 Wash.App. at 736, 972 P.2d 952.
+
+38
+
+Silva, 94 Wash.App. at 736, 972 P.2d 952.
+
+¶ 28 Unlike the landlord in Silva, the Landlords here could not carry out the stated reason for eviction because the Tenants did not vacate the rental property. In Silva, the tenant could point to a specific way in which the landlord did not meet the just cause requirement. Here, the Tenants can only point to a parking dispute involving the neighbors and background information about Faciszewski’s parents to question the Landlords’ sincerity. Although the Tenants may doubt this sincerity, to defend the unlawful detainer action, the Tenants must prove that the Landlords did not comply with Seattle’s ordinance. They have not raised any substantial material question of fact about compliance.
+
+¶ 29 The Tenants assert that the information they presented to the trial court at least raised a question of fact about the Landlords’ just cause because the claimed immediate family member did not intend to move in. However, the Tenants’ reliance on the evidence they presented is misplaced.
+
+¶ 30 With former SMC 22.206.160, the city provides tenants added protections not available to them under Washington <<*453>> law.39 The city has adopted substantive provisions and procedures applicable to the eviction process and safeguards to ensure landlord compliance.40 The city also has provided remedies for a tenant who questions the landlord’s intent or compliance with Seattle’s ordinance.41 The tenant can demand a certification of the reason for termination. The landlord’s failure to provide the certification provides a defense to an eviction action. The landlord’s failure to carry out the reason stated in the certification provides the tenant with a claim for damages up to $2,000. We decline the Tenants’ request that we rewrite the ordinance to provide another remedy.
+
+39
+
+Ch. 59.18 RCW, Residential Landlord–Tenant Act of 1973.
+
+40
+
+SMC 22.206.160(C).
+
+41
+
+SMC 22.206.160(C)(4), (7).
+
+¶ 31 Seattle’s ordinance reflects policy decisions made by its legislative body. The Tenants make policy arguments for an additional remedy that body did not provide. They ask for the right to contest the truthfulness of the certification in the unlawful detainer action. The city’s legislative body has the authority to consider this policy choice. That authority does not belong to this court, whose fundamental function is review of lower court decisions.42
+
+42
+
+Hale v. Wellpinit Sch. Dist. No. 49, 165 Wash.2d 494, 505, 198 P.3d 1021 (2009).
+
+¶ 32 Because the Tenants did not believe the Landlords, they sought the remedy provided by former SMC 22.206.160(C)(4). Faciszewski filed the proper certification with the city. After Faciszewski filed the certification, Seattle’s ordinance provided the Tenants with an exclusive remedy for a false certification, a private action for damages up to $2,000.43
+
+43
+
+SMC 22.206.160(C)(7).
+
+<<**1091>> ¶ 33 Unlawful detainer actions are summary proceedings.44 If a tenant does not believe a landlord’s stated reason *454 for eviction, that tenant can file a complaint with the city.45 The tenant’s disbelief, even if justified, does not provide a defense to an unlawful detainer action. Once the landlord files the proper certification with the city, the tenant’s remedy is limited to a private right of action if the landlord does not fulfill the stated reason for eviction.46
+
+44
+
+Indigo, 169 Wash.App. at 421, 280 P.3d 506; Carlstrom, 98 Wash.App. at 788, 990 P.2d 986.
+
+45
+
+SMC 22.206.160(C)(4).
+
+46
+
+SMC 22.206.160(C)(6), (7).
+
+Damages
+
+¶ 34 The Tenants contend that they do not owe any unpaid rent. The Tenants sent a check for the August 2014 rent after it was due. The Landlords rejected the payment. On revision, the trial court concluded that the Tenants owed the Landlords unpaid rent. RCW 59.18.290(2) states,
+
+It shall be unlawful for the tenant to hold over in the premises or exclude the landlord therefrom after the termination of the rental agreement except under a valid court order so authorizing. Any landlord so deprived of possession of premises in violation of this section may recover possession of the property and damages sustained by him or her, and the prevailing party may recover his or her costs of suit or arbitration and reasonable attorney’s fees.
+
+[8] <<8: 233-k-1806>> ¶ 35 A landlord who prevails in an unlawful detainer action is entitled to judgment for the damages caused by an unlawful detainer.47 The Tenants assert that “ ‘[one] who prevents a thing may not avail himself of the non-performance which he has occasioned,’ ”48 but that did not happen here. The Landlords are entitled to recover damages.
+
+47
+
+RCW 59.18.290(2).
+
+48
+
+Payne v. Ryan, 183 Wash. 590, 597, 49 P.2d 53 (1935).
+
+¶ 36 The Tenants’ attempt to pay August rent was not an attempt to perform an existing contract that the other party frustrated. The Landlords had terminated that contract, and the Tenants unlawfully detained the property. Therefore, <<*455>> the Landlords have not “availed” themselves of any nonperformance that they caused. The judgment for unpaid rent payment placed the Landlords in the position they would have been in had the Tenants not unlawfully detained the rental property.
+
+Attorney Fees
+
+¶ 37 The Residential Landlord–Tenant Act of 1973, chapter 59.18 RCW, allows the prevailing party in an unlawful detainer action to recover reasonable attorney fees and costs.49 The trial court properly awarded the Landlords reasonable attorney fees and costs. We award attorney fees and costs on appeal to Landlords, as the prevailing party, provided they comply with RAP 18.1.
+
+49
+
+RCW 59.18.290.
+
+CONCLUSION
+
+¶ 38 Because the Landlords properly served a factually sufficient notice to quit the premises that provided the Tenants with a notice containing sufficient facts to support just cause to terminate the tenancy and the trial court properly awarded the Landlords the unpaid rent, attorney fees, and costs, we affirm.
+
+Spearman, C.J., and Lau, J., concur.
