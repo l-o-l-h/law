@@ -1,30 +1,14 @@
 #+title:      Faciszewski v. Brown, 192 Wn. App. 441, 367 P.3d 1085 (2016)
 #+date:       [2016-02-01 Mon 00:00]
 #+filetags:   :case:law:
-#+identifier: 20160201T000000
+#+identifier: 20160201T000002
+#+signature:  coa=div1
 
 * Faciszewski v. Brown -- Court of Appeals of Washington, Division 1. | February 1, 2016 | 192 Wash.App. 441 | 367 P.3d 1085
 
 - Washington Citation :: Faciszewski v. Brown, 192 Wn. App. 441, 367 P.3d 1085 (2016)
 - All Citations :: 192 Wash.App. 441, 367 P.3d 1085
 
-** Brief
-
-** Document Details
-
-- Outline
-- Synopsis
-- West Headnotes
-- Attorneys and Law Firms
-- Opinion
-- All Citations
-
-** KeyCite:
-
-- KeyCite Red Flag - Severe Negative Treatment
-- Reversed byFaciszewski v. Brown, Wash., December 22, 2016
-
-* Case
 
                           192 Wash.App. 441
 
@@ -38,6 +22,20 @@
 
                             No. 72611–1–I
                             Feb. 1, 2016.
+** Brief
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (8)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+** KeyCite:
+
+- KeyCite Red Flag - Severe Negative Treatment
+- Reversed byFaciszewski v. Brown, Wash., December 22, 2016
+
 ** Synopsis
 
 Background: Landlords brought action against tenants for unlawful detainer. The Superior Court, King County, Helen L. Halpert, J., entered order for a writ of restitution and judgment in favor of landlords. Tenants appealed.
@@ -319,7 +317,7 @@ The owner seeks possession so that the owner or a member of his or her immediate
 
 [fn:43] SMC 22.206.160(C)(7).
 
-<<**1091>> ¶ 33 Unlawful detainer actions are summary proceedings.[fn:44] If a tenant does not believe a landlord’s stated reason *454 for eviction, that tenant can file a complaint with the city.[fn:45] The tenant’s disbelief, even if justified, does not provide a defense to an unlawful detainer action. Once the landlord files the proper certification with the city, the tenant’s remedy is limited to a private right of action if the landlord does not fulfill the stated reason for eviction.[fn:46]
+<<**1091>> ¶ 33 Unlawful detainer actions are summary proceedings.[fn:44] If a tenant does not believe a landlord’s stated reason <<*454>> for eviction, that tenant can file a complaint with the city.[fn:45] The tenant’s disbelief, even if justified, does not provide a defense to an unlawful detainer action. Once the landlord files the proper certification with the city, the tenant’s remedy is limited to a private right of action if the landlord does not fulfill the stated reason for eviction.[fn:46]
 
 [fn:44] Indigo, 169 Wash.App. at 421, 280 P.3d 506; Carlstrom, 98 Wash.App. at 788, 990 P.2d 986.
 
