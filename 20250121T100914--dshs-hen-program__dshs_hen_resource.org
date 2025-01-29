@@ -1,0 +1,93 @@
+#+title:      DSHS HEN Program
+#+date:       [2025-01-21 Tue 10:09]
+#+filetags:   :dshs:hen:resource:
+#+identifier: 20250121T100914
+
+* HEN
+:LOGBOOK:
+- Note taken on [2025-01-21 Tue 10:12] \\
+  [HTF] Reinstatement of HEN benefits after wrongful disability-based termination?
+  External
+  Inbox
+
+  Erika Lim via groups.nwjustice.org <erika.lim=nwjustice.org@groups.nwjustice.org>
+  Jan 18, 2025, 7:37 PM (3 days ago)
+  to Abby, HTF@groups.nwjustice.org
+
+  Hi Abby,
+
+
+
+  I’m late to the party so I’m not sure if this info will help your client:
+
+
+
+  HEN is a program administered by DSHS but the actual benefits ie services are administered by one or more entities in each county that contracts with DSHS. So a client’s eligibility for the HEN program would be determined by DSHS, then DSHS would refer the client to the entity/ies in the client’s county of residence. Services are always dependent on fundings – of course.
+
+
+
+  It’s unclear from your original email whether the client’s services were terminated by the county HEN provider or whether the client’s eligibility was terminated by DSHS. The entity that made the adverse decision is likely the one to which you’d make an RA request. I’m not aware of a DSHS program reg that requires monthly check-ins but it’s been a while since I worked with this program. OTOH, that requirement could be one imposed by Share.
+
+
+
+  Erika
+
+
+
+  From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Abby Popenoe via groups.nwjustice.org
+  Sent: Friday, January 10, 2025 9:21 AM
+  To: HTF@groups.nwjustice.org
+  Subject: [HTF] Reinstatement of HEN benefits after wrongful disability-based termination?
+
+
+
+  Hi all,
+
+
+
+  I have a client who was terminated from her HEN benefits in May and is now being evicted for non-payment of rent because HEN stopped paying her landlord.
+
+
+
+  My client was terminated from HEN based on "90 days of no contact". Apparently monthly check-ins with a caseworker are a requirement of the HEN program (as administered by Share) in Clark County, and she did not keep up with these.
+
+
+
+  My client has multiple disabilities (diagnosed and undiagnosed) which make her unable to use a phone or computer without assistance (which she did not have until recently). She also has a variety of medical conditions that make it challenging for her to leave her apartment, and at times even answer her door. It sounds to me like her non-contact and subsequent termination from HEN was due to her disability-based limitations (she said she tried to provide alternative contact methods, but Share would not work with her).
+
+
+
+  Share is not a party to the UDA. I've tried speaking to their staff, and so far, no one has been particularly amenable to helping my client.
+
+
+
+  I'm thinking of writing a reasonable accommodation request to Share, asking them to reinstate my client's HEN benefits, even though the grievance period has ended.
+
+
+
+  Has anyone had success with making this sort of request, or with  getting HEN benefits reinstated after the grievance period via a different method?
+
+
+
+  Any suggestions are greatly appreciated!
+
+
+
+  Abby
+
+
+
+  Abby Popenoe | (she/her)
+
+  Staff Attorney, Eviction Prevention Unit
+
+  Northwest Justice Project
+
+  1104 Main Street, Suite 500
+
+  Vancouver, WA 98660
+
+  (206) 707-7566
+
+  www.nwjustice.org | www.washingtonlawhelp.org
+:END:

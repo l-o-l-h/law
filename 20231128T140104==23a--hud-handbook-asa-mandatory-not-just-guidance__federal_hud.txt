@@ -2,6 +2,7 @@ title:      HUD Handbook asa Mandatory Not Just Guidance
 date:       2023-11-28
 tags:       federal  hud
 identifier: 20231128T140104
+signature:  23a
 ---------------------------
 
 

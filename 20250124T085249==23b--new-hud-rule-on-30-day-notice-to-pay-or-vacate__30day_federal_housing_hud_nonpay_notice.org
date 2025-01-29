@@ -1,0 +1,54 @@
+#+title:      New HUD rule on 30 day notice to pay or vacate
+#+date:       [2025-01-24 Fri 08:52]
+#+filetags:   :30day:federal:housing:hud:nonpay:notice:
+#+identifier: 20250124T085249
+#+signature:  23b
+
+* New HUD rule on 30 day notice to pay or vacate
+
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Jan 10, 2025, 2:33 PM
+to HTF@groups.nwjustice.org
+y
+HUD has issued a new rule, effective Monday, that governs pay or
+vacate notices in public housing and project-based rental assistance
+properties. The rule itself amends several HUD rules that govern
+public housing or project-based rental assistance properties. It
+doesn’t cover Housing Choice Vouchers.
+
+The rule is worth getting to know because it requires certain things
+be in nonpay notices that may not presently be included, such as
+requiring rent be itemized in the notice, instructions on how to
+recertify your income and get an exemption, and some other things
+specific to public housing. It is broader in that way than the CARES
+Act. Presumably a notice that does not include these things is
+defective and should result in dismissal.
+
+How do you know if your client’s place is subject to this rule? One
+clue is that their income is used to set their rent. Another is that a
+public housing authority may be (but not always) the
+landlord. Finally, if you suspect it is “HUD” or “Section 8”, as
+clients often colloquially say, check on
+
+[[http://preservationdatabase.org][preservationdatabase.org]]
+
+for more information. The NHLP memo lists the CFRs that govern the
+programs that are subject to this new rule.
+
+Here is NHLP’s analysis of the rule:
+
+https://www.nhlp.org/wp-content/uploads/2024.01.10-30-Day-Notice-Rule-Memo-Final.pdf.
+
+Because the federal government can’t do anything without saying it in
+no fewer than 754 pages, I don’t recommend trying to read the notice
+of final rule unless you absolutely must do so. The NHLP memo has
+helpful guidance about how to use this new rule in eviction defense.
+
+Scott
+
+Scott Crain
+Statewide Advocacy Counsel
+Northwest Justice Project
+206-707-0900
+www.nwjustice.org

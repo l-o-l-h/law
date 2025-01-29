@@ -107,3 +107,8 @@
 - [[denote:20241209T171343][21  Moorages]]
 #+END:
 * 22. Settlement Agreements
+* 23. HUD
+* 24. Damages in RLTA Cases
+#+BEGIN: denote-links :regexp "=24" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20250127T093034][24a  Potential Damages in RLTA Retaliation Case RCW 59.18.240-.250]]
+#+END:

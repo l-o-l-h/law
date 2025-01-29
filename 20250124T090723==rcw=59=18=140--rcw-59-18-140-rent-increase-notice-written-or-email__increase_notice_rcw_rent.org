@@ -1,0 +1,120 @@
+#+title:      RCW 59 18 140 Rent Increase Notice Written or Email
+#+date:       [2025-01-24 Fri 09:07]
+#+filetags:   :increase:notice:rcw:rent:
+#+identifier: 20250124T090723
+#+signature:  rcw=59=18=140
+
+* Should a Rent Increase Notice under RCW 59.18.140 Be In Writing or is Email Sufficient?
+
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Eric McDonald via groups.nwjustice.org
+Sent: Sunday, January 5, 2025 12:24 PM
+To: HTF@groups.nwjustice.org
+Subject: [HTF] Sample Jury Instructions for RCW 59.18.140
+Importance: High
+
+I have a trial coming up and one of the issues is that the rent increase was in violation of RCW 59.18.140 (no notice was given for an increase) and in a previous increase he sent a text 30 days prior to the increase.
+
+Does anyone have any sample Jury Instructions wrt these two issues?  (Increase without notice and a “notice” that was not timely under the statute)
+
+Also, does “written notice” include text?
+
+R, Eric McDonald
+Associate Attorney
+Compass Legal Services, P.S.
+
+www.CLSps.net
+360.471.3300 phone
+360.286.2462 fax
+9481 Bayshore Drive NW, Suite 202
+Silverdale, WA 98383
+
+** Answers
+
+*** Elizabeth Powell
+
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Elizabeth Powell via groups.nwjustice.org
+Sent: Monday, January 6, 2025 10:39 AM
+To: Eric@clsps.net; HTF@groups.nwjustice.org
+Subject: Re: [HTF] Sample Jury Instructions for RCW 59.18.140
+
+I don’t see how a text message meets the requirements of
+59.12.040. Same re email.
+
+It says: Any notice provided for in this chapter shall be served
+either (1) by delivering a copy personally to the person entitled
+thereto; or (2) if he or she be absent from the premises unlawfully
+held, by leaving there a copy, with some person of suitable age and
+discretion, and sending a copy through the mail addressed to the
+person entitled thereto at his or her place of residence; . . .
+
+How do you post a notice via text? How do you mail it? How do you
+“deliver a copy personally” when the text message isn’t a “copy”? Is
+there any allowance for service of process via text? Nope.
+
+Elizabeth
+
+Elizabeth Powell (she/her)
+Senior Staff Attorney, Tenant Law Center
+Catholic Community Services of Western Washington
+100 23rd Avenue South Seattle, WA 98144
+Direct 206-999-6175
+Fax 206-328-5651
+Tenants needing assistance please call 206-580-0762
+Tenants sending documents: please send to tenantlawcenter@ccsww.org
+
+*** Scott Crain
+
+From: Scott Crain <scottc@nwjustice.org>
+Sent: Monday, January 6, 2025 10:48 AM
+To: Elizabeth Powell <EPowell@ccsww.org>; Eric@clsps.net; HTF@groups.nwjustice.org
+Subject: RE: [HTF] Sample Jury Instructions for RCW 59.18.140
+
+Does 59.12.040 apply to rent increase notices? It pretty clearly
+applies to termination notices under .650(6) because it is mentioned
+there but I don’t know that there’s similar language transporting that
+section of 59.12 to the RLTA.
+
+*** Tyler Graber
+
+Tyler Graber via groups.nwjustice.org <tylerg=nwjustice.org@groups.nwjustice.org>
+Jan 6, 2025, 10:58 AM
+to EPowell@ccsww.org, Scott, Eric@clsps.net, HTF@groups.nwjustice.org
+
+I believe the closest analogous case is where Division 1 has found
+that an email complies with the written notification requirements of
+RCW 59.18.280. Chiu v. Hoskins, 27 Wn. App. 2d 887, 534 P.3d 412
+(2023). The language in .280 isn’t exactly the same as .140, but the
+same reasoning very well may apply:
+
+While the deposit statement was not delivered personally to Tenants or
+sent by United States mail, RCW 59.18.280(1) does not mandate either
+method of delivery. To the contrary, subsection (b) *900 provides two
+ways to “give” the required security deposit statement that are
+sufficient to establish compliance with RCW 59.18.280(1) but does not
+exclude or prohibit other, equally effective, ways to give the
+statement, including e-mail.
+
+¶22 We have interpreted other statutes in a similar fashion. For
+example, the first sentence of RCW 4.28.210 states that “[a] defendant
+appears in an action when he or she answers, demurs, makes any
+application for an order therein, or gives the plaintiff written
+notice of his or her appearance.” In City of Des Moines v. $81,231 in
+United States Currency, 87 Wn. App. 689, 696, 943 P.2d 669 (1997), we
+held that “[t]he methods set forth in RCW 4.28.210 for ‘appearing’ in
+an action are not exclusive” and therefore other acts may constitute
+an “appearance.” The same reasoning applies to RCW
+59.18.280(1). Because undisputed facts show that Hoskins satisfied the
+statutory requirement to timely “give” Tenants a security deposit
+statement, and because Hoskins issued payment to Tenants within the
+prescribed 21-day period,9 the trial court correctly dismissed this
+claim on summary judgment.
+
+This would be their argument to make, but I wouldn’t be surprised to
+see a judge rule that a text message satisfies the notice requirement
+under .140.
+
+Tyler Graber
+Northwest Justice Project
+711 Capitol Way S, Ste 704
+Olympia, WA 98501
+Tel. 509.381.2315
