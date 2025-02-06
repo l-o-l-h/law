@@ -6,7 +6,6 @@
 
 * New HUD rule on 30 day notice to pay or vacate
 
-
 Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
 Jan 10, 2025, 2:33 PM
 to HTF@groups.nwjustice.org
@@ -52,3 +51,28 @@ Statewide Advocacy Counsel
 Northwest Justice Project
 206-707-0900
 www.nwjustice.org
+
+* Federal Register Vol 89 No. 240
+
+[[https://www.govinfo.gov/content/pkg/FR-2024-12-13/pdf/2024-28861.pdf][30-Day Notification Requirement Prior To Termination of Lease for Nonpayment of Rent]]
+
+** Summary
+
+*SUMMARY:* This final rule provides that
+- public housing agencies (PHAs) and owners of properties
+- receiving project-based rental assistance (PBRA)
+- must provide written notification to tenants facing eviction for nonpayment of rent
+- 30 days prior to filing a formal judicial eviction procedure.
+
+For purposes of this rule,
+- PBRA and other forms of project rental assistance includes projects in the following programs:
+  - Section 8 Project-Based Rental Assistance,
+  - Section 202/ 162 Project Assistance Contract (PAC),
+  - Section 202 Project Rental Assistance Contract (PRAC),
+  - Section 811 PRAC,
+  - Section 811 Project Rental Assistance Program (811 PRA), and
+  - Senior Preservation Rental Assistance Contract Projects (SPRAC).
+
+This final rule largely adopts the proposed rule and, in response to
+public comments, has been revised to include additional requirements
+in the 30-day notice and to clarify the timing of the notice.
