@@ -108,7 +108,18 @@
 #+END:
 * 22. Settlement Agreements
 * 23. HUD
+#+BEGIN: denote-links :regexp "==23" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20231128T140104][23a  HUD Handbook asa Mandatory Not Just Guidance]]
+- [[denote:20250124T085249][23b  New HUD rule on 30 day notice to pay or vacate]]
+- [[denote:20250207T124327][23c  Rules a PHA Must Follow to Terminate Section 8 Benefits]]
+#+END:
+
 * 24. Damages in RLTA Cases
 #+BEGIN: denote-links :regexp "=24" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20250127T093034][24a  Potential Damages in RLTA Retaliation Case RCW 59.18.240-.250]]
+#+END:
+
+* 25. Civil Procedure
+#+BEGIN: denote-links :regexp "==25" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20240717T154813][25a  Satisfaction of Judgment]]
 #+END:

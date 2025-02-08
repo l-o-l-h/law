@@ -1,0 +1,33 @@
+#+title:      Rules a PHA Must Follow to Terminate Section 8 Benefits
+#+date:       [2025-02-07 Fri 12:43]
+#+filetags:   :pha:section8:
+#+identifier: 20250207T124327
+#+signature:  23c
+
+-----Original Message-----
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Benjamin Ramm
+Sent: Thursday, February 6, 2025 5:12 PM
+To: Housing Task Force <HTF@groups.nwjustice.org>
+Subject: [HTF] CFR cite?
+
+Caution: This is an external email. Please take care when clicking links or opening attachments.
+
+
+What CFR governs the process a PHA must use to terminate section 8 benefits? I assume some CFR requires mailing the notice to the tenant.
+
+The notice to my client was mailed to the wrong address.
+
+I found the provisions governing the substantive bases for terminating the assistance. 24 CFR § 982.552. I assume the procedures are found somewhere in sections that operate as kind of an umbrella for all similar decisions but should I look for all decisions by anyone in HUD or subsidized housing programs? How far up the hierarchy should I go?
+
+Yours truly,
+
+Benjamin Ramm
+Staff Attorney
+Kitsap Legal Aid Services
+///////////////////////////
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Feb 6, 2025, 6:59 PM (17 hours ago)
+to Benjamin, Housing
+
+24 CFR 982.555 mentions the notice requirement. The admin plan is also the PHA's own rules that govern their termination of a voucher that you can obtain. They are required to have one and to follow it when terminating a tenant (there's another CFR on that too). Housing Authority v. Saylors has some good cites that they have to follow their own rules. Finally, Bellingham Housing Authority v. Speelman says something to the effect of if a PHA sends a notice to a place that they know the person won't receive it, that's not good notice.
