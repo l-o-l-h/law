@@ -1,0 +1,7 @@
+#+title:      Ch 6: Humanizing the Client
+#+date:       [2025-02-19 Wed 15:23]
+#+filetags:   :ch:client:hornbook:notebook:trial:
+#+identifier: 20250219T152317
+#+signature:  27=6
+
+*

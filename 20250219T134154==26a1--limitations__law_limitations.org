@@ -1,0 +1,59 @@
+#+title:      Limitations
+#+date:       [2025-02-19 Wed 13:41]
+#+filetags:   :law:limitations:
+#+identifier: 20250219T134154
+#+signature:  26a1
+
+* Limitations
+
+** An Issue that is Time Barred Can Be Raised as an Affirmative Defense
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Feb 12, 2025, 2:28 PM (7 days ago)
+to chris.brunetti@nwjustice.org, Alexander, HTF@groups.nwjustice.org
+
+One quirk of the law that bears mentioning in this dispute: if your client is sued for damage to the property, then your client could probably argue about the security deposit as a set off against any damages that might be awarded.
+
+I used this argument when my client’s rent was increased in violation of her lease at a mobile home park long ago We never got a ruling, but here’s my argument from last year:
+
+“Statutes of limitations do not bar the defense of recoupment or offset as long as the main action itself is timely.” Olsen v. Pesarik, 118 Wn. App. 688, 690, 77 P.3d 385 (2003). In Olsen, a home buyer’s claim against the seller would have been barred by the statute of limitations if it had been brought as a separate lawsuit. Instead, the claim was asserted as a setoff when the seller’s successor in interest tried to foreclose on the deed of trust.
+This rule is extremely well-established: “Statutes of limitation never run against defenses arising out of the transactions sued upon[.]” Seattle First Nat. Bank, N.A. v. Siebol, 64 Wn. App. 401, 407, 824 P.2d 1252 (1992) (citing Allis–Chalmers Corp. v. North Bonneville, 113 Wn.2d 108, 112, 775 P.2d 953 (1989). Under this rule, “although no affirmative judgment can be had, recoupment is available as a defense even when barred as an affirmative cause of action.” Id. (citing 20 Am.Jur.2d Counterclaim, Recoupment, and Setoff §§ 10 and 11, at 235–36 (1965)); see also, J.C. Felthouse & Co. v. Bresnahan, 145 Wash. 548, 549–50, 260 P. 1075 (1927) (“the statute of limitations never runs against a defense arising out of the transaction sued upon by the plaintiff. The defendant in such an action may be barred by the statute from securing damages by reason of the fraud, but he can always offset the damages to the extent of the claim of the plaintiff.”).
+This rule also applies to disputes between landlords and tenants. Ennis v. Ring, 56 Wn.2d 465, 353 P.2d 950 (1959). Although the statute of limitations might have barred the tenants from seeking affirmative relief against their landlord, “the damages incurred by [the tenants] from 1949 to 1951 [could] be asserted defensively against the [landlords’] claims arising out of the lease” because “the statute of limitations never runs against a defense arising out of the transaction sued upon by the plaintiff.” Id. at p. 471.
+
+** Waste Has 3-year Limitations Period
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+Wed, Feb 12, 2:04 PM (7 days ago)
+to Alexander, HTF@groups.nwjustice.org, Ava
+
+Alex,
+
+I think there is a good argument to be made that landlord’s claim for damage to the property in excess of the security deposit is time-barred, but I think you might be overcomplicating the analysis.  RCW 4.16.080(1) provides that an action for waste upon real property must be commenced within three years.  I think this would be the applicable limitations period for an action by the landlord to recover damages in excess of the security deposit.  Since the tenancy was terminated in 2021, such action would now be time-barred.  So, I would focus more on .080(1) as the applicable SOL, rather than try to make some sort of argument that the holding in Silver should apply reciprocally to actions by landlords to recover damages in excess of the security deposit.
+
+One thing I’d watch out for, however, is that the lease agreement may have a provision in it that prohibits the tenant from causing waste, or which requires the tenant to return the property to the landlord in substantially the same condition it was given to the tenant – or some other similar provisions.  Assuming the lease does have a provision like this, then I believe the landlord could make an argument that the action is based on the breach of a written contract (the lease), and is therefore subject to the six year limitation period in RCW 4.16.040.
+
+Unfortunately, I think there is some bad case law in Washington saying that even if a debt is time-barred, a creditor can nevertheless attempt to collect it through methods other than bringing a court action.  See Eng v. Specialized Loan Servicing, 20 Wn.App.2d 435, 500 P.3d 171 (2021).
+
+** Original Question
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Alexander R. Reaganson via groups.nwjustice.org
+Sent: Wednesday, February 12, 2025 12:57 PM
+To: HTF@groups.nwjustice.org
+Cc: Ava Sanchez <ava.sanchez@nwjustice.org>
+Subject: [HTF] Pot. Reciprocal 3-Year SOL on 59.18.280 collections Pre-July 23, 2023?
+
+Good Morning, Housing Brain Trust!
+
+Today's consult is brought to you by RCW 59.18.280(3)(c), our partners at the WA State Supreme Court, and, of course, attorneys like you!
+
+I just received a case with a CL dealing with a debt to damages in excess of the security deposit, under 59.18.280, as they state they never received a final statement and damages. The tenancy was terminated in 2021, so the current 59.18.280(3)(c) does not apply.
+
+However, during a cursory Westlaw review on 59.18.280, I discovered Silver v. Rudeen Mng. Company, Inc., 197 Wn.2d 535 (2021), which reversed Div. III's prior holding that a tenant's action to challenge the unlawful retention of a deposit plus assessment of additional damages, 2 years and 3 months after termination of the tenancy, fell under the 2-year catch-all SOL under 4.16.130, and so affirmed the trial courts dismissal. The WA Supreme Court found instead that the 3-year SOL for recovering personal property, under 4.16.080(2), applied instead, and so reversed and remanded therein.
+
+While I recognize, under this case, that my CL is time-barred from pursuing an action to recover the deposit back, I wonder if there's an argument here that LL, and by extension debt collector, are reciprocally barred from pursuing an action in court to collect the debt, under Silver. I think the current form of 280(3)(c), while not applicable, could have been influenced by Silver in its drafting and enactment. As such, my questions for the team are as follows:
+
+Did any member of the brain-trust work participate in the crafting of/enactment of the 2023 amendment to 280, and therefore the enactment of 280(3)(c), and if so was the amendment influenced by Silver?;
+Regardless of the above, would this be a potentially viable argument against further collection of the debt? Why not?, and;
+If this SOL is applicable, would this also allow CL to request removal of the debt from a credit record, as to remove a barrier to them pursing a Section 8 voucher?
+
+Thanks in advance!
+
+-Alex Reaganson

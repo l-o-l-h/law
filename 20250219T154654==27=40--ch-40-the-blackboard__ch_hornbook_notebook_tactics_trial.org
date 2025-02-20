@@ -1,0 +1,7 @@
+#+title:      Ch 40: The Blackboard
+#+date:       [2025-02-19 Wed 15:46]
+#+filetags:   :ch:hornbook:notebook:tactics:trial:
+#+identifier: 20250219T154654
+#+signature:  27=40
+
+*

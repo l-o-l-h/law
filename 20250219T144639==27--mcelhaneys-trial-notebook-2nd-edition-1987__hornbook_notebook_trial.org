@@ -1,0 +1,162 @@
+#+title:      McElhaney's Trial Notebook 2nd Edition 1987
+#+date:       [2025-02-19 Wed 14:46]
+#+filetags:   :hornbook:notebook:trial:
+#+identifier: 20250219T144639
+#+signature:  27
+
+* I Trial Preparation
+
+** Ch 1: The Trial Notebook
+[[denote:20250219T151522][27=1  Ch 1: The Trial Notebook]]
+
+** Ch 2: Informal Investigation
+[[denote:20250219T151745][27=2  Ch 2: Information Investigation]]
+
+** Ch 3: Depositions
+[[denote:20250219T151833][27=3  Ch 3: Depositions]]
+
+** Ch 4: The Horse Shed
+[[denote:20250219T151925][27=4  Ch 4: The Horse Shed]]
+
+* II Starting the Trial
+
+** Ch 5: The Theory of the Case
+[[denote:20250219T152241][27=5  Ch 5: The Theory of the Case]]
+
+** Ch 6: Humanizing the Client
+[[denote:20250219T152317][27=6  Ch 6: Humanizing the Client]]
+
+** Ch 7: The Credibility of the Lawyer
+[[denote:20250219T152355][27=7  Ch 7: The Credibility of the Lawyer]]
+
+** Ch 8: Voir Dire
+[[denote:20250219T152431][27=8  Ch 8: Voir Dire]]
+
+** Ch 9: Opening Statements
+[[denote:20250219T152709][27=9  Ch 9: Opening Statements]]
+
+* III Evidence
+
+** Ch 10: A Quick Review of the Federal Rules
+[[denote:20250219T152759][27=10  Ch 10: A Quick Review of the Federal Rules]]
+
+** Ch 11: Opening the Door
+[[denote:20250219T152832][27=11  Ch 11: Opening the Door]]
+
+** Ch 12: Character Evidence and Impeachment
+[[denote:20250219T152911][27=12  Ch 12: Character Evidence and Impeachment]]
+
+** Ch 13: An Outline on Hearsay
+[[denote:20250219T152946][27=13  Ch 13: An Outline of Hearsay]]
+
+** Ch 14: Learned Treatises
+[[denote:20250219T153014][27=14  Ch 14: Learned Treatises]]
+
+** Ch 15: The Cleveland Exception to the Hearsay Rule
+[[denote:20250219T153053][27=15  Ch 15: The Cleveland Exception to the Hearsay Rule]]
+
+* IV Foundations and Objections
+
+** Ch 16: Making the Record
+[[denote:20250219T153134][27=16  Ch 16: Making the Record]]
+
+** Ch 17: Steps in Introducing Exhibits
+[[denote:20250219T153207][27=17  Ch 17: Steps in Introducing Exhibits]]
+
+** Ch 18: Foundations
+[[denote:20250219T153245][27=18  Ch 18: Foundations]]
+
+** Ch 19: Making and Meeting Objections
+[[denote:20250219T153354][27=19  Ch 19: Making and Meeting Objections]]
+
+** Ch 20: Speaking Objections
+[[denote:20250219T153444][27=20  Ch 21: Speaking Objections]]
+
+* V Examining Witnesses
+
+** Ch 21: The Language of Examination
+[[denote:20250219T153554][27=21  Ch 21: The Language of Examination]]
+
+** Ch 22: An Introduction to Direct Examination
+[[denote:20250219T153631][27=22  Ch 22: An Introduction to Direct Examination]]
+
+** Ch 23: More on Direct Examination
+[[denote:20250219T153659][27=23  Ch 23: More on Direct Examination]]
+
+** Ch 24: An Introduction to Cross-Examination
+[[denote:20250219T153734][27=24  Ch 24: An Introduction to Cross-Examination]]
+
+** Ch 25: The Story Line in Cross-Examination
+[[denote:20250219T153812][27=25  Ch 25: The Story Line in Cross-Examination]]
+
+** Ch 26: Impeachment Through Prior Inconsistent Statements
+[[denote:20250219T153912][27=26  Ch 26: Impeachment Through Prior Inconsistent Statements]]
+
+** Ch 27: Prior Statements
+[[denote:20250219T153956][27=27  Ch 26: Prior Statements]]
+
+** Ch 28: Witness Control
+[[denote:20250219T154026][27=28  Ch 28: Witness Control]]
+
+** Ch 29: Rehabilitation
+[[denote:20250219T154110][27=29  Ch 29: Rehabilitation]]
+
+* VI Expert Witnesses
+
+** Ch 30: Expert Witnesses and the Federal Rules
+[[denote:20250219T154146][27=30  Ch 30: Expert Witnesses and the Federal Rules]]
+
+** Ch 31: Qualifying Experts
+[[denote:20250219T154222][27=31  Ch 31: Qualifying Experts]]
+
+** Ch 32: Direct Examination of Expert Witnesses
+[[denote:20250219T154301][27=32  Ch 32: Direct Examination of Expert Witnesses]]
+
+** Ch 33: Cross-Examining Expert Witnesses
+[[denote:20250219T154332][27=33  Ch 33: Cross-Examining Expert Witnesses]]
+
+* VII Tactics
+
+** Ch 34: Traps
+[[denote:20250219T154356][37=34  Ch 34: Traps]]
+
+** Ch 35: Dealing with Dirty Tricks
+[[denote:20250219T154432][27=35  Ch 35: Dealing with Dirty Tricks]]
+
+** Ch 36: Ploys
+[[denote:20250219T154455][27=36  Ch 36: Ploys]]
+
+** Ch 37: The Stock Phrases
+[[denote:20250219T154527][27=37  Ch 37: The Stock Phrases]]
+
+** Ch 38: The Right Word
+[[denote:20250219T154552][27=38  Ch 38: The Right Word]]
+
+** Ch 39: Breaking the Spell
+[[denote:20250219T154621][27=39  Ch 39: Breaking the Spell]]
+
+** Ch 40: The Blackboard
+[[denote:20250219T154654][27=40  Ch 40: The Blackboard]]
+
+** Ch 41: An Introduction to Proving Damages
+[[denote:20250219T154725][27=41  Ch 41: An Introduction to Proving Damages]]
+
+** Ch 42: Getting Along with Judges
+[[denote:20250219T154751][27=42  Ch 42: Getting Along with Judges]]
+
+** Ch 43: Keeping the Client Happy
+[[denote:20250219T154815][27=43  Ch 43: Keeping the Client Happy]]
+
+* VIII Final Argument
+
+** Ch 44: The Law of Final Argument
+[[denote:20250219T154839][27=44  Ch 44: The Law of Final Argument]]
+
+** Ch 45: Solving Problems with Final Argument
+[[denote:20250219T154914][27=45  Ch 45: Solving Problems with Final Argument]]
+
+** Ch 46: Analogies in Final Argument
+[[denote:20250219T154942][27=46  Ch 46: Analogies in Final Argument]]
+
+** Ch 47: The Final Five
+[[denote:20250219T155007][27=47  Ch 47: The Final Five]]

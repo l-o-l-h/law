@@ -123,3 +123,6 @@
 #+BEGIN: denote-links :regexp "==25" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20240717T154813][25a  Satisfaction of Judgment]]
 #+END:
+
+* 26. Limitations
+[[denote:20250219T134154][26a1  Limitations]]

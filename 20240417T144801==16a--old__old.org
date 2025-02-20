@@ -10,6 +10,9 @@ SCHEDULED: <2024-04-22 Mon 09:00>
   Review these cases.
 :END:
 
-Hous. Auth. of Grant Cnty. v. Parker, 535 P.3d 516, No. 39089-6-III (Wash. Ct. App. September 21, 2023).
-Randy Reynolds & Associates v. Harmon 193 Wash.2d 143, 162 (2019) (internal citations omitted).
-Seattle's Union Gospel Mission v. Bauer, 22 Wash. App. 2d 934, 514 P.3d 710 (2022).
+** Hous. Auth. of Grant Cnty. v. Parker, 535 P.3d 516, No. 39089-6-III (Wash. Ct. App. September 21, 2023).
+
+** Randy Reynolds & Associates v. Harmon 193 Wash.2d 143, 162 (2019) (internal citations omitted).
+
+** Seattle's Union Gospel Mission v. Bauer, 22 Wash. App. 2d 934, 514 P.3d 710 (2022).
+Tenant's request in unlawful detainer action for order of limited dissemination to prevent tenant screening services from using existence of unlawful detainer action in report about tenant was not rendered moot by dismissal of landlord's unlawful detainer action or by landlord's alleged lack of intent to disseminate information about case to tenant screening services; fact of dismissal did not render relief ineffective, as order would prevent existence of action from being used in tenant screening report, order could have serious consequences on tenant's future ability to access housing, and a screening service's ability to include unlawful detainer action in report depended on whether court entered order, not on landlord's sharing of information.

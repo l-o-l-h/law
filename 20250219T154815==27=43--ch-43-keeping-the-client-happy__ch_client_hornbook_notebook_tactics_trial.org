@@ -1,0 +1,7 @@
+#+title:      Ch 43: Keeping the Client Happy
+#+date:       [2025-02-19 Wed 15:48]
+#+filetags:   :ch:client:hornbook:notebook:tactics:trial:
+#+identifier: 20250219T154815
+#+signature:  27=43
+
+*
