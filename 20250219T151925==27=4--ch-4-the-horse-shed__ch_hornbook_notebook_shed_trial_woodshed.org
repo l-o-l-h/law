@@ -1,7 +1,0 @@
-#+title:      Ch 4: The Horse Shed
-#+date:       [2025-02-19 Wed 15:19]
-#+filetags:   :ch:hornbook:notebook:shed:trial:woodshed:
-#+identifier: 20250219T151925
-#+signature:  27=4
-
-*

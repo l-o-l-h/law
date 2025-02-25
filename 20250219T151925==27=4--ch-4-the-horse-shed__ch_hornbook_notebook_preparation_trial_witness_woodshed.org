@@ -1,0 +1,103 @@
+#+title:      Ch 4: The Horse Shed
+#+date:       [2025-02-19 Wed 15:19]
+#+filetags:   :ch:hornbook:notebook:preparation:trial:witness:woodshed:
+#+identifier: 20250219T151925
+#+signature:  27=4
+
+* Introduction
+
+How the witness is prepared for testifying.  By the time the case is ready forthe horseshed, the lawyer should know more about the case than /any/ of the witnesses.
+
+Witness preparation begins early on in the history of a case.  One of the most important kinds of witness preparation is getting ready for depositions.  In many cases, the deposition /is/ the trial.
+
+Taking witness preparation seriously makes great demands on time.  Actually going over the testimony with the witnesses is something that most good trial lawyers want to do themselves.
+
+One of the early steps in witness preparation is to visit the scene with the witness.  Visual stimulus has a striking effect on people's recollections.  Going to the location can bring back detaisl that would otherwise remain lost.  It will spark language from the witness that would otherwise remain dormant, and the testimony will seem more vivid as a result.
+
+* What to Wear
+
+The most fundamental rule about dress is that the witness should be clean and well-groomed.
+
+* How to Act
+
+The basic principal is to behave naturally.
+
+* Voice
+
+Everyone should be told to speak up, to speak distinctly, and look at the jury when answering questions.  Stand next to the farthest juror and the witness will naturally speak up.
+
+* Verbal Habits
+
+Deal with the more insidious habits, but leave the less.
+
+- "Let me be honest..."
+- "O.K."
+- "Do you know what I mean?"
+- "I mean"
+
+* Physical Habits
+
+Hard to deal with these.  Maybe address disabilities up front.
+
+* Impartiality
+
+All witnesses need to understand that they should not exaggerate or overstate anything.   Witnesses should leave the courthouse after testifying.
+
+* Prepare for Direct Examination
+
+** Basic Facts--Inconsistencies--Probably Testimony of other Witnesses
+Go over previous statements and depositions with the witness.  Be careful what you choose to review.
+
+Under Rule 612 of the Fed Rules of Evid., if a witness uses a writing to refresh his recollection before testifying, then the court has discretion to requirre that it be produced so that the adverse party may inspect it, cross-examine the witness on it, and introduce it in evidence.  The thorny problem that results--to what extent does refreshing a witness's recollection in preparation for trial destroy the traditional work produce privilege?
+
+Do not use your personal strategy notes to refresh the witness's recollection if his deposition or some other writing already in the possession of the opposition will do the job.
+
+Care also requires that you have the witness read all of his depositions and statements to which the other side has access.  You should already b e familiar with whatever ambiguities and inconsistences can be found, and you should call them to the witness's attention, explaining how he cdan be impeached with prior inconsistent statements.
+
+Discuss the probable testimony of other witnesses.  Now is the time to deal with problems and conflicts in the testimony--not in the middle of trial.
+
+** Rehearsal of the Testimony
+By now you have seen the witness in several different settings.  Can he be turned loose with a short introduction and a question calling for a narrative, or will you have to develop everything with traditional questions and answers?  Now is the chance to try out each method.
+
+It may be that you are planning to save some powerful bit of evidence for the end of the witness's testimony.  If so, you will need to tell the witness so that he will not plurt out the climax at the very beginning.
+
+Resist the temptation to give the witness the precise order of questions or their exact wording.
+
+Sometimes a witness will come up with a marvelous answer during a rehearsal session, and you find yourself wondering what to do to make sure that the witness says the same thing at trial.  One way to make it stick in the witness's head is to as k him to help you remember.
+
+* Prepare for Cross-Examination
+
+There are some rules you can give witnesses for cross-examination that are nearly absolute:
+
+1. Pause after every question before giving the answer.  It will help the witness be careful.  It will give you a chance to object if necessary.  It will give the witness a chance to turn back toward the jury.
+
+2. Answer the questions that are asked.  Don't avoid questions or give cute answers.  Don't argue the case.
+
+3. Do not add anything that is not called for by the question.  Do not volunteer anything or explain anything.
+
+4. Do not argue with the cross-examiner.  There are two main traps to avoid.  Do not get angry.  Do not try to be a nice guy.
+
+5. Admit you do not know an answer when you do not know an answer.
+
+6. Do not guess an answer.
+
+7. Do not be too flexible.  Anything is possible, but that does not change what happened.
+
+8. Do not worry about answering questions about you having discussed the case or the testimony.  Just answer with short statements.
+
+
+Now cross-examine your witness.
+
+* Signals
+
+Do not use any signals or systems at all.  Tell the witness this.
+
+The witness should not look at the lawyer for help in answering a question or for aid in answering an uncomfortable situation.
+
+If the lawyer objects, the witness should stop testifying at once.  Ask to have a question repeated or restated if necessary.
+
+* Witness Coaching
+
+What about the real business in the horseshed?  Where is the line between developing testimony so it will be effective and suborning perjury by telling the witness what to say?
+
+Perhaps the surest way to find the "golden mean" is to understand that the duty to client and the duty to our profession come up against each other, and we are more likely to do the job properly if we are aware of both duties.

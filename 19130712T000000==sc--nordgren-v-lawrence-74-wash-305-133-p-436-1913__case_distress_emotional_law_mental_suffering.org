@@ -1,0 +1,145 @@
+#+title:      Nordgren v. Lawrence, 74 Wash. 305, 133 P. 436 (1913)
+#+date:       [1913-07-12 Sat 00:00]
+#+filetags:   :case:distress:emotional:law:mental:suffering:
+#+identifier: 19130712T000000
+#+signature:  sc
+
+* Nordgren v. Lawrence -- Supreme Court of Washington. | July 12, 1913 | 74 Wash. 305 | 133 P. 436
+
+- Washington Citation :: Nordgren v. Lawrence, 74 Wash. 305, 133 P. 436 (1913)
+- All Citations :: 74 Wash. 305, 133 P. 436
+
+
+                             74 Wash. 305
+
+                     Supreme Court of Washington.
+
+                               NORDGREN
+
+                                  v.
+
+                              LAWRENCE.
+                            July 12, 1913.
+** Brief
+
+** Document Details
+
+- [[*West Headnotes (6)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+
+** Synopsis
+
+Department 2. Appeal from Superior Court, King County; Everett Smith, Judge.
+
+Action by Kathrina Nordgren against John Lawrence. Judgment for plaintiff, and defendant appeals. Judgment reversed unless plaintiff within 30 days accepts judgment for $500, otherwise a new trial ordered.
+
+** West Headnotes (6)
+
+*** [1] Damages  [[1: 115-k-57.10][115-k-57.10]]  Physical illness, impact, or injury;  zone of danger
+
+- /115 Damages/
+- /115-III Grounds and Subjects of Compensatory Damages/
+- /115-III(A) Direct or Remote, Contingent, or Prospective Consequences or Losses/
+- /115-III(A)2 Mental Suffering and Emotional Distress/
+- *115-k-57.8 Nature of Injury or Threat in General*
+- *115-k-57.10 Physical illness, impact, or injury;  zone of danger*
+- /(Formerly 115k50)/
+
+Mental suffering may be considered in assessing damages where it is the result of a wrongful act, even though there be no actual physical injury.
+
+- 11 Cases that cite this headnote
+
+*** [2] Damages  [[2: 115-k-87][115-k-87]]  Nature and Theory of Damages Additional to Compensation
+
+- /115 Damages/
+- /115-V Exemplary Damages/
+- *115-k-87 Nature and Theory of Damages Additional to Compensation*
+- *115-k-87(1) In general*
+
+Punitive damages are not recognized in Washington.
+
+- 1 Case that cites this headnote
+
+*** [3] Landlord and Tenant  [[3: 233-k-1062][233-k-1062]]  Right of entry and possession of tenant
+
+- /233 Landlord and Tenant/
+- /233-V Enjoyment and Use of Premises/
+- /233-V(C) Possession/
+- *233-k-1062 Right of entry and possession of tenant*
+- /(Formerly 233k127)/
+
+Where premises were first rented on June 11th without knowing when the tenancy would commence, and the receipt read for rent to commence about the 28th of the month, and the tenant moved in on July 3d and fully paid his rent, he was in lawful possession of the premises on August 28th.
+
+*** [4] Landlord and Tenant  [[4: 233-k-1080(2)][233-k-1080(2)]]  Actions
+
+- /233 Landlord and Tenant/
+- /233-V Enjoyment and Use of Premises/
+- /233-V(C) Possession/
+- *233-k-1078 Disturbance of Possession of Tenant*
+- *233-k-1080 By Landlord*
+- *233-k-1080(2) Actions*
+- *233-k-1080(3) In general*
+- /(Formerly 233k132(2))/
+
+Where the amended complaint is an action against a landlord for wrongfully entering the premises alleged that plaintiff was “seised” and possessed of the house and premises, and the proof showed a tenancy from month to month, held, that under Rem. & Bal.Code, § 299, declaring a variance to be immaterial unless actually misleading the adverse party to his prejudice, the variance, if any, was not material.
+
+- 1 Case that cites this headnote
+
+*** [5] Landlord and Tenant  [[5: 233-k-1080(2)][233-k-1080(2)]]  Actions
+
+- /233 Landlord and Tenant/
+- /233-V Enjoyment and Use of Premises/
+- /233-V(C) Possession/
+- *233-k-1078 Disturbance of Possession of Tenant*
+- *233-k-1080 By Landlord*
+- *233-k-1080(2) Actions*
+- *233-k-1080(3) In general*
+- /(Formerly 233k132(2))/
+
+A tenant’s action against the landlord for damages for wrongfully entering the premises need not be brought under the forcible entry and detainer statute.
+
+*** [6] Landlord and Tenant  [[6: 233-k-1080(6)][233-k-1080(6)]]  Damages and costs
+
+- /233 Landlord and Tenant/
+- /233-V Enjoyment and Use of Premises/
+- /233-V(C) Possession/
+- *233-k-1078 Disturbance of Possession of Tenant*
+- *233-k-1080 By Landlord*
+- *233-k-1080(2) Actions*
+- *233-k-1080(6) Damages and costs*
+- /(Formerly 233k132(3))/
+
+Verdict of $1,000 in a tenant’s action to recover for the wrongful entry and acts of the landlord on the ground of disturbance and fright held excessive and reduced to $500.
+
+** Attorneys and Law Firms
+
+- <<*306>> <<**437>> Frank E. Green, of Seattle, for appellant.
+- Thos. H. Bain, of Seattle, for respondent.
+
+** Opinion
+
+MORRIS, J.
+
+Respondent brought this action to recover damages suffered by her because of certain acts of appellant while with her family she was occupying a furnished house belonging to appellant. The pertinent facts are these: Respondent and her family had occupied the house since July 3d as a tenant from month to month. On August 26th appellant was informed that respondent would not occupy the house the third month. About 8 o’clock on the morning of August 28th appellant, by the use of a ladder, climbed upon a back porch extending out from the second story and forced open a door leading from the porch into a bedroom then occupied by a daughter of respondent, who had just risen and was not yet dressed. This daughter, whose age is not given, ran to the room of an older sister, who came <<*307>> and ordered appellant out of the room. He left, and the door was shut and locked. Appellant then effected an entrance into the room through a window and took the door from its hinges. He then went through the house and attempted to enter the bedroom occupied by the respondent but was prevented from doing so by other members of the family. Appellant then proceeded to make a general nuisance of himself, entering all the rooms into which he could gain entrance, opening cupboards and closets, removing electric light bulbs, turning off the water and gas, and creating a general disturbance until about 5 o’clock, when he left at the suggestion of a police officer. At the time respondent was in ill health and was greatly disturbed by these acts of appellant until some time in the afternoon, when she was taken from the house. She subsequently brought this action, in which she obtained a verdict for $1,000, and appellant alleging various errors, appeals.
+
+Appellant first complains that certain instructions to the jury were erroneous. He contents himself with alleging error, but points out no vice in the instructions nor no reason why his claim of error should be sustained. Having read them, no suggestion presents itself to our mind why they should be held erroneous, and they are sustained.
+
+[1] <<1: 115-k-57.10>> It is next contended that the action should have been dismissed because of a variance between the amended complaint and the proof. The amended complaint alleged the respondent was ‘seised and possessed and entitled to the possession of said house and premises.’ The proof showed a tenancy from month to month. While the word ‘seised’ is ordinarily used to express the owner’s possession of a freehold estate, we fail to see how the appellant could be misled by this allegation. He certainly knew the character of respondent’s possession of the premises, and the variance complained of in the pleading could not have misled him in maintaining his defense. If we assume there was a variance, it was not material. Rem. & Bal. Code, § 299.
+
+<<*308>> [2] <<2: 115-k-87>> It is next contended that the tenancy had expired. We think not. When the premises were first rented on June 11th it was not known what time the tenancy would commence. The receipt for the rent deposited reads, ‘ Rent to commence about the 28th of this month.’ Respondent moved in on July 3d. The rent was fully paid, and there can be no doubt but that respondent was in lawful possession of the premises on August 28th.
+
+[3] <<3: 233-k-1062>> The next contention is that the action should have been brought under the forcible entry and detainer statute. There is no merit in this contention, and no discussion of it is necessary.
+
+The next assignment is that there was no proof of damages and that there could be no recovery for respondent’s mental distress. Whether or not an action will lie for mental <<**438>> distress alone, when unaccompanied by injury to person or property, need not here be discussed. Such a question is not present in this case.
+
+[4] <<4: 233-k-1080(2)>> In this state mental suffering may be taken into consideration in assessing damages, where the same is a result of a wrongful act, even though there be no actual physical injury. Wilson v. Northern, etc., R. Co., 5 Wash. 621, 32 Pac. 468, 34 Pac. 146; Davis v. Tacoma, etc., Co., 35 Wash. 209, 77 Pac. 209, 66 L. R. A. 802.
+
+Other assignments are the denial of judgment and motion for new trial. There was no error in denying the motion for judgment. The motion for new trial included, among other questions, a claim that the verdict was excessive, thus presenting that question here. In discussing this assignment no reference need be made to the reprehensible conduct of appellant. It speaks for itself.
+
+[5] <<5: 233-k-1080(2)>> [6] <<6: 233-k-1080(6)>> In this state, however, vindictive damages are not allowed, and upon this assignment of error we must look to the nature of the injury suffered by respondent to determine whether or not more than compensatory damages have been allowed. Respondent was in ill health at the time, and the only thing she complains of as a result of appellant’s actions is that she was greatly disturbed <<*309>> and frightened. There is no evidence that her illness was augmented as a result of appellant’s actions, or that her disturbance and fright was more than temporary, and much as appellant deserves censure for his conduct while in the house occupied as it was only by women and a young lad, the jury could not visit that censure upon him except as they could determine the amount of damages that would compensate respondent. We think $500 is ample compensation for the injury to respondent.
+
+The judgment is reversed, and if within 30 days from the going down of the remittitur respondent shall accept judgment for $500, the judgment so entered will stand; otherwise a new trial is ordered. No costs to either party in this court.
+
+ELLIS, FULLERTON, and MAIN, JJ., concur.

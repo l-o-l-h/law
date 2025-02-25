@@ -4,4 +4,127 @@
 #+identifier: 20250219T151522
 #+signature:  27=1
 
-*
+* Introduction
+
+"Nothing so undermines the confidence of a court or jury in a lawyer as his constant groping and fumbling."
+
+- Trial Notebook System :: A system of trial preparation that actually uses a notebook to organize everything in the trial.
+  - Advantages :: It helps you find things during the trail, from a particular passages in a deposition to the right response to your opponent's objections.
+  - Responsive :: "The lawyer who has at his fingertips helpful authorities responsive to what may seem to others an unexpected objection on the part of his opponent is a professional advocate.  Neither luck nor a photographic memory accounts for most instances of such effective advocacy."
+  - Review :: Easy to review
+  - Take over :: Easy for another to pick up and take over.
+  - Flexible :: What goes into the trial notebook and how detailed you make it depends on you and on the case.  It must be made to work for you and the other way around.
+
+* The Notebook Itself
+
+- Three-ring binder designed to hold 8.5 x 11 inch paper.
+- Tabbed separators
+- Pockets to hold papers and exhibits
+
+* Table of Contents and Index
+
+- TOC :: found first, but prepared last.  Don't list page numbers; use sections of the trial notebook in order.
+- Preliminary TOC :: One of the first items to go into the book, to show what needs to be done as preparation progresses.
+- Index :: Ordinarily not used; can be helpful in protacted litigation.
+- Alphabetical TOC :: Instead of an index, use a TOC arranged alphabetically.
+
+* Analysis of the Case
+
+- Coherent theory of the case :: essential ingredient to effective litigation.  Part of the analysis of the case.
+  - all sorts of notes, formal or informal, that go to make up your battle plan
+  - ideas about preliminary motions and jury selection
+  - thoughts about final argument
+  - requests for instructions.  See [[denote:20250219T152241][Ch 5: The Theory of the Case]]
+
+* Analysis of the Opponent's Case
+
+The analysis of your opponent's case need not be a separate entyr, but is important enough to warrant separate mention.
+
+* Proof Checklist
+
+- Formal Proof Checklist :: important for both plaintiffs and defendants.
+  - Advantages ::
+    - Forces you to go over every facet of your case.  If there arer any gaps, they will show up on the proof checklist.
+    - Helps you grasp the totality of the evidence that may refine your theory of the case.
+    - Going obver your proof checklist immediately before trial will refresh your recollection about the case.
+    - Will help you put all evidence in perspective as the trial unfolds.  Check off evidence as the trial goes on.
+    - Will help you decide whether you need to take some remedial action, such as calling a rebuttal witness.
+    - When your case is finished, you can review what you have done and rest your case in confidence, knowing that if your opponent makes a motion for a directed verdict, your proof checklist will aid you in making the proper argument.
+- 3 Levels ::
+  1. ELEMENTS:The formal facts the law requires you to prove -- the elements of your cause of action or defense.
+  2. EVIDENCE: The evidence that supports each element.
+  3. SOURCE: The source of the evidence.
+- Example
+  - COA :: Defendant's negligence
+    - ELEMENT :: Excessive speed
+      - Limit 25--Officer Lintz
+      - Eyewitness bystander--Karen Maguire
+    - ELEMENT :: No proper lookout
+      - Did not apply brakes--Admission in defendant's deposition
+      - Did not apply brakes--No skid marks--Officer Lintz
+
+* Jury Selection
+
+- Scorecard :: A chart, a group of squares assembled like a map of the way the panel of prosepctive jurors is arranged, in which to write their names and make some notes.
+- List of Questions :: The outline or list of questions you are going to ask the jurors belongs in this section.
+- List of Supplementary Questions :: Additional questions to ask the judge to put to the veniremen.
+
+* Opening Statement
+
+Writing out an opening statemnet is usually not a good idea, because you may be tempted to read it at the start of the trial.  Reading any argument is almost always a mistake.
+This section is the place to put notes.
+
+* Stipulations and Pretrial Order
+
+- Stipulations :: are often read to the jury immediately after opening (not the strongest way to start a trial).  Usually it is better to start with a strong fact witness and weave in the stipulations where they make sense.
+- Pretrial Order :: You need to know where it is.  Place pleadings here as well.
+
+* Witnesses
+
+** Three Main Subdivisions
+
+1. List of witnesses in order of appearance and in alphabetical order
+   - Addresses and telephone numbers
+   - Notation indicating whether they have been subpoened.
+   - Short characterization of the witness's relation to the case. Witness order has an important bearing on persuations, and should be carefully worked out to fit the theory of the case.
+2. Group of outlines on the direct examination of all your witnesses and the cross-examination of all the opponent's witnesses.
+   - Break into two separate sections, one for direct, the other for cross.
+   - At the beginning of each witness's subsection is a page with the witness's name, address, telephone numbers, employmenet and statement about his relationship to the case.
+   - A short paragraph (just one or two sentences) explaining why this witness is being called to testify; just what it is you expect to prove with this person.
+   - An outline of your examination.
+     - Write your outline on the left hand side of the page.  Draw a line down the middle of the page to force this.
+     - The right side is to be used for supplemental notes, and a place to writ particularly colorful language or importnat concessions from the witness you will later want to work into final argument.
+     - Write outlines, not specific questions.
+   - Proof checklist for the particular witness.
+     - This is a short list of all the important bits of evidence you expect to elicit from the witness.
+     - When you have finished the examination of the witness, simplly go down the checklist.  Any gaps are obvious.  If there are none, you say "No further questions."
+3. Deposition index
+   - Each index depends upon the case
+   - Topics and page numbers.
+   - Written summaries and cross-indexes.
+
+* Documents and Exhibits
+
+** Two Main Parts
+
+1. List of Documents
+2. Documents
+   - Before each document include a sheet with the requirements for the necessary foundation and the names of the witnesses who can do the job.
+   - Case citation on your foundation notes.
+
+* Evidence and Procedure Memoranda
+
+Every case has the potential for some disputed areas of evidence or procedure.  With a little thought, many can be identified in advance.
+- such as the effect of a presumption when there has been contrary evidence or
+- whether a doctor consulted just for treatment can testify to the person's medical history.
+
+
+The best way to argue such as issue is both orally and in writing. The writing should be a miniature brief; no more than a few typewritten sentences in the middle of an otherwise clean paper.
+
+* Final Argument
+
+Preparation for final argument starts when the case comes in the door.
+Here is where all your notes go.
+The chance for retrieval is great if they have a place to go.
+
+* Motions and Requests for Instruction

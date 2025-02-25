@@ -1,0 +1,12 @@
+#+title:      Commencement of lien on real estate -- RCW 4.56.200
+#+date:       [2025-02-21 Fri 14:32]
+#+filetags:   :estate:judgment:lien:real:
+#+identifier: 20250221T143228
+#+signature:  rcw=4=56=200
+
+* Commencement of Lien
+
+The lien of judgments upon the real estate of the judgment debtor shall commence as follows:
+
+
+(2) Judgments of the superior court for the county in which the real estate of the judgment debtor is situated, from the time of the filing by the county clerk upon the execution docket in accordance with RCW 4.64.030;
