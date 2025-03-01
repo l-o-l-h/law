@@ -22,4 +22,107 @@ The theory of the case is the basic, underlying idea that explains not only the 
 
 A good theory of the case is the very heart of advocacy, since it provides a comfortable viewpoint from whic hteh jury can look at all of the evidence--and if the ylook at the evidence from the viewpoint, they will be led ineluctably to decide in your favor.
 
-The theory of the case is a sort of home case to be defended at all costs unless utter disaster commands that it be dserted in favor of some unfamiliar place further up the hill.
+The theory of the case is a sort of home cave to be defended at all costs unless utter disaster commands that it be dserted in favor of some unfamiliar place further up the hill.
+
+
+** What is the Theory of the Case?
+That which the advocate creates out of the legal theories and the facts.
+Your knowledge of the facts will influence your choice of legal theories.
+Your knowledge of the legal theories will influence which facts you investigate and develop.
+
+What is impermissible is to let the legal theory change any fact -- a fundamental principle that shows why the defense lawyer's lecture on the law tohis client in Traver's /Anatomy of a Murder/, reprinted in Legal Lore, LITIGATION, Vol. 4, No. 3 at 39 (1978), pushed (if not stretched) the ethical line.
+
+All of the following bear on the theory of the case:
+- The applicable statute of limitations
+- the kinds of permissible damages
+- Whether there is a right to a jury trial
+- Whether the case is in state or federal court
+- The state where the case is filed
+
+
+You are permitted to have more than one.  They are even allowed to conflict.  But the usual result of inconsistent theories is disaster: simple credibility.
+
+Irving Younger says, at common law you are entitled to reply to a plaintiff who claims his cabbages were eaten by your goat the following:
+- You had no cabbages
+- If you did, they were not eaten
+- If they were eaten, it was not by a goat
+- If they were eaten by a goat, it was not my goat
+- And if it was my goat, he was insane.
+
+
+** Credibility
+
+The reason to avoid presenting conflicting theories is simple credibility.
+
+Lawyers must believe in their products.  The effective argument is usually the one that conveys the lawyer's belief in his client to the jury.  If you do not believe in it yourself, it is virtually impossible to convey the necessary confidence in your client's case.  If you do not believe in what you are arguing, your body language will give your insincerity away, even if your words do not.
+
+You cannot under the rules of ethics tell a judge or jury that you personally believe in the justice of your client's case.  That is specifically forbidden.  You are forbidden from saying you believe in your client.
+
+Effective advocacy suggests you actually believe in your client.  It is a point worth remembering.
+
+- If you ask for more damages than you believe in, it will show.   Cut the case down to a size you can honestly argue.
+- If it means dismissing the case against a party you are unable to believe is responsible to your client, do it.
+- If there are things you do not like about your client, do not hide them--bring them out.
+- It can even turn a terrible weakness into a telling strength.
+
+** Plausibility
+
+- Plausibility :: what the jury feels is more likely true--is a constant advocate.  The closer your case is aligned with basic probabilities, the better.
+
+
+The more telling theory is the one the jury is likely to accept as probable.
+
+** Simplicity
+
+The next step is to make it simple.
+
+Simplicity is often achieved by taking into account as many of the facts as possible.  The more facts your theory of the case explains--that is, the few facts thereare that do not fit your case--the simpler and more believable it will be.
+
+Achieving simplicity takes work, but it is well worth the effort.
+
+For example, an unbiased eyewitness is called by your opposition.  You have two equally attractive theories.  One requires you to attach the unbiased witness as a liar.  The other theory explains how the witness believes she is telling the truth, but is understandably mistaken.  Chances are the second theory is better than the first.
+
+** Value Scheme of the Community
+
+A truly supurb theory of the case will fit comfortably into the value scheme of the judge and jury.
+
+As between two equally simple, plausible theories that are both presented with equal sincerity, the one that more comfortably fits community values is more likely to be accepted.
+
+- Take the difference between charity and paying a debt.
+- Many people believe paying one's debts is extremely important.  Present the case as someone who has or has not paid their debt, or owes a debt, an obligation owed or paid, rather than seeking charity and sympathy.
+
+** Opening Statement
+
+Once you have a solid theory of the case, it will help throughout the trial.
+
+Take the opening statement.  Too many lawyers use the first minutes of their opening statements to lecture the jury about the function of the opening statement.  It is an unfortunate waste.
+
+During the first few minutes of the opening statement, the jury is highly attentive, and accordingly receptive.  They are eager to learn what the case is all about.  It is the perfect time to give them your theory of the case.
+
+This is exactly how an opening statement should begin.  Instead of some standard words about opening statements, give them the theory of the case--carefully distilled into a memorable theme which will stay with them and shape their understanding throughout the trial.
+
+** Witnesses to Call
+
+The theory of the case helps decide which witnesses to call.  Often a difficult choice whether to call a particular witness can be answered from the perspective of whether it will really advance the theory of the case.
+
+It also helps decide the order of witnesses.  Start strong and end strong, but let the order in which they testify be one that helps explain your theory of the case.
+
+** Questions to Ask
+
+The rule is simple: Limit your questions to those asking for information about your theory of the case, or those tending to attack your opponent's theory.
+
+More care is needed in cross-examination than anywhere else to not forget about promoting the theory of the case.
+
+** Closing Argument
+
+Final argument is the time for the theory of the case to triumph.  The hard thing for some lawyers is to commit the case to one theory.
+
+Even in a simply negligence case, the defense might be:
+
+- We were not negligent
+- If we were, you were contributorily negligent
+- Even if we were negligent and you were not contributorily negligent, you were not hurt.
+- Even if you were hurt, you were not badly hurt.
+
+
+The problem is either to articulate these ideas so they do not seriously detract from each other, or to abandon those defenses that are not seriously arguable.

@@ -1,0 +1,112 @@
+#+title:      Lead Remediation in Apartments
+#+date:       [2025-02-28 Fri 09:06]
+#+filetags:   :law:lead:remediation:
+#+identifier: 20250228T090637
+#+signature:  9a1
+
+* Agencies
+[[https://pscleanair.gov/][Puget Sound Clean Air Agency]] (PSCAA)
+- Kitsap
+- King
+- Pierce
+- Snohomish
+
+* Email asking for Help
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Ashley Greenberg via groups.nwjustice.org
+Sent: Friday, February 28, 2025 7:45 AM
+To: HTF@groups.nwjustice.org
+Subject: [HTF] Lead remediation/reasonable accommodation to break lease?
+
+You don't often get email from ashleyg=nwjustice.org@groups.nwjustice.org. Learn why this is important
+
+Hi all,
+
+We at the Medical-Legal Partnership received a patient question from a social worker at Seattle Children’s Hospital regarding lead in a rental home and I wanted to get your take (we surprisingly don’t see lead cases frequently):
+
+The issue as presented by the SCH social worker seem to be that the family is renting an older home, a handyman who works for the property management company did some repairs improperly (chipping paint around the bedroom door frames) which exposed lead paint and now the child has lead blood levels over the CDC thresholds (though does not have any symptoms of lead poisoning at this point).  The handyman is not lead-certified and when the family asked for repairs the landlord just offered for that same handyman to do more repairs (i.e., to “repair” the damage he caused that lead to lead dust being released into the air).
+
+The family lives in Seattle and wants to understand their options both around remediation and potentially breaking the lease (they also asked some questions about withholding rent but I already told the social worker to tell them not to do that).  I did some online research and it seems like there are requirements for contractors/handymen/etc to be “lead certified” through the Department of Commerce (also stemming from some EPA rules) if they are disturbing more than 6 square feet of lead paint, replacing windows, or doing any demolition.  However, I’m unclear whether the handyman in this case would even be required to be lead-certified if the door frames are not even a total of 6 square feet of disturbance (but maybe this counts as demolition?).  I feel myself going down a bit of a rabbit hole here…
+
+I consulted with a private attorney with some familiarity with these issues and he said that, in his experience, lead remediation is extremely difficult, rarely done right, and just advised the family to move if that’s an option.
+
+I’m turning to you all with some questions about the family breaking the lease and how they can do that and protect themselves.  They don’t necessarily have proof that the door frame repairs caused the lead exposure and the child’s elevated lead levels (as I understand it, it’s suspicion right now…).  I was thinking they could try asking for a reasonable accommodation to break the lease due to the child’s elevated blood lead levels and the landlord’s refusal to hire a lead-certified contractor and see how the landlord responds (though I’d feel more comfortable if they had an in-home environmental inspection that could verify that there is actually lead dust in the air around the bedroom door frames, or in the pain on the bedroom door frames – I couldn’t find any free resources but the family might have money to pay for something like this – does anyone know of companies near Seattle that do this?)
+
+The family had also looked at the Washington Law Help pub about repairs and repair and deduct and wondered if it would apply in this situation.  I’m obviously always pretty hesitant to advise people to do repair and deduct since it needs to be done so exactly (and, in this case, I’m not even sure if the lead-certified contractor would be required, at least until they get an in-home environmental inspection confirming that the bedroom door frames have lead paint and/or that there’s lead dust in the air).
+
+Thoughts?
+
+Thanks so much,
+
+Ashley
+
+Ashley Greenberg
+Medical-Legal Partnership Staff Attorney
+Northwest Justice Project
+401 – 2nd Avenue South, Suite 407
+Seattle, WA 98104
+(206) 464-1519, x0861
+She/Her/Hers Pronouns
+
+* Responses
+
+** Elizabeth Powell
+Elizabeth Powell via groups.nwjustice.org <EPowell=ccsww.org@groups.nwjustice.org>
+8:47 AM (18 minutes ago)
+to AshleyG@nwjustice.org, HTF@groups.nwjustice.org
+
+First: This landlord broke the lease by not dealing with lead properly. The tenants don’t need to “break” the lease, they need to mitigate their damages which are arising as a direct result of their landlord’s failure to provide them with safe housing. The agency in WA concerned with Lead contamination is the Puget Sound Clean Air Agency (PSCAA) and they are very helpful.
+
+Because this family is in Seattle, they also have Seattle Department of Construction and Inspections for assistance. First, the tenants need to establish by written notice that the landlord knew or should have known of the lead contamination. Then, the family can contact SDCI and PSCAA and ask for the property to be inspected.
+
+
+Properly approached, this family will receive funds with which to move to a new property where the landlord maintains the place properly.
+
+Not a perfect solution but a lot more helpful than the tenants thinking they have to break the lease, and having to move with no money.
+
+
+Elizabeth Powell
+
+
+Elizabeth Powell (she/her)
+Senior Staff Attorney, Tenant Law Center
+Catholic Community Services of Western Washington
+100 23rd Avenue South Seattle, WA 98144
+Direct 206-999-6175
+Fax 206-328-5651
+Tenants needing assistance please call 206-580-0762
+Tenants sending documents: please send to tenantlawcenter@ccsww.org
+
+** Chris Brunetti
+
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+9:51 AM (1 hour ago)
+to Ashley, HTF@groups.nwjustice.org
+
+Ashley,
+
+Under RCW 59.18.090(1), the tenant may terminate the lease due to the landlord’s failure to remedy a defective condition.
+
+As you indicated, the tenant also has the option of repair and deduct (RCW 59.18.100), but there are potential pitfalls in this approach, i.e., very good chance LL will bring a UDA against them for nonpayment.  If they do decide they want to go forward with this approach, they’ll have to be ready to present proof that (1) they made a request for repairs, and (2) the LL failed to properly remedy the defective condition.  Even if the tenant has strong proof, I still don’t like this approach as defending a UDA puts a tenant in a defensive posture, which is rarely a good place to be.
+
+The tenant also has the option of bringing a lawsuit to get a court to order the LL to properly repair the defective condition.  RCW 59.18.090(20.  Similar to the “repair and deduct” approach, tenant will need strong proof establishing that (1) there is a defective condition that needs to be remedied, and (2) LL so far has either failed to remedy the defective condition and/or made it worse.
+
+Assuming the tenant have the means to move, I think that might be the “path of least resistance”.  The “repair and deduct” option and the option to file a lawsuit to order LL to make repairs could wind up being very costly and time consuming for the tenants, and won’t even guarantee that the necessary repairs and remediation will ever be fully addressed.  Again, assuming tenants have the means to move, I think the best approach would be to inform the LL of their intent to terminate the tenancy and negotiate terms regarding (1) move out date, and (2) limiting tenant’s liability for rent owed for the balance of the lease term.  I would just be careful that any such agreement with LL not waive tenant’s right to bring an action against LL for injuries, monetary damages, etc.
+
+Chris
+
+** Elizabeth Powell
+
+Elizabeth Powell via groups.nwjustice.org <EPowell=ccsww.org@groups.nwjustice.org>
+10:20 AM (52 minutes ago)
+to chris.brunetti@nwjustice.org, Ashley, HTF@groups.nwjustice.org
+
+Chris: Also don’t overlook RCW 59.18.085 it is a lot faster and nets the tenants money with which to move. Elizabeth
+
+** Anne Mjaatvedt
+
+Anne Mjaatvedt via groups.nwjustice.org <anne.mjaatvedt=nwjustice.org@groups.nwjustice.org>
+10:23 AM (50 minutes ago)
+to EPowell@ccsww.org, Chris, Ashley, HTF@groups.nwjustice.org
+
+Agree with everyone, just want to follow up on Elizabeth’s earlier suggestion of contacting Seattle Dept of Construction and Inspection.  Seattle has its own relocation assistance code that I wish everyplace had, so that is the best way to get this family out of this situation with assistance and no repercussions from the current landlord.

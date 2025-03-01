@@ -1,0 +1,28 @@
+#+title:      Motions in Limine
+#+date:       [2025-02-27 Thu 16:32]
+#+filetags:   :limine:motion:trial:
+#+identifier: 20250227T163235
+#+signature:  28
+
+* Examples
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Feb 25, 2025, 4:49 PM (2 days ago)
+to felicity@skagitvlp.org, HTF@groups.nwjustice.org
+
+This is some language from a motion that is floating around NJP (below).
+
+FWIW, in my experience, judges in bench trials are likely to defer ruling on a motion in limine, because there is no jury to shield from the potentially prejudicial information. They will just say “I can rule on that as the need arises”. If it is a major evidentiary issue on a major point, it still may be worth asking for a ruling in advance because that allows you to anticipate how else you might get information in or what information might be relevant. The stock issues below are probably not worth obtaining a ruling on in advance since you can just make the motion at the start of trial, with the exception of the one regarding making the trial stick to the issues in the notice.
+
+1. MOTION IN LIMINE NO. 1: Defendant requests that all nonparty witnesses be excluded from the courtroom during the testimony of other witnesses. ER 615.
+
+2. MOTION IN LIMINE NO. 2: If an exhibit is used in opening statement or closing argument, and such exhibit is not admissible in evidence or not a fair summary of admissible evidence, the opposing party is unfairly prejudiced. Therefore, any exhibits that have not been admitted before trial or during trial should not be used in arguments to the trier of fact absent prior ruling by the Court, or with the consent of counsel. ER 403.
+
+3. MOTION IN LIMINE NO. 3: Any prejudicial comments, arguments, or evidence presented before the jury regarding pre-trial motions, and evidence that has been excluded, should not be allowed, and the Court should instruct the jury to disregard the same. ER 403.
+
+4. MOTION IN LIMINE NO. 4: The parties should be precluded from offering evidence of settlement discussions or offers to compromise. ER 408.
+
+5. MOTION IN LIMINE NO. 5: The Court should prohibit any reference regarding the nature of Defense Counsel's legal practice, the size of the law firm representing the Defendant (including the number of attorneys and/or staff employed by Defense Counsel's firm), the types of cases typically handled by Defense Counsel, and the types of clients often represented by Defense Counsel. Any such references have no probative value, are unfairly prejudicial, and are irrelevant. ER 401, 402, and 403.
+
+6. MOTION IN LIMINE NO. 6: Any expression by the Plaintiff, as well as their witnesses, or their attorney, concerning their personal beliefs regarding the parties' and/or witnesses’ credibility should be prohibited. ER 608, RPC 3.4(e). Character evidence of a party or witness is not relevant at trial and should be properly excluded. ER 608. In addition, Rule of Professional Conduct 3.4(e) prohibits an attorney from conveying to a jury his or her opinion as to the credibility of a witness at trial. Defendants respectfully request the Court to issue an order prohibiting the Plaintiffs, as well as its witnesses, or their attorney, and Co-Defendants, as well as its witnesses, or its attorney, from making any comment regarding their personal belief of the credibility of the Defendants, their witnesses, or their counsel.
+
+7. MOTION IN LIMINE NO. 7: Plaintiff should be precluded from offering evidence of behavior, conduct, or actions that is not stated in the eviction notice, or is unrelated to the grounds for eviction. Any such evidence would have no probative value, would be unfairly prejudicial, and would be irrelevant. ER 401, 402, and 4
