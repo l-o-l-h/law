@@ -4,4 +4,75 @@
 #+identifier: 20250219T152709
 #+signature:  27=9
 
-*
+* Importance
+
+Juries often start to make up their minds on hearing opening statements.  When juries make up their minds, it is difficult to change them.  It means that opening statement is so important that it should almost never be waived, and never merely read the pleadings to the jury instead of making an opening statement.
+
+The opening statement usually should be made as soon as possible in the case instead of waiting untilthe plaintff rests, lest the case already be decided.  It even suggests that, if you represent the defendant in a case wherethe only real issue is an affirmative defense, you should strongly consider admitting the plaintiff's nominal case so that yhou will have right to open first., as well as have the first and last words in final argument.  Without question it suggests that any trial lawyer bent on winning a trial should take the trouble to make a very good opening statement.
+
+* What to do in an Opening Statement
+
+The opening statement should introduce you and your client and tell the jury what the case is all about.  What that means and how it should be approached takes thorough analysis.
+
+
+** Primacy
+
+The starting point for deciding whaat to do is the psychological notion of "primacy" or the importance of what is said first.
+
+The first minute or so of the opening statement (or of any argument, for that matter) is the most important.  Your listeners, unless they are instantly hostile or embarrassed for you, are at their most receptive stage, and it is a mistake to throw away that opportunity.  In that first minute you should convince the jury that justice lies on your side.   The challenged is to state the essential nub of your case in that time in a way that will impel the jury to view everything that happens after that--everything they hear and see--on your favor.
+
+** Litmus Test of a Good Opening Statement
+
+The litmus test for a good introduction to an opening statement is this: if the jurors heard it, and nothing else atall, would they understnad what the case is about, and would they want to find in your favor?  What you are after is that sort of convincing predisposition that makes them look at the other side through your eyes.
+
+The sort of introduction that meets this demanding test take time to work up, and is easily worth an hour or so of effort.
+
+* Process of Creating a Great Opening Statement
+
+** Develop a Theory of the Case
+
+The first step is to develop a theory of your case that explains as much of the _uncontroverted evidence_ as possible in your favor.  The theory that you develop will be the basis for your entire trial strategy and the keynote of your closing argument.
+
+** Develop a Theme or Phrase
+
+The second step is to create from that theory a theme or phrase that is striking, even memorable, which epitomizes the theory.
+
+"More than a man, less than a man" theme example.
+
+"This is a case about two men who both gave each other their word, and now one of them wants to break it."
+
+The defendant needs a good theme just as much as, if not more than, the plaintiff.  Sometimes it is appropriate to focus on the defendant, as in the "he did the best he could" type of situation.  In other cases, the theory of the case may call for a theme which points to some flaw in the plaintiff's actions.
+
+It is essential to make the theme fit the facts well enough so that this memorable phrase at the beginning of the trial is not turned against you.  One of the best solutions is to develop the theory of the case first and then choose an appropriate theme, rather than trying to start with a catchy theme which you hope will fit the facts.
+
+The other important step is to try to turn it around any way you can; in other words, to look at your theme from your opponent's point of view.
+
+The development of a good theme in the first minute of the opening statement is so important that it ought to be considered before working out how you are going to introduce yourself and your client.
+
+** Do not Argue in the Opening
+
+The statement of the theme is as close to argumentation as you ought to come in this part of the trial.  There is no place in the opening statement for comparing, except in a general way, the credibility of the witnesses, commenting on what testimony is believable or exhorting the jury to find in your favor.
+
+** Give Introductions
+
+The customary way to begin an opening statement, if you have not already been introduced to the jury satisfactorily during voir dire, is to introduce yourself, your client, and depending on the sense of etiquette in the community, your opposing counsel as well.
+
+But there is an argument that the custom ought to be altered slightly.  Although it is not the sort of practice that will suit everyone, opening statements with delayed introductions can be very effective.  If the opening begins with the theme and is followed by a short chronology which leads up to how you were contacted by your client, stating your name to the juyr can come slightly after the theme quite comfortably.
+
+Whether you introduce yourself at the very first or wait a minute or two, the theme should be one of the first things the jury hears.
+
+** Do Not Minimize the Importance of the Opening
+
+Don't say that the opening statement is "only lawyer's talk."  Don't discount the opening statement to the jury while making it.  No one who wants to tell a convincing story should start out by asking his audience to disregard what he is saying.
+
+** Introduce Evidence--Reveal What is Coming--Give a Prima Facie Case or Defense
+
+As you progress into the body of your opening statement, you can refer to the testimony and other evidence which is to come.  You can make the point affirmatively that the evidnece will justify the verdict without running down what you are doing.
+
+Just how detailed you should be in discussing what testimony the jury will hear is another problem.  The dange is that of over-statement.  If you make specific promises to the jury, you may be embarrassed to hear them thrown back at you at the end of the case if you do not produce the evicencde as promised.  This can raise the possibility of the jurors concluding that you were careless about your case, that you tried to mislead them, or that hyou have failed to prove an essential element of your case, even though that is not at all true.  If you promise to prove something, the jury may think you have to prove it to win.
+
+On the other hand, one of the most important functions of an opening statement is to let the jurors know what is coming, and alert them to what they should look for as the trial unfolds.  It is essential to give the jury an understandable picture of what you expect the evidence to show.  Moreover, it can be crucial not to be too cautious in what you say so that you do not tell the jury enough.    Be certain to state a prima facie case or defense in your opening.
+
+** Make your Client a Real Person
+
+You should use the opening statement to start a process that will continue through the entire trial: making your client a real person rather than a procedueral entity like a client, plaintiff, or defendant.

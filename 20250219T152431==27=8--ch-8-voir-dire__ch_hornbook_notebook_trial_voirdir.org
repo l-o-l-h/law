@@ -4,4 +4,73 @@
 #+identifier: 20250219T152431
 #+signature:  27=8
 
-*
+* To Speak the Truth
+
+How we talk about something is profoundly connected with what we think about it, and how we do it.
+
+/Voir dire/ does not refer to the actual examination, but to the oath that is administered before the examination begins.
+
+/Voir dire/, as a term, has almost no intrinsic meaning to us.  Yet it is true that how we talk about something is prefoundly connected with what we think about it, and how we do it.
+
+In other words, since the words in themselves are meaningless to us, what lawyers do in conducting voir dir is meaningless?  No, what matters is how the lawyer translates it.
+
+How we think of something /is/ influenced by how we speak of it.  /Voir dire/ is a term that needs translation.  There are at least three different ways to translate it, and which one you choose will havea profound effect on what you do.
+
+What is meant is absolutely practical in eery respect.
+
+* Historical Sense
+
+We use the term today to refer to two very different procedures
+
+- the questioning of prospective jurors
+- the preliminary cross-examination of witnesses to determine if they are qualified to testify.
+
+
+Each one is a preliminarhy examination of someone to dtermine his qualifications--either as a witness or a juror.
+
+* Jury Selection
+
+For most people, this is what /voir dire/ means, the chance to pick a jury.  Once you start thinking about picking a jury, that is what you are going to try to do.  If you think of /voir dire/ as jury selection, you will start thinking about the use of psychological data to determine what sort of jury you need for any particular case.  One of the best systems uses a scoring method.  The age, sex, race, religion, marital stratus and educational background of the plaintiff may all make some difference on the kind of juror you want.
+
+The dange is that with all those numbers you may think you are being truly scientific, when in reality, you are not.  A clinical psychologist will tell you that what you come up with is not a substitute for your judgment about jurors, but only a helpful supplement to it.
+
+If you use this system, the best advise is, if you have a juror you really do not like, then challenge him or her, no matter how high the score is.
+
+Superficial stereotypes relataing to sex, race, ethnic background, economic class and education.
+
+More important than these steriotypes is how individual jurors seem to respond to you and your client.  Most of this will be expressed in "body language."
+
+But suppose you do not want to pick a jury?  Picking a jury is just one way to look at jury voir dire.  There is another way to translate that term.  Not a literal translation, but a translation nontheless.
+
+Suppose you decide it is wrong to think of voir dire asjury selection.  There will not be many challenges for cause.  Each side gets three peremptory challenges.  A total of six are challenged.  And those challenges were largely on the basis of superstitution (the steriotypes), hunch (subconscious body language), or educated guesses (clinical psychologist and jury profiles).  Who are the twelve who will sit on the jury?  Are they people you chose?  Hardly.  They are the majority who are left after you exercised your superstitions, hunches, and educated guesses.  They are the people who were already there by the luck of the draw.  It is a serious exaggeration to call that 'jury selection.'
+
+* Educate the Jury
+
+Use the time to sell your case to the jury.
+
+Try to commit the jurors to a fundamental principle that is on your side.  *The juror commitment technique.*
+
+But suppose you do not want to commit the jurors?  Can you really convince 18 people--or at least 12 out of 18 people--whom you have never seen before--to set aside their beliefs built up over a lifetime by giving them a five-minute exhortation and asking them a few questions?
+
+There are plenty of lawyers who are not worried about their opposition trying to "condition" the jury, because they feel it simply is not ver yeffective.  They fee lthat whatever it does, it is not enough to make up for having a weak case to begin with.
+
+* Study the Jury
+
+One of the very best things you can do is study that jury.  Learn as much about is as you possibly can.  If you study the jury carefully, you will pick up on how they react to basic things.  That means you can change how things are put to suit them.
+
+There is a much better chance to adjust your case to suit your audience than there is to adjust your audience to suit your case.
+
+It is probably more useful for shaping arguments and opening statements than it is for picking witnesses.  The beauty of the system is that often it works best when you are least aware of it.  Once you become a student of juries, you start craving knowleddge about the people you will be trying to convince.  You will find that you will make unconscious decisions that are based on the information you gather.  You are naturally aware of persons you are talking to, and your adjustment is automatic, and there is nothing put on about it.
+
+* How to Conduct Jury Voir Dire
+
+So far we have been talking about what to do.  Perhaps even more important is how you do it.  There are some good suggestions on how to ask jurors questions.  But there are some other things as well.
+
+* Challenge for Cause and Peremptory Challenges
+
+- kinship with one of the parties
+- interest in outcome
+- enough bias or prejudice so that the jury could not render a 'fair and impartial verdict'
+are grounds for challenging for cause.
+
+There is a fundamental principle.  You will almost never get someone to admit he or she is unfair.  Instead, it is much more effective appeal to their fairness--not their unfairness--in challenging them for cause.
