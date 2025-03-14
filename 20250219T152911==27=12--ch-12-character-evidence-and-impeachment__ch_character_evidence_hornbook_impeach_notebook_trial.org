@@ -4,4 +4,56 @@
 #+identifier: 20250219T152911
 #+signature:  27=12
 
-*
+* Introduction
+
+Litigators must rely on their general knowledge of the law of evidence.  T=For mosttrial lawyers, this includes:
+
+- a General sense of relevance
+- an understanding of hearsay and a handful of exceptions
+- the best evidence rule
+- the requirements for authenticating documents and telephone calls
+- the magic litany for a number of foundations
+- the rules that regulate the forms of questions
+
+
+Character evidence is important.  Credibility, the central factor underlying many of the rules, somehow manages to be an issue in nearly every contested case.  Because character evience continues to win and lose cases, this discussion is intended for those trial lawyers who want to add an understanding of it to their regular bag of tricks.  Since character evidence is complex and this is an outline, it is necessarily incompldete and in a sense somewhat inaccruate.
+
+
+* Rules
+
+** 1. One May Not Impeach One's Own Witness
+
+** 2. Under the Federal Rules of Evidnence, a Party May Impeach His Own Witness
+
+** 3. A Witness May Not Be Impeached on Collateral Matters
+
+There are some matters which are not issues in the case, but which are never collateral.  These include:
+
+- bias
+- interest
+- conviction of a crime or lack of opportunity for the witness to have knowledge of what he has testified to.
+
+
+** 4. Any Witness May Be impeached with Prior Convictions
+
+** 5. A Witness May Sometimes Be Cross-Examined About ABad Acs for Which There has been no Conviction
+
+** 6. A Witness May Not Be Asked About His Arrests to Impeach His Credibility
+
+** 7. A Witness's Credibility May Not Be Supported Before Attack
+
+** 8. A Witness May Be Impeached with Bias, Prejudice, or Interest
+
+** 9. A witness May Be Impeached With a Prior Inconsistent Statement
+
+** 10. A Witness May Be Rehabilitated With a Prior Consistent Statement
+
+** 11. A Witness May Be Impeached by a Character Witness Familiar With His Reputation for Truth and Veracity
+
+** 12. Character Witnesses May Be Contradicted With Other Character Witnesses
+
+** 13. Character Witnesses May Be Cross-Examined with Specific Instances of Conduct
+
+** 14. A Criminal Defendant May Call Character Witnesses To Show He is Not the Sort of Person Who Would Commit the Crime Charged
+
+** 19. A Civil Litigatnt May Not "Put His Character in Issue"
