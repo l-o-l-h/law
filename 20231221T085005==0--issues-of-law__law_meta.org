@@ -113,6 +113,9 @@
 - [[denote:20231128T140104][23a  HUD Handbook asa Mandatory Not Just Guidance]]
 - [[denote:20250124T085249][23b  New HUD rule on 30 day notice to pay or vacate]]
 - [[denote:20250207T124327][23c  Rules a PHA Must Follow to Terminate Section 8 Benefits]]
+- [[denote:20250321T091038][23d1  Housing Discrimination under the FHA]]
+- [[denote:20250321T091629][23d0  Fair Housing Laws]]
+- [[denote:20250321T091843][23d2  Housing Resource Center]]
 #+END:
 
 * 24. Damages in RLTA Cases
@@ -132,3 +135,11 @@
 [[denote:20250219T144639][27  McElhaney's Trial Notebook 2nd Edition 1987]]=
 * 28. Motions in Limine
 [[denote:20250227T163235][Motions in Limine]]
+* 29. Discrimination in Housing
+#+BEGIN: denote-links :regexp "_discrimination" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20250321T091038][23d1  Housing Discrimination under the FHA]]
+#+END:
+* 30. Voucher
+#+BEGIN: denote-links :regexp "==30.--" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20250321T141705][30a  Income Certification Recertification]]
+#+END:

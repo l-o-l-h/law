@@ -42,6 +42,9 @@ Restraint Petition--Briefs.
 * 10.2 - Time for Filing Briefs
 
 ** (a) Brief of Appellant or Petitioner.
+:PROPERTIES:
+:CUSTOM_ID: h:19EF0D32-6F9B-4F6C-BC9C-08FFF2F51847
+:END:
 
 The brief of an appellant or petitioner should be filed with the
 appellate court within 45 days after the report of proceedings is
@@ -51,6 +54,9 @@ seeking review has filed the designation of clerk's papers and
 exhibits in the trial court.
 
 ** (b) Brief of Respondent in Civil Case.
+:PROPERTIES:
+:CUSTOM_ID: h:D0AE4B74-192C-4163-8A5F-E1DBE1C8B846
+:END:
 
 The brief of a respondent in a civil case should be filed with the
 appellate court within 30 days after service of the brief of appellant
@@ -59,6 +65,9 @@ or petitioner.
 ** (c) Brief of Respondent in Criminal Case.
 
 ** (d) Reply Brief.
+:PROPERTIES:
+:CUSTOM_ID: h:B9B642FC-4A12-4162-9F50-BEB55E38F750
+:END:
 
 A reply brief of an appellant or petitioner should be filed with the
 appellate court within 30 days after service of the brief of
@@ -71,6 +80,9 @@ respondent unless the court orders otherwise.
 ** (g) Answer to Brief of Amicus Curiae.
 
 ** (h) Service of Briefs.
+:PROPERTIES:
+:CUSTOM_ID: h:D2B1360A-1489-4179-98D7-1422CDBA98E5
+:END:
 
 At the time a party files a brief, the party should serve one copy on
 every other party and on any amicus curiae, and file proof of service

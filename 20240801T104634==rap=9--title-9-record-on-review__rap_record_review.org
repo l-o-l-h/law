@@ -56,6 +56,9 @@ the court of limited jurisdiction.
 * RAP 9.2 - VERBATIM REPORT OF PROCEEDINGS
 
 ** (a) Transcription and Statement of Arrangements.
+:PROPERTIES:
+:CUSTOM_ID: h:E02408B6-FC22-4DFC-AD66-5698CBC45806
+:END:
 
 If the party seeking review intends to provide a verbatim report of
 proceedings,
@@ -290,6 +293,9 @@ reviewed is lost or damaged.
 * RAP 9.5 - FILING AND SERVICE OF REPORT OF PROCEEDINGS—OBJECTIONS
 
 ** (a) Generally.
+:PROPERTIES:
+:CUSTOM_ID: h:7CA98895-F70B-42CB-ACE2-2D8F847037B9
+:END:
 
 The party seeking review *MUST* file *an agreed or narrative* report of
 proceedings with the appellate court
@@ -383,6 +389,9 @@ proceedings were held.
 * RAP 9.6 - DESIGNATION OF CLERK'S PAPERS AND EXHIBITS
 
 ** (a) Generally.
+:PROPERTIES:
+:CUSTOM_ID: h:671D5AAB-FF3A-428A-82ED-9034375CDE4B
+:END:
 
 The party seeking review should, within *30 days* after the notice of
 appeal is filed or discretionary review is granted,
