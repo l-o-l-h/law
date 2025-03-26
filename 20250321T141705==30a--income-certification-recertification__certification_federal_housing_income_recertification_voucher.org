@@ -1,0 +1,38 @@
+#+title:      Income Certification Recertification
+#+date:       [2025-03-21 Fri 14:17]
+#+filetags:   :certification:federal:housing:income:recertification:voucher:
+#+identifier: 20250321T141705
+#+signature:  30a
+
+* Emails on Certification Issue                                                 :ATTACH:
+:PROPERTIES:
+:DIR:      ~/.local/share/notes/law/documents/
+:END:
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+1:44 PM (32 minutes ago)
+to Michelle, HTF@groups.nwjustice.org
+
+If this is just a tax credit building and no other subsidy, I would use the WSHFC compliance manual as the authority on this. It says what you are saying, that one month of the most current bank statement is adequate. The exception is that if deposits appear in that statement that call in to question that client’s income, then they may need additional verification. If that doesn’t apply, then I would reach out to the compliance manager for the property at WSHFC.
+
+https://www.wshfc.org/managers/ManualTaxCredit/70_Chap05IncomeAssetCertification_Dec2024Final.pdf
+
+
+Michelle Maddox via groups.nwjustice.org <michellem=nwjustice.org@groups.nwjustice.org>
+1:58 PM (19 minutes ago)
+to Scott, HTF@groups.nwjustice.org
+
+I reached out to WSHFC earlier today and was told that they directed owners & managers to implement HOTMA on 1/1/2025 and they agree that the CL needs 6 months of bank statements. I support the client’s position but I think she needs to comply. WSHFC also supports that there can be no redactions in the bank statements.
+
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+2:10 PM (6 minutes ago)
+to Michelle, HTF@groups.nwjustice.org
+
+Are we sure that’s accurate? The WSHFC compliance manual has been updated for HOTMA and says this:
+
+If net family assets are $50,000 or less and checking/savings accounts have been disclosed, management is not required to verify balances in bank accounts.
+
+If net family assets exceed $50,000 and checking or savings accounts have been disclosed, only current balances need to be verified.  It is no longer necessary to verify the last six months’ of checking account balances.
+
+I agree that redactions are probably not allowable, at least for deposits. They need to be able to verify that income received is from the expected sources.
