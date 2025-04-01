@@ -1,0 +1,36 @@
+#+title:      Unlawful Detainer Statutes Strictly Construed
+#+date:       [2025-03-26 Wed 10:13]
+#+filetags:   :construction:law:rlta:statute:strict:ud:
+#+identifier: 20250326T101351
+
+233 LANDLORD AND TENANT 4,651
+233VIII Reentry and Recovery of Possession by Landlord 890
+233VIII(D) Actions for Unlawful Detainer 696
+233Key Number Symbol1782 Statutory provisions 42
+
+Because the statutes governing unlawful-detainer actions and the statutes governing the rights and remedies of residential landlords and tenants are statutes in derogation of the common law, they are strictly construed in favor of the tenant.
+
+Any ambiguities in the unlawful detainer statute are strictly construed in the tenant's favor.
+- Kitsap County Consolidated Housing Authority v. Henry–Levingston Court of Appeals of Washington, Division 2. November 15, 2016 196 Wash.App. 688
+
+Because the generalized unlawful detainer statute and Residential Landlord-Tenant Act (RLTA) are statutes in derogation of the common law, they are strictly construed in favor of the tenant.
+- Kiemle & Hagood Company v. Daniels Court of Appeals of Washington, Division 3. April 27, 2023 26 Wash.App.2d 199
+
+State's unlawful-detainer statute is in derogation to the common law and must be strictly construed in favor of the tenant.
+- Spokane Airport Board v. Experimental Aircraft Association, Chapter 79 Supreme Court of Washington, EN BANC. September 30, 2021 198 Wash.2d 476
+
+While the unlawful detainer statute is designed to provide expeditious, summary proceedings, it is in derogation of the common law and must be strictly construed in favor of the tenant.
+ - Commonwealth Real Estate Services v. Padilla Court of Appeals of Washington, Division 3. April 16, 2009 149 Wash.App. 757
+
+Unlawful detainer statutes are in derogation of the common law, and must be strictly construed in favor of the tenant.
+- Wilson v. Daniels Supreme Court of Washington, Department 1. October 15, 1948 31 Wash.2d 633
+
+The forcible entry and detainer statute is a special act, and for it to be available to plaintiff, he must show a strict compliance with its requirements.
+ - Lee v. Weerda Supreme Court of Washington. March 22, 1923 124 Wash. 168
+
+Time and Manner Provisions Strictly Construed: 30 days is strictly construed.
+Community Investments, Ltd. v. Safeway Stores, Inc.
+- Court of Appeals of Washington, Division 2. November 1, 1983 36 Wash.App. 34
+- Headnote: _Provisions governing time and manner of bringing an unlawful detainer action are to be strictly construed_.  West's RCWA 59.12.010 et seq.
+14 Cases that cite this legal issue
+- Document Preview: Landlord brought unlawful detainer action against tenant alleging that tenant breached implied covenant in lease.   The Superior Court, Jefferson County, G.B. Chamberlin J., dismissed the complaint for failure to state a claim under unlawful detainer statute, and landlord appealed.   The Court of Appeals, Reed, J., held that despite ten-day notice requirement under statute, landlord was bound by 20–day notice provision of lease and, as tenant was not given 20 days to cure default, the suit was premature. Affirmed.

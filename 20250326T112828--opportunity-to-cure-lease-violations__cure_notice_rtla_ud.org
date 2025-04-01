@@ -1,0 +1,17 @@
+#+title:      Opportunity to Cure Lease Violations
+#+date:       [2025-03-26 Wed 11:28]
+#+filetags:   :cure:notice:rtla:ud:
+#+identifier: 20250326T112828
+
+A landlord can file an unlawful detainer action before the end of the lease term only if the tenant has been given the opportunity to cure any lease violations.
+- Kitsap Cnty. Consol. Hous. Auth. v. Henry-Levingston, 196 Wn. App. 688, 385 P.3d 188 (2016)
+
+
+1. The purpose of notice requiring tenant to pay rent or surrender the premises is to provide the tenant with at least one opportunity to correct a breach before forfeiture of a lease under the accelerated restitution provisions of the unlawful detainer statutes.
+
+2. Required notice to tenant of default and expiration of period to cure before unlawful detainer must be sufficiently particular and certain so as not to deceive or mislead.
+
+3. When a landlord files an unlawful detainer action after providing inadequate notice, which includes failing to clearly set forth the requisite period to cure the alleged default, the action must be dismissed.
+
+   The flip side to this requirement is that if the tenant cures according to the notice requirements, the action must be dismissed.
+- Sherwood Auburn LLC v. Pinzon Court of Appeals of Washington, Division 1. December 5, 2022 24 Wash.App.2d 664

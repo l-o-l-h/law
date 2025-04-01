@@ -1,0 +1,78 @@
+#+title:      24-2-01216-06 Housing Authority of the City of Vancouver v. Brian Allen Nelson
+#+date:       [2025-03-29 Sat 07:48]
+#+filetags:   :housing:hud:pha:programs:public:vha:vouchers:
+#+identifier: 20250329T074817
+
+* Email
+
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Alexander R. Reaganson via groups.nwjustice.org
+Sent: Friday, March 28, 2025 5:03 PM
+To: HTF@groups.nwjustice.org
+Cc: Jeffrey Keddie <jeffreyk@nwjustice.org>; Riley Gavigan <riley.gavigan@nwjustice.org>; Carl Snodgrass <carl.snodgrass@nwjustice.org>
+Subject: [HTF] Public Housing: Sufficient Efforts to Provide Grievance Policy Standard?
+
+Q: Does anyone know of any standard or any caselaw that addresses sufficient efforts to make grievance policies and procedures available to Section 8 tenants?
+-
+Background: NJP-Vancouver field office's housing team is currently reviewing/assessing for capacity an RTC overflow case in Clark Co. Sup. with a CL who was served a 3-Day Notice to Quit for serious health and safety reasons/criminal activity reasons. There's absolutely no way whoever gets this one will be able to win on the merits. Despite CL's schizo-effective diagnoses, based on their admitted conduct during intake, an RA defense is not an option under the direct harm/threat of harm exception.
+-
+I fully recognize that I may be grasping at straws here, but one of the few things that I can possibly see is an issue of administrative due process based on the availability of the OP housing authority's Grievance Policy and Procedures.
+-
+From what I can tell from the lease in the complaint, the Grievance Policy is referenced, but not one of the attachments listed as given to CL at signing, simply stating the policy can be reviewed at OP's office and does even include a timeframe to submit a grievance. The same language was included in the notice. Further, OP does not have the policy listed on their website under the Policies and Procedures section. Given CL's violent conduct, I could easily see them not being allowed to enter the office. (I have not yet spoken with CL to confirm, as it's not been assigned yet.)
+-
+As such, given the short term of the notice to vacate, does this limited availability of the grievance policy hold any weight? If so, can you point me to cases or in the right direction to try and flesh it out more.
+-
+Thanks,
+
+-Alex
+
+Alexander R. Reaganson, Esq., WSBA# 59365
+Staff Attorney, Northwest Justice Project- Vancouver Field Office
+Gonzaga University School of Law | Class of 2021
+Registered Spokesperson in Kalispel, Spokane, Nooksack & Yakama Tribal Courts
+-
+Author of: Enforcement of Tribal Witness Subpoenas on Non-Indians: How the UCCJEA Provides for the Impossible, 14 L. J. SOC. JUST. 116 (2021)
+-
+"No matter what anybody tells you, words and ideas can change the world." -Dead Poets Society
+
+* Email 1
+
+[HTF] Public Housing: Sufficient Efforts to Provide Grievance Policy Standard?
+External
+Inbox
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+Attachments
+Mar 28, 2025, 7:36 PM (12 hours ago)
+to Alexander, HTF@groups.nwjustice.org, Jeffrey, Riley, Carl
+
+Alex,
+
+We need a lot more information.  Who is the PHA?  (I assume Vancouver Housing Authority?).  Assuming it’s VHA, attached is the [[denote:20250329T074558][admin plan]].  It explains the grievance procedure.  Is VHA also the landlord?  I’m not sure VHA has much traditional public housing, but I believe they own/operate several project-based voucher or RAD converted buildings (both of which are governed by the admin plan).  The admin plan also references the applicable CFR sections.
+-
+I don’t know the facts, but I wouldn’t necessarily give up on the idea of doing a RA request.  It sounds like your client has severe mental illness.  It doesn’t sound like he has either been arrested or involuntarily committed for his conduct.  I had a client a while back with very serious mental health issues and serious allegations against him.  He was residing at Meriwether Place.  I made an RA request, and VHA agreed to transfer him to Lincoln Place, which has medical staff on site around the clock.  Also, VHA’s general counsel is very reasonable and sympathetic to these situations.
+-
+Now, if this is housing choice voucher, and there is private landlord, then you’ll have to approach it a bit differently.  But again, VHA is pretty good.  They may be willing to work with client to either preserve his voucher or help him get into one of their project-base/RAD properties where client can get a higher level of care.
+-
+Let’s touch base early next week to discuss.  Have a great weekend.
+-
+Chris
+
+* Email 2
+
+Brian Neuharth via groups.nwjustice.org <brian.neuharth=nwjustice.org@groups.nwjustice.org>
+Mar 28, 2025, 7:53 PM (11 hours ago)
+to HTF@groups.nwjustice.org, Alexander, Jeffrey, Riley, Carl
+
+Was writing at the same time as Chris. This sounds like public housing, not a housing choice voucher, correct? I'll go out on limb here, please correct me if I'm wrong:
+-
+See _Bennington Housing Auth. v. Lake_, 59 A.3d 149 (Vt. 2012). The Bennington decision specifically found a housing authority’s notice insufficient because it referenced grievance rights indirectly rather than clearly and explicitly as mandated by HUD regulations.
+-
+I'm unsure how this defense works when the PHA will claim no grievance hearing is necessary due to the safety issues, so why notify the tenant of the grievance rights if they don't apply? HUD regulations provide that if HUD has issued a “due process determination” for the state, a PHA may bypass the grievance hearing for evictions involving: (A) criminal activity threatening the health or safety or peaceful enjoyment of others, (B) violent or drug-related crime on or off the premises, or (C) any activity resulting in a felony conviction of a household member​. ecfr.gov.
+-
+In these cases, the PHA can proceed directly to a judicial eviction, as long as the court procedures offer the basic elements of due process (adequate notice of grounds, opportunity to be heard, etc.)​. ecfr.gov; hud.gov. Washington is such a jurisdiction. This determination is reflected in HUD’s official list of due-process states, which includes Washington’s Superior/District Court eviction procedure (RCW 59.12/59.18) as meeting due process requirements​. See also Section 3 here; _Yesler Terrace Cmty. Council v. Cisneros_, 37 F.3d 442, 448 (9th Cir. 1994) (but it's more about rule making procedures for due process determinations).  This determination was made in 1991, so someone please let me know if something changed in the last 34 years.
+
+Brian A. Neuharth
+Staff Attorney (he/him)
+Northwest Justice Project - Tacoma
+P: (206) 707-0952
+F: (206) 299-3061

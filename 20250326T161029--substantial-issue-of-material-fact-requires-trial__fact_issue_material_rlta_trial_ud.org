@@ -1,0 +1,44 @@
+#+title:      Substantial Issue of Material Fact Requires Trial
+#+date:       [2025-03-26 Wed 16:10]
+#+filetags:   :fact:issue:material:rlta:trial:ud:
+#+identifier: 20250326T161029
+
+* Litz (2021)
+
+¶ 14 The statute allows the landlord such “other relief” at the show cause hearing only “ ‘if it shall appear to *254 the court that there is no substantial issue of material fact’ affecting the landlord's right to that relief.”12 If issues of material fact exist, the matter must proceed to trial in the “usual manner.”13 A tenant's testimony specifically disputing the breach of the lease alleged by the landlord creates issues of material fact warranting trial.14
+- Webster v. Litz, 18 Wn. App. 2d 248, 253–54, 491 P.3d 171, 174 (2021)
+
+* Cornett (Div2 2024)
+
+¶46 A trial court may grant a landlord's request for “other relief” following a show cause hearing only if the court determines that there is _“no substantial issue of material fact”_ regarding the landlord's right to the requested relief. RCW 59.18.380. The court may grant only “so much of such relief as may be sustained by the proof.” Id.
+
+¶47 If _material issues of fact_ remain as to the relief requested, the case must proceed to trial, regardless of *447 whether a writ of restitution has already been issued. See Webster v. Litz, 18 Wash. App. 2d 248, 255-56, 491 P.3d 171 (2021). If the landlord prevails at trial, the factfinder
+shall also assess the damages arising out of the tenancy occasioned to the landlord by any forcible entry, or by any forcible or unlawful detainer, alleged in the complaint and proved at trial, and, if the alleged unlawful detainer is based on default in the payment of rent, find the amount of any rent due.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 446–47, 550 P.3d 64, 74 (2024)
+
+* Anderson (Div3 2024 unpub)
+
+_A trial court's decision to issue a writ of restitution at the conclusion of a show cause hearing does not constitute a final adjudication of the parties’ case._ Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 211-12, 528 P.3d 834 (2023). Trial may still be required. See Webster v. Litz, 18 Wn. App. 2d 248, 256, 491 P.3d 171 (2021). But similar to a summary judgment proceeding, _a court conducting a show cause hearing may issue a final judgment in lieu of trial if “there is no substantial issue of material fact.”_ RCW 59.18.380.
+
+- Biliske v. Anderson, 31 Wn. App. 2d 1075 (2024)
+
+
+** Necessity of Trial
+
+*** Anderson (Div3 2024 unpub) Question of Law Reviewed De Novo
+
+3. Necessity of trial
+
+The Andersons argue that even if Mr. Biliske was entitled to a writ of restitution at the close of the show cause hearing, the matter still should have been set for trial. There is a distinction between a trial court's grant of immediate possession pending trial and the ultimate right to possession. Daniels, 26 Wn. App. 2d at 212. _Just because a landlord succeeds in securing a writ of restitution at a show cause hearing does not necessarily mean the matter is final or that the tenant is not entitled to a trial._ See Randy Reynolds, 193 Wn.2d at 157. _Rather, the availability of trial turns on whether there is “a genuine issue of material fact” pertaining to a landlord's right to possession or a tenant's defense._ RCW 59.18.380. This is akin to *the summary judgment standard*. See Faciszewski v. Brown, 187 Wn.2d 308, 315 n.4, 386 P.3d 711 (2016). Our review is therefore de novo. Daniels, 26 Wn. App. 2d at 218-19.5
+
+Here, the facts presented to the trial court at the time of the show cause hearing failed to demonstrate a material issue of fact for trial. As previously noted, Mr. Biliske presented uncontested evidence that he owned the property, that the Andersons were month-to-month tenants, that he served them with a 120-day notice, and that he had plans to substantially rehabilitate the property. Although there was a request for damages and attorney fees in Mr. Biliske's unlawful detainer complaint, his attorney disclaimed a request for a money judgment at the time of the show cause hearing.
+
+- Biliske v. Anderson, 31 Wn. App. 2d 1075 (2024)
+
+
+*6 The evidence produced at the show cause hearing demonstrated that _there were no outstanding issues of material fact_; thus, the court was not required to set the matter for trial. See Tedford v. Guy, 13 Wn. App. 2d 1, 16-17, 462 P.3d 869 (2020).
+
+Technically speaking, the trial court should have formally issued a final judgment in addition to the writ of restitution. See Hernandez, 29 Wn. App. 2d at 784. Doing so would have left no doubt that the Andersons’ appeal was as a matter of right. See id. But the trial court did expressly state its intent that the writ of restitution be considered a final ruling. See CP at 169. We will treat a writ of restitution as a final judgment if issuance of the writ has the effect of discontinuing the parties’ dispute. See Hernandez, 29 Wn. App. 2d at 784 (citing RAP 2.2(a)(3)). Thus, we find no error in the trial court's decision not to set this matter for trial.
+
+- Biliske v. Anderson, 31 Wn. App. 2d 1075 (2024)

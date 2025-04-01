@@ -1,0 +1,29 @@
+#+title:      Burden of Proof on Landlord to Prove the Right to Possession
+#+date:       [2025-03-26 Wed 15:39]
+#+filetags:   :burden:possession:preponderance:proof:right:rlta:ud:
+#+identifier: 20250326T153928
+
+* Donahue (1958)
+
+In order to sustain their action of unlawful detainer, the burden was upon the appellants to prove, by a preponderance of the evidence, their right to possession. The possession of a tenant is originally lawful, and is so presumed until the contrary appears. Andersonian Investment Co. v. Wade, 1919, 108 Wash. 373, 378, 184 P. 327. Our review of the record convinces us that appellants have failed to meet this burden.
+- Duprey v. Donahoe, 52 Wn.2d 129, 135, 323 P.2d 903, 906 (1958)
+
+* Pleasant (2005)
+
+¶ 19 The burden is upon the plaintiff in an unlawful detainer action to prove, by a preponderance of the evidence, the right to possession. Duprey v. Donahoe, 52 Wash.2d 129, 135, 323 P.2d 903 (1958). A show cause hearing in an unlawful detainer action is a summary proceeding. Carlstrom v. Hanline, 98 Wash.App. 780, 788, 990 P.2d 986 (2000). In summary proceedings, the rules of evidence still apply; inadmissible evidence may not be considered. Unger v. Cauchon, 118 Wash.App. 165, 177 n. 34, 73 P.3d 1005 (2003) (citing Dunlap v. Wayne, 105 Wash.2d 529, 535, 716 P.2d 842 (1986)).
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 392, 109 P.3d 422, 427 (2005)
+
+* Litz (2021)
+
+¶ 11 To obtain a writ of restitution at a show cause hearing, the landlord must establish by a preponderance of *253 the evidence that the tenant has violated or breached material terms of the lease and, thus, the landlord is entitled to immediate possession of the property pending a final judgment.9
+- Webster v. Litz, 18 Wn. App. 2d 248, 252–53, 491 P.3d 171, 173 (2021)
+
+
+¶ 14 The statute allows the landlord such “other relief” at the show cause hearing only “ ‘if it shall appear to *254 the court that there is no substantial issue of material fact’ affecting the landlord's right to that relief.”12 If issues of material fact exist, the matter must proceed to trial in the “usual manner.”13 A tenant's testimony specifically disputing the breach of the lease alleged by the landlord creates issues of material fact warranting trial.14
+- Webster v. Litz, 18 Wn. App. 2d 248, 253–54, 491 P.3d 171, 174 (2021)
+
+* Cornett (Div2 2024)
+
+¶22 At the show cause hearing, the court examines the parties and decides whether the case should proceed to trial or whether the landlord is entitled to a writ of restitution on the merits of the complaint and answer. RCW 59.18.380. “A show cause hearing must be meaningful, as it is the first (and sometimes the only) step of the eviction process in which the tenant is able to participate.” Faciszewski v. Brown, 187 Wash.2d 308, 321, 386 P.3d 711 (2016). _The landlord bears the burden of proving the right of possession by a preponderance of the evidence._ Hous. Auth. v. Pleasant, 126 Wash. App. 382, 392, 109 P.3d 422 (2005).
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 438, 550 P.3d 64, 70 (2024)

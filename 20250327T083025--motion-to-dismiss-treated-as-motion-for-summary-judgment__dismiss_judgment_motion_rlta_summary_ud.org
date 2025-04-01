@@ -1,0 +1,12 @@
+#+title:      Motion to Dismiss Treated as Motion for Summary Judgment
+#+date:       [2025-03-27 Thu 08:30]
+#+filetags:   :dismiss:judgment:motion:rlta:summary:ud:
+#+identifier: 20250327T083025
+
+* ESA Management, LLC (Div1 2024)
+
+** 8 Summary Judgment -- 368Hk278(2) Motion to dismiss
+
+Trial court in former tenants' forcible entry and detainer action was required to treat landlord's motion to dismiss for failure to state a claim as motion for summary judgment and give tenants a reasonable opportunity to present all material made pertinent to summary judgment motion, where landlord presented, and court did not exclude, a declaration that presented matters outside the pleading, including factual assertions regarding tenants' purported intent to abandon the property. Wash. Super. Ct. Civ. R. 12(b), 12(b)(6), 56.
+
+- Watkins v. ESA Mgmt., LLC, 30 Wn. App. 2d 916, 547 P.3d 271 (2024)

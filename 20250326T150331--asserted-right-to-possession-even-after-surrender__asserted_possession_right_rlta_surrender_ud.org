@@ -1,0 +1,81 @@
+#+title:      Asserted Right to Possession even after Surrender
+#+date:       [2025-03-26 Wed 15:03]
+#+filetags:   :asserted:possession:right:rlta:surrender:ud:
+#+identifier: 20250326T150331
+
+* Nielsen (1970)
+
+The purpose of the statutory action is to preserve the peace, Young v. Riley, Supra, by limiting the common law right of personal reentry. Woodward v. Blanchett, 36 Wash.2d 27, 216 P.2d 228 (1950). In such an action there is only one issue before the court—the right to possession. The statutory incidents are dependent on this right. MacRae v. Way, 64 Wash.2d at 546, 392 P.2d at 829:
+In such proceedings the superior court sits as a special statutory tribunal, limited to deciding the primary issue of right to possession together with the statutorily designated incidents thereto, I.e., restitution and rent or damages.
+- Kessler v. Nielsen, 3 Wn. App. 120, 123, 472 P.2d 616, 619 (1970)
+
+
+Accord, Motoda v. Donohoe, 1 Wash.App. 174, 459 P.2d 654 (1969); Muscatel v. Storey, 56 Wash.2d 635, 354 P.2d 931 (1960); Petsch v. Willman, Supra; Stevens v. Jones, 40 Wash. 484, 82 P. 754 (1905). Rent or damages may only be recovered under the statute when there is a right to possession. When this right is not present, the damages or rent *124 must be recovered in an ordinary civil action. Stevens v. Jones, Supra.
+- Kessler v. Nielsen, 3 Wn. App. 120, 123–24, 472 P.2d 616, 619 (1970)
+
+
+These cases do not support the Nielsens' contention. In each one of them the defendants were claiming a right to possession during the period of time subsequently held to constitute unlawful detainer. In Shannon, the defendants asserted their possession was under a month-to-month lease. In Lochridge, the right to possession was claimed under a 1-year extension to the lease. The motion to quash and demurrer in Sowers raised the issue of whether the plaintiff could bring the action, and this included plaintiff's right to possession. See RCW 4.40.020. Thus, when each of these cases came on for trial, the parties were disputing, and were in a position to dispute, the right to possession.
+- Kessler v. Nielsen, 3 Wn. App. 120, 125, 472 P.2d 616, 620 (1970)
+
+
+The Nielsens, before trial, compromised the right they were attempting to assert by intentionally and unequivocally vesting that right in the person they sought to preclude from possession. On the date the Nielsens sold their property, Kessler's possession, which was theretofore arguably wrongful, became rightful.
+- Kessler v. Nielsen, 3 Wn. App. 120, 126, 472 P.2d 616, 620 (1970)
+
+
+The distinction, then, is between possession and right of possession.
+
+The expression ‘right of possession’ obviously involves an idea different from that of possession. One having the possession quite usually has the right of possession, in the sense that there is no other person able to show a better right, and when the possession and right of possession thus concur, it is ordinarily unnecessary to refer to the right. But one may have a right to the possession as against another who has the possession, as in the simple case of one who has been ousted from the land by another.
+1 H. Tiffany, Real Property s 20 (B. Jones 3d ed. 1939). This distinction was used by the court in the Lochridge case relied on by the Nielsens. The plaintiffs-respondents moved to dismiss the appeal on the ground that the question of right of possession was moot. The court answered the motion:
+
+It may be true that at the time of the hearing here the appellants had surrendered possession of the premises and that the question of restitution at this time is not involved, but the appellants' right to possession is involved, as is also the question of damage which they must pay for any wrongful possession. There is no merit in the motion to dismiss.
+
+114 Wash. at 330, 194 P. at 975. Thus, even though the plaintiffs were in possession at the time of the appeal, the defendants who were still asserting their possessory right had to be precluded as to this right. The action was not moot until this issue had been determined vis-a-vis the parties.
+- Kessler v. Nielsen, 3 Wn. App. 120, 126, 472 P.2d 616, 620 (1970)
+
+
+In this statutory action for unlawful detainer, the primary issue, as shown above, is the right to possession. Once *127 the action is brought the defendant, who has not conceded the plaintiff's right to possession, has the right to have this issue determined. But where, as here, the plaintiff, prior to trial, acts inconsistently with the assertion of right to possession, there is no longer an issue for judicial determination. MacRae v. Way, 64 Wash.2d 544, 392 P.2d 827 (1964). And, where the plaintiff is in no position to litigate this right, no recovery may be had for the statutory incidents.
+- Kessler v. Nielsen, 3 Wn. App. 120, 126–27, 472 P.2d 616, 620 (1970)
+
+
+It is incomprehensible that the legislature would order that the courts restore possession to one who could legally assert no right to possession.
+- Kessler v. Nielsen, 3 Wn. App. 120, 127, 472 P.2d 616, 621 (1970)
+
+* Pleasant (2005)
+
+In an unlawful detainer context, it is the right to possession that is pivotal, not mere present possession. *388 Little v. Catania, 48 Wash.2d 890, 893, 297 P.2d 255 (1956); First Union Mgmt., Inc. v. Slack, 36 Wash.App. 849, 853–54, 679 P.2d 936 (1984); Motoda v. Donohoe, 1 Wash.App. 174, 175, 459 P.2d 654 (1969). When the right to possession is at issue, the issue is not moot. Lochridge v. Natsuhara, 114 Wash. 326, 330, 194 P. 974 (1921). The Washington Supreme Court has specifically held that an unlawful detainer case is not moot simply because the tenant does not have possession of the premises at the time of appeal. Id. “[E]ven though the [landlords] were in possession at the time of the appeal, the [tenants] who were still asserting their possessory right had to be precluded as to this right. The action was not moot until this issue had been determined vis-à-vis the parties.” Kessler, 3 Wash.App. at 126, 472 P.2d 616. Here, Ms. Pleasant continues to assert a right to possession. The issue is therefore not moot.
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 387–88, 109 P.3d 422, 425 (2005)
+
+
+¶ 10 Once an unlawful detainer action is commenced and the defendant does not concede the right to possession, the defendant has the right to have the issue determined. Kessler, 3 Wash.App. at 126–27, 472 P.2d 616. A tenant's relinquishment of the property does not necessarily mean the right to possession is undisputed. Sullivan v. Purvis, 90 Wash.App. 456, 459, 966 P.2d 912 (1998). An issue is not moot if a court can still provide effective relief. State v. Turner, 98 Wash.2d 731, 733, 658 P.2d 658 (1983). Here, the right to possession is disputed. We can determine whether Ms. Pleasant's right to possession was wrongfully terminated by the improper issuance of a writ and provide relief by restoring her possession.
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 389, 109 P.3d 422, 426 (2005)
+
+
+¶ 11 The Housing Authority argues that since Ms. Pleasant does not have possession of the premises, the appeal is moot. However, the law draws a distinction between possession and the right of possession. Kessler v. Nielsen, 3 Wash.App. 120, 126, 472 P.2d 616 (1970).
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 387, 109 P.3d 422, 425 (2005)
+
+
+¶ 13 The bond need be filed only if the tenant seeks a stay pending review. A bond is not a jurisdictional condition precedent to the maintenance of an appeal under the unlawful detainer statutory scheme.
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 390, 109 P.3d 422, 426 (2005)
+
+* Lim (2012)
+
+¶ 15 As a threshold matter, Laffranchi asserts this case is moot because DeVore **100 surrendered possession of the property while the case was pending. DeVore responds that because he did not voluntarily surrender possession and continues to claim a right to possession, the case is not moot.
+- Laffranchi v. Lim, 146 Wn. App. 376, 382, 190 P.3d 97, 99–100 (2008), abrogated by MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+
+In the context of an unlawful detainer proceeding, the law distinguishes between possession and a right to possession.4 An unlawful detainer action is not moot just because the tenant no longer has possession of the contested premises.5 As long as the tenant continues to assert a right to possession, he or she has the right to have the issue determined.6 Since DeVore continues to assert a right to possession, this case is not moot.
+- Laffranchi v. Lim, 146 Wn. App. 376, 382, 190 P.3d 97, 100 (2008), abrogated by MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+
+* Daniels (2023)
+
+¶25 Even if a landlord convinces the court of a likelihood of success on the merits and obtains a writ of restitution, trial may still be necessary. See IBF, LLC v. Heuft, 141 Wn. App. 624, 634-35, 174 P.3d 95 (2007); see also Webster, 18 Wn. App. 2d at 256 (noting the issue of possession pending trial “is entirely distinct from the final resolution” of the parties' rights). There is a distinction between possession and the right to possession. Pleasant, 126 Wn. App. at 387. Similar to the summary judgment context, if a tenant raises “a genuine issue of ... material fact” pertaining to a defense against eviction, the case must go to trial, even if the tenant has **842 temporarily lost possession pursuant to a writ of restitution. RCW 59.18.380; see also Faciszewski, 187 Wn.2d at 315 n.4. The right to trial is by jury unless waived. RCW 59.12.130.
+- Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 212, 528 P.3d 834, 841–42 (2023)
+
+* Farley (2025)
+34¶13 _“There is a distinction between possession and the right to possession.”_ Kiemle & Hagood Co. v. Daniels, 26 Wash. App. 2d 199, 212, 528 P.3d 834 (2023). _Even if a tenant is no longer in possession of the property, the question of a tenant's right to possession is still involved._ Lochridge v. Natsuhara, 114 Wash. 326, 330, 194 P. 974 (1921).  _In an unlawful detainer case, “restoration of possession is not the only remedy *462 available to an evicted tenant who prevails before this court.”_ Hernandez v. France, 29 Wash. App. 2d 777, 783, 544 P.3d 518 (2024). _Other possible remedies include: “an order limiting dissemination of the unlawful detainer action,” or money damages for an illegal eviction of a tenant._ RCW 59.18.367(1)(a), .650(4), .380, .290(1); Hernandez, 29 Wash. App. 2d at 783, 544 P.3d 518.
+
+-Liverpool LLC v. Farley, 563 P.3d 457, 461–62 (Wash. Ct. App. 2025)
+
+
+5 ¶14 Here, the Tenants’ rights of possession are still at issue. The appeal is not moot even if the property has been sold and this court cannot restore possession to the Tenants. Relief other than possession can be granted. Hernandez, 29 Wash. App. 2d at 783, 544 P.3d 518 (stating in an unlawful detainer case other possible remedies instead of restoration of possession includes limiting dissemination and money damages).
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 462 (Wash. Ct. App. 2025)

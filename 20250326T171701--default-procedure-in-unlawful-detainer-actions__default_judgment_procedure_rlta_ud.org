@@ -1,0 +1,18 @@
+#+title:      Default Procedure in Unlawful Detainer Actions
+#+date:       [2025-03-26 Wed 17:17]
+#+filetags:   :default:judgment:procedure:rlta:ud:
+#+identifier: 20250326T171701
+
+* Harmon (2019)
+
+¶ 38 Simply put, RCW 59.18.390 does not contemplate a situation where the tenant challenges the process by which the default judgment was entered. It is silent on the issue, and we decline to read default actions into .390(1). In re Custody of Smith, 137 Wash.2d 1, 12, 969 P.2d 21 (1998) (stating that reviewing courts will not read into a statute words that are not there). Moreover, it would be inequitable to extend the bond requirement to such circumstances, especially **686 when the statute does not explicitly require it. See Hous. Auth. of City of Everett v. Terry, 114 Wash.2d 558, 563, 789 P.2d 745 (1990) (“The unlawful detainer statute is in derogation of the common law, and must therefore be strictly construed in favor of the tenant.”).
+
+¶ 39 A party in Harmon's position that wishes to contest entry of a default judgment has recourse in the Civil Rules. The Civil Rules are the rules of practice for virtually all civil actions, including unlawful detainer actions, unless the rules conflict with the unlawful detainer statutes. See *160 Christensen, 162 Wash.2d at 374-75, 173 P.3d 228 (“Courts have applied the civil rules to proceedings under the unlawful detainer statute in absence of express inconsistences.”); see also Hall v. Feigenbaum, 178 Wash. App. 811, 818, 319 P.3d 61 (2014).
+
+¶ 40 The Civil Rules provide a mechanism for a party to contest a default judgment. CR 55 governs default and judgment. A party that fails to appear, plead, or otherwise defend against a claim may be placed in default, and a judgment may be entered against that party. CR 55. A motion for default may be brought against such a party. CR 55(a)(1). Reynolds followed this procedure when Harmon did not appear or defend against the unlawful detainer complaint—the landlord moved for an order of default and judgment, albeit not specifically referencing any civil rule in the motion.
+
+¶ 41 CR 55(c) states that for good cause shown and on terms the court deems just, the court may set aside default in accordance with CR 60(b), which details the procedure on vacation of judgment. CR 55(c)(1); CR 60(e)(1)-(3) (motion, notice, and service). CR 62 governs stays of proceedings to enforce a judgment. Subsection (b) explains that a court may, in its discretion, stay the enforcement of a judgment.
+
+¶ 42 Harmon sought to stay the writ pending a hearing on the merits of her motion to vacate judgment. By its plain language, RCW 59.18.390(1) is inapplicable.
+
+- Randy Reynolds & Associates, Inc. v. Harmon, 193 Wn.2d 143, 159–60, 437 P.3d 677, 685–86 (2019)

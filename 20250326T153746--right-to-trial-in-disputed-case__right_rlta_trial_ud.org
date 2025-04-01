@@ -1,0 +1,48 @@
+#+title:      Right to Trial in Disputed Case
+#+date:       [2025-03-26 Wed 15:37]
+#+filetags:   :right:rlta:trial:ud:
+#+identifier: 20250326T153746
+
+* Canley (1989)
+
+If the court finds that the plaintiff does not have the right to repossess the property it will enter an order directing the parties to proceed to trial within 30 days of the complaint and answer.
+- Meadow Park Garden Associates v. Canley, 54 Wn. App. 371, 374, 773 P.2d 875, 877 (1989)
+
+
+In either case the court directs the parties to proceed to trial. Subject to the provisions of CR 38 and CR 39, the trial may be by a jury. Thompson v. Butler, 4 Wash.App. 452, 454, 482 P.2d 791, review denied, 79 Wash.2d 1004 (1971). In the event a preliminary writ had been *375 issued and after trial, the jury, or the court when trial is to the court, finds for the dislodged tenant, the tenant could be restored to the property. In any event, the plaintiff landlord and his bond would be **878 liable for costs and damages suffered by the tenant because of the wrongful issuance of the writ.
+- Meadow Park Garden Associates v. Canley, 54 Wn. App. 371, 374–75, 773 P.2d 875, 877–78 (1989)
+
+* Pleasant (2005)
+
+Further, the statute uses the term “shall” in directing that the matter be set for trial. RCW 59.18.380.
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 391, 109 P.3d 422, 427 (2005)
+
+
+¶ 23 Whether or not the court issues a pendente lite writ at the show cause hearing, the court is required to enter an order directing the matter to proceed to trial. RCW 59.18.380. See also RCW 59.12.130 (providing that all factual issues in unlawful detainer actions must be determined by a jury unless one is waived). RCW 59.18.410 also requires the entry of a final judgment following trial. The court did not set a trial in this case, nor was a final judgment entered.
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 393, 109 P.3d 422, 428 (2005)
+
+* Harmon (2019)
+
+¶ 33 Whether or not the court issues a writ of restitution at the show cause hearing, if material factual issues exist, the court is required to enter an order directing the parties to proceed to trial on the complaint and answer. Id.; Pleasant, 126 Wash. App. at 393, 109 P.3d 422 (citing RCW 59.18.380).
+- Randy Reynolds & Associates, Inc. v. Harmon, 193 Wn.2d 143, 157, 437 P.3d 677, 685 (2019)
+
+
+¶ 37 ... The unlawful detainer provisions detail an eviction process in which a tenant defends herself and proceeds to a trial on the merits. See, e.g., RCW 59.18.380 (“The court shall also enter an order directing the parties to proceed to trial on the complaint and answer in the usual manner.”). RCW 59.18.380 expressly and repeatedly states that a tenant who has answered the eviction summons may stay a writ “pending final judgment”—that a trial on the merits will be held.
+- Randy Reynolds & Associates, Inc. v. Harmon, 193 Wn.2d 143, 159, 437 P.3d 677, 685 (2019)
+
+* Litz (2021)
+
+When a court grants a writ of restitution entitling the landlord to immediate possession of the property, that right is entirely distinct from the final resolution of the material issues of fact disputed by the parties.
+- Webster v. Litz, 18 Wn. App. 2d 248, 256, 491 P.3d 171, 175 (2021)
+
+
+* Daniels (2023)
+
+¶39 The parties debate whether Ms. Daniels was entitled to a trial at the conclusion of the show cause hearing. As previously explained, while a show cause hearing resolves the preliminary question of who is entitled to possession of the premises during suit, it does not necessarily resolve *218 questions regarding the ultimate right to possession or other remedies. Randy Reynolds, 193 Wn.2d at 157. Even if a landlord obtains preliminary success through a writ of restitution, trial on the right of possession must be ordered if the tenant raises genuine issues of material fact pertaining to a defense or setoff. RCW 59.18.380.
+- Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 217–18, 528 P.3d 834, 844 (2023)
+
+* Cornett (Div2 2024)
+
+Notwithstanding the issuance of a writ, the court must direct the parties to proceed to trial if it finds that material issues of fact exist. Randy Reynolds, 193 Wash.2d at 157, 437 P.3d 677.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 439, 550 P.3d 64, 70 (2024)

@@ -1,0 +1,35 @@
+#+title:      Attorney Appears for Party Defendant
+#+date:       [2025-03-27 Thu 10:15]
+#+filetags:   :appearance:defenses:legal:notice:rlta:ud:
+#+identifier: 20250327T101552
+
+* Farley (Div3 2025)
+
+¶23 With these procedures and context in mind, we turn to whether the RLTA requires a tenant to personally appear at the show cause hearing or risk default. The statute provides that a tenant is to appear and show cause. RCW 59.18.370. Although the statute notifies a tenant that the failure to appear may result in the court entering a writ restoring possession of the property to the landlord, the notice does not provide that the failure to appear will result in a default.
+
+16 17 ¶24 As a general rule, an attorney may appear in court on behalf of their client. When an attorney makes a formal appearance for a party, the party “appears,” not the attorney. Tiffin v. Hendricks, 44 Wash.2d 837, 271 P.2d 683 (1954); see also Dlouhy v. Dlouhy, 55 Wash.2d 718, 722, 349 P.2d 1073 (1960) (“A litigant may now appear through an attorney, but that does not destroy the right of a party to appear in person.”).
+
+¶25 Recently, in In re Detention of Hatfield, our court considered the definitions of the verb “appear” and its noun form “appearance” in the context of whether a statute requiring an incapacitated person's appearance by a guardian ad litem required the guardian ad litem's physical presence through trial. 191 Wash. App. 378, 386, 362 P.3d 997 (2015). We recognized that the ordinary dictionary definition of “appear” and “appearance” has more than one meaning, and allowed for the appearance in court by an attorney on behalf of the client. Id. at 386-87, 362 P.3d 997. Similarly, the definition of “appearance” in Black's Law Dictionary includes:
+
+“A coming into court as a party or interested person, or as a lawyer on behalf of a party or interested person; esp., a defendant's act of taking part in a lawsuit, whether by formally participating in it or by an answer, demurrer, or motion, or by taking postjudgment steps in the lawsuit in either the trial court or an appellate court.”
+Id. at 388, 362 P.3d 997 (quoting BLACK'S LAW DICTIONARY 118 (10th ed. 2014)).
+
+¶26 Ultimately, the court concluded that requiring an incapacitated person to appear by an appointed guardian ad litem referred to the guardian's representation of the incompetent person's interests by acting as the party. Id. at 390, 362 P.3d 997. “In this regard, the word ‘appear’ in RCW 4.08.060 addresses how an incompetent person becomes a party in litigation (‘appear by’) not whether a particular person must be physically present during court proceedings.” Id. (alteration in original).
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 463 (Wash. Ct. App. 2025)
+
+* Farley (Div3 2025) Attorney May Raise Legal Defenses in Absence of Tenant
+
+19 20 ¶32 Based on its incorrect conclusion that the Tenants were required to be physically present at the show cause hearing, the court prohibited the Tenants’ attorney from raising legal challenges to the plaintiff's evidence in support of a writ of restitution. During the evidentiary portion of the show cause hearing, the Tenants’ attorney was not attempting to testify. Instead, she was presumably attempting to challenge the sufficiency of the plaintiff's evidence. While a tenant's failure to be present at the show cause hearing may impact their attorney's ability to provide effective representation, and certainly hampers the court's ability to flush out the validity of any defense they may raise, it should not preclude a tenant from raising legal defenses to the plaintiff's request for a writ of restitution. It is the plaintiff's burden to show that a writ is justified.
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 464 (Wash. Ct. App. 2025)
+
+* Farley (Div3 2025) Appearance Requires Notice before Default
+
+21 ¶33 Because the RLTA does not provide specific procedures for default, the procedure is governed by the civil rules. See Harmon, 193 Wash.2d at 159-60, 437 P.3d 677; Kelly v. Powell, 55 Wash. App. 143, 149, 776 P.2d 996 (1989). Under CR 55(1), a party *465 seeking default must demonstrate that the party against whom a judgment is sought “has failed to appear, plead, or otherwise defend as provided by these rules.” If a party has appeared, then five days’ written notice must be provided of a motion for default. CR 55(3).
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 464–65 (Wash. Ct. App. 2025)
+
+22 ¶34 The record is clear that the Tenants filed a written notice of appearance. Thus, at the very least, default was improper without notice. CR 55(3). The RLTA also provides that the tenants may defend and answer the motion for a writ orally or in writing. RCW 59.18.380. Here, the Tenants’ attorney was in the process of providing an oral answer to the motion when the court interrupted the attorney.
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 465 (Wash. Ct. App. 2025)

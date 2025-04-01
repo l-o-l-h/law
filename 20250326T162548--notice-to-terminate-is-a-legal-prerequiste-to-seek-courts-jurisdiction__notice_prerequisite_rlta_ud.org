@@ -1,0 +1,62 @@
+#+title:      Notice to Terminate is a Legal Prerequiste to Seek Court's Jurisdiction
+#+date:       [2025-03-26 Wed 16:25]
+#+filetags:   :notice:prerequisite:rlta:ud:
+#+identifier: 20250326T162548
+
+* Daniels (Wash 1948)
+
+However, under the statute, at the time the notice is served, the tenant must then be in violation of the provisions of the lease enumerated in the notice. We held in Thisius v. Sealander, 26 Wash.2d 810, 175 P.2d 619, that the purpose of the notice was to apprise the tenant of the defaults claimed in order to give him the opportunity to correct them within the time allowed in the notice. These things must occur before relief can be obtained under the statute: There must exist a breach or breaches of the covenants of the lease; the landlord must notify the tenant of the existence of such breach or breaches, and give him ten days to correct them; the tenant must fail or neglect to correct such breach or breaches. The tenant is then guilty of unlawful detainer, and the landlord is entitled to possession.
+
+- Wilson v. Daniels, 31 Wn.2d 633, 643, 198 P.2d 496, 502 (1948)
+
+* Heuft (DivI 2007)
+
+A tenant unlawfully detains property “[w]hen he or she continues in possession ... after a default in the payment of rent, and after notice in writing requiring in the alternative the payment of the rent or the surrender of the detained premises ....[and the request] has remained uncomplied with *632 for the period of three days after service thereof. The notice may be served at any time after the rent becomes due.” RCW 59.12.030(3).
+- IBF, LLC v. Heuft, 141 Wn. App. 624, 631–32, 174 P.3d 95, 99 (2007)
+
+
+¶ 11 The unlawful detainer statute is strictly construed in favor of the tenant. See Terry, 114 Wash.2d at 563, 789 P.2d 745. “Failure to comply with the notice requirement defeats the court's jurisdiction over the action”—“an action that is commenced before expiration of any applicable notice period is premature and does not confer unlawful detainer jurisdiction.” Housing Auth. v. Silva, 94 Wash.App. 731, 734, 972 P.2d 952 (1999); see also Sowers v. Lewis, 49 Wash.2d 891, 894, 307 P.2d 1064 (1957); Kessler v. Nielsen, 3 Wash.App. 120, 123, 472 P.2d 616 (1970). While substantial compliance with notice is sufficient, notice must also be sufficiently particular and certain so as not to deceive or mislead. See Provident Mutual Life Ins. Co. v. Thrower, 155 Wash. 613, 285 P. 654 (1930) (substantial compliance suffices); Codd v. Westchester Fire Ins. Co., 14 Wash.2d 600, 605, 128 P.2d 968 (1942) (notice must be particular). Lastly and importantly, “[w]hen a tenant contracts with his landlord for a notice period longer than the statutory period, he is entitled to the full time stated just as he is under the statute.” Community Invs. v. Safeway, 36 Wash.App. 34, 38, 671 P.2d 289 (1983) (finding no unlawful detainer jurisdiction when the lease contained a 20–day opportunity to cure but the landlord filed its complaint only 19 days after giving notice of default).
+- IBF, LLC v. Heuft, 141 Wn. App. 624, 632, 174 P.3d 95, 99 (2007)
+
+* Bin (2011)
+
+¶ 22 In the present case, the defect that necessitated dismissal of the unlawful detainer action against Bin was the housing authority's failure to comply with federal regulations and its own grievance procedures. Under Saylors, compliance with the regulations is a matter of due process owed to the tenant. Until a housing authority complies with the necessary procedures, it may not maintain an unlawful detainer action, and the tenant “is entitled to continue her tenancy.” Saylors, 19 Wash.App. at 875, 578 P.2d 76. For this reason, and not because of a lack of subject matter jurisdiction, the trial court properly granted Bin's motion to dismiss and moved on to decide her request for prevailing party attorney fees.
+- Hous. Auth. of City of Seattle v. Bin, 163 Wn. App. 367, 377, 260 P.3d 900, 905 (2011)
+
+* Feigenbaum (2014)
+
+[A] party filing an action after improper notice “ ‘may not maintain such action or avail itself of the superior court's jurisdiction.’ ”
+- 14: Bin, 163 Wash.App. at 374, 260 P.3d 900 (quoting Tacoma Rescue Mission, 155 Wash.App. at 254 n. 9, 228 P.3d 1289).
+- Hall v. Feigenbaum, 178 Wn. App. 811, 819, 319 P.3d 61, 65 (2014)
+
+
+¶ 11 A challenge to the adequacy of notice presents a mixed question of law and fact,15 which we review de novo.16
+- Hall v. Feigenbaum, 178 Wn. App. 811, 819, 319 P.3d 61, 65 (2014)
+
+* Daniels (2023)
+
+¶31 A landlord's service of a notice to terminate a tenancy is not a remedy. It is a legal prerequisite to avail oneself of the superior court's jurisdiction. See Hall v. Feigenbaum, 178 Wn. App. 811, 819, 319 P.3d 61 (2014).
+- Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 214, 528 P.3d 834, 842 (2023)
+
+* Huddleston (WnApp2dDiv2 2023 unpub)
+
+A challenge to the adequacy of notice is a mixed question of law and fact and is reviewed de novo. Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 215, 528 P.3d 834 (2023). Washington courts require landlords to strictly comply with timing and manner requirements of notice. Id. However, substantial compliance is sufficient when it comes to form and content of notice. Id. (discussing the notice requirements of RCW 59.18.650). Although substantial compliance with notice is sufficient, notice must still be “sufficiently particular and certain so as not to deceive or mislead.” IBF, LLC v. Heuft, 141 Wn. App. 624, 632, 174 P.3d 95 (2007).
+- citing to Daniels
+- Hill v. Huddleston, 28 Wn. App. 2d 1050 (2023), review denied sub nom. Hill v. Huddlestone, 546 P.3d 78 (Wash. 2024)
+
+
+Although substantial compliance with notice is sufficient, notice must still be “sufficiently particular and certain so as not to deceive or mislead.” IBF, LLC v. Heuft, 141 Wn. App. 624, 632, 174 P.3d 95 (2007).
+- Citing to Heuft
+- Hill v. Huddleston, 28 Wn. App. 2d 1050 (2023), review denied sub nom. Hill v. Huddlestone, 546 P.3d 78 (Wash. 2024)
+
+* Cornett (Div2 2024)
+
+¶20 The statute also requires landlords to serve tenants with a written termination notice containing “facts and circumstances” supporting the cause for termination **70 “with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” RCW 59.18.650(6)(b). _A landlord may file an unlawful detainer complaint only if the tenant remains in possession of the premises in violation of the terms of the landlord's notice._ See Randy Reynolds, 193 Wash.2d at 156, 437 P.3d 677. The complaint must “set forth the facts on which [the landlord] seeks to recover.” RCW 59.12.070.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 438, 550 P.3d 64, 69–70 (2024)
+
+* Farley (Div3 2025)
+
+The court did not enter detailed findings to show that the plaintiff met her burden of proving ownership of the property, a landlord-tenant relationship, proper notice to vacate, and _the Tenants’ failure to comply_. See Hernandez, 29 Wash. App. 2d at 784-85, 544 P.3d 518. The court's order of writ of restitution was not supported by its conclusion that the Tenants were in default and was not supported by its findings.
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 465 (Wash. Ct. App. 2025)

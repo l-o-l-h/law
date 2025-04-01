@@ -1,0 +1,24 @@
+#+title:      Jury Instructions
+#+date:       [2025-03-26 Wed 10:03]
+#+filetags:   :instructions:jury:law:
+#+identifier: 20250326T100315
+
+II. JURY INSTRUCTIONS
+Cuzdey argues that the trial court erred in giving jury instruction 5 because that instruction deprived the jury of its discretion to decide the disputed issue of mutual assent and also misstated the law. We decline to address the alleged instructional error.
+A. Legal Principles
+“Jury instructions are generally sufficient if they are supported by the evidence, allow each party to argue its theory of the case, and, when read as a whole, properly inform the trier of fact of the applicable law.” Helmbreck v. McPhee, 15 Wn. App. 2d 41, 57, 476 P.3d 589 (2020), review denied, 196 Wn.2d 1047 (2021). We review a trial court's instructions for legal error de novo. Id. Absent legal error, we review instructions for an abuse of discretion. Id.
+CR 51 governs jury instructions. CR 51(f) provides:
+Before instructing the jury, the court shall supply counsel with copies of its proposed instructions which shall be numbered. Counsel shall then be afforded an opportunity in the absence of the jury to make objections to the giving of any instruction and to the refusal to give a requested instruction. The objector shall state distinctly the matter to which counsel objects and the grounds of counsel's objection, specifying the number, paragraph or particular part of the instruction to be given or refused and to which objection is made.
+*15 (Emphasis added.) “This [rule] gives the trial court the opportunity to remedy instructional error and reduces unnecessary appeals and retrials.” Millies v. LandAmerica Transnation, 185 Wn.2d 302, 310, 372 P.3d 111 (2016). “Hypertechnicality is not required.” Id. However, “the objection must apprise the trial judge of the precise points of law involved and when it does not, those points will not be considered on appeal.” Stewart v. State, 92 Wn.2d 285, 298, 597 P.2d 101 (1979). Failure to object to an instruction in compliance with CR 51(f) may preclude appellate review of the instruction. Millies, 185 Wn.2d at 310; RAP 2.5(a) (“The appellate court may refuse to review any claim of error which was not raised in the trial court.”).
+B. Cuzdey Failed to Object to Instruction 5
+Here, Cuzdey did not object to instruction 5 on the grounds he raises now on appeal. Rather, Cuzdey only asked the trial court to add element 1 to that instruction. Because Cuzdey did not object to instruction 5 on the grounds he raises now, we hold that Cuzdey failed to preserve his challenge to the court's instruction, and we decline to consider this issue.
+C. Cuzdey's Reliance on RAP 12.9 Does Not Permit Review
+Cuzdey appears to argue that we may nevertheless review the alleged instructional error for the first time on appeal under RAP 12.9. We disagree.
+When we interpret court rules, our review is de novo. Phongmanivan v. Haynes, 195 Wn.2d 309, 313, 458 P.3d 767 (2020). “As with methods of statutory interpretation, we strive to determine and carry out the rule drafters’ intent.” Id. “ ‘We determine that intent by examining the rule's plain language not in isolation but in context, considering related provisions, and in light of the statutory or rule-making scheme as a whole.’ ” Id. (quoting State v. Stump, 185 Wn.2d 454, 460, 374 P.3d 89 (2016). “[W]e avoid interpreting court rules in a manner that would render substantive portions meaningless.” Id. at 313-14.
+RAP 12.9(a) provides that,
+The appellate court may recall a mandate issued by it to determine if the trial court has complied with an earlier decision of the appellate court given in the same case. The question of compliance by the trial court may be raised by motion to recall the mandate, or by initiating a separate review of the lower court decision entered after issuance of the mandate.
+Here, Cuzdey's reliance on RAP 12.9 is misguided because he fails to give effect to RAP 2.5(a), which states that “[t]he appellate court may refuse to review any claim of error which was not raised in the trial court.” RAP 12.9 does not permit an appellant to raise an instructional error for the first time on appeal because doing so would render RAP 2.5(a) meaningless. Additionally, Cuzdey fails to carry his burden to demonstrate that the alleged instructional error constituted a manifest error affecting a constitutional right to allow us to address his argument for the first time on appeal. RAP 2.5(a)(3).
+Accordingly, we affirm the writ of restitution.
+
+
+Landes v. Cuzdey, 26 Wn. App. 2d 1043 (2023)

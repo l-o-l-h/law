@@ -1,0 +1,18 @@
+#+title:      Elements a Landlord Must Prove in a Show Cause Hearing
+#+date:       [2025-03-27 Thu 10:25]
+#+filetags:   :burden:cause:elements:facie:prima:proof:rlta:show:ud:
+#+identifier: 20250327T102548
+
+* Farley (Div3 2025)
+
+25 ¶36 Here, the trial court entered an order of default and then entered an order for writ of restitution based on the default. The court did not enter detailed findings to show that the plaintiff met her burden of proving ownership of the property, a landlord-tenant relationship, proper notice to vacate, and the Tenants’ failure to comply. See Hernandez, 29 Wash. App. 2d at 784-85, 544 P.3d 518. The court's order of writ of restitution was not supported by its conclusion that the Tenants were in default and was not supported by its findings.
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 465 (Wash. Ct. App. 2025)
+
+
+** Prima Facie Elements
+
+- Ownership of the property
+- Landlord-Tenant relationship
+- Proper Notice to Vacate
+- Failure to  Comply

@@ -1,0 +1,13 @@
+#+title:      Speculative Damages
+#+date:       [2025-03-27 Thu 09:08]
+#+filetags:   :basis:damages:evidence:reasonable:speculation:speculative:sufficient:
+#+identifier: 20250327T090859
+
+* Cornett (Div2 2024)
+
+19
+20
+21
+¶48 We review a trial court's decision to award “other relief” after a show cause hearing for abuse of discretion. See RCW 59.18.380 (court “may” grant other relief). We review the amount of a trial court's damages award for sufficiency of the evidence. IBF, 141 Wash. App. at 638, 174 P.3d 95. “ _‘Evidence of damage is sufficient if it affords a reasonable basis for estimating loss and does not subject the trier of fact to mere speculation or conjecture.’_ ” Clayton v. Wilson, 168 Wash.2d 57, 72, 227 P.3d 278 (2010) (quoting State v. Mark, 36 Wash. App. 428, 434, 675 P.2d 1250 (1984)).
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 447, 550 P.3d 64, 74 (2024)

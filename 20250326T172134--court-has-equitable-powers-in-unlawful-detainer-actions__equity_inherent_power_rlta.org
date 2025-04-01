@@ -1,0 +1,8 @@
+#+title:      Court has Equitable Powers in Unlawful Detainer Actions
+#+date:       [2025-03-26 Wed 17:21]
+#+filetags:   :equity:inherent:power:rlta:
+#+identifier: 20250326T172134
+
+* Harmon (Wash. 2019)
+
+Trial court's inherent equitable authority allowed commissioner to grant an ex parte stay of a default judgment in unlawful detainer action that included a writ of restitution, where tenant alleged she answered before entry of default. Wash. Super. Ct. Civ. R. 5(a).

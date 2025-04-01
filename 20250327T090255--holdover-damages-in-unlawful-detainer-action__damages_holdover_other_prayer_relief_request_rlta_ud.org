@@ -1,0 +1,27 @@
+#+title:      Holdover Damages in Unlawful Detainer Action
+#+date:       [2025-03-27 Thu 09:02]
+#+filetags:   :damages:holdover:other:prayer:relief:request:rlta:ud:
+#+identifier: 20250327T090255
+
+* Cornett (Div2 2024)
+
+¶45 The RLTA provides that a landlord in an unlawful detainer action may request “other relief” beyond the requested writ of restitution, as “provided for in this chapter.” RCW 59.18.380. The RLTA also provides that it is unlawful for tenants to “hold over” after their tenancy is terminated and provides that _the trial court has discretion to award damages sustained by the landlord as a result of a tenant's holdover_. RCW 59.18.290(2).
+
+¶46 A trial court may grant a landlord's request for “other relief” following a show cause hearing only if the court determines that there is “no substantial issue of material fact” regarding the landlord's right to the requested relief. RCW 59.18.380. The court may grant only “so much of such relief as may be sustained by the proof.” Id.
+
+¶47 If material issues of fact remain as to the relief requested, the case must proceed to trial, regardless of *447 whether a writ of restitution has already been issued. See Webster v. Litz, 18 Wash. App. 2d 248, 255-56, 491 P.3d 171 (2021). If the landlord prevails at trial, the factfinder
+shall also assess the damages arising out of the tenancy occasioned to the landlord by any forcible entry, or by any forcible or unlawful detainer, alleged in the complaint and proved at trial, and, if the alleged unlawful detainer is based on default in the payment of rent, find the amount of any rent due.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 446–47, 550 P.3d 64, 74 (2024)
+
+* Cornett (Div2 2024) Prayer For Relief is Not a Factual Allegation
+
+24
+¶55 On the merits, we conclude that the trial court's finding that Cornett “failed to pay rent or vacate the premises” after receiving the termination notice was unsupported by substantial evidence. CP at 65. First, Garrand's complaint did not allege that Cornett had ever failed to pay rent that was owed. Rather, the complaint merely prayed that Garrand be awarded “rent and late charges owing at the time of judgment.” Id. at 2. But a “fact” is “[s]omething that actually exists” or “[a]n actual or alleged event or circumstance, as distinguished from its legal effect, consequence, or interpretation.” BLACK'S LAW DICTIONARY 735 (11th ed. 2019). By contrast, a “prayer for relief” is a “request addressed to the court and appearing at the end of a pleading; esp., a request for specific relief or damages.” *450 Id. at 1422. We decline Garrand's invitation to treat her prayer for relief as an allegation of fact or as evidence that could support the trial court's finding that Cornett failed to pay rent.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 449–50, 550 P.3d 64, 75 (2024)
+
+
+¶56 Turning from the complaint to the actual evidence presented to the trial court, Garrand failed to mention any unpaid rent in the two declarations she submitted to the **76 court.8 Nor did Garrand mention any unpaid rent when she testified at the show cause hearing. The only evidence in the record obliquely related to the issue of rent is the lease indicating that Cornett's monthly rent was $1,500. But that is not sufficient to show that Cornett owed $6,000 at the time of judgment where no evidence was presented to show that Cornett stopped paying rent when he received the termination notice.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 450, 550 P.3d 64, 75–76 (2024)

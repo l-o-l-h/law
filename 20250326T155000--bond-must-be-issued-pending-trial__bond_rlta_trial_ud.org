@@ -1,0 +1,14 @@
+#+title:      Bond Must Be Issued Pending Trial
+#+date:       [2025-03-26 Wed 15:50]
+#+filetags:   :bond:rlta:trial:ud:
+#+identifier: 20250326T155000
+
+* Canley (1989)
+
+First a show cause hearing is held where the plaintiff's motion for a writ of restitution is heard and the defendant is allowed to assert legal or equitable defenses or set-offs. Next, the court examines the parties and witnesses. If the court finds that the plaintiff has the right to repossess the property it will enter an order directing issuance of the writ. _The writ will be issued only after the landlord posts a bond conditioned on prompt prosecution of the action and payment of all costs and damages to the tenant as a result of a wrongfully issued writ._ The court must also direct that the matter proceed to trial in the usual manner. If the court finds that the plaintiff does not have the right to repossess the property it will enter an order directing the parties to proceed to trial within 30 days of the complaint and answer.
+- Meadow Park Garden Associates v. Canley, 54 Wn. App. 371, 374, 773 P.2d 875, 877 (1989)
+
+* Pleasant (2005)
+
+The statute allows a landlord to apply for a writ to expeditiously determine who should possess the property while an unlawful detainer action is pending. Meadow Park, 54 Wash.App. at 376, 773 P.2d 875. In fact, since a pendente lite writ issues on summary proceedings, the landlord is typically required to post a bond3 to take possession. RCW 59.18.380. That is because “[a] show cause hearing is not the final determination of the rights of the parties in an unlawful detainer action.” Carlstrom, 98 Wash.App. at 788, 990 P.2d 986.
+- Hous. Auth. of City of Pasco & Franklin Cnty. v. Pleasant, 126 Wn. App. 382, 394, 109 P.3d 422, 428 (2005)

@@ -1,0 +1,31 @@
+#+title:      Unlawful Detainer Statutes in Derogation of the Common Law
+#+date:       [2025-03-27 Thu 08:39]
+#+filetags:   :common:construction:derogation:law:rlta:strict:ud:
+#+identifier: 20250327T083911
+
+* Daniels (Wash. 1948)
+
+Since unlawful detainer statutes are in derogation of the common law, they must be strictly construed in favor of the tenant. The proceedings are summary in character. By reason of provisions designed to hasten the recovery of possession, the statutes creating it remove the necessity to which the landlord was subjected at common law, of bringing *644 an action of ejectent with its attendant delays and expenses. **503 52 C.J.S., Landlord and Tenant, § 752, pages 610, 611.
+
+- Wilson v. Daniels, 31 Wn.2d 633, 643–44, 198 P.2d 496, 502–03 (1948)
+
+* Terry (Wash. 1990)
+
+The unlawful detainer statute is in derogation of common law, and must therefore be strictly construed in favor of the tenant.2 “By reason of provisions designed to hasten the recovery of possession, the statutes creating it remove the necessity to which the landlord was subjected at common law, [sic ] of bringing an action of ejectment [under Chapter 7.28 RCW] with its attendant delays and expenses.”3 However, in order to take advantage of its favorable provisions, *564 a landlord must comply with the requirements of the statute.4
+
+- Hous. Auth. of City of Everett v. Terry, 114 Wn.2d 558, 563–64, 789 P.2d 745, 748 (1990)
+
+* Lim (Div1 2008)
+
+While chapter 59.12 is designed to provide expeditious, summary proceedings,11 it is in derogation of the common law and must be strictly construed in favor of the tenant.12 To take advantage of these summary proceedings, the purchaser must comply with all statutory requirements.13
+
+- Laffranchi v. Lim, 146 Wn. App. 376, 383, 190 P.3d 97, 100 (2008), abrogated by MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+
+* Farley (Div3 2025)
+
+The RLTA is a remedial statute and should be construed in favor of tenants to promote its purpose. Id. at 221, 505 P.3d 157.
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 462 (Wash. Ct. App. 2025)
+
+
+

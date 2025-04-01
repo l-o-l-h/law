@@ -1,0 +1,50 @@
+#+title:      Relinquishment of Right to Possession
+#+date:       [2025-03-26 Wed 11:50]
+#+filetags:   :possession:relinquishment:rtla:ud:
+#+identifier: 20250326T115031
+
+* Collateral Rule for Conversion of Case to a Civil Action
+[T]he Munden Court announced a “collateral” rule that bears on the case before us here:
+
+  We create today not another exception, but a rule which is collateral to the general rule: Where the right to possession ceases to be at issue at any time between the commencement of an unlawful detainer action and trial of that action, the proceeding may be converted into an ordinary civil suit for damages, and the parties may then properly assert any cross claims, counterclaims, and affirmative defenses.
+Munden, 105 Wash.2d at 45–46 [711 P.2d 295] (emphasis added). In other words, where a tenant's actions amount to “relinquishment of [his] right to possession,” the trial court may convert the unlawful detainer proceeding into an ordinary civil action *817 and then properly consider any of the tenant's counterclaims, including those that are not based on facts excusing the tenant's alleged breach. 49 Munden, 105 Wash.2d at 45–47 [711 P.2d 295].
+
+¶ 46 The Munden tenants voluntarily vacated their leased property after their landlord initiated an unlawful detainer action against them but before trial; they also submitted an affidavit stating that their tenancy was terminated. Munden, 105 Wash.2d at 47, 711 P.2d 295. Our Supreme Court held that these actions amounted to the tenants' “relinquishment” of their right to possession, and in such circumstances, a trial court may convert the unlawful detainer into an ordinary civil action for damages because the purpose of the accelerated unlawful detainer proceedings was complete. Munden, 105 Wash.2d at 46–47, 711 P.2d 295.
+12
+
+¶ 47 Like the tenants in Munden, Maged vacated the property after Angelo filed its unlawful detainer action. As we discuss in the next section, he also sufficiently **1090 “relinquished” *818 his right to possession of the property and, in essence, stipulated that his tenancy was terminated. CP at 101. In our view, there is virtually no distinction between Maged's affirmative surrendering of his right to possession of the property to Angelo and the Munden tenants' more passive relinquishing of their possession. Therefore, under Munden's “collateral” rule, the trial court could have “converted” Angelo's unlawful detainer action into an ordinary civil action and then properly asserted its general subject matter jurisdiction over Maged's constructive eviction counterclaim. Munden, 105 Wash.2d at 45–46, 711 P.2d 295. Noting, however, the trial court's express statement that it did not covert the unlawful detainer action into an ordinary civil action before it purported to assume jurisdiction over Maged's constructive eviction counterclaim, we hold that the trial court lacked subject matter jurisdiction over this counterclaim under the “collateral” rule announced in Munden, in addition to lacking subject matter jurisdiction under Munden's “general rule” and “exception” discussed above.
+
+
+- Angelo Prop. Co., LP v. Hafiz, 167 Wn. App. 789, 816–18, 274 P.3d 1075, 1089–90 (2012)
+
+* Actual and Legal Possession
+
+** Lim (Div1 2008)
+
+¶ 15 As a threshold matter, Laffranchi asserts this case is moot because DeVore **100 surrendered possession of the property while the case was pending. DeVore responds that because he did not voluntarily surrender possession and continues to claim a right to possession, the case is not moot.
+
+- Laffranchi v. Lim, 146 Wn. App. 376, 382, 190 P.3d 97, 99–100 (2008), abrogated by MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+
+
+In the context of an unlawful detainer proceeding, the law distinguishes between possession and a right to possession.4 An unlawful detainer action is not moot just because the tenant no longer has possession of the contested premises.5 As long as the tenant continues to assert a right to possession, he or she has the right to have the issue determined.6 Since DeVore continues to assert a right to possession, this case is not moot.
+
+- Laffranchi v. Lim, 146 Wn. App. 376, 382, 190 P.3d 97, 100 (2008), abrogated by MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+
+** Hafif (2012)
+¶ 49 The record here shows that the trial court had fully resolved the legal right to possession of the property by August 15 when it entered its order granting Maged leave to amend his answer to add his constructive eviction counterclaim. By this date, Maged had (1) physically vacated the property and removed “[e]verything of value”53, (2) announced that he “wished to return” the property to Angelo54, (3) surrendered his keys to Angelo, (4) made no attempt to re-enter **1091 the property, (5) represented to the trial court that he had “surrendered possession” of the property *820 to Angelo55 , (6) agreed that he would make “no further claim to the rest of the tenancy”56, (7) did not object to Angelo's re-letting the property to another tenant, (8) stipulated that he would not move back to the property “[u]nder any scenario”57, (9) argued that actual possession and legal possession issues were resolved, (10) claimed he had made an “election of remedies” and was not seeking repossession of the property58, and (11) did not seek to be restored with possession of the property in the prayer for relief section of his proposed amended answer and counterclaim.59
+
+*821 ¶ 50 Based on these assertions, the trial court entered an order at the end of the parties' hearing on August 15(1) finding that Maged had “relinquished possession” of the property and that he “[did] not wish to re-take possession” even if successful in his lawsuit, (2) ordering that Angelo could “take steps” to re-let the property to another tenant, and (3) concluding that the “legal possession” of the property remained at issue. CP at 101–02. The record does not state whether Angelo ever re-let the property to another tenant, but Angelo claimed to have made “whole-hearted attempts” to re-lease the property after the trial court's August 15 order. VIII RP at 9. In our view, it is immaterial whether another tenant ever took actual physical possession of the property formerly leased to Maged. By granting Angelo authority to re-let the property to another tenant, the trial court effectively restored any remaining legal possessory rights in the property to Angelo.60 In sum, the record does not support the trial court's ruling that legal possession remained unresolved as of August 15, 2008, when it granted Angelo authority to relet the property to another tenant.61
+
+**1092 ¶ 51 Maged's return to Angelo of both actual and legal possession of the property resolved the “right to possession” and extinguished the trial court's narrow subject matter jurisdiction conferred by the unlawful detainer statute; therefore, the trial court lacked authority to issue any *822 additional orders, rulings, and factual determinations while the case remained an unlawful detainer action. We reiterate, “[i]n an unlawful detainer action, the court sits as a special statutory tribunal to summarily decide the issues authorized by statute and not as a court of general jurisdiction with the power to hear and determine other issues.” Granat, 99 Wash.2d at 571, 663 P.2d 830. Accordingly, we vacate (1) part four of the trial court's August 15, 2008 order, concluding the “issue of legal possession to the [property] is not yet resolved”62; and (2) all of the trial court's orders, rulings, and factual determinations entered after August 15, including, but not limited to, the trial court's summary judgment dismissal with prejudice of Maged's constructive eviction counterclaim, its final order and judgment in favor of Angelo, and its award to Angelo of attorney fees incurred after this date.63
+
+- Angelo Prop. Co., LP v. Hafiz, 167 Wn. App. 789, 819–22, 274 P.3d 1075, 1090–92 (2012)
+
+** ESA Management, LLC (Div1 2024)
+
+Right to possession as opposed to actual physical possession.
+
+Background: Former tenants brought action against landlord asserting forcible entry and detainer claims after landlord entered their unit, removed their belongings, and denied reentry.
+
+2 genuine issue of material fact as to whether tenants were in peaceable and undisturbed possession preceding forcible entry precluded summary judgment;
+
+- Watkins v. ESA Mgmt., LLC, 30 Wn. App. 2d 916, 547 P.3d 271 (2024)

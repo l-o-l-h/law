@@ -1,0 +1,17 @@
+#+title:      Requirements of a Show Cause Hearing
+#+date:       [2025-03-27 Thu 10:36]
+#+filetags:   :cause:hearing:requirements:rlta:show:ud:
+#+identifier: 20250327T103600
+
+* Anderson (Div3 2024 unpub)
+
+2. The show cause hearing
+
+The Andersons argue the trial court violated the requirements of a show cause hearing set forth in RCW 59.18.380 when it issued a writ of restitution without first taking any testimony or requiring evidence to support the grounds for eviction. Because the show cause process is governed by statute, this is a legal argument reviewed de novo. See Country Manor MHC, LLC v. Doe, 176 Wn. App. 601, 608, 308 P.3d 818 (2013).
+
+At a show cause hearing, the court may grant a landlord a writ of restitution “if it shall appear” that they have “the right to be restored to possession of the property.” RCW 59.18.380. A trial court has considerable leeway in conducting a show cause hearing. See Country Manor, 176 Wn. App. at 612. But there are some fundamental ground rules. The court must require the landlord to produce evidence justifying its stated basis for eviction. See Hernandez v. France, 29 Wn. App. 2d 777, 784-85, 544 P.3d 518 (2024). And, when it comes to assessing a tenant's defenses, the trial court must engage in a two-step process:
+
+(1) the trial court must ascertain whether either the defendant's written or oral presentations potentially establish a viable legal or equitable defense to the entry of a writ of restitution; and (2) the trial court must then consider sufficient admissible evidence (including testimonial evidence) from parties and witnesses to determine the merits of any viable asserted defenses.
+Leda v. Whisnand, 150 Wn. App. 69, 83, 207 P.3d 468 (2009).
+
+- Biliske v. Anderson, 31 Wn. App. 2d 1075 (2024)

@@ -1,0 +1,8 @@
+#+title:      CARES Act
+#+date:       [2025-03-26 Wed 10:16]
+#+filetags:   :act:cares:notice:rlta:ud:
+#+identifier: 20250326T101656
+
+ Since the Residential Landlord-Tenant Act (RLTA) explicitly provides that federal law may require greater notice than that required by state law, the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) notice requirement is properly considered as a limitation to the state's unlawful detainer statute.  15 U.S.C.A. § 9058(c); Wash. Rev. Code Ann. § 59.18.057(3).
+
+ - Sherwood Auburn LLC v. Pinzon Court of Appeals of Washington, Division 1. December 5, 2022 24 Wash.App.2d 664

@@ -1,0 +1,10 @@
+#+title:      Court Must Have Statutory Authority for an Act
+#+date:       [2025-03-27 Thu 09:15]
+#+filetags:   :appeal:first:issue:raised:rtla:time:ud:
+#+identifier: 20250327T091556
+
+* Cornett (Div2 2024)
+
+¶50 As a threshold matter, we reject Garrand's argument that Cornett's challenge is barred because the issue of *448 the trial court's authority to award rent was not raised below. If the trial court lacked statutory authority to award the damages it did, as Cornett argues, then Garrand has failed to allege sufficient facts showing relief in the form of rent damages could be granted. RAP 2.5(a). This entitles Cornett to raise this argument for the first time on appeal.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 447–48, 550 P.3d 64, 74 (2024)

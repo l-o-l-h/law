@@ -1,0 +1,74 @@
+#+title:      Unlawful Detainer Process
+#+date:       [2025-03-26 Wed 17:30]
+#+filetags:   :procedure:process:rlta:summary:ud:
+#+identifier: 20250326T173051
+
+* Harmon (Wash. 2019)
+
+¶ 29 To properly determine Harmon's claim, it is critical to understand the statutory scheme of unlawful detainer actions. Governed by chapters 59.12 and 59.18 RCW, an unlawful detainer action is a statutorily created proceeding that provides an expedited method of resolving the right to possession of property. Christensen v. Ellsworth, 162 Wash.2d 365, 370-71, 173 P.3d 228 (2007). Because this case involves a residential tenancy, it is governed by the RLTA. See RCW 59.18 et seq. The procedures set forth in the generalized unlawful detainer statutes, chapter 59.12 RCW, “apply to the extent they are not supplanted by those found in the Residential Landlord-Tenant Act.” Hous. Auth. of City of Pasco & Franklin County v. Pleasant, 126 Wash. App. 382, 390, 109 P.3d 422 (2005). Chapters 59.12 and 59.18 RCW are statutes in derogation of the common law and thus are strictly construed in favor of the tenant. Hous. Auth. of City of Seattle v. Silva, 94 Wash. App. 731, 734, 972 P.2d 952 (1999).
+
+¶ 30 The RLTA sets out the step-by-step procedure for evicting tenants as unlawful detainers. A tenant cannot hold over in the premises after termination of the rental agreement. RCW 59.18.290. To evict a holdover tenant, the landlord must serve the eviction notice on the tenant. RCW 59.18.200(1)(a).3 If the tenant has not complied with the eviction, the landlord serves a summons and complaint. RCW 59.18.365. The summons must be in a specific form *157 and contain specific content required by statute. Id. (“The summons must contain the names of the parties to the proceeding, the attorney or attorneys if any, the court in which the same is brought....”). The tenant's answer or notice of appearance may be in writing by the return date listed in the summons, and if the tenant does not answer by that date, the landlord may move for a default judgment. Id.
+17
+
+¶ 31 To evict the tenant, a landlord may apply for a writ of restitution at the same time as commencing the action or at any time thereafter. RCW 59.18.370. To obtain a writ, a landlord must apply for an order for a show cause hearing to be held 6 to 12 days after the order and serve that order on the tenant. Id. A show cause hearing is a “summary proceeding[ ] to determine the issue of possession pending a lawsuit” and is not the final determination of rights in an unlawful detainer action. Carlstrom v. Hanline, 98 Wash. App. 780, 788, 990 P.2d 986 (2000); see also Faciszewski v. Brown, 187 Wash.2d 308, 321, 386 P.3d 711 (2016) (noting that show cause hearings often provide the only opportunity for tenants to present evidence).
+
+¶ 32 At the show cause hearing, the court will determine if the landlord is entitled to a writ of restitution before a trial on the complaint and answer. RCW 59.18.380. Under this provision, the court will determine if the premises should be returned to the landlord. Id. If it appears the landlord has the right to be restored to possession of the property, the court will order issuance of the writ and the tenant may “stay the execution of the writ pending final judgment” by paying into the **685 court all rent found to be due and, in addition, paying on a monthly basis “pending final judgment,” the amount equal to the monthly rent. Id.
+
+¶ 33 Whether or not the court issues a writ of restitution at the show cause hearing, if material factual issues exist, the court is required to enter an order directing the parties to proceed to trial on the complaint and answer. Id.; Pleasant, 126 Wash. App. at 393, 109 P.3d 422 (citing RCW 59.18.380).
+*158 18
+
+¶ 34 If a writ of restitution is issued at the RCW 59.18.380 show cause hearing, the landlord can deliver the writ to the sheriff, who will serve it on the tenant. RCW 59.18.390(1).4 The tenant may stay the writ of restitution upon posting a bond approved by the court. Id. In other words, tenants may stay in a premises after the writ of restitution is issued, provided the tenant executes a bond to the landlord and proper notice of the time and place is given for fixing the bond's amount.
+19
+
+¶ 35 A bond is required only if the tenant wishes to continue to occupy the premises pending trial. The purpose of the bond is to secure the landlord against losses during the pendency of the proceedings while the tenant continues to occupy the premises. Pleasant, 126 Wash. App. at 390, 109 P.3d 422 (citing RCW 59.18.390). The statute specifies the procedure for posting said bond. RCW 59.18.390(1). RCW 59.18.410 requires entry of a final judgment following trial.
+
+- Randy Reynolds & Associates, Inc. v. Harmon, 193 Wn.2d 143, 156–58, 437 P.3d 677, 684–85 (2019)
+
+* Huddleston (WnAppDiv2 2023 unpub)
+
+I. THE UNLAWFUL DETAINER PROCESS
+*4 The unlawful detainer action governed by chapters 59.12 and 59.18 RCW allows for a summary proceeding that provides an expedited means for landlords and tenants to resolve competing claims to possession of leased property. Randy Reynolds & Assocs., Inc. v. Harmon, 193 Wn.2d 143, 156, 437 P.3d 677 (2019). The unlawful detainer statute was created to provide an efficient summary proceeding as an alternative to the common law action of ejectment. River Stone Holdings NW, LLC v. Lopez, 199 Wn. App. 87, 92, 395 P.3d 1071 (2017). Chapters 59.12 and 59.18 RCW are strictly construed in favor of the tenant. Randy Reynolds & Assocs., 193 Wn.2d at 156.
+Before initiating an unlawful detainer action, a residential landlord must first issue a written notice terminating the tenancy that generally must be served consistent with RCW 59.12.040. See RCW 59.18.650(1), (2), (6)(a). A landlord may file an action for unlawful detainer if the tenant remains in possession of the premises in violation of the terms of the landlord's notice. See Randy Reynolds & Assocs., 193 Wn.2d at 156. An unlawful detainer complaint must “set forth the facts on which he or she seeks to recover, and describe the premises with reasonable certainty ....” RCW 59.12.070. To physically evict the tenant, “a landlord may apply for a writ of restitution at the same time as commencing the action or at any time thereafter.” Randy Reynolds & Assocs., 193 Wn.2d at 157.
+At or after the filing of a complaint for unlawful detainer, the plaintiff may request an order for the defendant to show cause why the court should not issue a writ of restitution. RCW 59.18.370. “Show cause hearings are summary proceedings to determine the issue of possession pending a lawsuit,” not a final determination of the parties’ rights. Carlstrom v. Hanline, 98 Wn. App. 780, 788, 990 P.2d 986 (2000).
+At the hearing, the court is to determine the merits of the complaint and answer. RCW 59.18.380. The plaintiff bears the burden of proving the right of possession by a preponderance of the evidence. Hous. Auth. v. Pleasant, 126 Wn. App. 382, 392, 109 P.3d 422 (2005). If it appears that the plaintiff has the right to be restored possession of the property, the court enters an order directing the issuance of a writ of restitution. RCW 59.18.380. The opportunity for immediate temporary relief makes the show cause process similar in some respects to a preliminary injunction proceeding. See Faciszewski v. Brown, 187 Wn.2d 308, 315 n.4, 386 P.3d 711 (2016).
+- Hill v. Huddleston, 28 Wn. App. 2d 1050 (2023), review denied sub nom. Hill v. Huddlestone, 546 P.3d 78 (Wash. 2024)
+
+* Cornett (Div2 2024)
+
+¶20 The statute also requires landlords to serve tenants with a written termination notice containing “facts and circumstances” supporting the cause for termination **70 “with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” RCW 59.18.650(6)(b). A landlord may file an unlawful detainer complaint only if the tenant remains in possession of the premises in violation of the terms of the landlord's notice. See Randy Reynolds, 193 Wash.2d at 156, 437 P.3d 677. The complaint must “set forth the facts on which [the landlord] seeks to recover.” RCW 59.12.070.
+
+4
+5
+¶21 To physically evict the tenant, a landlord must also move for a writ of restitution. Randy Reynolds, 193 Wash.2d at 157, 437 P.3d 677. To obtain a writ of restitution, the landlord must request an order for a show cause hearing. Id.; RCW 59.18.370. “Show cause hearings are summary proceedings to determine the issue of possession pending a lawsuit,” not a final determination of the parties’ rights. Carlstrom v. Hanline, 98 Wash. App. 780, 788, 990 P.2d 986 (2000).
+
+6
+7
+¶22 At the show cause hearing, the court examines the parties and decides whether the case should proceed to trial or whether the landlord is entitled to a writ of restitution on the merits of the complaint and answer. RCW 59.18.380. “A show cause hearing must be meaningful, as it is the first (and sometimes the only) step of the eviction process in which the tenant is able to participate.” Faciszewski v. Brown, 187 Wash.2d 308, 321, 386 P.3d 711 (2016). The landlord bears the burden of proving the right of possession by a preponderance of the evidence. Hous. Auth. v. Pleasant, 126 Wash. App. 382, 392, 109 P.3d 422 (2005).
+
+8
+9
+¶23 If the court determines at the show cause hearing that there are no substantial issues of material fact regarding possession and that the landlord has the right to be restored possession of the property, the court may order the issuance of a writ of restitution. RCW 59.18.380. The court may also grant other relief including damages and attorney fees if there are no substantial issues of material fact *439 regarding the landlord's entitlement to that relief. Id.; Indigo Real Est. Servs., Inc. v. Wadsworth, 169 Wash. App. 412, 421, 280 P.3d 506 (2012); Hartson P'ship v. Goodwin, 99 Wash. App. 227, 230-31, 991 P.2d 1211 (2000). Notwithstanding the issuance of a writ, the court must direct the parties to proceed to trial if it finds that material issues of fact exist. Randy Reynolds, 193 Wash.2d at 157, 437 P.3d 677.
+
+10
+11
+12
+¶24 We review the trial court's findings of fact in an unlawful detainer action for substantial evidence. Tedford v. Guy, 13 Wash. App. 2d 1, 12, 462 P.3d 869 (2020). “Substantial evidence is evidence sufficient in quantum to persuade a fair-minded person that a given premise is the truth.” Phillips v. Hardwick, 29 Wash. App. 382, 387, 628 P.2d 506 (1981). We review conclusions of law de novo. Tedford, 13 Wash. App. 2d at 12, 462 P.3d 869.
+
+- Garrand v. Cornett, 31 Wn. App. 2d 428, 438–39, 550 P.3d 64, 69–70 (2024)
+
+* Farley (Div3 2025)
+
+8 ¶18 The unlawful detainer action was statutorily created, under the RLTA and chapter 59.12 RCW, to provide landlords with an expedited process to determine the right to possession of rental property. Christensen v. Ellsworth, 162 Wash.2d 365, 370-71, 173 P.3d 228 (2007). The procedures for a residential unlawful detainer are generally set forth in chapters 59.12 and 59.18 RCW. These procedures are supplemented by the general civil rules so long as there is no conflict. See Kiemle & Hagood Co., 26 Wash. App. 2d at 210, 528 P.3d 834; Randy Reynolds & Assocs., Inc. v. Harmon, 193 Wash.2d 143, 159, 437 P.3d 677 (2019).
+
+9 10 ¶19 To initiate an unlawful detainer action when a tenant holds over after notice, a landlord files a complaint for unlawful detainer. Harmon, 193 Wash.2d at 156, 437 P.3d 677. In order to regain possession of the property, and physically evict the tenant, “a landlord may apply for a writ of restitution at the same time as commencing the action or at any time thereafter.” Id. at 157, 437 P.3d 677. A writ of restitution is an order by the court to allow a “sheriff to restore possession of the property to the plaintiff.” RCW 59.18.370.
+
+11 12 ¶20 The court considers the request for a writ of restitution at a show cause hearing. RCW 59.18.370, .380. The show cause hearing is a “summary proceeding[ ] to determine the issue of possession pending a lawsuit” and is not intended to finally determine the parties’ rights. Carlstrom v. Hanline, 98 Wash. App. 780, 788, 990 P.2d 986 (2000). The court may grant a landlord's request for a writ of restitution only if “there are no substantial issues of material fact regarding possession,” and it is clear that the landlord's right to possession should be restored. *463 Garrand, 31 Wash. App. 2d at 438, 550 P.3d 64; see also RCW 59.18.380.
+
+13 ¶21 Notice of the show cause hearing is provided to the tenant by way of an order to show cause. The language of the order to show cause is set by statute. The order to show cause lists the time and date of the hearing and notifies the tenant that
+if he or she fails to appear and show cause at the time and place specified by the order the court may order the sheriff to restore possession of the property to the plaintiff and may grant such other relief as may be prayed for in the complaint and provided by this chapter.
+
+RCW 59.18.370.
+
+14 15 ¶22 The procedures for a show cause hearing are set forth in RCW 59.18.380 and 59.18.390. The tenant may answer orally or in writing, and may “assert any legal or equitable defense or set-off arising out of the tenancy.” RCW 59.18.380. The court must consider whether the tenant's answer establishes a potentially “viable legal or equitable defense to the entry of a writ of restitution.” Leda v. Whisnand, 150 Wash. App. 69, 83, 207 P.3d 468 (2009). If the tenant's answer presents a potentially viable defense, the court is required to flush out this defense by examining the parties and witnesses and by considering any other admissible evidence. RCW 59.18.380; Leda, 150 Wash. App. at 82-83, 207 P.3d 468. If examination of the evidence and witnesses requires a longer hearing, the court should promptly reset the matter. Leda, 150 Wash. App. at 83, 207 P.3d 468.
+
+- Liverpool LLC v. Farley, 563 P.3d 457, 462–63 (Wash. Ct. App. 2025)
