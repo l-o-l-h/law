@@ -1,0 +1,224 @@
+#+title:      MOSM, LLC v. Deegan, 30 Wn. App. 2d 284, 544 P.3d 591 (2024)
+#+date:       [2024-03-05 Tue 00:00]
+#+filetags:   :attyfees:case:law:
+#+identifier: 20240305T000000
+#+signature:  coa=div2
+
+* MOSM, LLC v. Deegan -- Court of Appeals of Washington, Division 2. | March 5, 2024 | 30 Wash.App.2d 284 | 544 P.3d 591
+
+- Washington Citation :: MOSM, LLC v. Deegan, 30 Wn. App. 2d 284, 544 P.3d 591 (2024)
+- All Citations :: 30 Wash.App.2d 284, 544 P.3d 591
+
+
+                          30 Wash.App.2d 284
+
+             Court of Appeals of Washington, Division 2.
+
+                        MOSM, LLC, Respondent,
+
+                                  v.
+
+Allison DEEGAN and William Shelton, and any/all Unknown Occupants, Appellants.
+
+                            No. 58920-6-II
+                         Filed March 5, 2024
+** Brief
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (7)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*PUBLISHED OPINION][PUBLISHED OPINION]]
+
+
+** Synopsis
+
+Background: Landlord sued purportedly indigent tenant for unlawful detainer. Following show cause hearing, the Superior Court, Grays Harbor County, David L. Edwards, J., entered writ of restitution and judgment of unlawful detainer against tenant in amount of $7,860.85 with a 12% interest rate, including $3,500.00 in attorney fees, without determining whether tenant was indigent or appointing tenant an attorney. Tenant appealed.
+
+Holdings: The Court of Appeals, Glasgow, C.J., held that:
+
+[1] issue as to whether trial court deprived tenant of her statutory right to counsel was not moot;
+
+[2] trial court was required to continue hearing and refer tenant for screening for possible representation under statute and court’s standing order; and
+
+[3] award of attorney fees on appeal was not warranted in favor of either landlord or tenant.
+
+Reversed and remanded with directions.
+
+Procedural Posture(s): On Appeal; Motion for Attorney’s Fees.
+
+** West Headnotes (7)
+
+*** [1] Landlord and Tenant  [[1: 233-k-1805][233-k-1805]]  Review
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1805 Review*
+
+Allegedly indigent tenant preserved argument for review that trial court deprived her of her statutory right to counsel by conducting show cause hearing in unlawful detainer proceedings filed by landlord without appointing tenant an attorney; even though tenant failed to object after her request for counsel went unresolved and did not argue for appointment of counsel under statute requiring court to appoint counsel for indigent tenants in eviction proceedings, tenant expressly requested a court-appointed lawyer, and trial court cut tenant off during hearing, which was very short, and did not address tenant’s request for counsel or allow tenant to provide further argument. Wash. Rev. Code Ann. § 59.18.640; Wash. R. App. P. 2.5.
+
+*** [2] Landlord and Tenant  [[2: 233-k-1805][233-k-1805]]  Review
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1805 Review*
+
+Issue on appeal from judgment against allegedly indigent tenant in unlawful detainer action as to whether trial court deprived tenant of her statutory right to counsel by conducting show cause hearing without appointing tenant an attorney was not moot on grounds that tenant did not allege financial damages and had already vacated the premises; tenant had monetary stake in the outcome of the case due to the money judgment issued against her, and tenant continued to assert right to possession on appeal. Wash. Rev. Code Ann. § 59.18.640.
+
+- 1 Case that cites this headnote
+
+*** [3] Landlord and Tenant  [[3: 233-k-1790][233-k-1790]]  Actions
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1791 In general*
+
+If tenant in unlawful detainer action does not concede the right of possession, tenant has the right to have the issue determined.
+
+- 1 Case that cites this headnote
+
+*** [4] Landlord and Tenant  [[4: 233-k-1790][233-k-1790]]  Actions
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1791 In general*
+
+Trial court was required to continue hearing and refer tenant to screening for possible representation by court-appointed attorney when tenant appeared at show cause hearing in unlawful detainer proceeding without an attorney under statute requiring court, subject to availability of funding, to appoint counsel for indigent tenants in eviction proceedings and court’s standing order requiring court to advise indigent tenant of right to appointed counsel and to refer tenant to screening if right was asserted; indigent tenant representation was fully funded, staffed, and operational at time of show cause hearing, and nothing in statute or standing order authorized discretion on part of trial court if tenant appeared without an attorney and asked for one, which tenant did. Wash. Rev. Code Ann. § 59.18.640.
+
+*** [5] Landlord and Tenant  [[5: 233-k-1807][233-k-1807]]  Costs and attorney fees
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1807 Costs and attorney fees*
+
+Award of attorney fees in favor of landlord on appeal from judgment against allegedly indigent tenant in unlawful detainer action was not warranted, since landlord was not prevailing party on appeal; trial court decision was reversed on basis that trial court failed to refer tenant to screening for possible representation by court-appointed attorney pursuant to statute and standing order of court. Wash. Rev. Code Ann. §§ 59.18.290(2), 59.18.640; Wash. R. App. P. 18.1(a).
+
+*** [6] Landlord and Tenant  [[6: 233-k-1807][233-k-1807]]  Costs and attorney fees
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1807 Costs and attorney fees*
+
+Award of attorney fees in favor of allegedly indigent tenant was not warranted on appeal from judgment against tenant in unlawful detainer action filed by landlord, since it was not clear who would prevail on merits of unlawful detainer action; appellate court did not reach merits of judgment against tenant on appeal, but rather reversed and remanded on basis that trial court failed to refer tenant to screening for possible representation by court-appointed attorney pursuant to statute and standing order of court. Wash. Rev. Code Ann. §§ 59.18.290(2), 59.18.640; Wash. R. App. P. 18.1(a).
+
+- 1 Case that cites this headnote
+
+*** [7] Costs, Fees, and Sanctions Persons Entitled to Award
+
+- /102 Costs, Fees, and Sanctions/
+- /102-III Awards of Costs and Fees/
+- /102-III(C) Persons Entitled to Award/
+- *102-k-791 In general*
+
+Fact that a party’s attorneys are pro bono does not alone prohibit party from receiving attorney fees.
+
+- 1 Case that cites this headnote
+
+<<**593>> Appeal from Grays Harbor County Superior Court, Docket No: 22-2-00662-1, Honorable David L. Edwards, Judge
+** Attorneys and Law Firms
+
+- Ashleen Elisabeth O’brien, Dashiell George Degraff, Housing Justice Project, Edmund Robert Witter, Attorney at Law, Christina Eugenie Jaccard, Yuan Ting, King County Bar Association, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, for Appellants.
+- Peter B. Tiller, The Tiller Law Firm, 118 N Rock St., Centralia, WA, 98531-4234, for Respondent.
+
+** PUBLISHED OPINION
+
+Glasgow, C.J.
+
+<<*285>> ¶1 In 2021, the Washington legislature enacted RCW 59.18.640, which requires trial courts to appoint counsel for indigent tenants in eviction proceedings. Grays Harbor County Superior Court then adopted a standing order dictating that when a tenant defendant appears unrepresented at a show cause hearing or trial, the trial court must inquire whether they want counsel. If so, the court must continue the hearing and refer the tenant to be screened for indigence to determine whether counsel should be appointed.
+
+¶2 In 2022, MOSM LLC sued Allison Deegan for unlawful detainer in Grays Harbor County. Deegan appeared without counsel at a show cause hearing, stated that she had no money, and asked for a lawyer. The trial court did not determine whether she was indigent or appoint her a lawyer. Instead, it proceeded with the hearing, failed to provide Deegan with an opportunity to present evidence or argument at the hearing, and entered a writ of restitution and judgment of unlawful detainer against her.
+
+¶3 Deegan appeals, arguing that she had a statutory right to counsel under RCW 59.18.640. She contends that the trial court should have continued the hearing so she could be screened for indigency and receive appointed counsel.
+
+<<*286>> ¶4 When Deegan appeared without counsel and asked for a court-appointed attorney, the trial court was required to continue the show cause hearing and refer her for indigency screening and possible representation. Therefore, we reverse and remand for the trial court to vacate the judgment and for further proceedings consistent with this opinion.
+
+*** FACTS
+
+¶5 In September 2022, MOSM served its tenants, Deegan and William Shelton, with a three-day notice to comply or quit. The notice alleged that the tenants had “repeatedly and unreasonably interfered with the use and enjoyment of the premises by the neighbor of the premises,” which was cause for eviction under RCW 59.18.650(2)(c). Clerk’s Papers at 6. Specifically, the notice alleged that Deegan and Shelton had unlawfully removed furniture from common hallways and otherwise unlawfully harassed other tenants, but the notice did not give any dates or name the other tenants. The notice demanded that Deegan and Shelton cease taking furnishings and harassing other tenants within three days or vacate. It then explained that if they did not cease taking furnishings or harassing other tenants, eviction proceedings would begin.
+
+¶6 In November 2022, MOSM filed a summons and complaint for unlawful detainer against the tenants. Later that month, Deegan and Shelton appeared at a show cause hearing without counsel.
+
+¶7 The trial court asked Deegan if she intended to hire counsel:
+
+*** THE COURT: Ms. Deegan, do you intend to hire an attorney in this matter?
+
+....
+
+[DEEGAN:] Sorry. I don’t go to court usually. ...I guess I have to hire an attorney. <<**594>> ... I don’t know. This - none of [MOSM’s allegation] is true. ... I don’t know what [MOSM’s attorney is] even talking about.
+
+*** <<*287>> THE COURT: I don’t know either. I’m asking you, are you going to hire an attorney?
+
+[DEEGAN:] I mean, I don’t have any money, but ... Do you get like a public defender or whatever?
+
+*** THE COURT: Well, the documents that I’ve been provided that you delivered to [MOSM’s attorney] on Friday are - are not sufficient to place this matter at issue. ... [T]here’s no formal answer to the complaint, none of these documents are notarized in any way.
+
+[MOSM’s attorney], what are you asking the Court to do today?
+
+Verbatim Rep. of Proc. at 4-5 (emphasis added). MOSM’s attorney then presented the court with a writ of restitution and judgment for attorney fees. Without further questioning of either party about the merits of the complaint, the trial court granted the writ of restitution and entered the judgment. This evicted Deegan and Shelton and awarded a judgment of $7,860.85 with a 12 percent interest rate against them, including $3,500.00 in attorney fees. Deegan appeals the entry of the judgment.
+
+*** ANALYSIS
+
+*** APPOINTMENT OF COUNSEL
+
+***** A. Threshold Matters
+
+[1] <<1: 233-k-1805>>¶8 Deegan argues that the trial court deprived her of her right to counsel by conducting the show cause hearing without appointing her an attorney. MOSM first asserts that Deegan failed to preserve this issue for review under RAP 2.5 because at the hearing she failed to object after her request for counsel went unresolved or “argue for appointment of counsel under RCW 59.18.640.” Br. of Resp’t at 12. But Deegan expressly requested a court appointed lawyer. And we consider all of the circumstances, including that the hearing was very short, the trial court cut Deegan off, the court did not address her request for counsel, and the court <<*288>> did not allow Deegan to provide further argument. In that context, Deegan’s request for counsel was enough, and no more was required to preserve this issue for our review.
+
+[2] <<2: 233-k-1805>>¶9 Next, MOSM contends that this matter is moot because “Deegan did not allege financial damages so the case is based upon the right of possession” and Deegan has already vacated the property. Br. of Resp’t at 14. Thus, MOSM reasons that this court cannot provide any effective relief. We disagree.
+
+[3] <<3: 233-k-1790>>¶10 The Washington Supreme Court has long held that an unlawful detainer case is not moot simply because the tenant does not have possession of the premises at the time of appeal. Lochridge v. Natsuhara, 114 Wash. 326, 330, 194 P. 974 (1921); see also Hous. Auth. of City of Pasco & Franklin County v. Pleasant, 126 Wash. App. 382, 388, 109 P.3d 422 (2005). “If the tenant does not concede the right of possession, she has the right to have the issue determined.” IBF, LLC v. Heuft, 141 Wash. App. 624, 631, 174 P.3d 95 (2007). “Further, if a tenant has a monetary stake in the outcome of the case, such as payment of rent and attorney fees, our Supreme Court has held that ‘[o]bviously [, such a] case is not moot.’ ” Id. (alteration in original) (quoting McGary v. Westlake Investors, 99 Wash.2d 280, 284, 661 P.2d 971 (1983)). Moreover, a valid eviction judgment can impact a tenant’s later attempts to secure housing. “Having an eviction on one’s housing record can harm their credit and prevent them from qualifying for public housing.” Benjamin C. Carpenter, A Solution Hidden in Plain Sight: Closing the Justice Gap by Applying to Legal Aid the Market Incentives That Propelled the Pro Bono Revolution, 25 CHAP. L. REV. 1, 9 n.38 (2021).
+
+¶11 Here, Deegan has a monetary stake in the outcome of the case due to the money judgment issued against her, and she continues to assert a right to possession on appeal. Moreover, the eviction could have other impacts on Deegan’s ability to obtain rental housing in the future. This case is not moot.
+
+<<*289>> <<**595>> B. Right to Counsel
+
+[4] <<4: 233-k-1790>>¶12 Turning to the merits, Deegan argues that because she appeared at the show cause hearing without counsel, said she had no money, and asked for a public defender, the trial court should have continued the hearing so she could be screened for indigence and assigned counsel. MOSM responds that Deegan was not entitled to an attorney because she did not demonstrate at the hearing that she was indigent. And MOSM contends that the “question of whether the [indigent tenant representation] program was funded by the legislature,” a prerequisite to the right to counsel, “is unanswered.” Br. of Resp’t at 9.
+
+¶13 In April 2021, the legislature provided that trial courts must appoint counsel at public expense for indigent tenant defendants in unlawful detainer proceedings: “Subject to the availability of amounts appropriated for this specific purpose, the court must appoint an attorney for an indigent tenant in an unlawful detainer proceeding under this chapter.” RCW 59.18.640(1) (emphasis added). “The office of civil legal aid is responsible for implementation of this subsection ..., and the state shall pay the costs of legal services provided by an attorney appointed pursuant to this subsection.” RCW 59.18.640(1). A person is indigent for the purposes of the statute if they receive one of several types of public assistance including food stamps, Medicaid, or supplemental social security income, or have an annual income that is less than 200 percent of the federal poverty level. RCW 59.18.640(2)(a)-(b). The statute took effect in the spring of 2021. LAWS OF 2021, ch. 115, § 8.
+
+¶14 The mandate was subject to the availability of funding, and the legislature provided funding in the operating budget the same year. LAWS OF 2021, ch. 334, § 117(7). The Office of Civil Legal Aid (OCLA) promptly began recruiting and training attorneys for indigent tenant representation, and by January 2022, it had attorneys “trained and available for appointment in all 37 judicial districts” across the <<*290>> state. OFF. OF CIV. LEGAL AID, REPORT TO THE LEGISLATURE 3 (July 28, 2022)[fn:1]1<--#1
+
+[fn:1] https://ocla.wa.gov/wp-content/uploads/2022/07/OCLA-Report-to-the-Legislature-Implementation-of-Indigent-Tenant-Right-to-Counsel-FINAL-7-28-22-.pdf [https://perma.cc/53F5-LHST]
+
+¶15 In the meantime, in August 2021, shortly after RCW 59.18.640 was enacted, Grays Harbor County Superior Court adopted a standing order providing that “at any show cause hearing or trial where a tenant defendant appears unrepresented, the Court will advise the tenant of their right to appointed counsel if indigent and inquire whether they wish to assert that right.” GRAYS HARBOR COUNTY SUPERIOR CT., Ord. 2021-5, at 2 (Aug. 24, 2021) (emphasis added). “If the tenant defendant requests appointment of counsel, the Court shall refer them to” services to screen the tenant for indigency. Id. (emphasis added). And “the Court will continue the initial hearing for not less than one week to permit the tenant defendant time to be screened for eligibility and, if eligible, secure appointment of and consult with their counsel.” Id. (emphasis added).
+
+¶16 The order also provided that it would take effect upon “notification from OCLA that sufficient funding and attorney capacity is available to meet the demand for appointed attorneys in Grays Harbor County Superior Court and shall continue in effect unless or until OCLA advises that insufficient funding and/or attorney capacity is available to continue accepting appointments.” Id. An OCLA report to the legislature in July 2022 stated that the indigent tenant representation program had “been fully operational since mid-January 2022,” with attorneys “available for appointment in all 37 judicial districts,” almost a year before the hearing occurred in this case. OFF. OF CIV. LEGAL AID at 2-3.
+
+<<*291>> ¶17 Attorneys remained available for appointment in Grays Harbor County through the short pendency of this case. An August 2023 OCLA report indicated that the program had resulted in counsel being appointed in 111 cases in Grays Harbor County between April 2021 and March 2023. RACHEL FYALL, ET AL., UNIV. OF WASH., WASHINGTON STATE’S APPOINTED COUNSEL PROGRAM: BASELINE <<**596>>  REPORT 4 (Aug. 14, 2023)[fn:2]2<--#1 While the report acknowledged problems with attorney turnover and “the ongoing challenge of maintaining adequate staff capacity for appointed counsel cases,” there is no evidence of any pause in the appointment of attorneys. Id. at 12. And the legislature appropriated additional funding for the program through the 2023-2025 biennium. Id. at 20; LAWS OF 2023, ch. 475, § 116(3).
+
+[fn:2] https://ocla.wa.gov/wp-content/uploads/2023/10/Final-Report-on-Implementation-of-Tenant-Appointment-Counsel-Program-10-2023.pdf [https://perma.cc/J8M4-WYTR]
+
+¶18 In Payton v. Nelson, a trial court proceeded with a show cause hearing without appointing counsel for indigent tenant defendants in late 2021 because indigent tenant representation was not yet available in Whitman County. ––– Wash. App. 2d ––––, 525 P.3d 244, 247-48 (2023). Division Three concluded that “given plain language that the right to counsel and duty to appoint counsel existed immediately [upon enactment of the statute], the only reasonable reading of RCW 59.18.640(1) is that if indigent tenants did not have appointed counsel, an eviction proceeding would have to be delayed.” Id. at 249. Because the tenants in Payton were deprived of their statutory right to counsel, Division Three reversed the eviction judgment and writ of restitution and remanded for further proceedings. Id.
+
+¶19 Here, indigent tenant representation was fully funded, staffed, and operational months before the show cause hearing. The statute establishing the right to counsel and Grays Harbor County Superior Court’s standing order each required the trial court to inform Deegan of her right to counsel at the hearing, inquire whether she wished to <<*292>> assert that right, and refer her for screening and possible representation if she sought to assert the right. Nothing in the statute or in the standing order authorized discretion on the part of the trial court: if a tenant appeared without an attorney and asked for one, the trial court had to continue the hearing and refer the tenant for screening. The trial court did not need any proof of indigence at that stage. The predicate for referral for screening was whether the tenant appeared without a lawyer and asked for one. And even if the tenant had not asked about obtaining counsel, the trial court had a duty under the standing order to inform Deegan of the statutory right to counsel for indigent eviction defendants and inquire whether she wanted to be screened for indigency.
+
+¶20 The trial court erred by conducting the show cause hearing when Deegan appeared without a lawyer and asked that one be appointed for her. The trial court should have referred Deegan for screening and continued the hearing until she received or was denied appointed counsel. Because the right to counsel issue is dispositive, we do not reach Deegan’s arguments addressing the merits of the judgment. See State v. Osborne, 70 Wash. App. 640, 643, 855 P.2d 302 (1993).
+
+*** ATTORNEY FEES ON APPEAL
+
+[5] <<5: 233-k-1807>>¶21 Deegan and MOSM both request attorney fees on appeal. They each seek attorney fees under RAP 18.1(a), which authorizes an award of fees if “applicable law” permits, and RCW 59.18.290(2), which allows the prevailing party in a landlord-tenant suit to recover their “costs of suit or arbitration and reasonable attorneys’ fees.”
+
+[6] <<6: 233-k-1807>> [7]¶22 MOSM is not a prevailing party, so we deny its request for fees. For Deegan’s request, the fact that Deegan’s attorneys are pro bono does not alone prohibit her from receiving attorney fees. Council House, Inc. v. Hawk, 136 Wash. App. 153, 160, 147 P.3d 1305 (2006). But it is not <<*293>> yet clear which party will prevail on the merits of the unlawful detainer action. Leda v. Whisnand, 150 Wash. App. 69, 87, 207 P.3d 468 (2009). Thus, any determination of the prevailing party is premature at this time and should be determined on remand.
+
+*** CONCLUSION
+
+¶23 We reverse and remand for the trial court to vacate the judgment and for further proceedings consistent with this opinion. Neither party is entitled to attorney fees at this time.
+
+We concur:
+
+Lee, J.
+
+Price, J.

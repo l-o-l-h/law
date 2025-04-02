@@ -1,0 +1,330 @@
+#+title:      MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+#+date:       [2012-05-21 Mon 00:00]
+#+filetags:   :case:law:
+#+identifier: 20120521T000000
+#+signature:  coa=div1
+
+* MHM & F, LLC v. Pryor -- Court of Appeals of Washington, Division 1. | May 21, 2012 | 168 Wash.App. 451 | 277 P.3d 62
+
+- Washington Citation :: MHM & F, LLC v. Pryor, 168 Wn. App. 451, 277 P.3d 62 (2012)
+- All Citations :: 168 Wash.App. 451, 277 P.3d 62
+
+
+                          168 Wash.App. 451
+
+             Court of Appeals of Washington, Division 1.
+
+  MHM & F, LLC, a Washington limited liability company, Respondent,
+
+                                  v.
+
+Edward PRYOR, Jr., and Jane Doe Pryor, Jr., husband and wife, and their marital community, Appellants.
+
+                            No. 66027–6–I
+                            May 21, 2012.
+** Brief
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (4)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+
+** Synopsis
+
+Background: Owner of mobile home park brought unlawful detainer action against tenant after tenant stopped paying rent. The Superior Court, Snohomish County, Joseph Wilson, J., issued writ of restitution and judgment in owner’s favor, and tenant appealed.
+
+[Holding:] The Court of Appeals, Lau, J., held that trial court did not lack subject matter jurisdiction over unlawful detainer action, abrogating Truly v. Heuft, 138 Wash.App. 913, 158 P.3d 1276, and Laffranchi v. Lim, 146 Wash.App. 376, 190 P.3d 97.
+
+Affirmed.
+
+Procedural Posture(s): On Appeal.
+
+** West Headnotes (4)
+
+*** [1] Landlord and Tenant  [[1: 233-k-2126(2)][233-k-2126(2)]]  Notice
+
+- /233 Landlord and Tenant/
+- /233-XI Mobile Homes and Mobile Home Parks/
+- *233-k-2121 Reentry and Recovery of Possession;  Termination*
+- *233-k-2126 Actions*
+- *233-k-2126(2) Notice*
+- /(Formerly 233k392)/
+
+Failure to include in summons on complaint for unlawful detainer facsimile number of limited liability company that owned mobile home park or its attorney, together with LLC’s failure to include mobile home park association as necessary party, did not deprive trial court of subject matter jurisdiction, and thus tenant was not entitled to appellate review of summons and joinder claims that were not argued before trial court; abrogating Truly v. Heuft, 138 Wash.App. 913, 158 P.3d 1276, and Laffranchi v. Lim, 146 Wash.App. 376, 190 P.3d 97. West’s RCWA 59.18.365; RAP 2.5(a).
+
+- 5 Cases that cite this headnote
+
+*** [2] Appeal and Error  [[2: 30-k-3212][30-k-3212]]  Subject-matter jurisdiction
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XVI(D)3 Procedural Matters in General/
+- *30-k-3210 Jurisdiction*
+- *30-k-3212 Subject-matter jurisdiction*
+- /(Formerly 30k893(1))/
+
+Whether a court has subject matter jurisdiction is a question of law reviewed de novo.
+
+- 11 Cases that cite this headnote
+
+*** [3] Judgment  [[3: 228-k-16][228-k-16]]  Jurisdiction of the person and subject-matter
+
+- /228 Judgment/
+- /228-I Nature and Essentials in General/
+- *228-k-16 Jurisdiction of the person and subject-matter*
+
+A judgment entered by a court that lacks subject matter jurisdiction is void.
+
+- 11 Cases that cite this headnote
+
+*** [4] Courts  [[4: 106-k-157.1][106-k-157.1]]  Washington
+
+- /106 Courts/
+- /106-III Courts of General Original Jurisdiction/
+- /106-III(B) Courts of Particular States/
+- *106-k-157.1 Washington*
+
+The court will narrowly construe exceptions to the constitution’s jurisdictional grant. West’s RCWA Const. Art. 4, § 6.
+
+- 1 Case that cites this headnote
+
+** Attorneys and Law Firms
+
+- <<**63>> Dan Young, Seattle, WA, for Appellants.
+- Jerome Cronk, Shoreline, WA, for Respondent.
+
+** Opinion
+
+LAU, J.
+
+<<*452>> ¶ 1 This case involves a hold-over mobile home park tenant evicted under the Manufactured/Mobile Home Landlord–Tenant Act (Act) (ch. 59.20 RCW) for his refusal to pay rent on his mobile home space. He challenges the trial court’s exercise of subject matter jurisdiction and its written findings of fact and conclusions of law. Because the court had subject matter jurisdiction, substantial evidence supports the findings, and the findings support the conclusions of law, we affirm entry of the order for writ of restitution and judgment for unlawful detainer and award <<*453>> attorney fees to Manufactured Homes Management & Financial Co. LLC (LLC) under RAP 18.1.
+
+FACTS[fn:1]
+
+[fn:1] For clarity we refer to appellant as “Pryor Junior” and his father (the original stock purchaser) as “Pryor Senior.” We also refer to Wellington family members by their first names.
+
+¶ 2 The record shows the following facts. Edwin Wellington (Ed) owned Thunderbird Mobile Home Park (park), which contained 65 mobile home lots. Park tenants rented or owned the mobile homes on a particular lot. With the help of his attorney, Ed set up a co-op regarding possession of the lots. To accomplish this, he conveyed the park ownership to Thunderbird Estates Mobile Home Association (Association), a mutual corporation organized under Washington law, in exchange for shares in the Association.[fn:2] Ed then formed a company, Manufactured Homes Management & Financial Co. Inc. (MHM & F) and transferred the shares to that company. MHM & F sold shares in the Association to tenants. Tenants who purchased shares were required to sign three documents. Each tenant signed a stock purchase agreement outlining the purchase price and extended payment terms for 100 shares of stock in the Association.[fn:3] The purchaser’s obligations were secured by a pledge and trust agreement whereby the 100 shares of stock were pledged to a trustee with power to sell the stock upon default. Tenants also signed a 99–year, renewable proprietary lease with the Association, permitting them to use a particular lot in the park. Tenants paid “rent” to the Association, which consisted of each tenant’s pro rata share of the park’s maintenance expenses.
+
+[fn:2] Ed’s brother, Wilie Wellington, testified at trial that the Association was a “co-op” that owned the land in the park. He stated, “The tenants own shares of the association, and, subsequently, rent their space from the association, with a 99–year lease as renewable.” Report of Proceedings (RP) (Aug. 10, 2010) at 21.
+
+[fn:3] Some tenants, however, occupied spaces in the park but were not shareholders in the Association. Those tenants made rent payments to the LLC, the successor to MHM & F. See RP (Aug. 10, 2010) at 125–26.
+
+<<**64>> <<*454>> ¶ 3 In October 1982, Pryor Senior purchased from MHM & F 100 shares of stock in the Association for $22,995.00 pursuant to a written stock purchase agreement. The shares related to space 65 in the park. After a $1,500.00 down payment and a $3,000.00 discount, the balance to finance was $18,495.00, payable in 360 equal monthly installments of $190.24 beginning December 1, 1982.
+
+¶ 4 Pryor Senior also signed a pledge and trust agreement and a proprietary lease relating to space 65. The pledge and trust agreement named Dempcy & Braley PS as trustee and pledged Pryor Senior’s shares in the Association to the trustee, to be returned to Pryor Senior upon full payment. The agreement specified that all installments on the stock purchase should be paid “to Seller (MHM[ & F] ).” Ex. 2, at 1. The agreement also provided that in the event of a default under the stock purchase agreement, “[t]rustee may foreclose the pledge by selling the capital stock at public or private sale, with or without notice ....” Ex. 2, at 3. The proprietary lease named Pryor Senior as the lessee and the Association as the lessor of space 65. The lease provided for rent to be paid to the “[Association] or its managing agent.”[fn:4] Ex. 3, at 5.
+
+[fn:4] According to the proprietary lease, “rent” is defined as certain cash requirements of the lessor associated with park operation and maintenance expenses. Ex. 3, at 1–2.
+
+¶ 5 Pryor Junior lived in Pryor Senior’s mobile home on space 65 until Pryor Senior died in September 2003. Pryor Junior continued to occupy space 65 after his father’s death and made payments pursuant to the stock purchase and sale agreement and the proprietary lease.
+
+¶ 6 Ed Wellington’s brother, Wilie Wellington, commenced working for MHM & F in 2005 or 2006. He worked side by side with Ed, handling the company’s books and day to day operations. He was later named trustee under the <<*455>> pledge and trust agreement.[fn:5] According to Wilie, at that time MHM & F was “doing business as” a company of Ed’s.[fn:6]
+
+[fn:5] While the original trustee was Dempcy & Braley PS, it withdrew after some time.
+
+[fn:6] Wilie’s reference to “d/b/a” is based on Ed’s status as the company’s founder, majority shareholder, and president.
+
+¶ 7 Pryor Junior periodically failed to timely pay the monthly stock payments. A default notice dated June 19, 2006, alleged he failed to pay the May 2006 installment. Another default notice dated September 12, 2006, alleged he failed to pay the August and September 2006 installments. Ed informed Pryor Junior in late September 2006 that the stock associated with space 65 had been sold at private sale due to Pryor Junior’s payment default. But in October 2006, Wilie informed Pryor Junior that “[w]e backed off ... because your second bounced check was honored on [its] second submission.”[fn:7] In November 2006, Pryor Junior wrote to Ed asking if he “would be interested in buying my place back at the price of $25,000.” Ex. 10. According to Wilie, he was not aware if Ed responded.
+
+[fn:7] Regarding this transaction, Wilie Wellington testified at the second trial, “We undid [the sale of the shares.]” RP (Aug. 10, 2010) at 33.
+
+¶ 8 On May 15, 2007, “Manufactured Homes Management & Financial Co. by Wilie Wellington” sent another notice of default and breach of the stock purchase agreement to Pryor Junior. Exs. 13, 14. It alleged, “The Estate of Edward Pryor” owed $467–two installments of $191 each,[fn:8] two late charges of $5 each, and $75 cost of service. This notice provided:
+
+[fn:8] At some point the parties began rounding the $190.24 payment up to $191.00. The amount is referred to variously in the record as $190.00, $190.24, or $191.00.
+
+[I]f the above stated breach is not cured within ten (10) days since the date of this notice the Trustee shall commence foreclosure of the pledge of your shares of capital stock in [the Association] and the trustee shall thereafter proceed to foreclose the pledge by selling the capital stock at public or private sale without further notice to you....
+
+<<*456>> Ex. 13. Pryor Junior received the notice on May 25. On May 29, the Association <<**65>> demanded unpaid “maintenance charges” of $538.01.
+
+¶ 9 Acting as trustee under the pledge and trust agreement, Wilie sold the shares associated with lot 65 to Ed, d/b/a MHM & F, for $11,447.27 on May 30, 2007. This amount represented the balance owed under the stock purchase agreement. On May 31, Pryor Junior sent a $400.00 check to MHM & F, which was returned to him. A June 12, 2007 letter “To the Estate of Edward Pryor” from Ed notified Pryor Junior that “the stock has been sold at a private sale” and directed him to “make arrangements to [submit] for a credit report and if approved you must sign a lease, which is at the rate of $485.00 per month, or vacate the lot.” Ex. 19. Several payments Pryor Junior attempted to tender after that time were rejected because “his interest as a purchaser had been foreclosed.” Report of Proceedings (RP) (Aug. 10, 2010) at 50–51.
+
+¶ 10 In July 2007, Wilie, as the “authorized agent of [the Association],” sent Pryor Junior a notice of termination of lease. Ex. 23. The Association and MHM & F jointly filed an unlawful detainer action on October 30, 2007. In March 2008, following a one-day bench trial, the trial court granted Pryor Junior’s motion to dismiss without prejudice[fn:9] the unlawful detainer action after the case in chief on lack of subject matter jurisdiction grounds. The court also entered findings of fact and conclusions of law, including findings regarding the status of the parties and a conclusion that Pryor Junior was “a tenant of the Park subject to provisions of the Mobile Home Landlord–Tenant Act, Chapter 59.20 RCW.”[fn:10] Ex. 26, at 4. It awarded $12,702.50 attorney fees and costs to Pryor Junior as the prevailing party under the Act. MHM & F did not appeal this judgment.
+
+[fn:9] The court dismissed the Association’s claims with prejudice because Pryor Junior cured his default in rent payments to the Association six days before trial.
+
+[fn:10] These findings and conclusions were entered in January 2010. A number of factors contributed to the nearly two-year delay.
+
+<<*457>> ¶ 11 Ed Wellington died on January 31, 2009. His son, Jonathon Wellington, served as copersonal representative of his estate. In May 2009, Jonathon formed a limited liability company—MHM & F LLC—and transferred MHM & F’s interests in pledge agreements and lots at the park to the LLC.
+
+¶ 12 In January 2010, “Jonathon Wellington for MHM & F, LLC” sent Pryor Junior a letter stating, “As you may know, in the case in Snohomish County Superior Court involving Thunderbird, Ed Wellington, and you, Judge Bowden recently made findings in the case holding that you were a tenant of the Thunderbird Mobile Home Park.” Ex. 27, at 1, 2. The letter alleged Pryor Junior owed $467.00 in “back rent” for periods prior to May 2007 and had paid nothing since then. “That is a period of 33 months (from April, 2007, through January, 2010) and adds up to a total of $6,744.92 in unpaid rent.” Ex 27, at 1. The letter offered Pryor Junior a one-year lease, including a provision for “payment of monthly rent that continues the current monthly rent of $190.24 per month for the next three months” and then increased to $560.00 per month beginning May 1, 2010. Ex. 27, at 1. Pryor Junior refused to accept the lease contract and failed to pay any money to the LLC.
+
+¶ 13 On February 11, 2010, Jonathon Wellington as “Managing Member” of “MHM & F, LLC, Lessor/Landlord,” served Pryor Junior with a five-day notice to pay rent or vacate. It alleged that Pryor Junior owed rent for April 2007 through January 2010, plus late charges and a $75 service of notice fee, for a total of $6,770.[fn:11] Ex. 28, at 1. When Pryor Junior failed to pay, the LLC filed an unlawful detainer action in March 2010. In April 2010, Pryor Junior moved to Florida, leaving his mobile home on space 65.
+
+[fn:11] As of July 26, 2010, Pryor Junior also owed the Association $3584.17 in unpaid maintenance payments.
+
+¶ 14 After a bench trial in August 2010, the court determined that the May 2007 stock foreclosure sale was valid, <<*458>> Pryor Junior was a tenant of the LLC subject to the Act, and the requirements for unlawful detainer were satisfied. The court issued a writ of <<**66>> restitution in favor of the LLC and a judgment for attorney fees of $29,782.50, costs of $235.00, and unpaid rent of $7,419.36, set off against Pryor Junior’s previous judgment for attorney fees ($13,683.86 with accrued interest) obtained in the first lawsuit. Pryor Junior appeals.
+
+Subject Matter Jurisdiction (Assignment of Error 1)[fn:12]
+
+[fn:12] On February 13, 2012, the LLC moved to supplement its designation of Clerk’s Papers to include a document entitled “Note for Trial & Stipulation for Early Trial Date.” Given our resolution here, we need not address the LLC’s motion.
+
+¶ 15 Pryor Junior challenges the judgment on two grounds he failed to raise below. First, he claims that a summons served in a case governed by the Act (ch. 59.20 RCW) is subject to a particular requirement for summonses served in cases governed by the Residential Landlord Tenant Act (ch. 59.18 RCW). Specifically, RCW 59.18.365 provides that a summons must contain a street address for service of the notice of appearance or answer and, if available, a facsimile number for the plaintiff or the plaintiff’s attorney. The summons served on Pryor Junior contained no facsimile number for the LLC or its attorney. Second, he claims that the Association should have been named as a party because it was declared a necessary party in a previous decision that he contends must be given collateral estoppel effect.[fn:13]
+
+[fn:13] We note that Pryor Junior’s brief later argues inconsistently with his jurisdiction claim that the previous decision should not be given collateral estoppel effect.
+
+[1] <<1: 233-k-2126(2)>> ¶ 16 Ordinarily, arguments not raised in the trial court will not be considered on appeal. RAP 2.5(a). To overcome this problem, Pryor Junior contends that failing to include the facsimile number in the summons and failing to join a necessary party deprived the court of subject matter jurisdiction to hear the action. We reject this contention, <<*459>> following Housing Authority of City of Seattle v. Bin, 163 Wash.App. 367, 373–78, 260 P.3d 900 (2011).
+
+[2] <<2: 30-k-3212>> [3] <<3: 228-k-16>> ¶ 17 Whether a court has subject matter jurisdiction is a question of law reviewed de novo. Dougherty v. Dep’t of Labor & Indus., 150 Wash.2d 310, 314, 76 P.3d 1183 (2003). “A judgment entered by a court that lacks subject matter jurisdiction is void.” Cole v. Harveyland, LLC, 163 Wash.App. 199, 205, 258 P.3d 70 (2011). The trial court’s lack of subject matter jurisdiction may be raised for the first time on appeal. RAP 2.5(a)(1); In re Marriage of Scanlon, 110 Wash.App. 682, 685, 42 P.3d 447 (2002).
+
+¶ 18 We recognize our previous decisions support Prior Junior’s argument that a properly worded summons is necessary to “confer” subject matter jurisdiction upon a superior court. See, e.g., Truly v. Heuft, 138 Wash.App. 913, 918–23, 158 P.3d 1276 (2007). We also acknowledge a previous decision holding that a superior court lacks subject matter jurisdiction in an unlawful detainer action where a necessary party is not joined as a party. Laffranchi v. Lim, 146 Wash.App. 376, 383–84, 190 P.3d 97 (2008). By characterizing these issues as jurisdictional, Truly and Laffranchi permit them to be raised for the first time on appeal. But those cases are incorrectly reasoned on that point. Those cases did not consider article IV, section 6 of our constitution.
+
+¶ 19 In recent cases where our appellate courts have considered the constitutional grant of subject matter jurisdiction to the superior courts, they have accorded it the centrality that it deserves. Our Supreme Court has held that article IV, section 6 is dispositive and has overruled precedents that erroneously classify the superior court’s jurisdiction as statutory. See State v. Posey, 174 Wash.2d 131, 272 P.3d 840, 842–45 (2012); ZDI Gaming, Inc. v. State ex rel. Washington State Gambling Comm’n, 173 Wash.2d 608, 616–18, 268 P.3d 929 (2012); Williams v. Leone & Keeble, Inc., 171 Wash.2d 726, 730, 734, 254 P.3d 818 (2011); Dougherty v. Dep’t of Labor & Indus., 150 Wash.2d 310, 316–20, 76 P.3d 1183 (2003); <<*460>> Young v. Clark, 149 Wash.2d 130, 133–34, 65 P.3d 1192 (2003); Shoop v. Kittitas County, 149 Wash.2d 29, 38, 65 P.3d 1194 (2003); Marley v. Dep’t of Labor & Indus., 125 Wash.2d 533, 541, 886 P.2d 189 (1994). Truly and Laffranchi exemplify the problem <<**67>> identified by our Supreme Court in Marley, where the court observed that the improvident and inconsistent use of the term “subject matter jurisdiction” has caused it to be confused with a court’s authority to rule in a particular manner. Marley, 125 Wash.2d at 539, 886 P.2d 189.
+
+[4] <<4: 106-k-157.1>> ¶ 20 Whether the superior court ruled correctly or incorrectly in this particular case, it did not lack subject matter jurisdiction. The court’s subject matter jurisdiction in cases involving the title or possession of real property is expressly granted by the state constitution and has not been “vested exclusively in some other court.” WASH. CONST. art. IV, sec. 6. We narrowly construe exceptions to the constitution’s jurisdictional grant. Cole v. Harveyland, LLC, 163 Wash.App. 199, 206, 258 P.3d 70, (2011). Thus, it is incorrect to say that the court acquires subject matter jurisdiction from an action taken by a party or that it loses subject matter jurisdiction as the result of a party’s failure to act. Bin, 163 Wash.App. at 376, 260 P.3d 900.
+
+¶ 21 If the type of controversy is within the superior court’s subject matter jurisdiction, as it is here, “ ‘then all other defects or errors go to something other than subject matter jurisdiction.” ’ Marley, 125 Wash.2d at 539, 886 P.2d 189 (quoting ROBERT J. MARTINEAU, Subject Matter Jurisdiction as a New Issue on Appeal: Reining in an Unruly Horse, 1988 B.Y.U. L.REV. 1, 28. Here, the alleged errors go to statutory interpretation (Does an applicable statute require that the summons refer to a facsimile number, and if so, does the absence of such a reference require that the action be dismissed?) and to matters of procedure (Was the Association a necessary party, and if so, could the case proceed in its absence?). Pryor Junior could have litigated these issues in the trial court, but he failed to do so. Because the trial court’s subject matter jurisdiction did not depend on the wording of the summons or the joinder of parties, Pryor <<*461>> Junior may not assert lack of subject matter jurisdiction as an excuse for avoiding his responsibility to preserve error. These are issues on which the trial court was not asked to make a ruling, and we decline to address them.[fn:14]
+
+[fn:14] For the reasons discussed above, we also reject Pryor Junior’s argument that the superior court lacked jurisdiction because the LLC lacked a statutory basis for its action under the Residential Landlord–Tenant Act, chapter 59.18 RCW, the Manufactured/Mobile Home Landlord–Tenant Act, chapter 59.20 RCW, or the general unlawful detainer statutes, chapter 59.12 RCW.
+
+¶ 22 Because the trial court had subject matter jurisdiction and substantial evidence supports its findings and the findings support its conclusions, we affirm entry of the order for writ of restitution and judgment for unlawful detainer.
+
+¶ 23 The remainder of this opinion has no precedential value. Therefore, it will not be published but has been filed for public record. See RCW 2.06.040; CAR 14.
+
+Stock Foreclosure Sale (Assignments of Error 2, 3, 4, 5, 8, 10, 13, 14)
+
+¶ 24 Pryor Junior argues the foreclosure sale’s invalidity premised on several grounds addressed below.
+
+**** Status of Seller
+
+¶ 25 Pryor Junior argues that MHM & F, the seller under the stock purchase and pledge and trust agreements, was a dissolved and nonexistent entity that lacked authority to conduct business at the time of the foreclosure sale. He assigns no error to finding of fact A.2, which states, “Edwin R. Wellington, d/b/a ‘Manufactured Homes Management and Financial Company’ was the successor of [MHM & F], a corporation, that was dissolved some years after 1982.” He also assigns no error to related conclusion of law B, which states, “[The LLC] was a legal successor to the interest of Edwin R. Wellington in the property and business known as Manufactured Homes Management and Financial Co., and the subject matter of this case.” Unchallenged findings of fact are verities on appeal. Zunino v. Rajewski, 140 Wash.App. 215, 220, 165 P.3d 57 (2007). And unchallenged conclusions of law become the law of the case. King Aircraft Sales, Inc. v. Lane, 68 Wash.App. 706, 716, 846 P.2d 550 (1993). Pryor Junior provides no argument or record citations to show that Ed Wellington, d/b/a MHM & F Co., Inc., lacked lawful authority to conduct the stock foreclosure sale. We decline to consider claims unsupported by citation to authority, references to the record, or meaningful analysis. RAP 10.3(a)(6); Cowiche Canyon Conservancy v. Bosley, 118 Wash.2d 801, 809, 828 P.2d 549 (1992).
+
+**** Notice
+
+¶ 26 Pryor Junior first argues that the May 15, 2007 notice of default was defective because it was addressed to a nonexistent entity and was signed “on behalf of a defunct corporation.” Appellant’s Br. at 31. Pryor Junior failed to raise this argument below and thus waives it on appeal. See RAP 2.5(a); State v. McFarland, 127 Wash.2d 322, 332–33, 899 P.2d 1251 (1995). Regardless, Pryor Junior suffered no prejudice because he received timely notice yet tendered late payment.[fn:15]
+
+[fn:15] Pryor Junior also challenges the trustee’s method of sending the notice of default. First, he claims, “[T]here is no evidence that the trustee [Wilie] mailed a notice of default to the Seller of the shares [Ed], as required by paragraph 8.C [of the pledge and trust agreement].” Appellant’s Br. at 38. But the record indicates that Ed and Wilie worked in “a very informal setting,” “had desks side by side,” and Ed had notice of the default. RP (Aug. 10, 2010) at 59, 69, 75. Pryor Junior does not argue he was prejudiced by Wilie’s failure to mail Ed a notice of default. And the law does not require a party to engage in a useless act. Moratti ex rel. Tarutis v. Farmers Ins. Co. of Wash., 162 Wash.App. 495, 504–05, 254 P.3d 939 (2011). Pryor Junior also claims that sending the notice by certified mail caused delay in its receipt. He argues, “If the notice were sent by certified mail, it should have also been sent by regular mail.” Appellant’s Br. at 39. He cites no authority for this proposition, and the pledge and trust agreement contains no such requirement. See Ex. 2, at 3 (notice is deemed sufficiently given or served “by being deposited as certified or registered mail ”) (emphasis added).
+
+¶ 27 Pryor Junior also argues the May 15, 2007 notice of default included a cost not authorized by law—$75 for the service cost. Even if the notice mistakenly included the service cost, Pryor Junior undisputedly tendered late payment, days after the deadline required under the pledge and trust agreement. The court’s finding, supported by substantial evidence, states, “Pryor J[unior] failed to make a timely or sufficient tender of payment as required by the May 15, 2007 Notice of Default.”
+
+Trustee’s Breach of Duty Claim
+
+¶ 28 Pryor Junior argues that Wilie breached his duties as trustee. He cites to no authority supporting his lack of independent trustee argument and fails to support his conflict of interest argument with any citation to the record. And during closing remarks, Pryor Junior’s counsel acknowledged he presented no breach of duty evidence:
+
+*** THE COURT: I don’t have any expert testimony that anybody breached a fiduciary duty here, do I?
+
+[DEFENSE]: No, no, you don’t, and I’m not saying there was—
+
+*** THE COURT: Your argument is one of equity?
+
+[DEFENSE]: Yes, exactly.
+
+....
+
+*** THE COURT: It’s an equitable point. But the point is is I don’t have anything in the record to support that. I mean, if the finding of a breach of fiduciary duty lies in equity, then I should have some expert testimony telling me that. This is a closely held corporation. It could very well be within the realm of possibility it’s how this shook out. Without anything to the contrary in the documents saying you got to give notice, and you have to post a purchase price, and you have to leave it open for bids for three days, or, you know, clearly we’ve seen those scenarios, right?
+
+[DEFENSE]: Right. No, and I’m not saying that they had to do that.
+
+RP (Aug. 11, 2010) at 212–13 (emphasis added). We therefore decline to address these claims. RAP 10.3(a)(6); Cowiche Canyon, 118 Wash.2d at 809, 828 P.2d 549.
+
+¶ 29 Pryor Junior also argues that Wilie breached his duty as trustee when he refused to accept Pryor Junior’s May 31, 2007 tender of $400. He claims that Wilie “should at least have considered whether Pryor Junior had a legitimate reason for not sending a check within the ten-day period.” Appellant’s Br. at 39. He also argues Wilie should have considered “equitable principles” to prevent forfeiture of the stock. But he cites no controlling case authority[fn:16] that requires a trustee to extend the cure period after default or to consider equity. See RAP 10.3(a)(6); Cowiche Canyon, 118 Wash.2d at 809, 828 P.2d 549.
+
+[fn:16] None of the cases Pryor Junior relies on are persuasive or controlling. Most involve real estate contracts or leases.
+
+¶ 30 In addition, the trial court determined that Pryor Junior tendered less than the amount demanded “16 days after the notice went out, which would be six days after the cure period had passed.” RP (Aug. 11, 2010) at 241.
+
+There’s no attempt by Pryor, Jr. to make inquiry, whether by telephone or in person, whether he could cure. Even if I give him an extra three days, which you can give for notices under the court rule for notices sent by mail. It still doesn’t explain why Pryor, Jr., if in fact, he got [the notice] on [May] 25th ..., didn’t take immediate steps, either through himself or counsel, to make contact and provisions for payment.
+
+*** RP (Aug. 11, 2010) at 241 (emphasis added). The record also shows the court considered the circumstances and the equities before concluding the foreclosure sale was valid.
+
+**** Unconscionability Claim
+
+¶ 31 Pryor Junior contends the stock foreclosure sale was unconscionable because (1) the fair market value of the shares exceeded the net sale proceeds, (2) Wilie failed to provide public notice of the sale, and (3) Wilie failed to allow public bidding. At trial Pryor Junior offered no evidence of value aside from his own November 6, 2006 letter to Ed, stating, “I would like to know if you would be interested in buying my place back at the price of $25,000.”[fn:17] Ex. 10. And Wilie followed the procedures in the pledge and trust agreement.[fn:18] Pryor Junior next argues that the contract terms were substantively unconscionable. “Substantive unconscionability involves those cases where a clause or term in the contract is one-sided or overly harsh.” Townsend v. Quadrant Corp., 153 Wash.App. 870, 882, 224 P.3d 818 (2009). Pryor Junior failed to raise this argument below and thus waives it on appeal. See RAP 2.5(a); McFarland, 127 Wash.2d at 332–33, 899 P.2d 1251.
+
+[fn:17] Even if we assume the shares had a fair market value of $25,000, “Washington courts have not set a benchmark for when a foreclosure sale is inadequate as a matter of law. In general, Washington courts have found the purchase price inadequate when it is less than 10 percent of the fair market value.” Albice v. Premier Mortgage Servs. of Wash., Inc., 157 Wash.App. 912, 932, 239 P.3d 1148 (2010). Here the stock was sold for over 45 percent of what Pryor Junior claims is the fair market value.
+
+[fn:18] The agreement states, “Trustee shall commence foreclosure of this pledge after ten (10) days have elapsed since the mailing of notice of default to Purchaser and the Seller.” Ex. 2, at 3. Notice is sufficiently given “by being deposited as certified or registered mail, with postage prepaid, in the post office letter box....” Ex. 2, at 3. The agreement authorizes the trustee, upon default, to “foreclose the pledge by selling the capital stock at public or private sale with or without notice ....” Ex. 2 at 3. Wilie conducted a private sale without notice on May 30, 2007–15 days after mailing a notice of default to Pryor Junior via certified mail. Ex. 13, 14, 17.
+
+¶ 32 The trial court properly concluded based on substantial evidence that
+
+2. Status as Stock Purchasers
+
+2.1. Failure to Cure
+
+Defendants did not cure the default in stock purchase installment that existed on May 15, 2007, in a timely or sufficient manner and did not take reasonable steps thereafter to cure their default. Defendants are therefore not stock purchasers.
+
+2.2. Forfeiture of Stock
+
+Pryor, Jr.’s putative interest in his father’s shares of stock in the Association were foreclosed upon by Notice of Default and failure to cure. Plaintiff’s predecessor had the right to and did sell the shares to Edwin R. Wellington according the provisions of the Contracts and Pryor, Jr.’s interest in the shares were thereby extinguished. There was nothing improper in the sale of shares and the Trustee did not act in bad faith.
+
+Concluding Pryor Junior’s stock forfeiture claims are meritless, we turn next to his unlawful detainer action challenges.
+
+**** Unlawful Detainer Action
+
+Offset (Assignment of Error 9)
+
+¶ 33 Pryor Junior argues that no basis existed for the current unlawful detainer action because no net sum was owed to the LLC. According to Pryor Junior, at the time the LLC sent him a notice to pay rent or vacate, seeking unpaid rent of $6770.00, he had an unpaid $12,702.50 judgment for attorney fees against MHM & F awarded in the first lawsuit. See Ex. 28. The LLC counters that since this award had no effect on Pryor Junior’s right to possession, no defense lies against its unlawful detainer action.
+
+¶ 34 Assuming Pryor Junior argues his attorney fee judgment is a defense to the LLC’s unlawful detainer claim, he acknowledges the well-established rule that an unlawful detainer action is very narrow and the court is limited to settling the right of possession.[fn:19] Josephinium Assocs. v. Kahli, 111 Wash.App. 617, 624, 45 P.3d 627 (2002). We explained the reason for such a rule in Kahli:
+
+[fn:19] Pryor Junior’s argument on this point is unclear. In his answer to the unlawful detainer complaint, he alleged the judgment “should be set off against the $12,702.50 judgment defendants obtained against plaintiff’s predecessor(s) in cause # 07–2–08397–7....”
+
+The unlawful detainer statute permits a tenant to assert “any legal or equitable defense or set-off arising out of the tenancy.” [RCW 59.18.380.] An equitable defense arises when “there is a substantive legal right, that is, a right that comes within the scope of judicial [juridicial] action, as distinguished from a mere moral right” and the usual legal remedies are unavailing. [Port of Longview v. Int’l Raw Materials, Ltd., 96 Wash.App. 431, 437, 979 P.2d 917 (1999).] To protect the summary nature of the unlawful detainer action, defenses “arise out of the tenancy” only when they affect the tenant’s right of possession or are “based on facts which excuse a tenant’s breach.” [Munden v. Hazelrigg, 105 Wash.2d 39, 45, 711 P.2d 295 (1985).] Where a defense exists that arises out of the tenancy, the court must consider it. Conversely, where a defense or counterclaim is not necessary to determining the right to possession, the court has no jurisdiction to consider it in an unlawful detainer action. When the tenant’s breach is failure to pay rent, the inquiry is “whether there is any legal justification for nonpayment.” [Heaverlo v. Keico Indus., Inc., 80 Wash.App. 724, 728, 911 P.2d 406 (1996).]
+
+Kahli, 111 Wash.App. at 624–25, 45 P.3d 627 (emphasis added) (second alteration in original) (footnote and internal quotation marks omitted).
+
+¶ 35 Here, none of these limited exceptions apply to Pryor Junior’s case. Pryor Junior’s attorney fee judgment stemmed from his prevailing party status under the Act’s attorney fees provision. The court concluded it lacked jurisdiction to reach the merits of the unlawful detainer action. Because the judgment neither excuses nonpayment of rent nor arises out of the tenancy, his no net sum claim fails.[fn:20] The trial court properly set off Pryor Junior’s attorney fee judgment against the unlawful detainer judgment. See Reichlin, 184 Wash. at 316, 51 P.2d 380 (holding that a previous judgment in the defendant’s favor was properly set off against the plaintiff’s verdict in an unlawful detainer action).
+
+[fn:20] To the extent Pryor Junior relies on Reichlin v. First National Bank, 184 Wash. 304, 51 P.2d 380 (1935), to argue that the LLC had no basis to bring its unlawful detainer action, he misconstrues the case. In Reichlin, the issue was not whether the landlord properly brought the unlawful detainer action. The plaintiff landlord in that case obtained a favorable verdict in the unlawful detainer action. The issue was whether the trial court properly set off against the verdict a judgment previously entered against the plaintiff and in favor of the defendant. Reichlin, 184 Wash. at 305–06, 51 P.2d 380. The court held that the defendant’s judgment was properly set off against the plaintiff’s verdict. Reichlin, 184 Wash. at 316, 51 P.2d 380.
+
+Landlord–Tenant Status (Assignments of Error 1, 6, 7, 8, 9, 10, 11, 12, 15)
+
+¶ 36 Pryor Junior claims no landlord-tenant relationship existed so no unlawful detainer action lies under the Act. The LLC correctly argues that a landlord-tenant relationship replaced the secured party-debtor relationship when the stock associated with space 65 was properly sold in foreclosure.
+
+¶ 37 We first address whether collateral estoppel applies to the 2008 findings of fact and conclusions of law because both parties rely on them in this case. A party seeking to bar relitigation of an issue under the collateral estoppel doctrine must show (1) the issue decided in a previous adjudication is identical to that presented in the current action, (2) the first adjudication resulted in a final judgment on the merits, (3) the opposing party is the same or in privity with a party to the prior litigation, and (4) application of collateral estoppel will not work an injustice. Williams v. Leone & Keeble, Inc., 171 Wash.2d 726, 731, 254 P.3d 818 (2011).
+
+¶ 38 We conclude that collateral estoppel is inapplicable because the trial court undisputedly dismissed MHM & F’s previous unlawful detainer action without reaching either the stock foreclosure or possession issues. We conclude the trial court here erred in giving collateral estoppel effect to the 2008 findings and conclusions. Regardless, our review of the record shows that despite this erroneous determination, the trial court independently considered the trial evidence and the law when it entered its findings and conclusions.[fn:21]
+
+[fn:21] The trial court’s oral ruling also shows the court’s independent exercise of discretion when addressing the findings and conclusions.
+
+¶ 39 Pryor Junior assigns error to numerous findings and conclusions regarding the trial court’s landlord-tenant determination. We review findings of fact for substantial evidence. Snyder v. Haynes, 152 Wash.App. 774, 779, 217 P.3d 787 (2009). We then determine whether the findings support the conclusions of law and judgment. Brin v. Stutzman, 89 Wash.App. 809, 824, 951 P.2d 291 (1998). “The substantial evidence standard is deferential and requires the appellate court to view all evidence and inferences in the light most favorable to the prevailing party.” Lewis v. Dep’t of Licensing, 157 Wash.2d 446, 468, 139 P.3d 1078 (2006). Pryor Junior assigns error to finding C, which states that the LLC “owns and has the right to possession of a certain interest in ... [m]obile home space 65.” Association president Richard Hutchins testified at trial about the park’s ownership structure. Hutchins testified he resided on space 46 at the park. He stated he was not a shareholder, but he rented his space from Jonathon Wellington and made rent payments to the LLC. He also testified that the LLC owned “[a]bout 30” homes in the park and that almost half the park is owned by the LLC. None of the people who live in those homes are shareholders—instead, Jonathon Wellington/the LLC own the shares associated with those spaces and the renters make payments to the LLC. Counsel for the LLC also argued:
+
+[I]f you take a look at the 30 other tenants who are just regular tenants without stock purchase contracts or without owning the stock, those 30 tenants are tenants of MHM[ & F], LLC, and I think that’s quite clear that when those shares of stock are held by MHM[ & F], they become the owner of that right to that particular space. They become the landlord.
+
+*** RP (Aug. 10, 2010) at 148.[fn:22] The court later stated its understanding of the status of the “about 30” tenants who were not shareholders, stating, “The ones who have no stock rights in this, the 35 or 30 people, they pay a monthly rent and they pay a monthly maintenance fee.” RP (Aug. 10, 2010) at 142.
+
+[fn:22] Wilie Wellington testified at trial that after the stock was sold, Pryor Junior became an ordinary tenant. He also testified that some of the other tenants in the park were not stock purchasers and were just regular tenants of the LLC.
+
+¶ 40 And article IV, paragraph 1, subparagraph I of the proprietary lease admitted at trial as exhibit 3 states:
+
+This lease shall expire immediately upon the sale of the shares of stock allocated to this lease by a trustee to whom the stock has been pledged. The Lessor [ (the Association) ] shall thereupon issue a new Proprietary Lease to the owner of said shares [ (the LLC) ] for a term equal to the term that remained on the prior Proprietary Lease.
+
+Ex. 3 at 11. Article III, paragraph 6 also provides for subletting:
+
+The Lessee [ (the LLC) ] may sublet the Space for any term to any person or persons subject to the Lessor’s [ (the Association’s) ] written consent to the sublessee and the terms of the sublease, authorized by a resolution of the Board of Directors, or signed by a majority of the directors, or by lessees owning of record at least a majority of the capital stock of the Lessor accompanying proprietary leases then in force....
+
+Ex. 3 at 6–7. Substantial evidence shows that under the provisions quoted above, (1) the proprietary lease between Pryor Senior and the Association expired upon trustee Wilie’s sale of the 100 stock shares associated with space 65 to Ed, (2) the LLC owned these shares[fn:23] with the right to possession of space 65, and (3) the LLC had the right to enter into a proprietary lease with the Association and the associated right to sublet space 65 to other tenants.[fn:24] We conclude substantial evidence supports finding C.
+
+[fn:23] Substantial evidence shows that Jonathon formed the LLC in 2009 when Ed died. See RP (Aug. 10, 2010) at 54, 96; Ex. 35.
+
+[fn:24] The record undisputedly shows that the LLC offered to lease the space to Pryor Junior, but he refused.
+
+¶ 41 As to Pryor Junior’s remaining challenges to these findings, his brief rarely, if ever, refers to any particular finding or conclusion entered by the court. Instead, he argues perceived flaws in the court’s analysis. “The appellant must present argument to the court why specific findings of fact are not supported by the evidence and must cite to the record to support that argument.” Inland Foundry Co. v. Dep’t of Labor & Indus., 106 Wash.App. 333, 340, 24 P.3d 424 (2001). Because Pryor Junior has not shown that any of the factual findings are unsupported by the evidence, the findings cannot be disturbed.
+
+¶ 42 Pryor Junior assigns error to conclusions of law C.1 and D, which state (1) he had a landlord-tenant relationship with the LLC, (2) the unlawful detainer action was proper under the Act, and (3) he was guilty of unlawful detainer. He claims that an unlawful detainer action cannot be maintained because the Association was the landlord and the LLC was merely a secured party under the stock purchase agreement. The LLC responds that it was properly the landlord when the action was filed since the stock foreclosure extinguished Pryor Junior’s alleged interest in the stock and terminated the proprietary lease.[fn:25]
+
+[fn:25] The LLC also argues that it has an assignment of the Association’s right to evict Pryor Junior under the April 19, 2010 “Assignment of Rent and Claims Arising from Rent Default.” See Ex. 32. Given our opinion here, we need not address this claim.
+
+¶ 43 Under the Act, a landlord may terminate the tenancy of a tenant or the occupancy of an occupant for several specified reasons. Relevant to this case, a landlord may terminate a tenancy or occupancy for “[n]onpayment of rent or other charges specified in the rental agreement, upon five days written notice to pay rent and/or other charges or to vacate.” RCW 59.20.080(1)(b). “ ‘Landlord’ means the owner of a mobile home park and includes the agents of a landlord.” RCW 59.20.030(4). “ ‘Tenant’ means any person, except a transient, who rents a mobile home lot.” RCW 59.20.030(18). “ ‘Occupant’ means any person ... other than a tenant, who occupies a mobile home, manufactured home, or park model and mobile home lot.” RCW 59.20.030(20) (emphasis added).
+
+¶ 44 As discussed above, the court’s findings of fact support its conclusions of law regarding the LLC’s status as a landlord under the Act. Substantial undisputed evidence indicates the stock foreclosure sale[fn:26] (1) extinguished any interest Pryor Junior had in the shares, (2) terminated the proprietary lease between Pryor Senior and the Association, (3) vested ownership of the shares in the LLC, and (4) triggered the LLC’s right to enter a proprietary lease with the Association and thus sublet space 65 to other tenants. See Ex. 3 at 11 (lease provisions regarding subletting); Sanders v. Gen. Petroleum Corp. of Cal., 171 Wash. 250, 258, 17 P.2d 890 (1933) (tenant who sublets property becomes a sublandlord and may maintain unlawful detainer action against subtenant). The proprietary lease provides that lease expiration shall occur “[i]f at any time during the term of this lease the Lessee [ (Pryor Senior) ] shall cease to be the owner of all of the shares owned by the Lessee [ (Pryor Senior) ]....” Ex. 3 at 10. The lease also provides for immediate expiration upon the sale of the shares of stock by the trustee. In that case, “[t]he Lessor [ (Association) ] shall thereupon issue a new Proprietary Lease to the owner of said shares [ (LLC) ] for a term equal to the term that remained on the prior Proprietary Lease.” Ex. 3 at 11.
+
+[fn:26] Pryor Junior challenged the validity of the stock foreclosure sale. But as discussed above, we reject the challenge.
+
+¶ 45 In addition, Pryor Junior acknowledges that he is a “tenant” or “occupant” as those terms are defined under the Act and discussed above. The Act provides for unlawful detainer actions against occupants who fail to pay rent. See RCW 59.20.080(1)(b). Although the trial court found Pryor Junior was a tenant rather than an occupant, we may affirm on any basis supported by the record. In re Marriage of Rideout, 150 Wash.2d 337, 358, 77 P.3d 1174 (2003). Pryor Junior also testified that he lived on space 65 until April 14, 2010, and that his personal property was still on space 65 at the time of trial. We conclude the trial court properly issued a writ of restitution on the LLC’s unlawful detainer action under the Act.[fn:27]
+
+[fn:27] The MHLTA is “exclusive where applicable.” RCW 59.20.040. Even if the MHLTA did not apply here, the LLC’s unlawful detainer action is properly maintained under chapter 59.12 RCW, the general unlawful detainer statute.
+
+Attorney Fees (Assignment of Error 16)
+
+¶ 46 Pryor Junior assigns error to the trial court’s award of attorney fees and costs to the LLC. He provides no support for this assignment of error other than claiming he should be considered the prevailing party in this action. We therefore decline to address this claim. Cowiche Canyon, 118 Wash.2d at 809, 828 P.2d 549.
+
+¶ 47 Both Pryor Junior and the LLC request attorney fees on appeal under RCW 59.20.110. “Under RAP 18.1(a), we may award attorney fees on appeal if an applicable law grants that right.” Hartson P’ship v. Martinez, 123 Wash.App. 36, 44, 96 P.3d 449 (2004). Under RCW 59.20.110, the prevailing party in a MHLTA action is entitled to reasonable attorney fees and costs. As the prevailing party, the LLC is entitled to reasonable attorney fees and costs on compliance with RAP 18.1.
+
+*** CONCLUSION
+
+¶ 48 Because the trial court had subject matter jurisdiction and substantial evidence supports its findings and the findings support its conclusions, we affirm entry of the order for writ of restitution and judgment for unlawful detainer.
+
+*** WE CONCUR: SCHINDLER and BECKER, JJ.

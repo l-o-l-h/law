@@ -1,0 +1,243 @@
+#+title:      Duvall Highlands LLC v. Elwell, 104 Wn. App. 763, 19 P.3d 1051 (2001)
+#+date:       [2001-01-08 Mon 00:00]
+#+filetags:   :5920:ambiguous:case:law:lease:mobile:parking:
+#+identifier: 20010108T000000
+#+signature:  coa=div1
+
+* Duvall Highlands LLC v. Elwell -- Court of Appeals of Washington, Division 1. | January 8, 2001 | 104 Wash.App. 763 | 19 P.3d 1051
+
+- Washington Citation :: Duvall Highlands LLC v. Elwell, 104 Wn. App. 763, 19 P.3d 1051 (2001)
+- All Citations :: 104 Wash.App. 763, 19 P.3d 1051
+
+
+                          104 Wash.App. 763
+
+                   Court of Appeals of Washington,
+
+                             Division 1.
+
+          DUVALL HIGHLANDS LLC, Appellant/Cross–Respondent,
+
+                                  v.
+
+         Jan Lynn Sellers ELWELL, Respondent/Cross–Appellant.
+
+                            No. 45192–8–I.
+                            Jan. 8, 2001.
+** Brief
+
+** Document Details
+
+- [[*West Headnotes (9)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+
+
+- Publication Ordered March 6, 2001.
+
+** Synopsis
+
+Mobile home landlord brought unlawful detainer action against tenant. Following trial, the Superior Court, King County, Phillip Hubbard, J., dismissed case for insufficient evidence before jury deliberations began, granted judgment for tenant, and denied landlord’s motions for reconsideration and for new trial. Landlord appealed. The Court of Appeals, Agid, C.J., held that: (1) tenant’s failure to pay any of rent and other charges allegedly due, even the undisputed portion, into court registry as required by statute entitled landlord to possession of premises at time of show cause hearing; (2) Mobile Home Landlord Tenant Act (MHLTA) did not bar landlord from requiring tenant to pay for utilities; and (3) mobile home park rule providing for extra vehicle charges could not be enforced against tenant.
+
+Reversed and remanded.
+
+Procedural Posture(s): On Appeal.
+
+** West Headnotes (9)
+
+*** [1] Landlord and Tenant  [[1: 233-k-2123][233-k-2123]]  Grounds in general
+
+- /233 Landlord and Tenant/
+- /233-XI Mobile Homes and Mobile Home Parks/
+- *233-k-2121 Reentry and Recovery of Possession;  Termination*
+- *233-k-2123 Grounds in general*
+- /(Formerly 233k389)/
+
+Mobile home landlord was entitled to possession of premises at time of show cause hearing in her unlawful detainer action against tenant, where tenant had not complied with statutory requirement of paying rent and other charges allegedly due into the court registry and had not even paid the undisputed amount of rent and charges. West’s RCWA 59.18.375.
+
+- 1 Case that cites this headnote
+
+*** [2] Landlord and Tenant  [[2: 233-k-1797][233-k-1797]]  Summons or other process
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1797 Summons or other process*
+- /(Formerly 233k291(7.5))/
+
+To take advantage of provisions of statute setting forth summary method for evicting tenant who fails to pay rent, a landlord must include specific language in the unlawful detainer summons. West’s RCWA 59.18.375.
+
+*** [3] Landlord and Tenant  [[3: 233-k-1770(3)][233-k-1770(3)]]  Warrant to dispossess, and execution thereof
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(C) Actions for Recovery of Possession/
+- *233-k-1758 Actions*
+- *233-k-1770 Judgment*
+- *233-k-1770(3) Warrant to dispossess, and execution thereof*
+- /(Formerly 233k311)/
+
+Show cause hearings are generally summary proceedings to determine the issue of possession pendente lite in unlawful detainer actions.
+
+- 1 Case that cites this headnote
+
+*** [4] Landlord and Tenant  [[4: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+- /(Formerly 233k288)/
+
+Purpose of unlawful detainer statutes is to give the landlord a speedy, efficient action to evict a tenant for breach or for certain activities on the premises. West’s RCWA 59.12.010 et seq., 59.18.375.
+
+*** [5] Landlord and Tenant  [[5: 233-k-1755][233-k-1755]]  Defenses
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(C) Actions for Recovery of Possession/
+- *233-k-1755 Defenses*
+- *233-k-1756 In general*
+- /(Formerly 233k284(1))/
+
+If a landlord accepts rent with knowledge of a prior breach of a lease covenant, the landlord waives the right to evict based on that breach.
+
+- 1 Case that cites this headnote
+
+*** [6] Landlord and Tenant  [[6: 233-k-2115][233-k-2115]]  Rent and Other Charges
+
+- /233 Landlord and Tenant/
+- /233-XI Mobile Homes and Mobile Home Parks/
+- *233-k-2115 Rent and Other Charges*
+- *233-k-2116 In general*
+- /(Formerly 233k383.1)/
+
+Mobile Home Landlord Tenant Act (MHLTA) did not bar mobile home landlord from requiring tenant to pay for utilities pursuant to federal consent order, though tenant’s original lease agreement stated that landlord would provide garbage, water and sewer. West’s RCWA 59.20.010 et seq.
+
+- 1 Case that cites this headnote
+
+*** [7] Landlord and Tenant  [[7: 233-k-2115][233-k-2115]]  Rent and Other Charges
+
+- /233 Landlord and Tenant/
+- /233-XI Mobile Homes and Mobile Home Parks/
+- *233-k-2115 Rent and Other Charges*
+- *233-k-2116 In general*
+- /(Formerly 233k383.1)/
+
+Mobile home park rule providing a maximum of two vehicles per space and imposing a $25 fine per month for each additional vehicle could not be enforced against tenant who conducted a car repair business at his family’s mobile home space; predicting when or how long the cars would be parked at or near the space was difficult, if not impossible.
+
+*** [8] Appeal and Error  [[8: 30-k-3768(3)][30-k-3768(3)]]  Leases
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)22Substantive Matters/
+- *30-k-3765 Contracts*
+- *30-k-3768 Particular Cases and Contracts*
+- *30-k-3768(3) Leases*
+- /(Formerly 30k893(1))/
+
+The interpretation of a lease is a question of law reviewed de novo.
+
+- 11 Cases that cite this headnote
+
+*** [9] Landlord and Tenant  [[9: 233-k-594][233-k-594]]  Construction against drafter
+
+- /233 Landlord and Tenant/
+- /233-II Leases and Agreements in General/
+- /233-II(B) Construction and Operation/
+- *233-k-594 Construction against drafter*
+- /(Formerly 233k37)/
+
+Ambiguities in a lease agreement must be construed against the one who prepares the lease agreement, and the court will adopt the interpretation that is most favorable to the lessee.
+
+** Attorneys and Law Firms
+
+- <<**1052>> <<*765>> Walter Olsen, Short, Cressman & Burgess, Seattle, for Appellant.
+- Dan Young, Bjourklund & Young, Seattle, for Respondent.
+
+** Opinion
+
+AGID, C.J.
+
+After mobile home tenant Jan Elwell refused to pay the rent and other charges due in June 1999, her landlord, Anna Hwang, issued a five-day notice to pay or vacate. When Elwell failed to pay anything before the notice deadline, Hwang commenced an unlawful detainer action and served Elwell with a summons and complaint. The summons instructed Elwell to pay the rent due into the court registry as directed by RCW 59.18.375 in order to avoid immediate issuance of a writ of restitution to Hwang, but Elwell did not deposit any funds into the court registry. After a show cause hearing, the commissioner referred the case to trial, where Elwell ultimately prevailed. But because Elwell failed to pay even the undisputed portion of the rent and charges, the commissioner should have issued a writ of restitution and entered a final judgment in Hwang’s favor at the show cause hearing. We therefore reverse.
+
+*** FACTS AND PROCEDURAL HISTORY
+
+In June 1995, Elwell signed a lot lease for $325 a month and moved with her son and daughter into the Duvall Highlands Mobile Home Park (the Park), which Hwang <<*766>> owns and manages.[fn:1] In December 1998, Hwang notified Elwell that as of June 1, 1999, her monthly rent calculation would be $535: $450 base rent, $75 in extra vehicle fees, and a $10 pet fee. Elwell disputes this sum. Although a Park rule imposed a $25 fee per vehicle over two,[fn:2] Elwell asserts it does not apply to her because the vehicles involved were never at her space on a consistent basis.[fn:3] Elwell also disputes the $450 base rent, claiming that $75 of that amount was essentially a payment for utilities, which her lease specified Hwang would provide.[fn:4]
+
+[fn:1] Although the Park as an entity is technically the appellant here, we refer to Hwang as the appellant for ease of reference.
+
+[fn:2] Park Rule 4.1 reads: “There is a maximum of two vehicles per space, twenty-five dollars ($25) per month for each additional vehicle.”
+
+[fn:3] Testimony and photographs in the record indicate that Elwell’s son earns money by repairing cars and that numerous vehicles, including disabled cars on jacks, were parked at Elwell’s space off and on in late 1998 and through July of 1999.
+
+[fn:4] The parties are well aware of the complicated factual history that gives rise to Elwell’s protests.
+
+Although Elwell never formally confronted Hwang about her objections after the December <<**1053>> 1998 notice, she failed to pay anything when the June 1999 rent became due. Accordingly, on June 4, 1999, Hwang served Elwell with a statutory five-day notice to pay rent or vacate.[fn:5] When Elwell again failed to pay anything before the notice deadline, Hwang instituted this unlawful detainer action on June 14, 1999.
+
+[fn:5] The 5–day notice in cases of nonpayment of rent is required by RCW 59.20.080(1)(b).
+
+At the June 21 show cause hearing,[fn:6] the court refused to grant Hwang’s request for a writ of restitution and referred the matter to trial “for issues on vehicles.” There was a jury trial, but the court dismissed the case for insufficient evidence before deliberations began and granted judgment for Elwell. The court also denied Hwang’s motions for reconsideration and for a new trial. This appeal followed.
+
+[fn:6] See RCW 59.18.370.
+
+*** <<*767>> DISCUSSION
+
+[1] <<1: 233-k-2123>> On appeal, Hwang contends the trial court erred in failing to issue a writ of restitution and enter a final judgment in her favor on the issue of possession at the show cause hearing. She argues Elwell forfeited her right to possession by the time of the show cause hearing because she failed to pay any June 1999 rent or charges, even the undisputed amount, to Hwang before the notice deadline or into the court registry, as required by the summons. We agree.
+
+[2] <<2: 233-k-1797>> Unlawful detainer actions instituted by a mobile home landlord are governed by the general unlawful detainer statute, chapter 59.12 RCW, as modified by the Residential Landlord–Tenant Act of 1973, chapter 59.18 RCW.[fn:7] RCW 59.18.375 provides a summary method for a landlord to evict a tenant who fails to pay rent. Under that section, within seven days after service of a filed unlawful detainer summons, the nonpaying tenant must pay the “amount alleged due in the complaint” into the court registry and continue to pay that amount each month while the action is pending.[fn:8] If the tenant fails to meet this requirement, a writ of restitution is issued immediately: “Failure of the [tenant] to comply with this section shall be grounds for the immediate issuance of a writ of restitution without bond directing the sheriff to deliver possession of the premises to the [landlord].”[fn:9] In order to take advantage of RCW 59.18.375’s provisions, a landlord must include specific language in the unlawful detainer summons, which Hwang did.
+
+[fn:7] See RCW 59.20.040; see also 17 William B. Stoebuck, Washington Practice: Real Estate: Property Law § 6.81 (1995).
+
+[fn:8] RCW 59.18.375(2). This payment is not required if the tenant submits to the court a signed statement “denying that the rent alleged due in the complaint is owing based upon a legal or equitable defense or set-off arising out of the tenancy[.]” Id. Elwell never submitted such a statement.
+
+[fn:9] RCW 59.18.375(3).
+
+[3] <<3: 233-k-1770(3)>> [4] <<4: 233-k-1781>> Because Elwell failed to comply with RCW 59.18.375’s requirements and refused to pay even the <<*768>> undisputed amount of rent and charges[fn:10] before the notice deadline, Hwang was entitled to possession at the time of the show cause hearing.[fn:11] The commissioner should have directed that a writ of restitution issue and entered final judgment on possession in favor of Hwang at that hearing.[fn:12] To hold otherwise would entitle any tenant to a trial on the issue of possession even though she fails to pay even the undisputed portion of rent after receiving notice and instructions under RCW 59.18.375 about how to avoid eviction. That would contravene the purpose of Washington’s unlawful detainer statutes, which is “to give the <<**1054>> landlord a speedy, efficient action to evict a tenant for breach or for certain activities on the premises.”[fn:13] The fact that Elwell may have had bona fide reasons for contesting the disputed portion of the rent and charges does not change our analysis.[fn:14] The statute, discussed above, provides the method for avoiding eviction and preserving those disputes for trial.
+
+[fn:10] The undisputed amount was at least $375. On February 24, 1998, Hwang notified Elwell that as of June 1, 1998, she would owe a base rent of $375 plus a $10 pet fee. The record indicates that Elwell no longer owns a pet.
+
+[fn:11] See Hwang v. McMahill, 103 Wash.App. 945, 954, 15 P.3d 172, 177, (2000) (landlord was entitled to possession under RCW 59.20.080(1)(b) where tenant failed to pay rent and other charges before 5 day notice deadline).
+
+[fn:12] Although show cause hearings are generally summary proceedings to determine the issue of possession pendente lite, Carlstrom v. Hanline, 98 Wash.App. 780, 788, 990 P.2d 986 (2000), there was no basis on which to proceed to trial on possession in this case.
+
+[fn:13] 17 William B. Stoebuck, Washington Practice: Real Estate: Property Law § 6.79 at 416 (1995).
+
+[fn:14] See McMahill, 103 Wash.App. 945, 954, 15 P.3d 172, 177, (fact that tenant is in unlawful detainer for nonpayment of rent renders moot the defense that some of the charges are not actually owed).
+
+[5] <<5: 233-k-1755>> We note that if Elwell had tendered the undisputed amount to Hwang within the five-day notice period and Hwang had accepted it, Hwang would have waived the right to proceed with the unlawful detainer action at that point.[fn:15] But Hwang then could have issued a second five–day <<*769>> notice based on the remaining unpaid but disputed amount. Then, if Elwell failed to pay the disputed portion before that notice deadline, Hwang could institute eviction proceedings. If Elwell then raised a valid legal or equitable defense, there would be a material issue of fact on the issue of possession at the show cause hearing, and the case could properly proceed to trial. Here, because Elwell failed to pay anything or follow the statutory procedures for avoiding eviction, the Commissioner erred in sending this case to trial without granting a writ of restitution. We reverse this portion of the judgment and instruct the trial court to enter an order restoring Hwang to possession of the premises.
+
+[fn:15] The well-established rule in Washington is that if a landlord accepts rent with knowledge of a prior breach of a lease covenant, the landlord waives the right to evict based on that breach. Hous. Res. Group v. Price, 92 Wash.App. 394, 402, 958 P.2d 327 (1998), review denied, 137 Wash.2d 1010, 978 P.2d 1099 (1999).
+
+We next address Elwell’s obligations for rent and fees as of June 1, 1999, to assist the trial court in calculating damages. The trial court essentially determined that Elwell owed the $ 75 fee Hwang charged her for utilities but not the $75 in extra vehicle fees. We agree with those decisions.
+
+[6] <<6: 233-k-2115>> A federal consent order was entered in 1998 that required Hwang to charge all Park units a base rent of $450 or $375 plus “water, sewer and garbage utilities and other applicable municipal utility services actually used by that unit.” The trial court ruled in limine that, as a matter of law, the consent order applies to Elwell, and Hwang therefore properly applied the consent order’s rent structure to her. But the consent order specified that its terms were “[s]ubject to the requirements and restrictions found in the [Mobile Home Landlord-Tenant Act (MHLTA),]” and Elwell argues on appeal that the MHLTA prevents Hwang from requiring her to pay utilities because her original lease agreement stated that Hwang would provide garbage, water, and sewer. We disagree for the reasons explained in McGahuey v. Hwang,[fn:16] and hold that as of June 1, 1999, Elwell owed a base rent of $450, which includes $ 75 for utilities.
+
+[fn:16] 104 Wash.App. 176, 177–185, 15 P.3d 672, 673–677 (2001), filed simultaneously with this opinion.
+
+[7] <<7: 233-k-2115>> As for the vehicle fees, at trial Elwell defended her failure <<*770>> to pay rent by arguing she did not owe the $75 in extra vehicle fees. Hwang imposed the vehicle fees pursuant to Park Rule 4.1, which reads:
+
+“There is a maximum of two vehicles per space, twenty-five dollars ($25) per month for each additional vehicle.”
+
+The trial court considered the proper interpretation of Rule 4.1 when Elwell made a CR 50 motion for judgment as a matter of law after Hwang rested her case. Elwell claimed there was insufficient evidence for the jury to find she had violated the rule. The jury was dismissed, and a lengthy discussion ensued.
+
+Elwell advocated interpreting the rule to require that a tenant pay the $25 fee whenever any car beyond two is in the tenant’s space for a “substantial portion of the month.” Accordingly, Elwell argued, she was entitled to judgment as a matter of law because Hwang “simply [hasn’t] proved that those vehicles were there for any substantial <<**1055>> portion of the month—for June and July.”[fn:17] In contrast, Hwang argued that the landlord should count the number of cars in a person’s space as of the first of each month when rent is due and calculate the rent for that month on that basis. The court fashioned its own interpretation of Rule 4.1 and granted the CR 50 motion. Specifically, the court held that the best way to establish the number of cars subject to the extra vehicle fee is by a registration procedure. The court also concluded there was insufficient evidence to show there were more than two cars at Elwell’s space every day in June and July:
+
+[fn:17] The number of vehicles in July was relevant because Hwang requested any rent or other charges owing after June 1, 1999, in its complaint.
+
+“[T]here is a failure of plaintiff’s proof. There is no testimony as to the number of vehicles that were registered. There is also no testimony that I heard which establishes that each day of the month there was an additional vehicle, and the Article 4, paragraph 4.1 says, There is a maximum of two vehicles per space, $25 per month for each additional vehicle. It seems to be a confusing situation where there is a revolving number of <<*771>> vehicles on site, but it would seem to me that when you read the rental articles, reasonably, there is a way of establishing a base number, and that’s by registration, and in this case there was no registration. And furthermore, I don’t believe that even construing the evidence against the tenant in this case, there is a basis for the Court to conclude that there was a vehicle—a particular number of registered vehicles in every space or in the spaces every day and I think it’s the plaintiff who has failed to establish the prima facia [sic] case, not the defendant.”
+
+The court’s comments are confusing because interpreting the rule to require a registration procedure to establish a base number does not necessarily mean that a jury would also have to find that any alleged extra vehicles were present every day.
+
+[8] <<8: 30-k-3768(3)>> [9] <<9: 233-k-594>> We take a different approach, and hold that Rule 4.1 is inapplicable to, and therefore unenforceable in, the situation involved here.[fn:18] Rule 4.1 obviously anticipates that some households may possess and need parking for more than two cars on a regular basis. But this case presents a unique situation in which a tenant is conducting a car repair business at his family’s mobile home space. Under these circumstances, predicting when or how long the cars will be parked at or near the space is difficult, if not impossible. While it is understandable that Hwang would view this activity as extremely undesirable, Rule 4.1 did not provide a proper basis on which to charge Elwell for the numerous cars parked outside her house, and the trial court should not include extra vehicle fees in its damage determination.[fn:19]
+
+[fn:18] The interpretation of a lease is a question of law reviewed de novo. Carlstrom, 98 Wash.App. at 784, 990 P.2d 986. Ambiguities in a lease agreement must be construed against the one who prepares the lease agreement, and the court will adopt the interpretation that is most favorable to the lessee. Id at 785, 990 P.2d 986.
+
+[fn:19] We also note that Rule 4.1 is unclear in other circumstances because it does not indicate how the existence of an “additional vehicle” will be determined. For example, must a tenant pay the $25 fee if she parks a third vehicle in her space for one week each month, half the month, or “most” of the month? It also does not specify whether the tenant or the landlord is responsible for enforcing the rule. Is the tenant expected to inform the landlord of additional cars, or is it the landlord’s duty to inspect for extra cars? When should this determination take place? In the absence of a concession by the tenant or daily photographs, we cannot see how Hwang could enforce the rule.
+
+RCW 59.20.110 provides for attorney fees for the prevailing <<*772>> party “[i]n any action arising out of [the MHLTA].” Elwell’s rental agreement also grants attorney fees to the prevailing party “[i]n any actions arising out of this Rental Agreement, including eviction[.]” We therefore grant Hwang’s request for attorney fees and costs on appeal.
+
+Reversed and remanded for calculation of damages and attorney fees.
