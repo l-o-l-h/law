@@ -373,7 +373,7 @@ Most jurisdictions permit unlawful discrimination to be asserted as a defense in
 
 Discrimination may be a defense that arises out of the tenancy. When it does, the statute permits a tenant to assert the defense and requires the court to consider it.
 
-Kahli’s Case
+**** Kahli’s Case
 
 [15] <<15: 78-k-1083>> [16] <<16: 78-k-1083>> Where a tenant does not pay the agreed rent, the tenant’s defense must constitute an excuse for that breach. While <<*627>> discrimination is extremely unlikely to be such a defense, it is not a logical impossibility. This is one of those unlikely cases: if true, Kahli’s defense excused her nonpayment, because had the Josephinium not discriminated against her, Kahli would have occupied a 30 percent unit, and would have owed no more rent than she tendered. The trial court properly concluded that Kahli asserted a cognizable discrimination defense in this unlawful detainer action.
 
@@ -395,7 +395,7 @@ The Josephinium explained that redesignating Kahli’s unit from a 60 percent un
 
 The trial court found that the Josephinium’s justifications for refusing to transfer Kahli or redesignate her unit were legitimate and nonpretextual, and that the Josephinium had fulfilled its duty of reasonable accommodation <<*629>> by its offers of services to Kahli. Ultimately, the court ruled that Kahli failed to link the Josephinium’s termination of her tenancy to her disabilities. The evidence supports the court’s findings.
 
-*** A landlord is not required to incur significant expense or fundamentally alter its programs to accommodate a disability.[fn:34] Most landlords offer no services to tenants, and a tenant’s disability does not create an obligation to do so. At the Josephinium, however, services were available, and Kahli could request such services as an accommodation. The services were amply offered. The court did not err in finding the Josephinium had fulfilled its duty of accommodation, and that its reasons for denying Kahli a transfer or redesignation were legitimate and nondiscriminatory.
+A landlord is not required to incur significant expense or fundamentally alter its programs to accommodate a disability.[fn:34] Most landlords offer no services to tenants, and a tenant’s disability does not create an obligation to do so. At the Josephinium, however, services were available, and Kahli could request such services as an accommodation. The services were amply offered. The court did not err in finding the Josephinium had fulfilled its duty of accommodation, and that its reasons for denying Kahli a transfer or redesignation were legitimate and nondiscriminatory.
 
 [fn:34] Groner v. Golden Gate Gardens Apartments, 250 F.3d 1039, 1044 (6th Cir.2001).
 
