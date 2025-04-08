@@ -1,0 +1,210 @@
+#+title:      1383 Fair St., LLC v. Steiner, 31 Wn. App. 2d 1051 (2024)
+#+date:       [2024-06-27 Thu 00:00]
+#+filetags:   :case:law:
+#+identifier: 20240627T000000
+#+signature:  coa=div3=unpub
+
+* 1383 Fair Street, LLC v. Steiner -- Court of Appeals of Washington, Division 3. | June 27, 2024 | Not Reported in Pac. Rptr. | 31 Wash.App.2d 1051
+
+- Washington Citation :: 1383 Fair St., LLC v. Steiner, 31 Wn. App. 2d 1051 (2024)
+- All Citations :: Not Reported in Pac. Rptr., 31 Wash.App.2d 1051, 2024 WL 3199464
+
+
+                         31 Wash.App.2d 1051
+
+           NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+
+             Court of Appeals of Washington, Division 3.
+
+1383 FAIR STREET, LLC, a Washington Limited Liability Company, Respondent,
+
+                                  v.
+
+              Misty STEINER, a single person, Appellant,
+
+John Doe, a single person, and all other unauthorized occupants. Defendants.
+
+                           No. 39836-6-III
+                         Filed June 27, 2024
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+An Issue
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- Attorneys and Law Firms
+- [[*UNPUBLISHED OPINION][UNPUBLISHED OPINION]]
+
+
+
+- Appeal from Asotin Superior Court, Docket No: 23-2-00087-6, Honorable Brooke Jennifer Burns, Judge
+- Attorneys and Law Firms
+- Christina Eugenie Jaccard, King County Bar Association, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, Ashleen Elisabeth O’Brien, Housing Justice Project, 1200 5th Ave. Ste. 700, Seattle, WA, 98101-1116, for Appellant.
+
+
+** UNPUBLISHED OPINION
+
+Pennell, J.
+
+<<*1>> Misty Steiner appeals from a judgment holding her liable for unlawful detainer of a mobile home lot and an order granting a writ of restitution in favor of 1383 Fair Street, LLC (Fair Street). Because Fair Street failed to allege proper grounds for an unlawful detainer action against Ms. Steiner, we reverse.
+
+FACTS
+
+In April 2023, Fair Street served Misty Steiner with a notice to quit and vacate a mobile home lot she occupied in Clarkston, Washington. Fair Street, the owner of the lot, cited RCW 59.12.030(6), which makes trespassers liable for unlawful detainer if they fail to vacate after three days’ notice. Fair Street warned in its notice that a failure to vacate could result in the filing of a lawsuit against Ms. Steiner, and alleged:
+
+[Y]ou are occupying the mobile home lot after the tenant of record, Elida Denny, vacated the leasehold premises. The tenant of record, Elida Denny, informed management staff that she moved out of the home and allowed you to take occupancy on or about March, 2023. Your occupancy is without the permission or consent of the owner of the mobile home lot, or color of title thereto.
+
+In case of your failure to vacate the subject premises at the time and date set forth above, you shall be deemed in Unlawful Detainer of the premises.
+
+Clerk’s Papers (CP) at 9.
+
+Ms. Steiner failed to vacate and Fair Street initiated an action for unlawful detainer. In its verified complaint, Fair Street claimed that it had leased the mobile home lot to Elida Denny, but that the “lease agreement has been misplaced and/or lost.” Id. at 3; see id. at 20.
+
+According to Fair Street, Ms. Denny “informed management staff that she permanently vacated the premises” and “had allowed” Ms. Steiner “to occupy the property.” Id. at 3; see id. at 20. Fair Street complained Ms. Steiner did not have its “permission” to live on the lot. Id. at 4; see id. at 20. Fair Street stated it “believed” that Ms. Steiner was endangering the premises by committing waste, that she had failed to pay utilities, and that she owed Fair Street unpaid rent, but never cited any statute under which these would be appropriate bases for eviction. Id. at 4-5. Nor did Fair Street claim that Ms. Denny’s lease prohibited her from allowing Ms. Steiner to live on the lot. Fair Street sought damages and attorney fees, as well as a writ of restitution restoring it to possession of the lot. Alongside its complaint, Fair Street filed a declaration from its authorized agent repeating the allegations and appending a copy of the notice to vacate.
+
+Ms. Steiner answered Fair Street’s complaint. The answer claimed Ms. Denny “did not forfeit [her] leasehold, has continued to pay rent, and intends to sell the mobile home to [Ms. Steiner],” whom Ms. Denny had allowed to occupy the lot. Id. at 29. Ms. Steiner argued, “There is nothing prohibiting Elida Denny from subletting the property to Misty Steiner.” Id. at 31. Ms. Steiner sought dismissal of Fair Street’s complaint, an award of attorney fees, and an order limiting dissemination (OLD) of the unlawful detainer action.1
+
+1
+
+RCW 59.20.310 allows mobile home lot tenants to move for an OLD, which prevents tenant screening companies from automatically disseminating an unlawful detainer action to prospective landlords.
+
+<<*2>> Alongside her answer, Ms. Steiner filed a sworn declaration from Elida Denny. Ms. Denny explained she had leased the lot from Fair Street and that her mobile home “is now and always has been parked on” the lot. Id. at 33. Ms. Denny went on:
+
+... I informed the property manager that I would be moving out and that I would be leasing the mobile home and trailer space to my brother and his girlfriend, Misty Steiner. The property manager ... did not object and there is nothing prohibiting me from subletting ....
+
+My brother and Misty ... are no longer dating and Misty is the only person renting the trailer and subletting the lot space at this time. As the lessor of the lot space, Ms. Steiner has my permission to live ... in the mobile home.
+
+Id.
+
+The superior court held a show cause hearing. Ms. Steiner’s counsel began the hearing by stating, “[T]here is an initial issue that we need to resolve, which is failure to join a necessary third party,” namely, Elida Denny. Rep. of Proc. (RP) (Jun. 27, 2023) at 3. Fair Street’s counsel retorted: “I do not believe that it is necessary ... to have pled Ms. Denny as this is not an eviction action against her, and we are not intending to evict Ms. Denny. Instead, we are trying to evict Ms. Steiner.” Id. at 3-4. Ms. Steiner’s attorney responded by pointing out that Fair Street had alleged, contrary to Ms. Denny’s declaration, that Ms. Denny had abandoned her leasehold, and if the court credited that allegation, it would “significantly impact [Ms. Denny’s] interest.” Id. at 4. Moreover, Ms. Steiner’s counsel noted that, to side with Fair Street, the court would have to invalidate Ms. Denny’s purported sublease with Ms. Steiner, another significant interest.
+
+The superior court began by stating, “I agree with [Ms. Steiner’s counsel]. I think we need Elida Denny as part of this action.” Id. at 6. Fair Street’s counsel interrupted, however, by arguing,
+
+... [W]e are not saying that Ms. Denny does not have a right to reside on the lot. ... [S]he still has a right to occupy that land pursuant to the lease agreement with my client. The issue is that we have a third party who ... doesn’t have any contract with my client ....
+
+Ms. Denny can do what she wants with the home ...; however, there is no unilateral right to allow somebody to go around the landlord, to allow somebody to reside on the property when they haven’t been properly screened.
+
+... [W]e are not trying to evict Ms. Denny from the property. Her home can stay there. She can still be a tenant. It is that this third party who does not have any relationship with my client is allowed to reside upon their land ....
+
+... My client has not approved that Ms. Steiner is allowed to reside on the lot, and that is why this case has moved forward ....
+
+Id. at 6-7. The court sought clarification, asking, “So you’re not seeking to actually get the mobile home out, just Ms. Steiner?” Id. at 7. Fair Street’s attorney responded affirmatively:
+
+... [W]e are not trying to evict Ms. Denny.... She still has a right to have her home on the lot. Our issue is that Ms. Steiner is residing upon my client’s land, which there is no contract for. She has not been given authority to reside there ....
+
+... Ms. Denny is still going to be a tenant regardless of the results of this action, so I do not think it is necessary to add her [as a necessary party].
+
+<<*3>> Id. at 8-9.
+
+Ms. Steiner’s counsel responded:
+
+So it sounds like [Fair Street’s] argument is that they’re willing to admit that Ms. Denny has a valid leasehold ... but that she does not have the right to sublet that lot to Ms. Steiner .... [W]hat oftentimes happens in these cases is there is a lease that would prohibit subletting property .... [The right to sublet] is a right that you can contract away. We do not have any contracts ... in this case that would prohibit Ms. Denny from subletting the lot to Ms. Steiner, which she has done.
+
+Id. at 9-10.
+
+Fair Street’s attorney responded, arguing “[T]here is not just a unilateral right to sublet,” and pointing the court to former RCW 59.20.073 (2019), which lays out procedures a mobile home lot tenant must follow when they seek to assign their rental agreement and sell their mobile home.2 Id. at 10. The statute guarantees landlords the ability to screen would-be assignees “on the same basis that the landlord approves or disapproves of any new tenant.” Former RCW 59.20.073(5). Counsel conceded that an assignment and a sublease are not the same thing, but argued the statute should nevertheless apply because they “are fairly similar.” RP (Jun. 27, 2023) at 10. And Fair Street’s counsel noted that in Ms. Steiner’s answer, she had claimed Ms. Denny “ ‘intends to sell’ ” the mobile home to her. Id. at 11 (quoting CP at 29). Therefore, counsel argued, the purported sublease is actually an assignment, and “they are trying to get around ... [former RCW] 59.20.073.” Id.
+
+2
+
+An assignment and a sublease are not synonymous. See Willenbrock v. Latulippe, 125 Wash. 168, 172, 215 P. 330 (1923).
+
+Fair Street’s counsel elaborated:
+
+Screening a tenant ... is the baseline standard for allowing someone to live on property. We do not live in the Wild West. You can’t just go around the law .... [I]f they follow the correct procedure in order to assign the lease and are approved to reside there, that’s fine, she can reside there; however, that has not happened at this point, and so, therefore, she does not have a right ... to reside on [the lot] regardless of what Ms. Denny does because Ms. Denny has not followed the correct procedure to do so, and neither has Ms. Steiner.
+
+At the same time, we are not evicting Ms. Denny for doing so. We are just saying that Ms. Steiner cannot reside on the property until that necessary condition precedent to becoming an occupant of land has occurred.
+
+Id. at 11-12. The court immediately responded, “I agree with you, and based on that statutory authority ... I’m going to issue the writ [of restitution].” Id. at 12.
+
+Ms. Steiner’s attorney protested, pointing out that former RCW 59.20.073 applies to assignments, a situation where the original tenant “no longer has any duty to the landlord. They are walking away.” Id. at 13. By contrast, here, if Mr. Steiner was only subleasing the property as she claimed, Ms. Denny “still holds that lease. She still has privity of contract with the landlord. So she is still responsible for what occurs on the lot.” Id. Counsel added that the superior court “does not have the authority to extinguish” the purported sublease between Ms. Denny and Ms. Steiner, given that Fair Street had produced no written lease agreement curtailing Ms. Denny’s right to sublet. Id. at 14. Counsel reminded the court that landlords of mobile home lots are “absolutely” required to have written lease agreements. Id. at 13; see RCW 59.20.060(1). The court asked, “So under what set of facts would the landlord have any control over their property?” RP (Jun. 27, 2023) at 14. Ms. Steiner’s counsel responded: “[T]he proper way to do that would be to have ... a written lease” forbidding subletting. Id. at 15.
+
+<<*4>> The court answered: “[N]obody’s filed any contract with the court. So we have an argument that privity of contract is between Ms. Denny and the landlord, and a random third party, Ms. Steiner, is in there .... I’m going to grant the request [for a writ of restitution].” Id. at 15-16.
+
+Ms. Steiner’s counsel sought clarification, asking if the court was restoring Ms. Denny or Fair Street to possession. The court responded: “[Ms. Denny]’s the one that is the owner of the trailer ... and [Fair Street] indicates that they’re not trying to get her out.” Id. at 16. Ms. Steiner’s counsel then asked, “[I]s the court also finding that Ms. Denny ... may not have other people living in her trailer ... ?” Id. The court explained: “[Ms. Denny is] to follow the correct process if she’s going to be trying to sublet her property out, she needs to follow [former RCW 59.20.073].” Id. The court reasoned that “[Fair Street] ... is correct in [its] analogy” that former RCW 59.20.073 should apply equally to subleases as it does to assignments. Id. at 17.
+
+Ms. Steiner’s counsel sought further clarification:
+
+[MS. STEINER’S COUNSEL]: [W]hat is the Court’s finding as to what Ms. Denny may or may not do with her leasehold?
+
+[FAIR STREET’S COUNSEL]: I don’t believe there’s been a finding made as to that, as Ms. Denny is not a party. ...
+
+[MS. STEINER’S COUNSEL]: [W]e’re just restoring possession to Ms. Denny, and Ms. Denny is going to turn around and say, “Ms. Steiner can stay there.”
+
+THE COURT: Well, I’ve issued my ruling. I don’t think it’s confusing. I’ve made it clear. [Fair Street’s counsel], please send over the order and the writ, and we will be in recess.
+
+[FAIR STREET’S COUNSEL]: Thank you, Your Honor. Is this the final resolution of this case, or will further proceedings be necessary?
+
+THE COURT: I would think that would be the final resolution of this case, if she’s leaving the property.
+
+[FAIR STREET’S COUNSEL]: I agree. I just wanted to clarify.
+
+[MS. STEINER’S COUNSEL]: Well, ... is [Ms. Steiner] being trespassed from the property? Because Ms. Denny—
+
+THE COURT: The request is to issue a writ, and I’m granting that request.
+
+....
+
+[MS. STEINER’S COUNSEL]: The problem is what Ms. Denny’s rights are. If Ms. Denny has the right to—
+
+THE COURT: Ms. Denny is not part of this action.
+
+[MS. STEINER’S COUNSEL]: —sublet.
+
+THE COURT: This action is to get Ms. Steiner off the property, so I’m granting that request. If there’s something that comes up with Ms. Denny, I assume there will be another lawsuit.
+
+[FAIR STREET’S COUNSEL]: Thank you, Your Honor.
+
+THE COURT: I don’t know why this is confusing. I don’t think this is confusing, so I’ve made my ruling.
+
+Id. at 17-19.
+
+The superior court subsequently entered written orders granting Fair Street’s request for a writ of restitution, and additionally rendered a final judgment. The court found that Ms. Denny had leased the lot “by instrument in writing,” but that “the aforementioned lease agreement has been misplaced and/or lost.” CP at 37. The court further found that Ms. Denny had “permanently vacated” the lot and Ms. Steiner was now living there without Fair Street’s consent or color of title. Id. at 37, 42. The court ordered that Ms. Denny was not a necessary party, that Ms. Steiner was liable for unlawful detainer under RCW 59.12.030(6), and that Fair Street was entitled to an award of $652 for attorney fees and costs. The court authorized the Asotin County Sheriff to enter the premises and forcibly remove Ms. Steiner from the lot.
+
+<<*5>> Ms. Steiner timely appeals.
+
+ANALYSIS
+
+“An unlawful detainer action is a limited statutory proceeding to resolve the right to possession between the landlord and the tenant.” 4105 1st Ave. S. Invs., LLC v. Green Depot WA Pac. Coast, LLC, 179 Wn. App. 777, 785, 321 P.3d 254 (2014). A landlord who succeeds in an unlawful detainer action may obtain a writ of restitution restoring their right of possession. See RCW 59.18.370 (providing that a plaintiff-landlord may seek “a writ of restitution ... restoring to the plaintiff possession of the property”); see also RCW 59.20.040 (providing that RCW 59.18.370 ordinarily applies to tenancies of mobile home lots). Rentals of mobile home lots are governed by the Manufactured/Mobile Home Landlord-Tenant Act (MHLTA), chapter 59.20 RCW.
+
+Ms. Steiner argues that Fair Street failed to articulate a proper basis for unlawful detainer under the MHLTA. This is a legal issue, reviewed de novo. See Brewer v. Hill, 25 Wn. App. 2d 844, 854, 525 P.3d 987 (2023) (reviewing de novo “the question of whether [plaintiff] had the authority to evict [defendant]” because it turns on the interpretation of statutes).
+
+We start our analysis by clarifying the nature of Ms. Steiner’s tenancy. Ms. Steiner did not have a landlord-tenant relationship with Fair Street. Her relationship was with Ms. Denny who, in turn, had a landlord-tenant relationship with Fair Street. There was evidence in the record that Ms. Denny intended to sell her mobile home to Ms. Steiner. But at the time of the instant proceedings, no sale had taken place. Fair Street recognized that Ms. Denny retained an interest in the lot. In the absence of evidence that Ms. Denny “transfer[red] ... her whole interest in the lease without retaining any reversionary interest,” Ms. Denny had not assigned her lease to Ms. Steiner. See OTR v. Flakey Jake’s, Inc., 112 Wn.2d 243, 247, 770 P.2d 629 (1989). Instead, Ms. Denny created a sublease. See McDuffie v. Noonan, 176 Wash. 436, 439, 29 P.2d 684 (1934) (explaining that a tenant who retains an interest in a transferred leasehold creates a sublease). Fair Street did not dispute that Ms. Steiner was a subtenant.
+
+In Washington, tenants may sublet in the absence of a lease provision forbidding subleases. See Burns v. Dufresne, 67 Wash. 158, 161, 121 P. 46 (1912) (holding tenant’s lease did not require landlord’s consent for a sublease even where lease required landlord’s consent for an assignment). Here, there is no evidence Fair Street ever prohibited Ms. Denny from subleasing her property to a subtenant. Absent any prohibition, Ms. Steiner’s arrangement with Ms. Denny would be perfectly legal and therefore could not form the basis of an unlawful detainer action.
+
+Even if the sublease here was illegal, Fair Street’s remedy would be against Ms. Denny, not Ms. Steiner. See Flakey Jake’s, Inc., 112 Wn.2d at 249 (explaining that a tenant who enters into a sublease becomes the subtenant’s sublandlord, but nevertheless remains the landlord’s tenant). An illegal sublease may provide a basis for an unlawful detainer action against the original tenant. See former RCW 59.20.080(1)(h) (2019) (authorizing eviction of a mobile home lot tenant for failure to comply with material lease provisions). But it does not permit, as Fair Street sought here, an action aimed exclusively at ousting the subtenant while allowing the tenant to remain. After all, the purpose of an unlawful detainer action is to restore a landlord to possession of the property. Munden v. Hazelrigg, 105 Wn.2d 39, 45, 711 P.2d 295 (1985). If a landlord does not seek restoration for themselves, but instead merely wishes to prohibit possession by a subtenant, the unlawful detainer process does not apply.3
+
+3
+
+Of course, a landlord may proactively prohibit subleases by including such a prohibition in its written lease agreements. See former RCW 59.20.060(1) (2022) (requiring that mobile home lot tenancies must be based on written rental agreements).
+
+<<*6>> Fair Street failed to allege a statutory basis for holding Ms. Steiner liable for unlawful detainer. See former RCW 59.20.080 (setting forth an exclusive list of permissible bases for eviction of a mobile home lot tenant). Given this circumstance, the request for a writ of restitution should have been denied and the complaint dismissed.
+
+CONCLUSION
+
+The judgment in favor of Fair Street is reversed. This matter is remanded for entry of an order of dismissal.
+
+WE CONCUR:
+
+Fearing, J.
+
+Cooney, J
+
+** End
+#+STARTUP: show2levels

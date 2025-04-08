@@ -2,29 +2,13 @@
 #+date:       [2008-02-25 Mon 00:00]
 #+filetags:   :case:law:
 #+identifier: 20080225T000000
+#+signature:  coa=div1
 
 * Rosen v. Ascentry Technologies, Inc. -- Court of Appeals of Washington, Division 1. | February 25, 2008 | 143 Wash.App. 364 | 177 P.3d 765
 
 - Washington Citation :: Rosen v. Ascentry Techs., Inc., 143 Wn. App. 364, 177 P.3d 765 (2008)
 - All Citations :: 143 Wash.App. 364, 177 P.3d 765
 
-** Brief
-
-** Document Details
-
-- Outline
-- Synopsis
-- West Headnotes
-- Attorneys and Law Firms
-- Opinion
-- All Citations
-
-** KeyCite:
-
-- KeyCite Yellow Flag - Negative Treatment
-- Distinguished byArya Holdings, Ltd. v. Eastside Funding, LLC, Wash.App. Div. 2, April 21, 2020
-
-* Case
 
                           143 Wash.App. 364
 
@@ -40,6 +24,36 @@ ASCENTRY TECHNOLOGIES, INC., and Federico and Jane Doe Pacquing, husband and wif
 
                             No. 58478–2–I.
                             Feb. 25, 2008.
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (6)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+** KeyCite:
+
+- KeyCite Yellow Flag - Negative Treatment
+- Distinguished byArya Holdings, Ltd. v. Eastside Funding, LLC, Wash.App. Div. 2, April 21, 2020
+
 ** Synopsis
 
 Background: Former employee filed action against employer for breach of contract and unpaid wages, and parties negotiated a settlement and release agreement. Employee subsequently moved for partial summary judgment on original claims after employer defaulted on payment, and employer filed cross-motion to enforce agreement. The Superior Court, King County, Michael S. Spearman, J., dismissed case with prejudice and ordered that judgment be entered for employee consistent with amount of settlement. Employee appealed.
@@ -99,7 +113,7 @@ A party is barred from enforcing a contract that it has materially breached.
 - 5 Cases that cite this headnote
 
 *** [5] Accord and Satisfaction  [[5: 8-k-26(1)][8-k-26(1)]]  Presumptions and burden of proof
-NovationEvidence
+Novation-Evidence
 
 - /8 Accord and Satisfaction/
 - *8-k-26 Evidence*
@@ -201,11 +215,9 @@ In exchange for Mr. Rosen’s release of all known and unknown claims, Ascentry 
 
 <<*372>> CP at 172. Though Ascentry relies heavily on this provision, it does not clearly state that Rosen released his claims in exchange for Ascentry’s promise to pay.
 
-¶ 15 Ascentry claims that “the agreement made it clear that in the event of defendants’ default, Rosen could proceed immediately to judgment under the terms of the agreement....” Br. of Resp’t at 19. But Ascentry does not cite to any provision in the <<**769>> agreement to support this statement or any provision that restricts Rosen to collecting $50,000 in case of default. In fact, the agreement does not discuss default at all, and Rosen was required to dismiss his original lawsuit only upon “receipt of the Settlement Payment ....” and “in a form to be provided by Ascentry within three (3) business days of receipt of the Settlement Payment.” CP at 173 (para. 4). To overcome the presumption that the agreement was an executory accord, the parties’ intent to do so must be “clearly shown,” and here it was not. Buob, 191 Wash. at 490, 71 P.2d 559.1
+¶ 15 Ascentry claims that “the agreement made it clear that in the event of defendants’ default, Rosen could proceed immediately to judgment under the terms of the agreement....” Br. of Resp’t at 19. But Ascentry does not cite to any provision in the <<**769>> agreement to support this statement or any provision that restricts Rosen to collecting $50,000 in case of default. In fact, the agreement does not discuss default at all, and Rosen was required to dismiss his original lawsuit only upon “receipt of the Settlement Payment ....” and “in a form to be provided by Ascentry within three (3) business days of receipt of the Settlement Payment.” CP at 173 (para. 4). To overcome the presumption that the agreement was an executory accord, the parties’ intent to do so must be “clearly shown,” and here it was not. Buob, 191 Wash. at 490, 71 P.2d 559.[fn:1]
 
-1
-
-Ascentry also relies on Langlois v. Langlois, 169 N.Y.S.2d 170, 5 A.D.2d 75 (1957), in which the court stated,
+[fn:1] Ascentry also relies on Langlois v. Langlois, 169 N.Y.S.2d 170, 5 A.D.2d 75 (1957), in which the court stated,
 
 A settlement agreement ought to be construed as a superceding agreement, if the original claim was a disputed and unliquidated claim, like a claim for damages in tort, in settlement of which the defendant agreed to pay a fixed sum upon delivery of a general release.
 
@@ -218,3 +230,6 @@ Langlois, 169 N.Y.S.2d at 173 (emphasis added). The court noted, however, that �
 ¶ 18 For the foregoing reasons, we reverse and remand.
 
 WE CONCUR: ELLINGTON and AGID, JJ.
+
+** End
+#+STARTUP: show2levels

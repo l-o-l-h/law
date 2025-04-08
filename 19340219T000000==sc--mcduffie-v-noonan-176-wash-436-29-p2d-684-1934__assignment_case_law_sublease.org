@@ -1,0 +1,162 @@
+#+title:      McDuffie v. Noonan, 176 Wash. 436, 29 P.2d 684 (1934)
+#+date:       [1934-02-19 Mon 00:00]
+#+filetags:   :assignment:case:law:sublease:
+#+identifier: 19340219T000000
+#+signature:  sc
+
+* McDuffie v. Noonan -- Supreme Court of Washington. | February 19, 1934 | 176 Wash. 436 | 29 P.2d 684
+
+- Washington Citation :: McDuffie v. Noonan, 176 Wash. 436, 29 P.2d 684 (1934)
+- All Citations :: 176 Wash. 436, 29 P.2d 684
+
+
+                            176 Wash. 436
+
+                     Supreme Court of Washington.
+
+                               McDUFFIE
+
+                                  v.
+
+                      NOONAN (FEAK, Intervener).
+
+                              No. 24750.
+                            Feb. 19, 1934.
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+An Issue
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[*West Headnotes (5)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+** KeyCite:
+
+- KeyCite Yellow Flag - Negative Treatment
+- Distinguished byIn re Soffa’s Estate, Wash.App. Div. 3, May 26, 1971
+
+** Synopsis
+
+Department 1.
+
+Appeal from Superior Court, Pierce County; W. O. Chapman, Judge.
+
+Action by William C. McDuffie, as receiver for the Richfield Oil Company of California, against H. J. Noonan, wherein John W. Feak intervened. The complaint in intervention having been dismissed and a judgment having been entered against defendant, defendant and intervener appeal.
+
+Affirmed.
+
+** West Headnotes (5)
+
+*** [1] Landlord and Tenant Assignment and Subletting
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(B) Assignment and Subletting/
+- /233-IV(B)1 In General/
+- *233-k-720 In general*
+- /(Formerly 233k79(1))/
+
+By “assignment of lease,” assignor parts with his whole interest, whereas by “sublease” he grants lessor interest, with reservation to himself.
+
+- 6 Cases that cite this headnote
+
+*** [2] Landlord and Tenant  [[2: 233-k-795][233-k-795]]  Rights and liabilities of sublessees
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(B) Assignment and Subletting/
+- /233-IV(B)6 Construction and Operation of Subleases/
+- *233-k-795 Rights and liabilities of sublessees*
+- /(Formerly 233k80(3))/
+
+Sublessee could not transfer to third person greater interest or estate than sublessee could assert against sublessor.
+
+- 7 Cases that cite this headnote
+
+*** [3] Landlord and Tenant  [[3: 233-k-795][233-k-795]]  Rights and liabilities of sublessees
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(B) Assignment and Subletting/
+- /233-IV(B)6 Construction and Operation of Subleases/
+- *233-k-795 Rights and liabilities of sublessees*
+- /(Formerly 233k80(3))/
+
+Sublessee had duty of ascertaining provisions of original lease, and was charged with notice of its existence and bound by its terms.
+
+- 6 Cases that cite this headnote
+
+*** [4] Landlord and Tenant  [[4: 233-k-839][233-k-839]]  Assignees or undertenants
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(D) Extensions and Renewals/
+- *233-k-837 Persons Entitled to Renewal*
+- *233-k-839 Assignees or undertenants*
+- /(Formerly 233k85)/
+
+Act of assignee of five-year lease, providing for extension thereof, in taking independent one-year lease at different rental commencing on day following termination of five-year lease, held not extension of five-year lease.
+
+*** [5] Landlord and Tenant  [[5: 233-k-836][233-k-836]]  Exercise of Extension or Renewal Option
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(D) Extensions and Renewals/
+- *233-k-831 Covenants for Extension or Renewal*
+- *233-k-836 Exercise of Extension or Renewal Option*
+- *233-k-836(1) In general*
+- /(Formerly 233k86(1))/
+
+Where lease contains option for extension, lessee, in exercising option, is confined strictly to terms of lease.
+
+- 2 Cases that cite this headnote
+
+** Attorneys and Law Firms
+
+- <<*436>> <<**684>> Williamson, Freeman & Broenkon and A. B. Cunningham, all of Tacoma, for appellants.
+- Bogle, Bogle & Gates and George T. Nickell, all of Seattle, for respondent.
+
+** Opinion
+
+MAIN, Justice.
+
+This action was one in unlawful detainer brought for the purpose of obtaining possession of two lots in the city of Tacoma. In the action as originally brought, one H. J. Noonan was named as the only defendant. Subsequently John W. Feak intervened. To the amended complaint in intervention, a demurrer was interposed and sustained, and, the intervener not having pleaded further within the time specified by the court, the complaint in intervention was dismissed. A demurrer was also interposed to the affirmative defense in Noonan’s amended answer to the complaint, and this was likewise sustained, the defendant not pleading further. <<*437>> The cause went to trial before the court without a jury upon the complaint and the answer, which was, in effect, after the sustaining of the demurrer to the affirmative defense, a general denial. The trial resulted in findings of fact, from which the court concluded that the defendant had wrongfully remained in possession of the premises for the period of ten days, and fixed the damages at $50, which would be doubled under Rem. Rev. Stat. § 827. Judgment was entered in accordance with the findings and conclusions, from which the defendant and intervener appealed.
+
+The facts which will present the questions here for determination may be summarized as follows: The Richfield Oil Company, a corporation, was organized under the laws of the state of Delaware and authorized to do business in this state. It was a producer and distributor of gasoline and petroleum products. January 15, 1931, William C. McDuffie was appointed receiver for the corporation, and brought this action in his capacity as such. The Richfield Oil Company’s products in the city of Tacoma were disposed of through J. W. Feak & Co., a corporation organized under the laws of this state, of which company J. W. Feak was president and manager.
+
+January 5, 1928, Charles M. Burge and wife, being the owners of two certain lots in the city of Tacoma, leased the same to one Samuel G. Mettler for a period of five years, commencing the 1st day of February, 1928, and expiring January 31, 1933, at a monthly rental of $100. This lease contained the provision that the lessee could ‘by declaring his intention in writing and serving or mailing same to the lessor, at the same place wherein the rent is paid at least thirty (30) days prior to the normal termination hereof, extend this lease as to all of its terms and conditions, except rental, for a <<*438>> period of five (5) years next succeeding said termination.’ Then follows a provision for the <<**685>> method of determining the rental in the event that the lessee should elect to extend the term of the lease. The rights of the lessee Metter under this lease, by certain mesne assignments, were finally transferred to J. W. Feak & Co. After the transfer, the assignee of the lease, J. W. Feak & Co., constructed on the south portion of the lots a distributing plant for gasoline and other allied products, and on the north portion thereof a gasoline station.
+
+March 1, 1929, the Richfield Oil Company entered into a contract with J. W. Feak & Co. whereby the latter became the distributor of the gasoline and lubricating products of the corporation in the city of Tacoma and such other territory as might be mutually agreed upon. This contract contained a provision ‘that any contracts made by the buyer which have been approved by the seller will be carried out by the seller in the event the seller takes over the business of the buyer.’ Subsequently, and on April 7, 1931, J. W. Feak & Co. assigned the Mettler lease to William C. McDuffie as receiver for the Richfield Company. Prior to making this assignment, J. W. Feak & Co. had made a sublease to John W. Feak of the north half of the two lots upon which the service station had been constructed. The term of this lease extended to May 31, 1933, which was four months beyond the time when the original lease to Mettler, which had, by various assignments, passed to J. W. Feak & Co. and then to the respondent, would expire. January 5, 1933, the then owner of the premises, by separate and independent contract which made no reference to the prior lease, leased the same to the respondent <<*439>> for a period of one year, commencing February 1, 1933, and ending January 31, 1934, for the sum of $90 per month. H. J. Noonan, one of the appellants, was in possession of the gasoline station when the term fixed by the original lease expired, and he remained in possession until he was dispossessed by writ of restitution ten days later. Noonan was in possession under an oral lease from John W. Feak individually, the sublessee of J. W. Feak & Co.
+
+[1] [2] <<2: 233-k-795>> The first question is whether Noonan had a right to retain possession of the premises which he was occupying until the expiration of the sublease to John W. Feak. It requires no argument to show that Noonan’s rights could not be greater than those of Feak, under whom he held. There is a difference between the assignment of a leasehold interest and a subletting. By assignment, the lessor parts with his whole interest in the estate, whereas by a sublease he grants an interest less than his own, reserving to himself a reservation. Shannon v. Grindstaff, 11 Wash. 536, 40 P. 123. John W. Feak could not transfer to Noonan a greater interest or estate in the premises than he could assert against his own landlord. Sheridan v. O. E. Doherty, Inc., 106 Wash. 561, 181 P. 16; Poledor v. Mayerfield, 94 Ind. App. 601, 173 N. E. 292, 176 N. E. 32.
+
+[3] <<3: 233-k-795>> [4] <<4: 233-k-839>> [5] <<5: 233-k-836>> When John W. Feak contracted for a sublease, it was his duty to ascertain the provisions of the original lease, and he was charged with notice of the existence of that lease, and was bound by its terms and conditions. Georgeous v. Lewis, 20 Cal. App. 255, 128 P. 768; Baranov v. Scudder, 177 Cal. 458, 170 P. 1122. When Feak took the sublease, therefore, he knew, or was charged with notice of the provision in the original lease with respect to an extension of the term <<*440>> thereof by complying with the conditions therein specified. The term of that lease was never extended because nothing was done in accordance with its terms to extend it. The taking of a new and independent lease by the receiver from the then owner of the premises on January 5, 1933, for a period of one year, at a rental of $90 per month, to commence February 1, 1933, and end January 1, 1934, was not an extension of the original lease. In the exercise of an option given in a lease, the lessee is confined strictly to the terms of the lease in respect to the scope of the privilege conferred. 35 C. J. p. 1016, § 141; Gensler v. Nicholas, 151 Mich. 529, 115 N. W. 458, 14 Ann. Cas. 452; Lamson v. Coulson, 234 Mass. 288, 125 N. E. 551; Marino v. Williams, 30 Nev. 360, 96 P. 1073.
+
+From this it follows that the intervener had no right in the premises after January 31, 1933, when the term of the original lease expired, and, as already appears, Noonan was simply holding under Feak, and had no greater rights. Whether the intervener would have had any rights under that provision of the contract of March 1, 1929, above quoted, to the effect that any contract made by the buyer, which had been approved by the seller, would be carried out in event that the seller should take over the property had the original contract been extended, is a question not now material, in view of what has been hereinbefore said, and we express no opinion with reference to that question.
+
+As to the question of the amount of the <<**686>> damages, little need be said. But one witness testified upon this matter, and he was called by the respondent. The trial court found that the respondent had been damaged in the sum of $50, which doubled, as above  <<*441>> indicated, under the statute would call for a judgment of $100. When the testimony of the witness as to the amount of the damage is read in its entirety, it sustains the finding of the trial court.
+
+The judgment will be affirmed.
+
+BEALS, C. J., and MITCHELL, STEINERT, and MILLARD, JJ., concur.
+
+** End
+#+STARTUP: show2levels

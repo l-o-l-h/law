@@ -1,0 +1,324 @@
+#+title:      1930 LLC v. Jackson, 58674-6-II, 2025 WL 761297 (Wash. Ct. App. Dec. 17, 2024)
+#+date:       [2024-12-17 Tue 00:00]
+#+filetags:   :answer:case:default:law:oral:written:
+#+identifier: 20241217T000000
+#+signature:  coa=div2
+
+* 1930 LLC v. Jackson -- Court of Appeals of Washington, Division 2. | December 17, 2024 | --- P.3d ---- | 2025 WL 761297
+
+- Washington Citation :: 1930 LLC v. Jackson, 58674-6-II, 2025 WL 761297 (Wash. Ct. App. Dec. 17, 2024)
+- All Citations :: --- P.3d ----, 2025 WL 761297
+
+
+                            2025 WL 761297
+
+             Court of Appeals of Washington, Division 2.
+
+    1930 LLC, a Washington limited liability company, Respondent,
+
+                                  v.
+
+Terry JACKSON, Beverly Jackson, and Any and All Unknown Occupants, Appellants.
+
+                            No. 58674-6-II
+                       Filed: December 17, 2024
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+An Issue
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (15)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+
+
+- Ordered Published Date March 11, 2025
+
+** Synopsis
+
+Background: Landlord filed unlawful-detainer action against residential tenants, seeking termination of tenancy, recovery of unpaid rent, break and enter order, and reasonable attorney fees. The Superior Court, Grays Harbor County, David L. Edwards, J., granted landlord’s motion for show-cause hearing then, following hearing, entered default judgment against tenants for failing to file formal written answer, issued writ of restitution, and awarded landlord $8,100 in unpaid rent and $2,604.85 attorney fees. Tenants appealed.
+
+Holdings: The Court of Appeals, Veljacic, J., held that:
+
+[1] default judgment was not warranted by tenants’ failure to file formal, written answer, and
+
+[2] any award of attorney fees to landlord was premature.
+
+Reversed and remanded; attorney fee award vacated.
+
+Procedural Posture(s): On Appeal; Motion for Attorney’s Fees.
+
+** West Headnotes (15)
+
+*** [1] Landlord and Tenant  [[1: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+
+Unlawful-detainer actions are the process by which landlords and tenants expeditiously resolve claims of possession. Wash. Rev. Code Ann. § 59.12.030 et seq.
+
+*** [2] Landlord and Tenant  [[2: 233-k-1782][233-k-1782]]  Statutory provisions
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1782 Statutory provisions*
+
+Because the statutes governing unlawful-detainer actions and the statutes governing the rights and remedies of residential landlords and tenants are statutes in derogation of the common law, they are strictly construed in favor of the tenant. Wash. Rev. Code Ann. §§ 59.12.010 et seq.; 59.18.010 et seq.
+
+*** [3] Landlord and Tenant  [[3: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Show-cause hearings in unlawful-detainer actions under Residential Landlord-Tenant Act (RLTA) are summary proceedings to determine issue of possession pending lawsuit and are not intended to finally determine parties’ rights. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [4] Landlord and Tenant  [[4: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Only if trial court determines following show-cause hearing that there are no substantial issues of material fact regarding possession and that landlord has right to be restored possession of property may it order issuance of writ of restitution in unlawful-detainer action under Residential Landlord-Tenant Act (RLTA). Wash. Rev. Code Ann. § 59.18.380.
+
+*** [5] Landlord and Tenant  [[5: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Although a show cause hearing in an unlawful-detainer action under the Residential Landlord-Tenant Act (RLTA) is a summary proceeding, it must still be meaningful, as it is the first and sometimes the only step of the eviction process in which the tenant is able to participate. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [6] Landlord and Tenant  [[6: 233-k-1782][233-k-1782]]  Statutory provisions
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1782 Statutory provisions*
+
+The Residential Landlord-Tenant Act (RLTA) provides leniency to tenants in an unlawful-detainer action. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [7] Landlord and Tenant  [[7: 233-k-1794(3)][233-k-1794(3)]]  Service
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1794 Demand or Notice*
+- *233-k-1794(3) Service*
+
+Even when tenant opts to complete written answer to unlawful-detainer action brought under Residential Landlord-Tenant Act (RLTA), service is not required. Wash. Rev. Code Ann. § 59.12.030 et seq.
+
+*** [8] Landlord and Tenant  [[8: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+The proper procedure by which a trial court should conduct a show-cause hearing in an unlawful-detainer action under the Residential Landlord-Tenant Act (RLTA) is as follows: (1) the trial court must ascertain whether either the defendant’s written or oral presentations potentially establish a viable legal or equitable defense to the entry of a writ of restitution; and (2) the trial court must then consider sufficient admissible evidence, including testimonial evidence, from parties and witnesses to determine the merits of any viable asserted defenses. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [9] Landlord and Tenant  [[9: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Because the Residential Landlord-Tenant Act (RLTA) contemplates a resolution of the issue of possession based solely on the show-cause hearing in an unlawful-detainer action, either the court must manage its examination of parties and witnesses at the show-cause hearing in a sufficiently expeditious manner to accommodate its calendar while still preserving the defendant’s procedural rights or it must briefly set the matter over for a longer show-cause hearing in which those rights are respected. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [10] Judgment  [[10: 228-k-92][228-k-92]]  Nature of judgment by default
+
+- /228 Judgment/
+- /228-IV By Default/
+- /228-IV(A) Requisites and Validity/
+- *228-k-92 Nature of judgment by default*
+
+Generally, it is the policy of the law that controversies be determined on the merits rather than by default.
+
+*** [11] Forcible Entry and Detainer  [[11: 179-k-6][179-k-6]]  Nature and Form of Remedy
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-6 Nature and Form of Remedy*
+- *179-k-6(1) In general*
+
+Unlawful-detainer actions are “special proceedings,” within meaning of rule making civil rules inapplicable if inconsistent with statutes governing special proceedings. Wash. Super. Ct. Civ. R. 81(a).
+
+*** [12] Landlord and Tenant  [[12: 233-k-1804][233-k-1804]]  Judgment and enforcement thereof
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1804 Judgment and enforcement thereof*
+
+Default judgment against residential tenants was not warranted by tenants’ failure to file formal, written answer in unlawful-detainer action brought by landlord under Residential Landlord-Tenant Act (RLTA), even though civil rules provided for filing of formal, written answer; unlawful-detainer action was special proceeding to which civil rules did not apply if they were inconsistent with rules or statutes applicable to special proceedings, RLTA plainly authorized tenant to respond to complaint orally at show-cause hearing, and such departure from civil rules was grounded in public policy, attempting to lower barrier for tenants who could not afford attorney and were unfamiliar with law, especially when such dispute dealt with housing. Wash. Rev. Code Ann. § 59.18.380; Wash. Super. Ct. Civ. R. 81(a).
+
+*** [13] Appeal and Error  [[13: 30-k-3714][30-k-3714]]  Authorization, eligibility, and entitlement in general;  prevailing party
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)21Costs and Fees/
+- *30-k-3712 Attorney Fees*
+- *30-k-3714 Authorization, eligibility, and entitlement in general;  prevailing party*
+
+Whether there is a legal basis for awarding attorney fees is reviewed de novo.
+
+*** [14] Appeal and Error  [[14: 30-k-3712][30-k-3712]]  Attorney Fees
+Appeal and Error-Items and amount;  hours and rates
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)21Costs and Fees/
+- *30-k-3712 Attorney Fees*
+- *30-k-3713 In general*
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XV I(D)21Costs and Fees/
+- *30-k-3712 Attorney Fees*
+- *30-k-3717 Items and amount;  hours and rates*
+
+Discretionary decisions to award or deny attorney fees and the reasonableness of any award are reviewed for an abuse of discretion.
+
+*** [15] Landlord and Tenant  [[15: 233-k-1807][233-k-1807]]  Costs and attorney fees
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1807 Costs and attorney fees*
+
+Any award of attorney fees to landlord was premature, following residential tenants’ appeal from default judgment and writ of restitution issued following show-cause hearing in landlord’s unlawful-detainer action under Residential Landlord-Tenant Act (RLTA); Court of Appeals reversed and remanded for new show-cause hearing, so prevailing party was not yet determined. Wash. Rev. Code Ann. §§ 59.18.290, 59.18.380, 59.18.650(4).
+
+Appeal from Grays Harbor County Superior Court, Docket No: 23-2-00399-0, Honorable David L. Edwards, Judge
+** Attorneys and Law Firms
+
+- Peter Christopher Rudolf, Galloway Law Group, P.O. Box 425, Lake Stevens, WA, 98258-0425, for Appellants.
+- Erik M. Kupka, Ingram Zelasko & Goodwin LLP, 120 E 1st St., Aberdeen, WA, 98520-5246, for Respondents.
+
+** Opinion
+
+Veljacic, J.
+
+¶1 Terry and Beverly Jackson (the Jacksons) appeal a writ of restitution arising out of an unlawful detainer action. The Jacksons argue the superior court erred in entering a default judgment. Consequently, the Jacksons claim the order authorizing attorney fees and the removal from their residence was improper. Because the court improperly granted default judgment based on the erroneous conclusion defendants must submit a formal, written answer and did not conduct the show cause hearing in accordance with RCW 59.18.380, we reverse and remand for proceedings consistent with this opinion. We also vacate the award for attorney fees.
+
+FACTS
+
+I. BACKGROUND
+
+¶2 1930 LLC alleges that the parties entered into an oral agreement in September 2014, establishing a month-to-month lease where the Jacksons would pay 1,350.00 monthly to reside in the house at 33 Bennett Lane, Oakville. 1930 LLC alleges the Jacksons stopped paying rent after January 2023. On July 3, 2023, 1930 LLC attempted to serve the Jacksons with a 14-day notice to pay rent or vacate the premises and the eviction resolution pilot program (ERPP) notice and resource information form[fn:1] Unable to reach the Jacksons at their residence, 1930 LLC posted the notices on their front door. 1930 LLC subsequently served the Jacksons with a 90-day notice to vacate and a written notice of intent to sell property. On July 26, 1930 LLC filed an unlawful detainer action against the Jacksons, seeking termination of the Jacksons’ tenancy, $8,100.00 for unpaid rent, a break and enter order, and reasonable attorney fees. Simultaneously, 1930 LLC moved for a show cause hearing, which was granted, and a hearing was scheduled for August 14, 2023.
+
+[fn:1] The ERPP offers rent assistance and legal help for eligible tenants through the Superior Court.
+
+¶3 On Tuesday, August 8, the Jacksons filed a letter with the court responding to the complaint. The Jacksons argued they owned the property after completing a 15-year lease-to-own contract with Security State Bank.[fn:2] They also contended that they never interacted with 1930 LLC throughout their tenancy, making payments only to Security State Bank.
+
+[fn:2] The Jacksons purportedly entered into the original contract on February 5, 2008 with Mike and Lisa Burnett. The Burnetts filed for bankruptcy in 2013, and Security State Bank acquired the property.
+
+II. SHOW CAUSE HEARING
+
+<<*2>> ¶4 At the August 14 show cause hearing, the court noted that the Jacksons “had not filed a formal” answer. Clerk’s Papers (CP) at 39. Because the Jacksons were unrepresented, the court continued the hearing to afford them more time to look for an attorney, setting a new hearing date for August 21 at 8:30 a.m. The Jacksons were unable to meet with an attorney. The court warned the Jacksons that if they did not file a formal answer, they would be in default. On August 18 the Jacksons, after already filing a letter with the court, submitted a second document responding to the complaint while making several allegations. The Jacksons also filed a third document on August 21 at 8:15 a.m., reiterating the arguments made in the previous submissions.
+
+¶5 At the outset of the second hearing, Terry Jackson explained that he had retained counsel on August 17 and scheduled a meeting for August 22. The court, however, pointed out that the Jacksons had yet to file a formal answer and were in default. The court stated:
+
+THE COURT: Just stop right there.
+
+MR. JACKSON: Oh.
+
+THE COURT: We’re not getting into the substance of the complaint.
+
+MR. JACKSON: Okay.
+
+THE COURT: You have not filed an answer. Right now[,] you’re in default. I told you when you left last week that you needed to have an answer filed by today[,] or I was going to grant [1930 LLC’s] request for an order.
+
+MR. JACKSON: Judge—attorney—I couldn’t get a real estate lawyer within two weeks. The first one I could get was—appointment last Thursday for tomorrow at 9:00 a.m., that’s the best I could do.
+
+THE COURT: Well—
+
+MR. JACKSON: In good faith, I did try two other attorneys, a Tacoma attorney, a Yelm attorney. They weren’t able to help me. But I have been in good faith trying to get an attorney. I do have one now.
+
+THE COURT: But you were served 25 days ago. That’s more than enough time for you to consult with counsel to get an answer filed.
+
+Rep. of Proc. (RP) at 4. The court granted the motion to show cause and entered the writ of restitution in favor of 1930 LLC, awarding $8,100.00 for the unpaid rent and $2,604.85 in attorney fees and costs. The court informed the Jacksons of their right to move for reconsideration, which they did not do.
+
+¶6 The Jacksons timely appeal.
+
+ANALYSIS
+
+I. DEFAULT JUDGMENT
+
+¶7 The Jacksons argue that the court erroneously entered default judgment in favor of 1930 LLC. We agree.
+
+¶8 We review a superior court’s legal determinations de novo. Garrand v. Cornett, 31 Wash. App. 2d 428, 439, 550 P.3d 64 (2024).
+
+[1] <<1: 233-k-1781>> [2] <<2: 233-k-1782>>¶9 Title 59 RCW governs landlord-tenant law in Washington. Chapter 59.12 is dedicated to “unlawful detainer actions, [and] chapter 59.18 RCW, known as the Residential Landlord-Tenant Act of 1973 (RLTA), governs the rights and remedies of residential landlords and tenants.” Faciszewski v. Brown, 187 Wash.2d 308, 314, 386 P.3d 711 (2016). Unlawful detainer occurs when a tenant “holds over or continues in possession, in person or by subtenant, of the property or any part thereof after the expiration of the term.” RCW 59.12.030(1). Unlawful detainer actions are the process by which landlords and tenants expeditiously resolve claims of possession. Christensen v. Ellsworth, 162 Wash.2d 365, 370-71, 173 P.3d 228 (2007). Because “chapters 59.12 and 59.18 RCW are statutes in derogation of the common law,” they “are strictly construed in favor of the tenant.” Randy Reynolds & Assoc., Inc. v. Harmon, 193 Wash.2d 143, 156, 437 P.3d 677 (2019).
+
+[3] <<3: 233-k-1793>> [4] <<4: 233-k-1793>>¶10 After a landlord files their complaint, the RLTA requires a show cause hearing before the trial court issues a writ of restitution. RCW 59.18.370, .380. The hearings are “summary proceedings to determine the issue of possession pending a lawsuit” and are not intended to finally determine the parties’ rights. Carlstrom v. Hanline, 98 Wash. App. 780, 788, 990 P.2d 986 (2000); see also Webster v. Litz, 18 Wash. App. 2d 248, 256, 491 P.3d 171 (2021) (“When a court grants a writ of restitution entitling the landlord to immediate possession of the property, that right is entirely distinct from the final resolution of the material issues of fact disputed by the parties.”). Only if the trial court determines “that there are no substantial issues of material fact regarding possession and that the landlord has the right to be restored possession of the property” may it order the issuance of a writ of restitution. Garrand, 31 Wash. App. 2d at 438, 550 P.3d 64; RCW 59.18.380.
+
+<<*3>> [5] <<5: 233-k-1793>>¶11 Although a show cause hearing is a summary proceeding, “ ‘[it] must [still] be meaningful, as it is the first (and sometimes the only) step of the eviction process in which the tenant is able to participate.’ ” Garrand, 31 Wash. App. 2d at 438, 550 P.3d 64 (quoting Faciszewski, 187 Wash.2d at 321, 386 P.3d 711). Without the ability to present evidence, show cause hearings would be “render[ed] ... virtually meaningless—nothing more than a requirement that superior courts hold perfunctory and purposeless hearings on matters to be decided solely on the pleadings.” Leda v. Whisnand, 150 Wash. App. 69, 84, 207 P.3d 468 (2009).
+
+[6] <<6: 233-k-1782>> [7] <<7: 233-k-17943)>> [8] <<8: 233-k-1793>> [9] <<9: 233-k-1793>>¶12 The RLTA provides leniency to tenants in an unlawful detainer action. See RCW 59.18.380. When responding to a complaint, “the defendant, or any person in possession or claiming possession of the property, may answer, orally or in writing, and assert any legal or equitable defense or set-off arising out of the tenancy” at the show cause hearing. RCW 59.18.380 (emphasis added). “An oral answer, by definition, cannot be ‘served upon’ an opponent in advance of a hearing, CR 5(a), nor can an oral answer logically be ‘attached’ to a signed affidavit sworn under penalty of perjury, CR 56(e).” Hernandez v. France, 29 Wash. App. 2d 777, 786, 544 P.3d 518 (2024). Even when a tenant opts to complete a written answer, service is not required. Id. at 786-87, 544 P.3d 518. Additionally, the court must “examine the parties and witnesses orally to ascertain the merits of the complaint and answer.” RCW 59.18.380[fn:3]
+
+[fn:3] [T]he proper procedure by which a trial court should conduct a[ ] ... show cause hearing is as follows: (1) the trial court must ascertain whether either the defendant’s written or oral presentations potentially establish a viable legal or equitable defense to the entry of a writ of restitution; and (2) the trial court must then consider sufficient admissible evidence (including testimonial evidence) from parties and witnesses to determine the merits of any viable asserted defenses. Because RCW 59.18.380 contemplates a resolution of the issue of possession based solely on the show cause hearing, either the court must manage its examination [of parties and witnesses] in a sufficiently expeditious manner to accommodate its calendar while still preserving the defendant’s procedural rights or it must briefly set the matter over for a longer show cause hearing in which those rights are respected.
+
+Leda, 150 Wash. App. at 83, 207 P.3d 468 (emphasis in original) (footnote omitted).
+
+[10] <<10: 228-k-92>> [11] <<11: 179-k-6>>¶13 Generally, “[i]t is the policy of the law that controversies be determined on the merits rather than by default.” Dlouhy v. Dlouhy, 55 Wash.2d 718, 721, 349 P.2d 1073 (1960). While pro se defendants are held to the same standard as attorneys, Edwards v. Le Duc, 157 Wash. App. 455, 460, 238 P.3d 1187 (2010), CR 81(a) explains that “civil rules apply to all civil proceedings ‘[e]xcept where inconsistent with rules or statutes applicable to special proceedings,’ ” Christensen, 162 Wash.2d at 374, 173 P.3d 228. “Unlawful detainer actions are special proceedings.” Id.
+
+[12] <<12: 233-k-1804>>¶14 Regardless of whether the Jacksons’ submissions constituted an answer, the court erred by requiring a formal, written answer.[fn:4] The civil rules do not apply because unlawful detainer actions are special proceedings for the purposes of CR 81(a). See id. at 374, 173 P.3d 228; CR 81(a). RCW 59.18.380 governs, and the statute plainly authorizes a tenant to respond to the complaint orally at the show cause hearing. This departure from the civil rules is grounded in public policy, attempting to lower the barrier for tenants who cannot afford an attorney and are unfamiliar with the law, especially when such a dispute deals with housing. See Leda, 150 Wash. App. at 80-81, 207 P.3d 468. Even if the Jacksons’ letters did not satisfy the requirements of the RLTA, and in light of the attempt at an oral answer, the court erred in entering default for failure to submit a formal, written answer. RCW 59.18.380.
+
+[fn:4] 1930 argues that the Jacksons “should have filed a motion for reconsideration or motion to vacate the judgment” prior to appealing. See Br. of Resp’t at 12. 1930 does not cite to any authority precluding the Jacksons from pursuing an appeal before filing such motions. Therefore, we do not consider their argument. See DeHeer v. Seattle Post-Intelligencer, 60 Wash.2d 122, 126, 372 P.2d 193 (1962) (“Where no authorities are cited in support of a proposition, [courts are] not required to search out authorities, but may assume that counsel, after diligent search, has found none.”).
+
+III. ATTORNEY FEES
+
+<<*4>> ¶15 The Jacksons argue that because the court erroneously entered default judgment, the award for attorney fees must be vacated. We agree.
+
+A. Standard of Review
+
+[13] <<13: 30-k-3714>> [14] <<14: 30-k-3712>>¶16 Whether “there is a legal basis for awarding attorney fees” is reviewed de novo. Gander v. Yeager, 167 Wash. App. 638, 647, 282 P.3d 1100 (2012). Discretionary decisions “to award or deny attorney fees and the reasonableness of any ... award” are reviewed for an abuse of discretion. Id.
+
+B. Legal Principles
+
+[15] <<15: 233-k-1807>>¶17 The RLTA authorizes a court to award attorney fees to a prevailing party in an unlawful detainer action. RCW 59.18.290, .650(4). Here, the trial court awarded 1930 LLC attorney fees after entering default judgment and granting the writ of restitution. Because we reverse and remand for a new show cause hearing in accordance with RCW 59.18.380, the prevailing party is not yet determined. As a result, any award is premature. See Leda, 150 Wash. App. at 87, 207 P.3d 468.
+
+¶18 Therefore, we vacate the award for attorney fees and remand for further determination.
+
+CONCLUSION
+
+¶19 Accordingly, we reverse and remand the judgment for further proceedings consistent with this opinion. We also vacate the award for attorney fees.
+
+** End
+#+STARTUP: show2levels

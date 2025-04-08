@@ -1,0 +1,227 @@
+#+title:      Munden v. Hazelrigg, 105 Wn.2d 39, 711 P.2d 295 (1985)
+#+date:       [1985-12-12 Thu 00:00]
+#+filetags:   :case:conversion:convert:counterclaim:law:rlta:ud:
+#+identifier: 19851212T000001
+#+signature:  sc
+
+* Munden v. Hazelrigg -- Supreme Court of Washington, En Banc. | December 12, 1985 | 105 Wash.2d 39 | 711 P.2d 295
+
+- Washington Citation :: Munden v. Hazelrigg, 105 Wn.2d 39, 711 P.2d 295 (1985)
+- All Citations :: 105 Wash.2d 39, 711 P.2d 295
+
+
+                            105 Wash.2d 39
+
+                     Supreme Court of Washington,
+
+                               En Banc.
+
+                    Richard D. MUNDEN, Respondent,
+
+                                  v.
+
+     Thomas R. HAZELRIGG, III, and Susan Hazelrigg, Petitioners.
+
+                             No. 51223–0.
+                            Dec. 12, 1985.
+** Brief
+
+** Document Details
+
+- [[*West Headnotes (9)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+** KeyCite:
+
+- KeyCite Yellow Flag - Negative Treatment
+- Declined to Extend byAngelo Property Co., LP v. Hafiz, Wash.App. Div. 2, April 17, 2012
+
+** Synopsis
+
+Unlawful detainer action was brought in which landlord sued for possession and back rent and tenants counterclaimed for damages to personalty. The Superior Court, King County, James J. Dore, J., dismissed tenants’ counterclaim without prejudice, and tenants appealed. The Court of Appeals denied appealability and declined discretionary review to consider counterclaim issue, and tenants petitioned for review. The Supreme Court, Brachtenbach, J., held that: (1) absent bar to subsequent suit, dismissal of counterclaim without prejudice was not appealable, and (2) upon tenants’ voluntarily vacating premises before trial and simultaneously submitting affidavit stating tenancy was terminated, tenants’ counterclaim for damage to personalty and landlord’s claims against various impleaded parties were properly before trial court.
+
+Reversed and remanded.
+
+Procedural Posture(s): On Appeal.
+
+** West Headnotes (9)
+
+*** [1] Appeal and Error  [[1: 30-k-105][30-k-105]]  Dismissal, nonsuit, or direction of verdict
+
+- /30 Appeal and Error/
+- /30-III Decisions Reviewable/
+- /30-III(E) Nature, Scope, and Effect of Decision/
+- *30-k-105 Dismissal, nonsuit, or direction of verdict*
+
+Dismissal without prejudice which has effect of determining action and preventing final judgment or discontinuing action is appealable. RAP 2.2(a)(3).
+
+- 26 Cases that cite this headnote
+
+*** [2] Appeal and Error  [[2: 30-k-105][30-k-105]]  Dismissal, nonsuit, or direction of verdict
+
+- /30 Appeal and Error/
+- /30-III Decisions Reviewable/
+- /30-III(E) Nature, Scope, and Effect of Decision/
+- *30-k-105 Dismissal, nonsuit, or direction of verdict*
+
+Dismissal without prejudice of tenants’ counterclaim for damages to personalty in unlawful detainer action was not appealable, where statute of limitations applicable to counterclaim had not run and filing of new action was possible. RAP 2.2(a)(3).
+
+- 8 Cases that cite this headnote
+
+*** [3] Landlord and Tenant  [[3: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+- /(Formerly 233k288)/
+
+Unlawful detainer action is limited to question of possession and related issues such as restitution of premises and rent. West’s RCWA 59.12.030.
+
+- 46 Cases that cite this headnote
+
+*** [4] Landlord and Tenant  [[4: 233-k-1789][233-k-1789]]  Set-off and counterclaim
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1789 Set-off and counterclaim*
+- /(Formerly 233k290(5))/
+
+To protect summary nature of unlawful detainer proceedings, other claims, including counterclaims, are generally not allowed. West’s RCWA 59.12.030.
+
+- 27 Cases that cite this headnote
+
+*** [5] Landlord and Tenant  [[5: 233-k-1789][233-k-1789]]  Set-off and counterclaim
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1789 Set-off and counterclaim*
+- /(Formerly 233k290(5))/
+
+Counterclaim, affirmative equitable defense, or set-off based on facts which excuse tenant’s breach may be asserted in unlawful detainer action. West’s RCWA 59.12.030.
+
+- 22 Cases that cite this headnote
+
+*** [6] Action  [[6: 13-k-36][13-k-36]]  Change of character or form
+
+- /13 Action/
+- /13-II Nature and Form/
+- *13-k-36 Change of character or form*
+
+Unlawful detainer proceeding may be converted into ordinary civil suit for damages and parties may then properly assert any cross claims, counterclaims, and affirmative defenses where right to possession ceases to be at issue at any time between commencement and trial of action. West’s RCWA 59.12.030.
+
+- 27 Cases that cite this headnote
+
+*** [7] Action  [[7: 13-k-36][13-k-36]]  Change of character or form
+
+- /13 Action/
+- /13-II Nature and Form/
+- *13-k-36 Change of character or form*
+
+Tenants’ counterclaim for damages to personalty and landlord’s claims against various impleaded parties were properly before trial court in unlawful detainer action, where tenants voluntarily vacated premises before trial and simultaneously submitted affidavit stating tenancy was terminated; overruling Tuschoff v. Westover, 65 Wash.2d 69, 395 P.2d 630 (1964).
+
+- 2 Cases that cite this headnote
+
+*** [8] Action  [[8: 13-k-36][13-k-36]]  Change of character or form
+
+- /13 Action/
+- /13-II Nature and Form/
+- *13-k-36 Change of character or form*
+
+Trial court has inherent power to fashion method by which unlawful detainer action is converted to ordinary civil action, including power to require amended pleadings or to grant continuance. West’s RCWA 59.12.030.
+
+- 13 Cases that cite this headnote
+
+*** [9] Trial  [[9: 388-k-13(2)][388-k-13(2)]]  Nature of action
+
+- /388 Trial/
+- /388-II Dockets, Lists, and Calendars/
+- *388-k-13 Preferred Causes*
+- *388-k-13(2) Nature of action*
+- /(Formerly 388k13.1(2))/
+
+Unlawful detainer action which is converted to ordinary civil action is no longer entitled to calendar priority afforded unlawful detainer action. West’s RCWA 59.12.130.
+
+- 19 Cases that cite this headnote
+
+** Attorneys and Law Firms
+
+- <<**296>> <<*40>> Davis, Wright, Todd, Riese & Jones, Hall Baetz, David Tarshes, Seattle, for petitioners.
+- Riddell, Williams, Bullitt & Walkinshaw, David Buck, Kyle Samuels, Seattle, for respondent.
+
+** Opinion
+
+BRACHTENBACH, Justice.
+
+This case concerns an unlawful detainer action in which a lessor sued for possession and back rent and tenants counterclaimed for damages to personalty. The trial court dismissed the tenants’ counterclaim without prejudice and tenants appealed the dismissal.
+
+Two issues are presented. First, is a dismissal without prejudice appealable where there is no bar to a subsequent suit? Second, once possession is no longer at issue in an unlawful detainer action, can that action be converted to an ordinary civil suit in which all claims, counterclaims, and affirmative defenses may be asserted?
+
+We hold that a dismissal without prejudice may be <<*41>> appealable, pursuant to RAP 2.2(a)(3), where its effect is to determine the action and prevent a final judgment or discontinue the action. However, where, as here, there is no bar to a subsequent suit, the effect of dismissal is not to determine or discontinue the action. Thus, this dismissal is not appealable.
+
+The Court of Appeals held the order of dismissal was not an appealable order. Under the facts of this case we affirm that result. However, because we wish to address the counterclaim issue we accepted discretionary review. We hold that where the right to possession ceases to be at issue at any time between the commencement of an unlawful detainer action and trial of that action, the proceeding may be converted into an ordinary civil suit for damages, and the parties may then properly assert any cross claims, counterclaims, and affirmative defenses. Since possession in this case ceased to be an issue prior to trial, the proceeding was convertible to an ordinary civil suit for damages, and the tenants’ counterclaim was properly before the court. Therefore, we remand for trial. Before proceeding to our legal analysis, we begin with the facts and history of this case.
+
+Tenants, who were defendants in the unlawful detainer action, rented a waterfront home under a 2–year lease from plaintiff-lessor at a monthly rental of $2200. After the tenants went into possession, a rock retaining wall on the property collapsed. The collapse resulted in a rockslide and mudslide which damaged the tenants’ automobile. A dispute then arose between the parties concerning damages for the car and rent for the premises.
+
+Nine months after the dispute arose, the lessor initiated an action for unlawful detainer, seeking possession and back rent of approximately $17,000. The tenants then asserted an “affirmative defense/counterclaim” for automobile damage attributable to the mudslide and rockslide. Three weeks later, prior to trial, the tenants vacated the premises and specifically relinquished any right to possession. At that time the trial was rescheduled.
+
+<<*42>> The lessor then impleaded the parties who had constructed the rock wall. Those parties moved for dismissal on the ground that the trial court lacked subject matter jurisdiction to address claims against them in an unlawful detainer action. The lessor then moved to dismiss the tenants’ counterclaim on the same ground. The trial court granted dismissal in both instances, but only the dismissal of the tenants’ counterclaim is at issue here.
+
+The dismissal of the tenants’ counterclaim was without prejudice to a subsequent suit. It is undisputed by the parties that such suit is not barred by the applicable statute of limitations.
+
+The tenants appealed the dismissal to the Court of Appeals. The Commissioner denied appealability. He further declined discretionary review to consider the counterclaim issue, since dismissal of a counterclaim in the instant case did not amount to probable or obvious error within the language of RAP 2.3(b). The Court of Appeals <<**297>> then denied tenants’ motion to modify the commissioner’s ruling, and tenants petitioned this court for review of the order denying the motion to modify.
+
+*** I
+
+[1] <<1: 30-k-105>> We address first the question of appealability of a dismissal without prejudice. We begin by clarifying the terminology relating to appellate review.
+
+There are two methods for seeking review of trial court decisions. See Rule of Appellate Procedure (RAP) 2.1(a). Review by permission of the reviewing court is called “discretionary review”. Review as a matter of right is called “appeal”. Thus, the commonly used phrase “appealable as of right” is redundant. If a decision is reviewable as a matter of right it is simply “appealable”.
+
+RAP 2.2 determines whether a particular superior court decision is appealable. Of the 13 subsections of RAP 2.2(a) which specify appealable orders, subsection (a)(3) is controlling here. It provides, in pertinent part,
+
+<<*43>> (3) Decision Determining Action. Any written decision affecting a substantial right in a civil case which in effect determines the action and prevents a final judgment or discontinues the action.
+
+Both this court and the Court of Appeals have applied the language of RAP 2.2(a)(3), or its predecessor, to the question of appealability of dismissals without prejudice.
+
+In Dux v. Hostetter, 37 Wash.2d 550, 225 P.2d 210 (1950), this court held that dismissal without prejudice of a cross claim was not an appealable order because it made no final disposition of the claim. Applying the language of what is now RAP 2.2(a)(3), the court found the order “neither determined nor discontinued the action against respondents and therefore was not appealable ...”. Dux, at 553, 225 P.2d 210.
+
+In Lewis Cy. Sav. & Loan Ass’n v. Black, 60 Wash.2d 362, 374 P.2d 157 (1962), we held that the dismissal without prejudice of a mortgagor’s counterclaim in a foreclosure action was appealable because it had the effect of terminating, within the language of Rule on Appeal 14 (which is now RAP 2.2), the action on the counterclaim.
+
+In In re Marriage of Molvik, 31 Wash.App. 133, 639 P.2d 238 (1982), the court applied RAP 2.2(a)(3) to the question of appealability of a dismissal without prejudice. In Molvik a divorced woman sought to modify a 5-year-old dissolution decree by requiring her former husband to distribute community assets which he had not disclosed at the time of dissolution. The trial court dismissed her petition without prejudice for lack of subject matter jurisdiction on the ground that the action was not part of the dissolution case. Noting that there was no impediment to appellant’s refiling, the court, at 135, found the dismissal was not appealable under RAP 2.2(a)(3) because “it is not a decision which determines the action, prevents a final judgment or discontinues the action.”
+
+In these decisions, RAP 2.2(a)(3) (or its forerunner) was applied to ascertain whether the dismissal determined or discontinued the action. If the dismissal fell within the RAP 2.2(a)(3) language, as it did in Lewis Cy. Sav. & Loan <<*44>> Ass’n, the dismissal, even though without prejudice, was appealable. If the dismissal did not fall within 2.2(a)(3), as in Dux and Molvik, no appeal could lie. Thus, both this court and the Court of Appeals have looked to the effect of an order of dismissal to determine its appealability.
+
+Other jurisdictions which have recently addressed the appealability of dismissals without prejudice have also considered the practical effect of the dismissal. See Nicholson v. Nicholson, 685 S.W.2d 588 (Mo.App.1985) (dismissal without prejudice for failure to prosecute held not appealable because refiling would not have been futile); Sherry v. Sherry, 622 P.2d 960 (Alaska 1981) (dismissal without prejudice with conditions held appealable because the conditions had the effect of making the dismissal one with prejudice); United States Nat’l Bank v. Department of Rev., 175 Mont. 205, 573 P.2d 188 (1977) (dismissal <<**298>> for lack of subject matter jurisdiction held appealable because the statute of limitations had run, effectively leaving appellant without further relief); Bowles v. State, 652 P.2d 1345 (Utah 1982) (dismissal without prejudice held appealable because its effect was to foreclose plaintiff’s action). These jurisdictions have announced no bright line rule, but rather have considered on a case by case basis whether the effect of a particular dismissal was to foreclose further relief. As stated by the Alaska court, “[t]he appealability of an order depends on its effect rather than its language.” Sherry, at 964 n. 4.
+
+Our prior application of RAP 2.2(a)(3) and the approach taken by other jurisdictions yield a logical result: Where a dismissal without prejudice has the effect of determining the action and preventing a final judgment or discontinuing the action, the dismissal is appealable.
+
+[2] <<2: 30-k-105>> In applying the foregoing rule to the facts in the instant case, it is clear that the dismissal is not appealable. The statute of limitations has not run, and the filing of a new action is possible. Thus, the effect of the dismissal is not to determine or discontinue the action pursuant to RAP 2.2(a)(3).
+
+*** <<*45>> II
+
+[3] <<3: 233-k-1781>> [4] <<4: 233-k-1789>> We focus next on the issue arising from the unlawful detainer action. Unlawful detainer actions are brought pursuant to RCW 59.12.030, which provides generally for a summary proceeding to determine the right of possession as between landlord and tenant. The action is a narrow one, limited to the question of possession and related issues such as restitution of the premises and rent. Kessler v. Nielsen, 3 Wash.App. 120, 472 P.2d 616 (1970); Phillips v. Hardwick, 29 Wash.App. 382, 628 P.2d 506 (1981); Pine Corp. v. Richardson, 12 Wash.App. 459, 530 P.2d 696 (1975); Tuschoff v. Westover, 65 Wash.2d 69, 395 P.2d 630 (1964); First Union Mgt., Inc. v. Slack, 36 Wash.App. 849, 679 P.2d 936 (1984). In order to protect the summary nature of the unlawful detainer proceedings, other claims, including counterclaims, are generally not allowed. “It has long been settled that counterclaims may not be asserted in an unlawful detainer action.”  Granat v. Keasler, 99 Wash.2d 564, 570, 663 P.2d 830 (1983); First Union Mgt., Inc. v. Slack, supra; Young v. Riley, 59 Wash.2d 50, 365 P.2d 769 (1961).
+
+[5] <<5: 233-k-1789>> An exception to the general rule is made when the counterclaim, affirmative equitable defense, or set-off is “based on facts which excuse a tenant’s breach.” First Union Mgt., Inc., 36 Wash.App. at 854, 679 P.2d 936. Examples of such exceptions are: breach of implied warranty of habitability, Foisy v. Wyman, 83 Wash.2d 22, 515 P.2d 160 (1973); and breach of covenant of quiet enjoyment, Income Properties Inv. Corp. v. Trefethen, 155 Wash. 493, 284 P. 782 (1930). Appellants’ counterclaim based on damage to their automobile from a rockslide is not “based on facts which excuse a tenant’s breach.” Under the general rule, then, and the existing exception, the tenants’ counterclaim was not assertible in the unlawful detainer action.
+
+[6] <<6: 13-k-36>> We create today not another exception, but a rule which is collateral to the general rule: Where the right to possession ceases to be at issue at any time between the commencement of an unlawful detainer action and trial of <<*46>> that action, the proceeding may be converted into an ordinary civil suit for damages, and the parties may then properly assert any cross claims, counterclaims, and affirmative defenses.
+
+In adopting this rule we find the reasoning of the California courts persuasive. Through judicial opinion, California has long recognized that where possession is no longer in issue, an unlawful detainer action is converted into an ordinary lawsuit for damages. Green v. Superior Court, 10 Cal.3d 616, 633 n. 18, 111 Cal.Rptr. 704, 517 P.2d 1168 (1974); Union Oil Co. v. Chandler, 4 Cal.App.3d 716, 722, 84 Cal.Rptr. 756 (1970); Erbe Corp. v. W & B Realty Co., 255 Cal.App.2d 773, 778, 63 Cal.Rptr. 462 (1967);  <<**299>> Turem v. Texaco, Inc., 236 Cal.App.2d 758, 763, 46 Cal.Rptr. 389 (1965); Heller v. Melliday, 60 Cal.App.2d 689, 141 P.2d 447 (1943).  Servais v. Klein, 112 Cal.App. 26, 33–36, 296 P. 123 (1931). See also 3 B. Witkin, Summary of California Law, § 532A, at 297 (8th ed. Supp.1984); 3 B. Witkin, California Procedure §§ 979, 980, at 2557, 2558 (2d ed. 1971). This policy was ultimately codified as Cal.Civ.Code § 1952.3 (West 1977).
+
+In developing this rule, the California courts noted that an unlawful detainer action is a summary proceeding, the primary purpose of which is to obtain the possession of real property. In order to preserve the summary nature of this proceeding, the general rule is that issues unrelated to the right of possession are not properly raised in an unlawful detainer action. One purpose of this rule is to prevent tenants who have violated the covenants of their lease from frustrating the ordinary and summary remedy provided by statute for restitution of the premises. Thus, when restitution is no longer sought because possession is no longer at issue, the reason for the rule evaporates.  Union Oil Co. v. Chandler, supra, 4 Cal.App.3d at 722, 84 Cal.Rptr. 756. At this point an ordinary civil action becomes the more appropriate vehicle for resolving the dispute between the parties.
+
+Justification for this collateral rule is readily apparent. Such a policy will promote judicial economy by preventing <<*47>> a multiplicity of lawsuits. Additionally, conversion of an unlawful detainer action to a civil suit spares the expense and inconvenience to all parties of maintaining two suits.
+
+[7] <<7: 13-k-36>> In the instant case, tenants voluntarily vacated the premises before trial and simultaneously submitted an affidavit which stated the tenancy was terminated. These actions amounted to relinquishment of any right to possession. Since tenants’ right to possession was thus relinquished prior to trial, possession was no longer a live issue, and the action could have properly been converted to an ordinary civil suit. In such suit, the tenants’ counterclaim for damage to their automobile is properly before the court. Likewise, lessor’s claims against various impleaded parties are properly before the court. We remand for a determination of these claims.
+
+To the extent that our holding today conflicts with our decision in Tuschoff v. Westover, 65 Wash.2d 69, 395 P.2d 630 (1964), it is overruled. There are grounds, however, upon which Tuschoff can be distinguished. In Tuschoff we held that an unlawful detainer proceeding could not be converted into an ordinary civil action for damages. The tenants in that case had admittedly relinquished physical possession of the leasehold. However, the question of their right to possession was still in issue, as the tenants claimed they had been unlawfully and forcibly ousted. As we have stated, the question of right to possession must have resolved itself before an unlawful detainer can be converted into an ordinary law suit.
+
+[8] <<8: 13-k-36>> [9] <<9: 388-k-13(2)>> In summary, we emphasize that by this holding we preserve the summary nature of a statutory unlawful detainer action. We merely adopt an adjunct to the general rule prohibiting claims unrelated to the issue of possession in unlawful detainer proceedings. We also note that the trial court has inherent power to fashion the method by which an unlawful detainer action is converted to an ordinary civil action. The court may require amended pleadings to convert the unlawful detainer to a civil suit. It may grant a continuance. In any event, once converted, the civil suit is <<*48>> no longer entitled to the calendar priority afforded an unlawful detainer action by RCW 59.12.130.
+
+We reverse the trial court’s dismissal of the tenants’ counterclaim and remand for trial.
+
+DOLLIVER, C.J., UTTER, PEARSON, ANDERSEN, CALLOW, GOODLOE and DURHAM, JJ., and HAMILTON, J. Pro. Tem., concur.

@@ -1,0 +1,420 @@
+#+title:      Liverpool LLC v. Farley, 563 P.3d 457 (Wash. Ct. App. 2025)
+#+date:       [2025-02-04 Tue 00:00]
+#+filetags:   :case:law:
+#+identifier: 20250204T000000
+#+signature:  coa=div3
+
+* Liverpool LLC v. Farley -- Court of Appeals of Washington, Division 3. | February 4, 2025 | 563 P.3d 457 | 2025 WL 380052
+
+- Washington Citation :: Liverpool LLC v. Farley, 563 P.3d 457 (Wash. Ct. App. 2025)
+- All Citations :: 563 P.3d 457
+
+
+                             563 P.3d 457
+
+             Court of Appeals of Washington, Division 3.
+
+  LIVERPOOL LLC, a Washington limited liability company, Respondent,
+
+                                  v.
+
+Kristie Rose FARLEY, an individual; Katie Anne Koehler, an individual; and Any Unknown Occupants, Appellants.
+
+                           No. 39970-2-III
+                        Filed February 4, 2025
+** Brief
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (25)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*PUBLISHED OPINION][PUBLISHED OPINION]]
+
+
+** Synopsis
+
+Background: Landlord commenced unlawful detainer action and filed motion for writ of restitution. At show cause hearing, which was attended by tenants’ attorney, the Superior Court, Spokane County, Jacquelyn M. High-Edward, J., entered order of default and granted the motion for writ of restitution. Tenants appealed.
+
+Holdings: The Court of Appeals, Staab, Acting C.J., held that:
+
+[1] appeal was not rendered moot by landlord’s sale of the property;
+
+[2] appearance by tenants’ attorney at show cause hearing satisfied requirement that tenants “appear” at the hearing;
+
+[3] determination tenants were in default at show cause hearing was erroneous; and
+
+[4] order of default was insufficient to support order for writ of restitution.
+
+Reversed and remanded.
+
+Procedural Posture(s): On Appeal; Motion for Restitution; Motion for Default Judgment/Order of Default.
+
+** West Headnotes (25)
+
+*** [1] Action  [[1: 13-k-6][13-k-6]]  Moot, hypothetical or abstract questions
+
+- /13 Action/
+- /13-I Grounds and Conditions Precedent/
+- *13-k-6 Moot, hypothetical or abstract questions*
+
+A case is technically moot if the court cannot provide the basic relief originally sought, or can no longer provide effective relief.
+
+*** [2] Appeal and Error  [[2: 30-k-3023][30-k-3023]]  Mootness
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(B) Considerations Preliminary to Conducting Review/
+- /30-XVI(B)2 Necessity of Determination by Reviewing Court/
+- *30-k-3023 Mootness*
+
+If an issue is moot on appeal, it should be dismissed.
+
+*** [3] Landlord and Tenant  [[3: 233-k-1783][233-k-1783]]  Right of Action and Defenses
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1784 In general*
+
+There is a distinction in an unlawful detainer action between possession and the tenant’s right to possession, as even if a tenant is no longer in possession of the property, the question of a tenant’s right to possession may still be involved.
+
+*** [4] Landlord and Tenant  [[4: 233-k-1790][233-k-1790]]  Actions
+Landlord and Tenant-Judgment and enforcement thereof
+Landlord and Tenant-Damages and amount of recovery
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1791 In general*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1804 Judgment and enforcement thereof*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1806 Damages and amount of recovery*
+
+In an unlawful detainer case, restoration of possession is not the only remedy available to an evicted tenant who prevails before the court; other possible remedies include an order limiting dissemination of the unlawful detainer action, or money damages for an illegal eviction of a tenant. Wash. Rev. Code Ann. §§ 59.18.290(1), 59.18.367(1)(a), 59.18.380, 59.18.650(4).
+
+*** [5] Landlord and Tenant  [[5: 233-k-1805][233-k-1805]]  Review
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1805 Review*
+
+Tenants’ appeal in unlawful detainer action was not rendered moot by landlord’s sale of the property, even if the court could no longer restore possession, as tenants’ rights of possession were still at issue, and relief other than possession could be granted.
+
+*** [6] Forcible Entry and Detainer  [[6: 179-k-43(7)][179-k-43(7)]]  Review, and determination and disposition of cause
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-42 Review*
+- *179-k-43 Appeal and Trial De Novo*
+- *179-k-43(7) Review, and determination and disposition of cause*
+
+Trial court’s findings of fact in an unlawful detainer action are reviewed for substantial evidence, while legal conclusions are reviewed de novo.
+
+*** [7] Landlord and Tenant  [[7: 233-k-503][233-k-503]]  Constitutional and statutory provisions
+
+- /233 Landlord and Tenant/
+- /233-I Creation and Existence of the Relation/
+- *233-k-503 Constitutional and statutory provisions*
+
+Residential Landlord-Tenant Act is a remedial statute and should be construed in favor of tenants to promote its purpose. Wash. Rev. Code Ann. § 59.18.010 et seq.
+
+*** [8] Forcible Entry and Detainer  [[8: 179-k-6][179-k-6]]  Nature and Form of Remedy
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-6 Nature and Form of Remedy*
+- *179-k-6(1) In general*
+
+Procedures for a residential unlawful detainer generally set forth in statute are supplemented by the general civil rules so long as there is no conflict. Wash. Rev. Code Ann. §§ 59.12.010 et seq., 59.18.010 et seq.
+
+*** [9] Landlord and Tenant  [[9: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+
+To initiate an unlawful detainer action when a tenant holds over after notice, a landlord files a complaint for unlawful detainer.
+
+*** [10] Landlord and Tenant  [[10: 233-k-1790][233-k-1790]]  Actions
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1791 In general*
+
+In order to regain possession of the property, and physically evict the tenant, a landlord may apply for a writ of restitution at the same time as commencing the unlawful detainer action or at any time thereafter.
+
+*** [11] Forcible Entry and Detainer  [[11: 179-k-21][179-k-21]]  Inquisition or Other Summary Proceeding, and Review Thereof
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-21 Inquisition or Other Summary Proceeding, and Review Thereof*
+- *179-k-21(.5) In general*
+
+The show cause hearing in an unlawful detainer action is a summary proceeding to determine the issue of possession pending a lawsuit and is not intended to finally determine the parties’ rights. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [12] Landlord and Tenant  [[12: 233-k-1783][233-k-1783]]  Right of Action and Defenses
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1784 In general*
+
+The court may grant a landlord’s request for a writ of restitution at a show cause hearing in an unlawful detainer action only if there are no substantial issues of material fact regarding possession, and it is clear that the landlord’s right to possession should be restored. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [13] Landlord and Tenant  [[13: 233-k-1794(2)][233-k-1794(2)]]  Necessity and sufficiency
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1794 Demand or Notice*
+- *233-k-1794(2) Necessity and sufficiency*
+
+Notice of the show cause hearing is provided to the tenant by way of an order to show cause in the unlawful detainer proceeding. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [14] Landlord and Tenant  [[14: 233-k-1799][233-k-1799]]  Answer
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1799 Answer*
+
+At a show cause hearing in an unlawful detainer action, the court must consider whether the tenant’s answer establishes a potentially viable legal or equitable defense to the entry of a writ of restitution; if the tenant’s answer presents a potentially viable defense, the court is required to flush out this defense by examining the parties and witnesses and by considering any other admissible evidence. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [15] Forcible Entry and Detainer  [[15: 179-k-21][179-k-21]]  Inquisition or Other Summary Proceeding, and Review Thereof
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-21 Inquisition or Other Summary Proceeding, and Review Thereof*
+- *179-k-21(.5) In general*
+
+At a show cause hearing regarding a writ of restitution in an unlawful detainer action, if examination of the evidence and witnesses requires a longer hearing, the court should promptly reset the matter. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [16] Appearance  [[16: 31-k-3][31-k-3]]  Authority to enter appearance for another
+
+- /31 Appearance/
+- *31-k-3 Authority to enter appearance for another*
+
+As a general rule, an attorney may appear in court on behalf of their client.
+
+*** [17] Appearance  [[17: 31-k-3][31-k-3]]  Authority to enter appearance for another
+
+- /31 Appearance/
+- *31-k-3 Authority to enter appearance for another*
+
+When an attorney makes a formal appearance for a party, the party “appears,” not the attorney.
+
+*** [18] Landlord and Tenant  [[18: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Appearance by tenants’ attorney, at show cause hearing on landlord’s request for a writ of restitution in unlawful detainer action, satisfied requirement in the Residential Landlord-Tenant Act (RLTA) that tenants “appear” at the hearing, even if tenants themselves could not be orally examined to ascertain the merits of the complaint and their answer. Wash. Rev. Code Ann. § 59.18.370.
+
+*** [19] Landlord and Tenant  [[19: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+While a tenant’s failure to be present at the show cause hearing on a landlord’s request writ of restitution in an unlawful detainer action may impact their attorney’s ability to provide effective representation, and certainly hampers the court’s ability to flush out the validity of any defense they may raise, it should not preclude a tenant from raising legal defenses to the request for a writ of restitution. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [20] Landlord and Tenant  [[20: 233-k-1801(2)][233-k-1801(2)]]  Presumptions and burden of proof
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1801 Evidence*
+- *233-k-1801(2) Presumptions and burden of proof*
+
+It is the plaintiff landlord’s burden at a show cause hearing in an unlawful detainer action to show that a writ of restitution is justified. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [21] Landlord and Tenant  [[21: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Because the Residential Landlord-Tenant Act (RLTA) does not provide specific procedures for default at a show cause hearing on a landlord’s request for a writ of restitution in an unlawful detainer proceeding, the procedure is governed by the civil rules. Wash. Rev. Code Ann. § 59.18.010 et seq.; Wash. Super. Ct. Civ. R. 55(1).
+
+*** [22] Landlord and Tenant  [[22: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Trial court’s determination, in unlawful detainer action, that tenants were in default at show cause hearing on landlord’s motion for writ of restitution based on their failure to personally appear at the hearing was erroneous; tenants filed a written notice of appearance such that, at the very least, default was improper without notice, and tenants appeared through their attorney at the hearing and their attorney was in the process of providing an oral answer to the landlord’s motion when the court interrupted their attorney and stopped attorney from making legal arguments on tenants’ behalf. Wash. Rev. Code Ann. § 59.18.380; Wash. Super. Ct. Civ. R. 55(3).
+
+*** [23] Landlord and Tenant  [[23: 233-k-1801(2)][233-k-1801(2)]]  Presumptions and burden of proof
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1801 Evidence*
+- *233-k-1801(2) Presumptions and burden of proof*
+
+At show cause hearing on a landlord’s request for a writ of restitution in an unlawful detainer proceeding, the landlord is required to introduce evidence and meet its burden of proving entitlement to writ of restitution. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+*** [24] Landlord and Tenant  [[24: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+The court must conduct a “meaningful” show cause hearing on a landlord’s request for a writ of restitution in an unlawful detainer action. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [25] Landlord and Tenant  [[25: 233-k-1804][233-k-1804]]  Judgment and enforcement thereof
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1804 Judgment and enforcement thereof*
+
+Trial court’s order of default against tenants following show cause hearing was insufficient to support order for writ of restitution in favor of landlord in unlawful detainer action, as court did not enter detailed findings to show that the landlord met her burden of proving ownership of the property, a landlord-tenant relationship, proper notice to vacate, and the tenants’ failure to comply. Wash. Rev. Code Ann. §§ 59.18.370, 59.18.380.
+
+<<*460>> Appeal from Spokane Superior Court, Docket No: 23-2-02965-2, Honorable Jacquelyn M. High-Edward, Judge
+** Attorneys and Law Firms
+
+- Edmund Robert Witter, Attorney at Law, 400 Yesler Way Suite 600, Seattle, WA, 98104, Christina Eugenie Jaccard, Ashleen Elisabeth O’Brien, King County Bar Ass’n - Housing Justice Project, 1200 5th Ave. Ste. 700 Seattle, WA, 98101-1116, for Appellants.
+- Asti M. Gallina, Attorney at Law, 905 W Riverside Ave. Ste. 208, Spokane, WA, 99201-1099, for Respondent.
+
+** PUBLISHED OPINION
+
+Staab, A.C.J.
+
+¶1 Kristie Farley and Katie Koehler (Tenants) appeal the entry of a writ of restitution based on an order of default for failure to personally appear at a show cause hearing in an unlawful detainer action. The Tenants contend their attorney’s appearance at the hearing was sufficient to “appear” for purposes of RCW 59.18.370. They also assign error to the writ of restitution, which the trial court entered upon finding the Tenants in default.
+
+¶2 We hold that unless a court specifically orders a tenant to appear in person, a tenant may appear at a show cause hearing under RCW 59.18.370 through counsel. Since the Tenants in this case appeared in writing and through counsel, and presented legal defenses to the plaintiff’s request for a writ of restitution, the trial court erred in concluding that the Tenants were in default. Furthermore, while the court could have entered a writ of restitution after holding a hearing and determining that the landlord had met her burden of establishing that a writ was justified, the court erred by entering a writ based on the Tenants’ default. We reverse and remand for further proceedings.
+
+*** BACKGROUND
+
+¶3 On March 9, 2023, Elizabeth Brown, landlord for the property and owner of Liverpool, LLC (Liverpool), and the Tenants entered into a lease agreement. On July 11, 2023, the Tenants were served with two notices, a 14-day request to pay rent or vacate the premises and a 90-day notice of intent to sell the property. The 90-day notice included a short ledger containing the Tenants’ late and past due rent charges.
+
+¶4 On July 25, 2023, Liverpool filed an eviction summons and verified complaint for unlawful detainer and money damages. The complaint requested a writ of restitution and a judgment for property damage, late fees, unpaid rent, and attorney fees. The complaint attached the two notices and lease agreement.
+
+¶5 On August 9, 2023, Liverpool obtained an order to show cause why a writ of restitution should not be issued. The Tenants each filed a notice of appearance, but there is no answer or written response to the complaint in the record. The show cause hearing was originally set for August 16, 2023, but was continued to August 30 to allow the Tenants to secure legal counsel. The hearing was rescheduled to September 6 to accommodate attorney and witness availability. On September 6, the Tenants personally appeared with their attorney but, with the agreement of the parties, the court moved the show cause hearing to the next day due to scheduling conflicts.
+
+<<*461>> ¶6 When the hearing commenced on September 7, the court noted that the only people present were the two attorneys. The Tenants’ attorney informed the court that the Tenants were not personally present for the hearing due to work conflicts, but she would try to contact them for a remote appearance after the court addressed preliminary legal arguments. The court urged the attorney to make sure the Tenants were available for testimony; otherwise indicating that it may need to continue the hearing again. The court then proceeded to consider two motions to dismiss raised by the Tenants’ attorney. After denying these motions, the court took a short recess to allow the attorney to contact the Tenants.
+
+¶7 Following the recess, Tenants’ counsel indicated she could not reach her clients, and then began making opening arguments, when the court stated, “[b]ut your clients aren’t present. I don’t know how you proceed without [your] clients.” Rep. of Proc. (RP) at 30. Counsel answered, “[t]hese are opening arguments that don’t require testimony, Your Honor.” RP at 30-31. In response, Liverpool’s attorney moved for an order of default. Tenants’ counsel clarified that she was present as the Tenants’ legal representation, that she was prepared to make “legal arguments on their behalf,” and that the Tenants were only unavailable for the testimony portion of the hearing. RP at 31. The court disagreed with the Tenants’ attorney because the Tenants were not seeking a continuance.
+
+¶8 Tenants’ counsel expressed her confusion and attempted to clarify the court’s ruling. She asked for legal authority “on why an attorney being present doesn’t count.” RP at 31. The court explained that a show cause hearing requires the parties to appear, not legal counsel, and compared it to a contempt motion. The court further explained that accommodations were made so that the parties could appear personally or virtually.
+
+¶9 Additionally, Tenants’ counsel requested to “make at least a record of what the landlord’s prima facie case needs to be,” which the court denied. RP at 32. The court noted the Tenants’ objection and granted the motion for default and a writ of restitution.
+
+¶10 The Tenants timely appeal.
+
+*** ANALYSIS
+
+¶11 The Tenants argue that the trial court abused its discretion by entering an order of default and then proceeding to order a writ of restitution without determining whether Liverpool met its burden of showing that a writ was warranted. The Tenants contend that the court erred by finding them in default despite their written notice of appearance and their attorney’s presence at the hearing. Liverpool responds that the appeal is moot because the premises has been sold and a remedy is not available. In the alternative, Liverpool argues that the Residential Landlord-Tenant Act of 1973 (RLTA), ch. 59.18 RCW, requires the tenants to appear in person at the show cause hearing and their failure to appear or request a continuance justified the entry of an order on default and writ of restitution.
+
+1. MOOTNESS
+
+[1] <<1: 13-k-6>> [2] <<2: 30-k-3023>>¶12 As a preliminary matter, we consider Liverpool’s argument that the appeal is moot because the property has been sold and this court could not restore possession to the Tenants. “ ‘A case is technically moot if the court cannot provide the basic relief originally sought, or can no longer provide effective relief.’ ” Hous. Auth. v. Pleasant, 126 Wash. App. 382, 387, 109 P.3d 422 (2005) (internal quotation marks omitted) (quoting Josephinium Assocs. v. Kahli, 111 Wash. App. 617, 622, 45 P.3d 627 (2002)). If an issue is moot on appeal, “ ‘it should be dismissed.’ ” State v. Deskins, 180 Wash.2d 68, 80, 322 P.3d 780 (2014) (quoting Klickitat County Citizens Against Imported Waste v. Klickitat County, 122 Wash.2d 619, 631, 860 P.2d 390 (1993)).
+
+[3] <<3: 233-k-1783>> [4] <<4: 233-k-1790>>¶13 “There is a distinction between possession and the right to possession.” Kiemle & Hagood Co. v. Daniels, 26 Wash. App. 2d 199, 212, 528 P.3d 834 (2023). Even if a tenant is no longer in possession of the property, the question of a tenant’s right to possession is still involved. Lochridge v. Natsuhara, 114 Wash. 326, 330, 194 P. 974 (1921). In an unlawful detainer case, “restoration of possession is not the only remedy <<*462>> available to an evicted tenant who prevails before this court.” Hernandez v. France, 29 Wash. App. 2d 777, 783, 544 P.3d 518 (2024). Other possible remedies include: “an order limiting dissemination of the unlawful detainer action,” or money damages for an illegal eviction of a tenant. RCW 59.18.367(1)(a), .650(4), .380, .290(1); Hernandez, 29 Wash. App. 2d at 783, 544 P.3d 518.
+
+[5] <<5: 233-k-1805>>¶14 Here, the Tenants’ rights of possession are still at issue. The appeal is not moot even if the property has been sold and this court cannot restore possession to the Tenants. Relief other than possession can be granted. Hernandez, 29 Wash. App. 2d at 783, 544 P.3d 518 (stating in an unlawful detainer case other possible remedies instead of restoration of possession includes limiting dissemination and money damages).
+
+2. THE RLTA DOES NOT REQUIRE THE TENANTS TO PERSONALLY APPEAR
+
+¶15 The Tenants argue that the trial court abused its discretion in concluding that the RLTA required the Tenants to personally appear at the show cause hearing and by declining to accept the appearance of their attorney on their behalf. We agree.
+
+[6] <<6: 179-k-43(7)>>¶16 A “trial court’s findings of fact in an unlawful detainer action” are reviewed for “substantial evidence,” while legal conclusions are reviewed de novo. Garrand v. Cornett, 31 Wash. App. 2d 428, 439, 550 P.3d 64 (2024). Here, the court concluded that the RLTA required the Tenants to appear personally at the show cause hearing and appearance by their attorney on their behalf was insufficient.
+
+[7] <<7: 233-k-503>>¶17 The issue requires statutory construction, which is also reviewed de novo. Pleasant, 126 Wash. App. at 387, 109 P.3d 422.
+
+Our “fundamental objective in interpreting statutes is to ascertain and carry out the Legislature’s intent.” If the statute’s meaning is plain on its face, then the court must give effect to that plain meaning as an expression of legislative intent. In order to determine the plain meaning, we consider the statute in context to related statutes and other provisions of the same act in which the provision is found.
+
+Lockett v. Saturno, 21 Wash. App. 2d 216, 222-23, 505 P.3d 157 (2022) (internal quotation marks omitted) (citations omitted) (quoting Silver v. Rudeen Management Company, Inc., 197 Wash.2d 535, 542, 484 P.3d 1251 (2021)). The RLTA is a remedial statute and should be construed in favor of tenants to promote its purpose. Id. at 221, 505 P.3d 157.
+
+[8] <<8: 179-k-6>>¶18 The unlawful detainer action was statutorily created, under the RLTA and chapter 59.12 RCW, to provide landlords with an expedited process to determine the right to possession of rental property. Christensen v. Ellsworth, 162 Wash.2d 365, 370-71, 173 P.3d 228 (2007). The procedures for a residential unlawful detainer are generally set forth in chapters 59.12 and 59.18 RCW. These procedures are supplemented by the general civil rules so long as there is no conflict. See Kiemle & Hagood Co., 26 Wash. App. 2d at 210, 528 P.3d 834; Randy Reynolds & Assocs., Inc. v. Harmon, 193 Wash.2d 143, 159, 437 P.3d 677 (2019).
+
+[9] <<9: 233-k-1781>> [10] <<10: 233-k-1790>>¶19 To initiate an unlawful detainer action when a tenant holds over after notice, a landlord files a complaint for unlawful detainer. Harmon, 193 Wash.2d at 156, 437 P.3d 677. In order to regain possession of the property, and physically evict the tenant, “a landlord may apply for a writ of restitution at the same time as commencing the action or at any time thereafter.” Id. at 157, 437 P.3d 677. A writ of restitution is an order by the court to allow a “sheriff to restore possession of the property to the plaintiff.” RCW 59.18.370.
+
+[11] <<11: 179-k-21>> [12] <<12: 233-k-1783>>¶20 The court considers the request for a writ of restitution at a show cause hearing. RCW 59.18.370, .380. The show cause hearing is a “summary proceeding[ ] to determine the issue of possession pending a lawsuit” and is not intended to finally determine the parties’ rights. Carlstrom v. Hanline, 98 Wash. App. 780, 788, 990 P.2d 986 (2000). The court may grant a landlord’s request for a writ of restitution only if “there are no substantial issues of material fact regarding possession,” and it is clear that the landlord’s right to possession should be restored. <<*463>> Garrand, 31 Wash. App. 2d at 438, 550 P.3d 64; see also RCW 59.18.380.
+
+[13] <<13: 233-k-1794(2)>>¶21 Notice of the show cause hearing is provided to the tenant by way of an order to show cause. The language of the order to show cause is set by statute. The order to show cause lists the time and date of the hearing and notifies the tenant that
+
+if he or she fails to appear and show cause at the time and place specified by the order the court may order the sheriff to restore possession of the property to the plaintiff and may grant such other relief as may be prayed for in the complaint and provided by this chapter.
+
+RCW 59.18.370.
+
+[14] <<14: 233-k-1799>> [15] <<15: 179-k-21>>¶22 The procedures for a show cause hearing are set forth in RCW 59.18.380 and 59.18.390. The tenant may answer orally or in writing, and may “assert any legal or equitable defense or set-off arising out of the tenancy.” RCW 59.18.380. The court must consider whether the tenant’s answer establishes a potentially “viable legal or equitable defense to the entry of a writ of restitution.” Leda v. Whisnand, 150 Wash. App. 69, 83, 207 P.3d 468 (2009). If the tenant’s answer presents a potentially viable defense, the court is required to flush out this defense by examining the parties and witnesses and by considering any other admissible evidence. RCW 59.18.380; Leda, 150 Wash. App. at 82-83, 207 P.3d 468. If examination of the evidence and witnesses requires a longer hearing, the court should promptly reset the matter. Leda, 150 Wash. App. at 83, 207 P.3d 468.
+
+¶23 With these procedures and context in mind, we turn to whether the RLTA requires a tenant to personally appear at the show cause hearing or risk default. The statute provides that a tenant is to appear and show cause. RCW 59.18.370. Although the statute notifies a tenant that the failure to appear may result in the court entering a writ restoring possession of the property to the landlord, the notice does not provide that the failure to appear will result in a default.
+
+[16] <<16: 31-k-3>> [17] <<17: 31-k-3>>¶24 As a general rule, an attorney may appear in court on behalf of their client. When an attorney makes a formal appearance for a party, the party “appears,” not the attorney. Tiffin v. Hendricks, 44 Wash.2d 837, 271 P.2d 683 (1954); see also Dlouhy v. Dlouhy, 55 Wash.2d 718, 722, 349 P.2d 1073 (1960) (“A litigant may now appear through an attorney, but that does not destroy the right of a party to appear in person.”).
+
+¶25 Recently, in In re Detention of Hatfield, our court considered the definitions of the verb “appear” and its noun form “appearance” in the context of whether a statute requiring an incapacitated person’s appearance by a guardian ad litem required the guardian ad litem’s physical presence through trial. 191 Wash. App. 378, 386, 362 P.3d 997 (2015). We recognized that the ordinary dictionary definition of “appear” and “appearance” has more than one meaning, and allowed for the appearance in court by an attorney on behalf of the client. Id. at 386-87, 362 P.3d 997. Similarly, the definition of “appearance” in Black’s Law Dictionary includes:
+
+“A coming into court as a party or interested person, or as a lawyer on behalf of a party or interested person; esp., a defendant’s act of taking part in a lawsuit, whether by formally participating in it or by an answer, demurrer, or motion, or by taking postjudgment steps in the lawsuit in either the trial court or an appellate court.”
+
+Id. at 388, 362 P.3d 997 (quoting BLACK’S LAW DICTIONARY 118 (10th ed. 2014)).
+
+¶26 Ultimately, the court concluded that requiring an incapacitated person to appear by an appointed guardian ad litem referred to the guardian’s representation of the incompetent person’s interests by acting as the party. Id. at 390, 362 P.3d 997. “In this regard, the word ‘appear’ in RCW 4.08.060 addresses how an incompetent person becomes a party in litigation (‘appear by’) not whether a particular person must be physically present during court proceedings.” Id. (alteration in original).
+
+¶27 On the other hand, when a person’s physical presence is required in court, the statute or rule often specifically provides that the person “personally” appear, “appear at” <<*464>> a hearing, or be “present” at such hearing. See In re Dependency of P.H.V.S., 186 Wash. App. 167, 180, 339 P.3d 225 (2014) (construing GALR 2(l), which requires a guardian to “appear at any hearing,” to require the guardian’s physical presence); CrR 3.4(b) noting instances when a criminal defendant’s physical presence is required in court; RCW 12.40.060 (notice to defendant in small claims case shall include “a statement directing and requiring defendant to appear personally”); RCW 13.40.100(2) (authorizing the court to issue a summons that requires a juvenile’s parents or guardian to “appear personally before the court”); RCW 26.27.291(1) (In a child custody proceeding the court in a child custody proceeding may order a party “to appear before the court in person with or without the child.”).
+
+[18] <<18: 233-k-1793>>¶28 Here, while RCW 59.18.370 requires a tenant to appear and show cause, nothing in the statute or RLTA requires a tenant to physically or personally appear or suggests that the appearance through counsel is insufficient, especially when the statute is construed in favor of the tenants. While Liverpool suggests that we read a requirement for personal appearance into the RLTA, we decline to do so. See Alexander v. Highfill, 18 Wash.2d 733, 740, 140 P.2d 277 (1943) (in construing statute, court should not add language to statute).[fn:1]
+
+[fn:1] While we conclude that RCW 59.18.380 is unambiguous, and thus we do not resort to legislative history, such history also supports our conclusion. Under former RCW 59.18.365 (2008), the mandatory language of a summons for unlawful detainer notified a defendant that if they received a separate order to show cause “you must personally appear at the hearing.” The mandatory appearance language was removed during the 2019 amendments to the statute. We assume the removal of this language was intentional. See Alexander, 18 Wash.2d at 740, 140 P.2d 277 (where material change is made to statute, it is presumed that the legislature intended to change the law).
+
+¶29 Nevertheless, Liverpool argues that the statute’s directive that “[t]he court shall examine the parties and witnesses orally to ascertain the merits of the complaint and answer” necessarily implies an obligation to appear in person as to be examined. RCW 59.18.380. We disagree. The court’s mandate does not translate into an exception to the general rule or a subpoena for the parties and witnesses.[fn:2]
+
+[fn:2] Curiously, while the statute provides that the court shall examine the parties, the plaintiff appeared at the hearing through counsel. See RP at 3 and generally.
+
+¶30 The plain language of these statutes, RCW 59.18.370 and 59.18.380, allow for a tenant to appear at a show cause hearing as any other litigant: in person or through their attorney. Here, the Tenants’ attorney appeared at the show cause hearing on their behalf. The trial court erred in concluding that the statute required the physical presence of the Tenants.
+
+3. WRIT BASED ON DEFAULT
+
+¶31 The Tenants assign error to the trial court’s entry of an order of default. The Tenants argue that their appearance, both in writing and by counsel, precluded a finding of default.
+
+[19] <<19: 233-k-1793>> [20] <<20: 233-k-1801(2)>>¶32 Based on its incorrect conclusion that the Tenants were required to be physically present at the show cause hearing, the court prohibited the Tenants’ attorney from raising legal challenges to the plaintiff’s evidence in support of a writ of restitution. During the evidentiary portion of the show cause hearing, the Tenants’ attorney was not attempting to testify. Instead, she was presumably attempting to challenge the sufficiency of the plaintiff’s evidence. While a tenant’s failure to be present at the show cause hearing may impact their attorney’s ability to provide effective representation, and certainly hampers the court’s ability to flush out the validity of any defense they may raise, it should not preclude a tenant from raising legal defenses to the plaintiff’s request for a writ of restitution. It is the plaintiff’s burden to show that a writ is justified.
+
+[21] <<21: 233-k-1793>>¶33 Because the RLTA does not provide specific procedures for default, the procedure is governed by the civil rules. See Harmon, 193 Wash.2d at 159-60, 437 P.3d 677; Kelly v. Powell, 55 Wash. App. 143, 149, 776 P.2d 996 (1989). Under CR 55(1), a party <<*465>> seeking default must demonstrate that the party against whom a judgment is sought “has failed to appear, plead, or otherwise defend as provided by these rules.” If a party has appeared, then five days’ written notice must be provided of a motion for default. CR 55(3).
+
+[22] <<22: 233-k-1793>>¶34 The record is clear that the Tenants filed a written notice of appearance. Thus, at the very least, default was improper without notice. CR 55(3). The RLTA also provides that the tenants may defend and answer the motion for a writ orally or in writing. RCW 59.18.380. Here, the Tenants’ attorney was in the process of providing an oral answer to the motion when the court interrupted the attorney.
+
+[23] <<23: 233-k-1801(2)>> [24] <<24: 233-k-1793>>¶35 Finally, the Tenants argue that because they were not in default, the trial court could not assume the truth of the complaint but was required to conduct an evidentiary hearing and hold the plaintiff to her burden of proof. At the show cause hearing, a landlord is required to introduce evidence and meet its burden of proving entitlement to a writ of restitution. See Hernandez, 29 Wash. App. 2d at 784, 544 P.3d 518. The court must conduct a “meaningful” show cause hearing as required by RCW 59.18.380. Id. at 786, 544 P.3d 518.
+
+[25] <<25: 233-k-1804>>¶36 Here, the trial court entered an order of default and then entered an order for writ of restitution based on the default. The court did not enter detailed findings to show that the plaintiff met her burden of proving ownership of the property, a landlord-tenant relationship, proper notice to vacate, and the Tenants’ failure to comply. See Hernandez, 29 Wash. App. 2d at 784-85, 544 P.3d 518. The court’s order of writ of restitution was not supported by its conclusion that the Tenants were in default and was not supported by its findings.
+
+¶37 Reversed and remanded.
+
+*** WE CONCUR:
+
+Fearing, J.
+
+Cooney J.

@@ -1,0 +1,666 @@
+#+title:      Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 528 P.3d 834 (2023)
+#+date:       [2023-04-27 Thu 00:00]
+#+filetags:   :case:law:
+#+identifier: 20230427T000001
+#+signature:  coa=div3
+
+* Kiemle & Hagood Company v. Daniels -- Court of Appeals of Washington, Division 3. | April 27, 2023 | 26 Wash.App.2d 199 | 528 P.3d 834
+
+- Washington Citation :: Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 528 P.3d 834 (2023)
+- All Citations :: 26 Wash.App.2d 199, 528 P.3d 834
+
+
+                          26 Wash.App.2d 199
+
+             Court of Appeals of Washington, Division 3.
+
+KIEMLE & HAGOOD COMPANY, a Washington corporation, as authorized agent for St. Cloud Apartments, Respondent,
+
+                                  v.
+
+Mariam P. DANIELS a/k/a Phoebe Daniels, a single person, and all other subtenants, Appellant.
+
+                           No. 38918-9-III
+                         Filed April 27, 2023
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+An Issue
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[*Synopsis][Synopsis]]
+- [[*West Headnotes (31)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*PUBLISHED OPINION][PUBLISHED OPINION]]
+
+** KeyCite:
+
+- KeyCite Yellow Flag - Negative Treatment
+- Declined to Follow byHill v. Huddleston, Wash.App. Div. 2, November 7, 2023
+
+** Synopsis
+
+Background: Landlord initiated unlawful detainer action against tenant, alleging she violated lease provisions requiring her to keep her apartment clean and sanitary. Tenant asserted affirmative defense of failure to reasonably accommodate her disability. After granting landlord’s request for writ of restitution and denying tenant’s request for jury trial, the Superior Court, Spokane County, Julie M. McKay, J., entered judgment for landlord. Tenant appealed.
+
+Holdings: The Court of Appeals, Pennell, J., held that:
+
+[1] landlord’s notice of termination gave tenant sufficient opportunity to defend against landlord’s allegations;
+
+[2] genuine issue of material facts existed to require jury trial determination as to whether landlord established basis for eviction;
+
+[3] tenant provided sufficient facts to require jury trial on issue of landlord’s knowledge or constructive knowledge of her disability;
+
+[4] tenant provided sufficient facts to require jury trial on issue of necessity of accommodation for her disability; and
+
+[5] tenant provided sufficient facts to require jury trial on issue of reasonableness of the requested accommodation.
+
+Reversed and remanded.
+
+Procedural Posture(s): On Appeal; Judgment.
+
+** West Headnotes (31)
+
+*** [1] Landlord and Tenant  [[1: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+
+An unlawful detainer action is a statutory proceeding that provides an expedited method of resolving the right to possession of leased property and related issues such as restitution and rent. Wash. Rev. Code Ann. § 59.12.010 et seq.
+
+*** [2] Forcible Entry and Detainer  [[2: 179-k-2][179-k-2]]  Statutory provisions
+Landlord and Tenant-Statutory provisions
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-2 Statutory provisions*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1782 Statutory provisions*
+
+Procedures set forth in the generalized unlawful detainer statute, continue to apply unless supplanted by the Residential Landlord-Tenant Act (RLTA). Wash. Rev. Code Ann. §§ 59.12.010 et seq., 59.18.010 et seq.
+
+- 1 Case that cites this headnote
+
+*** [3] Forcible Entry and Detainer  [[3: 179-k-2][179-k-2]]  Statutory provisions
+Landlord and Tenant-Statutory provisions
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-2 Statutory provisions*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1782 Statutory provisions*
+
+Because the generalized unlawful detainer statute and Residential Landlord-Tenant Act (RLTA) are statutes in derogation of the common law, they are strictly construed in favor of the tenant. Wash. Rev. Code Ann. §§ 59.12.010 et seq., 59.18.010 et seq.
+
+- 1 Case that cites this headnote
+
+*** [4] Landlord and Tenant  [[4: 233-k-1786][233-k-1786]]  Grounds of action
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1786 Grounds of action*
+
+A landlord may file an action for unlawful detainer if the tenant remains in possession of the premises in violation of the terms of the landlord’s notice to terminate tenancy. Wash. Rev. Code Ann. §§ 59.12.040, 59.18.650(6)(a).
+
+- 1 Case that cites this headnote
+
+*** [5] Landlord and Tenant  [[5: 233-k-1781][233-k-1781]]  Nature and form
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1781 Nature and form*
+
+To physically evict the tenant, a landlord may apply for a writ of restitution at the same time as commencing unlawful detainer action or at any time thereafter. Wash. Rev. Code Ann. § 59.18.390.
+
+*** [6] Forcible Entry and Detainer  [[6: 179-k-21][179-k-21]]  Inquisition or Other Summary Proceeding, and Review Thereof
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-21 Inquisition or Other Summary Proceeding, and Review Thereof*
+- *179-k-21(.5) In general*
+
+Show cause hearing is a summary proceeding to determine the question of possession pending an unlawful detainer suit; it is not a final determination of the parties’ rights. Wash. Rev. Code Ann. § 59.18.370.
+
+- 2 Cases that cite this headnote
+
+*** [7] Landlord and Tenant  [[7: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+At the show cause hearing in an unlawful detainer action, the court will determine if the landlord is entitled to a writ of restitution before a trial on the complaint and answer. Wash. Rev. Code Ann. § 59.18.370.
+
+- 3 Cases that cite this headnote
+
+*** [8] Forcible Entry and Detainer  [[8: 179-k-21][179-k-21]]  Inquisition or Other Summary Proceeding, and Review Thereof
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-21 Inquisition or Other Summary Proceeding, and Review Thereof*
+- *179-k-21(.5) In general*
+
+Rules of evidence apply to show cause hearing in an unlawful detainer action. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [9] Landlord and Tenant  [[9: 233-k-1793][233-k-1793]]  Summary proceedings
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+
+Court may restore the landlord to possession at the close of a show cause hearing in an unlawful detainer action if it appears the landlord will likely prevail on the merits. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [10] Landlord and Tenant  [[10: 233-k-1793][233-k-1793]]  Summary proceedings
+Landlord and Tenant-Trial
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1793 Summary proceedings*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1803 Trial*
+
+If a landlord does not convince the court at show cause hearing that it is likely to succeed in unlawful detainer action and therefore entitled to immediate possession, the court must deny writ of restitution and hold an expedited trial within 30 days. Wash. Rev. Code Ann. § 59.18.380.
+
+- 1 Case that cites this headnote
+
+*** [11] Landlord and Tenant  [[11: 233-k-1803][233-k-1803]]  Trial
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1803 Trial*
+
+Even if a landlord convinces the court of a likelihood of success on the merits of unlawful detainer action and obtains a writ of restitution, trial may still be necessary. Wash. Rev. Code Ann. § 59.18.380.
+
+*** [12] Forcible Entry and Detainer  [[12: 179-k-9][179-k-9]]  Prior Possession of Plaintiff
+Forcible Entry and Detainer-Right of plaintiff to possession
+
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-9 Prior Possession of Plaintiff*
+- *179-k-9(.5) In general*
+- /179 Forcible Entry and Detainer/
+- /179-I Civil Liability/
+- *179-k-10 Right of plaintiff to possession*
+
+In unlawful detainer context, there is a distinction between possession and right to possession.
+
+- 1 Case that cites this headnote
+
+*** [13] Landlord and Tenant Self-Help
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(B) Self-Help/
+- *233-k-1735 In general*
+
+Under the Residential Landlord-Tenant Act (RLTA), landlords are not authorized to engage in self-help evictions.
+
+*** [14] Landlord and Tenant  [[14: 233-k-1794(2)][233-k-1794(2)]]  Necessity and sufficiency
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1794 Demand or Notice*
+- *233-k-1794(2) Necessity and sufficiency*
+
+A landlord’s service of a notice to terminate a tenancy is not a remedy; it is a legal prerequisite to avail oneself of the superior court’s jurisdiction over unlawful detainer action. Wash. Rev. Code Ann. § 59.18.650(2)(b).
+
+*** [15] Landlord and Tenant  [[15: 233-k-1805][233-k-1805]]  Review
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1805 Review*
+
+Challenge to the adequacy of notice terminating a tenancy presents a mixed question of law and fact that is reviewed de novo in an unlawful detainer action.
+
+- 3 Cases that cite this headnote
+
+*** [16] Landlord and Tenant  [[16: 233-k-956][233-k-956]]  Sufficiency
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(F) Termination/
+- /233-IV(F)5 Landlord’s Notice of Termination/
+- *233-k-956 Sufficiency*
+- *233-k-957 In general*
+
+Washington courts require landlords to strictly comply with timing and manner requirements of termination notice, but when it comes to form and content, substantial compliance is sufficient. Wash. Rev. Code Ann. § 59.18.650(6)(b).
+
+- 3 Cases that cite this headnote
+
+*** [17] Landlord and Tenant  [[17: 233-k-1751(3)][233-k-1751(3)]]  Sufficiency
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(C) Actions for Recovery of Possession/
+- *233-k-1747 Right to Maintain Action and Conditions Precedent*
+- *233-k-1751 Demand or Notice*
+- *233-k-1751(3) Sufficiency*
+
+Residential Landlord-Tenant Act (RLTA) requires any eviction notice to identify facts and circumstances known and available to landlord that support cause or causes with enough specificity so as to enable tenant to respond and prepare a defense to any incidents alleged. Wash. Rev. Code Ann. § 59.18.650(6)(b).
+
+- 5 Cases that cite this headnote
+
+*** [18] Landlord and Tenant  [[18: 233-k-956][233-k-956]]  Sufficiency
+
+- /233 Landlord and Tenant/
+- /233-IV Particular Kinds of Tenancies and Attributes Thereof/
+- /233-IV(F) Termination/
+- /233-IV(F)5 Landlord’s Notice of Termination/
+- *233-k-956 Sufficiency*
+- *233-k-957 In general*
+
+Landlord’s notice of tenancy termination sufficiently apprised tenant of the facts that landlord alleged rose to level of four bases for eviction, namely, waste, nuisance, or interference with enjoyment of property, and thus gave her sufficient opportunity to defend against its allegations, as required by the Residential Landlord-Tenant Act (RLTA), even if notice did not specify whether the victim of her conduct was landlord or a neighbor and, if a neighbor, which one, where information supplied to tenant made clear that landlord was relying on generally unsanitary condition of her apartment, which was conduct that could plausibly impair others’ enjoyment even when discrete victims were difficult to identify, and condition of her apartment had been extensively documented in prior notices. Wash. Rev. Code Ann. § 59.18.650(2)(c).
+
+- 1 Case that cites this headnote
+
+*** [19] Landlord and Tenant  [[19: 233-k-1752][233-k-1752]]  Grounds
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(C) Actions for Recovery of Possession/
+- *233-k-1752 Grounds*
+- *233-k-1753 In general*
+
+Just because a landlord holds out their premises for the use of others does not mean the landlord abandons their own right or ability to enjoy their property, as basis for eviction under the Residential Landlord-Tenant Act (RLTA). Wash. Rev. Code Ann. § 59.18.650(2)(c).
+
+*** [20] Landlord and Tenant  [[20: 233-k-1769][233-k-1769]]  Trial
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(C) Actions for Recovery of Possession/
+- *233-k-1758 Actions*
+- *233-k-1769 Trial*
+
+Reasonableness of interference with use and enjoyment of a premises, as basis for eviction under the Residential Landlord-Tenant Act (RLTA), is typically a question of fact, but a court can resolve a question of reasonableness as a matter of law where reasonable minds could come to only one conclusion. Wash. Rev. Code Ann. § 59.18.650(2)(c).
+
+*** [21] Landlord and Tenant  [[21: 233-k-1803][233-k-1803]]  Trial
+Summary Judgment-Termination of tenancy; eviction
+
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1790 Actions*
+- *233-k-1803 Trial*
+- /368 HSummary Judgment/
+- /368H-V Particular Cases and Contexts/
+- *368H-k-189 Landlord and Tenant*
+- *368H-k-193 Termination of tenancy; eviction*
+
+Genuine issue of material facts existed to require jury trial determination as to whether landlord established a substantial or repeated and unreasonable interference with its right to enjoy the property, as basis to evict tenant in unlawful detainer action, where although tenant’s apartment was significantly unkempt, there was no conclusive evidence her failure to clean the premises had tangibly damaged the property or posed imminent threat of such injury, and there was no evidence the condition of the apartment was noticeable to anyone who did not step foot into the unit. Wash. Rev. Code Ann. §§ 59.12.010 et seq., 59.18.650(2)(c).
+
+*** [22] Civil Rights  [[22: 78-k-1083][78-k-1083]]  Discrimination by reason of handicap, disability, or illness
+Landlord and Tenant-Defenses and grounds of opposition in general
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1083 Discrimination by reason of handicap, disability, or illness*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1787 Defenses and grounds of opposition in general*
+
+A tenant’s claim that a landlord has failed to accommodate their disability in violation of federal and state law may constitute a defense to eviction in forcible entry action and can be asserted so long as failure to accommodate is germane to landlord’s claim to the right to possess the premises. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b).
+
+*** [23] Courts  [[23: 106-k-97(5)][106-k-97(5)]]  Construction of federal Constitution, statutes, and treaties
+
+- /106 Courts/
+- /106-II Establishment, Organization, and Procedure/
+- /106-II(G) Rules of Decision/
+- *106-k-88 Previous Decisions as Controlling or as Precedents*
+- *106-k-97 Decisions of United States Courts as Authority in State Courts*
+- *106-k-97(5) Construction of federal Constitution, statutes, and treaties*
+
+Because state and federal housing discrimination statutes are analogous, authority interpreting the federal statute properly informs a state court’s interpretation of both provisions. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b).
+
+*** [24] Civil Rights  [[24: 78-k-1083][78-k-1083]]  Discrimination by reason of handicap, disability, or illness
+Landlord and Tenant-Defenses and grounds of opposition in general
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1083 Discrimination by reason of handicap, disability, or illness*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1787 Defenses and grounds of opposition in general*
+
+A tenant raising failure to accommodate under federal and state law as an affirmative defense to eviction in an unlawful detainer case must show five elements: (1) they have a disability as that term is statutorily defined, (2) their landlord knew or reasonably should have known of the disability, (3) the requested accommodation may be necessary to afford the tenant an equal opportunity to use and enjoy their dwelling, (4) the landlord denied the request, and (5) the requested accommodation is reasonable. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b), 59.18.650(2)(c).
+
+- 1 Case that cites this headnote
+
+*** [25] Civil Rights  [[25: 78-k-1083][78-k-1083]]  Discrimination by reason of handicap, disability, or illness
+Landlord and Tenant-Defenses and grounds of opposition in general
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1083 Discrimination by reason of handicap, disability, or illness*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1787 Defenses and grounds of opposition in general*
+
+In context of a tenant’s claim of failure to accommodate under state and federal law, as affirmative defense to eviction in an unlawful detainer action, third-party verification of a tenant’s disability is unwarranted when a tenant’s disability is obvious or otherwise known to the landlord. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b), 59.18.650(2)(c).
+
+*** [26] Civil Rights  [[26: 78-k-1428][78-k-1428]]  Property and housing
+Landlord and Tenant-Defenses and grounds of opposition in general
+
+- /78 Civil Rights/
+- /78-III Federal Remedies in General/
+- *78-k-1425 Questions of Law or Fact*
+- *78-k-1428 Property and housing*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1787 Defenses and grounds of opposition in general*
+
+Tenant provided sufficient facts to require jury trial on issue of landlord’s knowledge or constructive knowledge of her disability, for purposes of her affirmative defense of failure to accommodate in violation of federal and state law to eviction in unlawful detainer action; not only did tenant testify that she told landlord’s employees about the disability to her back, it would be obvious to anyone who looked at her that she had a physical impairment, and although she was not required to do so, she voluntarily furnished medical records in which her physician described her as “markedly kyphotic” along with noting several other physical impairments. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b), 59.18.650(2)(c).
+
+*** [27] Civil Rights  [[27: 78-k-1428][78-k-1428]]  Property and housing
+Landlord and Tenant-Defenses and grounds of opposition in general
+
+- /78 Civil Rights/
+- /78-III Federal Remedies in General/
+- *78-k-1425 Questions of Law or Fact*
+- *78-k-1428 Property and housing*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1787 Defenses and grounds of opposition in general*
+
+Tenant provided sufficient facts to require jury trial on issue of necessity of accommodation for her disability, for purposes of her affirmative defense of failure to accommodate in violation of federal and state law to eviction in unlawful detainer action, despite her failure to provide third-party verification of connection between her disability and her requested accommodation; landlord cited tenant’s failure to unpack boxes, remove garbage, and regularly clean as reasons for eviction, and it did not require specialized knowledge to understand that an as an elderly person with significant back problems, she might have trouble engaging in those tasks, and tenant expressly requested discontinuation of eviction as accommodation, which would give her time to find resources to help her with those tasks. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 59.18.650(2)(c).
+
+*** [28] Civil Rights  [[28: 78-k-1428][78-k-1428]]  Property and housing
+
+- /78 Civil Rights/
+- /78-III Federal Remedies in General/
+- *78-k-1425 Questions of Law or Fact*
+- *78-k-1428 Property and housing*
+
+Generally, the reasonableness of a tenant’s accommodation under federal and state housing discrimination statutes is a question of fact demanding case-by-case scrutiny, and questions of fact are usually proper jury issues; however, a trial court may resolve reasonableness as a matter of law if reasonable minds could come to only one conclusion. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. § 49.60.222(1)(f).
+
+*** [29] Civil Rights  [[29: 78-k-1083][78-k-1083]]  Discrimination by reason of handicap, disability, or illness
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1083 Discrimination by reason of handicap, disability, or illness*
+
+An accommodation for a tenant’s disability is “reasonable” under federal and state housing discrimination statutes if it does not cause a fundamental alteration in the nature of a landlord’s program or undue financial and administrative burdens. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b).
+
+*** [30] Civil Rights  [[30: 78-k-1428][78-k-1428]]  Property and housing
+Landlord and Tenant-Defenses and grounds of opposition in general
+
+- /78 Civil Rights/
+- /78-III Federal Remedies in General/
+- *78-k-1425 Questions of Law or Fact*
+- *78-k-1428 Property and housing*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(D) Actions for Unlawful Detainer/
+- *233-k-1783 Right of Action and Defenses*
+- *233-k-1787 Defenses and grounds of opposition in general*
+
+Tenant provided sufficient facts to require jury trial on issue of reasonableness of requested accommodation for her disability, for purposes of her affirmative defense of failure to accommodate in violation of federal and state law to eviction in unlawful detainer action, where accommodation request was that landlord stop eviction proceedings to give her time to work with her attorney to find services to help clean her apartment, and while halting unlawful detainer action would impose a burden on landlord, it was for a jury to weigh that burden against the benefit of the accommodation to tenant. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b).
+
+*** [31] Civil Rights  [[31: 78-k-1083][78-k-1083]]  Discrimination by reason of handicap, disability, or illness
+Landlord and Tenant-Defenses
+
+- /78 Civil Rights/
+- /78-I Rights Protected and Discrimination Prohibited in General/
+- *78-k-1074 Housing*
+- *78-k-1083 Discrimination by reason of handicap, disability, or illness*
+- /233 Landlord and Tenant/
+- /233-VIII Reentry and Recovery of Possession by Landlord/
+- /233-VIII(C) Actions for Recovery of Possession/
+- *233-k-1755 Defenses*
+- *233-k-1756 In general*
+
+A reasonable accommodation under federal and state law, as affirmative defense to eviction, may be requested by a tenant up until the date of physical eviction. 42 U.S.C.A. §§ 3604(f)(2), 3604(f)(3)(B); Wash. Rev. Code Ann. §§ 49.60.222(1)(f), 49.60.222(2)(b).
+
+<<**837>> Appeal from Spokane Superior Court Docket, No: 22-2-00096-6, Honorable Julie M. McKay, Judge.
+** Attorneys and Law Firms
+
+- Christopher Brunetti, Northwest Justice Project, 715 Tacoma Ave. S., Tacoma, WA, 98402-2206, Tyler William Graber, Northwest Justice Project, 711 Capitol Way S. Ste. 704, Olympia, WA, 98501-1237, for Appellant.
+- Lawrence W. Garvin, Robert J. Burnett, Witherspoon Brajcich McPhee PLLC, 601 W. Main Ave. Ste. 1400, Spokane, WA, 99201-0677, for Respondent.
+- David J. Ward, Office of the Attorney General of Washington, 800 5th Ave. Ste. 2000, Seattle, WA, 98104-3188, for Amicus Curiae on behalf of Washington State Attorney General.
+
+** PUBLISHED OPINION
+
+Pennell, J.
+
+<<*204>> <<**838>> ¶1—Kiemle & Hagood Company (K&H) initiated an action for unlawful detainer against Mariam “Phoebe” Daniels, alleging she violated lease provisions requiring her to keep her apartment clean and sanitary. Ms. Daniels answered K&H’s complaint by disputing the allegations and asserting an affirmative defense of failure to reasonably accommodate a disability. The trial court held a show cause hearing, after which it granted K&H’s request for a writ of restitution and denied Ms. Daniels’s request for a jury trial. According to the court, trial was unwarranted because there were no substantial issues of material fact as to K&H’s right to possession. As to Ms. Daniels’s reasonable accommodation defense, the trial court concluded Ms. Daniels had neither sufficiently verified she had a disability nor established the requested accommodation was necessary or reasonable.
+
+¶2 We reverse. While there is no dispute that K&H was entitled to a writ of restitution, material issues of fact precluded the trial court from issuing final judgment. Ms. <<*205>> Daniels raised genuine issues of fact regarding whether she was subject to eviction on the grounds properly alleged by K&H. Furthermore, Ms. Daniels was not required to supply third-party verification of her disability or her need for accommodation, based on the obviousness of the condition. This matter should have been set for trial rather than summarily resolved.
+
+BACKGROUND
+
+The parties’ lease
+
+¶3 Phoebe Daniels leased an apartment from K&H. She began with an 11-month lease term expiring in May 2021. The parties later agreed to a lease renewal, set to expire on February 28, 2022. The lease required Ms. Daniels to keep her apartment “clean and sanitary.” Clerk’s Papers (CP) at 22, 65. Addendums regarding mold and bed bugs contemplated specific cleaning routines, including removing clutter, vacuuming, and dusting. The lease also required Ms. Daniels to properly dispose of garbage “at least weekly.” Id.
+
+K&H’s notices to Ms. Daniels
+
+¶4 On August 24, 2020, K&H issued the first of seven notices to Ms. Daniels, alleging she had violated her cleaning obligations. Four of the notices demanded Ms. Daniels comply with her lease conditions or vacate. See id. at 101, 106, 111, 116. Two of the notices directed her to cure the lease violations or the landlord would enter the property and conduct remedial work at cost. See id. at 122, 127. The final notification directed Ms. Daniels to quit and vacate the premises. See id. at 134.
+
+¶5 Each notice provided detailed descriptions, citing recent inspections by K&H employees. According to the notices, furniture and boxes were stacked inside Ms. Daniels’s residence, blocking ingress and egress; garbage had not been disposed of; spills and dirty paper towels had accumulated on the floor; and there was an excessive amount of <<*206>> personal property throughout the unit, including in the kitchen and bathroom, and in proximity to heating fixtures and on the stovetop.
+
+¶6 Two of K&H’s notices were issued on November 3, 2021.[fn:1] One was entitled “Ten (10) Day Notice to Comply or Vacate.” Id. at 116. The other was entitled, “Notice to Cure Lease Non-Compliance.” Id. at 127. The former notice stated Ms. Daniels had 10 days to comply or her rental agreement would end; the latter stated she had 10 days to cure or the landlord could enter the apartment and perform remedial work at cost to Ms. Daniels.
+
+[fn:1] One of the November 3 notices expressly “supersede[d] any previous notice.” CP at 131.
+
+¶7 The seventh and final notice was issued on December 27, 2021. See id. at 134. This one was entitled “Notice to Quit and Vacate Due to Nuisance, Waste, and/or Unlawful Activity.” Id. This notice stated Ms. Daniels had until January 2, 2022, to vacate her apartment. The notice was longer than the previous notices and referenced the prior <<**839>> notices to cure. The December 27 notice also advised that on November 29, 2021, the landlord had conducted an inspection of Ms. Daniels’s apartment and found it had still not been cleaned. The December 27 notice stated if Ms. Daniels did not vacate the premises by January 2, she would be deemed in unlawful detainer and K&H would initiate legal action. The December 27 notice also advised Ms. Daniels of her right to legal representation.
+
+K&H files suit
+
+¶8 Ms. Daniels did not vacate her unit, and on January 10, 2022, K&H initiated an unlawful detainer action. K&H’s complaint alleged two independent causes for eviction. First, that Ms. Daniels was in “ ‘substantial breach’ ” of her tenant obligations. Id. at 13 (quoting RCW 59.18.650(2)(b)). Second, that Ms. Daniels had committed “ ‘waste,’ ” “ ‘nuisance,’ ” “ ‘unlawful activity that affects the <<*207>> use and enjoyment of the premises,’ ” or “ ‘other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors.’ ” Id. at 13-14 (quoting RCW 59.18.650(2)(c)). K&H also requested a writ of restitution restoring it to possession of the premises pending the unlawful detainer action. The trial court scheduled a show cause hearing. Ms. Daniels obtained appointed counsel, answered the complaint and asserted affirmative defenses, and filed a motion to dismiss. Ms. Daniels’s answer argued that if the court did not dismiss K&H’s complaint, factual issues remained that “ ‘must be resolved at trial.’ ” Id. at 188 (quoting Hous. Auth. v. Pleasant, 126 Wn. App. 382, 392, 109 P.3d 422 (2005)).
+
+Ms. Daniels’s accommodation request
+
+¶9 Just before filing her answer, affirmative defenses, and motion to dismiss, Ms. Daniels’s attorney sent a letter to counsel for K&H. The letter stated Ms. Daniels generally denied the allegations set forth in K&H’s complaint. But to the extent she was in violation of her tenant duties, the letter explained it was due to disability. Ms. Daniels formally requested she be given an accommodation to allow her “to continue her tenancy and avoid homelessness.” Id. at 172.
+
+¶10 Ms. Daniels’s accommodation request stated she was 80 years old and suffered from several physical disabilities, including “degenerative disc disease, thyroid disease, high blood pressure, hypoglycemia, and incontinence.” Id. at 173. She also claimed to have lost eight inches of height in recent years: while she used to stand five feet, two inches tall, Ms. Daniels currently stood four feet, six inches. As a result of Ms. Daniels’s conditions, she had limited strength and tired easily. The accommodation request explained that when Ms. Daniels moved into her apartment, the movers did not unpack any of her belongings, and Ms. Daniels lacked the strength to do so herself. Ms. Daniels lived alone and had no family in the area to help her. Ms. Daniels explained that <<*208>> her physical limitations hindered her ability to perform basic housekeeping tasks and that she could not afford to hire help.
+
+¶11 The accommodation request reported Ms. Daniels intended to work with her attorney to find resources to assist her with housekeeping and unpacking her belongings. The request asked K&H to “rescind the eviction notices” and “dismiss the unlawful detainer action,” which would “give [Ms. Daniels] time to obtain assistance in addressing [K&H’s] concerns.” Id. at 172. The request cited Ms. Daniels’s disability, along with state and federal law prohibiting housing discrimination against persons with disabilities. It also served as a basis for one of Ms. Daniels’s affirmative defenses to K&H’s complaint.
+
+Trial court proceedings
+
+¶12 The trial court denied Ms. Daniels’s motion to dismiss and proceeded to the show cause hearing. At the outset of the hearing, K&H’s counsel informed the court that his client had denied Ms. Daniels’s request for accommodation. The hearing took place over the course of two days and involved testimony from three K&H employees, a pest control technician, and Ms. Daniels.
+
+¶13 The K&H employees authenticated photographs of Ms. Daniels’s apartment; corroborated allegations that had been set forth in the notices; and explained the condition of Ms. Daniels’s unit posed a risk to the landlord <<**840>> in the form of potential for infestation, damage to surfaces, inadequate airflow, and egress from the unit. K&H’s maintenance technician opined that the condition of Ms. Daniels’s apartment posed a risk of mold growth but admitted he had not actually observed mold in the unit. The employees also testified Ms. Daniels had told them about having “back issues” that made it difficult for her to move items in her apartment. Rep. of Proc. (RP) (Feb. 14, 2022) at 66; see also id. at 86-87, 94; RP (Feb. 15, 2022) at 121.
+
+¶14 The pest control technician testified he visited Ms. Daniels’s apartment during August 2021. At that time, the <<*209>> overwhelming accumulation of personal items in Ms. Daniels’s unit made it “next to impossible to do an adequate pest inspection.” RP (Feb. 14, 2022) at 47. He did not opine that there was a current infestation, but testified he found rodent droppings and, due to how messy the apartment was, he was unable to find access points where rodents could enter. “I[t] wasn’t a safe environment to move around in.” Id.
+
+¶15 Ms. Daniels testified on her own behalf and explained how her impairments diminished her strength and caused her to tire easily, impeding her ability to clean the apartment, regularly dispose of trash, and unpack boxes. During her testimony, Ms. Daniels addressed some of the specifics regarding the state of her apartment. She reiterated that the company that had moved her into the apartment had not helped her unpack. According to Ms. Daniels, the movers “stacked ... boxes three high on two walls of [the] apartment.” RP (Feb. 15, 2022) at 127. Ms. Daniels could not move the boxes “because they were too heavy.” Id. Ms. Daniels explained there was clothing on her floor because a closet rod broke and she was unable to fix it. Ms. Daniels also explained that her incontinence problem leads to an increase in the amount of garbage she produces, and that she had difficulty opening the garbage dumpster at the complex on her own. On cross-examination, Ms. Daniels conceded the condition of her apartment was unacceptable from a cleanliness standpoint. She also agreed her apartment was “in poor condition.” Id. at 158.
+
+¶16 The trial court not only granted K&H’s request for issuance of a writ of restitution but issued the landlord final judgment, finding Ms. Daniels had failed to properly clean and maintain the premises as alleged. The court found there had been “substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord, not necessarily other tenants.” RP (Feb. 22, 2022) at 210. The trial court did not find waste or nuisance, concluding there were unresolved issues of fact. <<*210>> With respect to Ms. Daniels’s affirmative defense regarding her disability, the court concluded that K&H was entitled to “third party verification” of Ms. Daniels’s disability and need for accommodation and that Ms. Daniels’s requested accommodation was “not reasonable in light of [her] past conduct.” CP at 215, 218.
+
+¶17 The court issued an order and judgment granting issuance of a writ of restitution, restoring K&H to possession of the premises, and a final judgment. See id. at 219-27. Ms. Daniels moved for reconsideration, reiterating her argument that summary resolution of K&H’s suit was improper because genuine issues of material fact remained. Reconsideration was denied and Ms. Daniels filed a timely appeal.
+
+THE UNLAWFUL DETAINER PROCESS
+
+[1] <<1: 233-k-1781>> [2] <<2: 179-k-2>> [3] <<3: 179-k-2>>¶18 An unlawful detainer action is a statutory proceeding that provides an expedited method of resolving the right to possession of leased property and related issues such as restitution and rent. 4105 1st Ave. S. Invs., LLC v. Green Depot Wash. Pac. Coast, LLC, 179 Wn. App. 777, 785, 321 P.3d 254 (2014). Washington’s unlawful detainer process is set forth in chapter 59.12 RCW and the Residential Landlord-Tenant Act of 1973 (RLTA), chapter 59.18 RCW. Residential tenancies are governed by the RLTA. However, the procedures set forth in chapter 59.12 RCW, the generalized unlawful detainer statute, continue to apply unless supplanted by the RLTA. Randy Reynolds & Assocs. v. Harmon, 193 Wn.2d 143, 156, 437 P.3d 677 (2019). Because chapter 59.12 RCW and the RTLA “are statutes in derogation of <<**841>> the common law,” they are “strictly construed in favor of the tenant.” Id.
+
+¶19 Before initiating an unlawful detainer action, a residential landlord must first issue a written notice to terminate the tenancy that must be served consistent with RCW 59.12.040. See RCW 59.18.650(6)(a). The notice must also <<*211>> “[i]dentify the facts and circumstances known and available to the landlord at the time of the issuance of the notice that support the cause or causes with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” RCW 59.18.650(6)(b).
+
+¶20 Permissible grounds for termination of a residential tenancy are set forth in RCW 59.18.650(2). Two such grounds are relevant here. A tenant may be evicted for “substantial breach” of a material lease obligation, so long as the tenant is given 10 days to cure. RCW 59.18.650(2)(b). Eviction may also be premised on “waste,” “nuisance,” “unlawful activity that affects the use and enjoyment of the premises,” or “other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant,” so long as the tenant is given at least 3 days’ notice to quit. RCW 59.18.650(2)(c).
+
+¶21 Where a landlord’s notice specifies a tenant has an opportunity to cure a statutory violation or nonconformance with a lease obligation, the notice “expire[s] after sixty days unless the landlord pursues any remedy under” the RLTA. RCW 59.18.190.
+
+[4] <<4: 233-k-1786>> [5] <<5: 233-k-1781>>¶22 A landlord may file an action for unlawful detainer if the tenant remains in possession of the premises in violation of the terms of the landlord’s notice. See Randy Reynolds, 193 Wn.2d at 156. To physically evict the tenant, “a landlord may apply for a writ of restitution at the same time as commencing the action or at any time thereafter.” Id. at 157. Under the RLTA, the court will not enter an order directing the issuance of a writ of restitution without first conducting a show cause hearing. RCW 59.18.370-.380.
+
+[6] <<6: 179-k-21>> [7] <<7: 233-k-1793>>¶23 A show cause hearing is a summary proceeding to determine the question of possession pending suit; it is not a final determination of the parties’ rights. Randy Reynolds, 193 Wn.2d at 157 (quoting Carlstrom v. Hanline, 98 Wn. App. 780, 788, 990 P.2d 986 (2000)). “At the show <<*212>> cause hearing, the court will determine if the landlord is entitled to a writ of restitution before a trial on the complaint and answer.” id. (citing RCW 59.18.380). This opportunity for immediate temporary relief makes the show cause process similar to a preliminary injunction proceeding. See Faciszewski v. Brown, 187 Wn.2d 308, 315 n.4, 386 P.3d 711 (2016).
+
+[8] <<8: 179-k-21>> [9] <<9: 233-k-1793>> [10] <<10: 233-k-1793>>¶24 A show cause hearing is a summary proceeding, but it is also fairly substantial. At the hearing, “[t]he court shall examine the parties and witnesses orally to ascertain the merits” of the case. RCW 59.18.380. The rules of evidence apply. Pleasant, 126 Wn. App. at 392. The court may restore the landlord to possession at the close of the hearing if it appears the landlord will likely prevail on the merits. See Webster v. Litz, 18 Wn. App. 2d 248, 250, 252-53, 491 P.3d 171 (2021) (citing RCW 59.18.380). However, if the landlord does not convince the court that it is likely to succeed and therefore entitled to immediate possession, the court must deny the writ of restitution and hold an expedited trial within 30 days. See Meadow Park Garden Assocs. v. Canley, 54 Wn. App. 371, 373-74, 773 P.2d 875 (1989) (citing former RCW 59.18.380 (1973)).
+
+[11] <<11: 233-k-1803>> [12] <<12: 179-k-9>>¶25 Even if a landlord convinces the court of a likelihood of success on the merits and obtains a writ of restitution, trial may still be necessary. See IBF, LLC v. Heuft, 141 Wn. App. 624, 634-35, 174 P.3d 95 (2007); see also Webster, 18 Wn. App. 2d at 256 (noting the issue of possession pending trial “is entirely distinct from the final resolution” of the parties’ rights). There is a distinction between possession and the right to possession. Pleasant, 126 Wn. App. at 387. Similar to the summary judgment context, if a tenant raises “a genuine issue of ... material fact” pertaining to a defense against eviction, the case must go to trial, even if the tenant has <<**842>> temporarily lost possession pursuant to a writ of restitution. RCW 59.18.380; see also Faciszewski, 187 Wn.2d at 315 n.4. The right to trial is by jury unless waived. RCW 59.12.130.
+
+<<*213>> ANALYSIS
+
+Operative notices
+
+¶26 The parties dispute which presuit notices remained viable at the time K&H initiated the unlawful detainer action on January 10, 2022. According to K&H, suit was based on the November 3 notice to comply or vacate and the December 27 notice to quit and vacate. Ms. Daniels counters that the November 3 notice expired after 60 days pursuant to RCW 59.18.190. Thus, the only operative notice was the one issued on December 27. We agree with Ms. Daniels.
+
+¶27 Under RCW 59.18.190, a notice giving a tenant the opportunity to remedy nonconformance with a rental requirement expires after 60 days “unless the landlord pursues any remedy under” the RLTA during that time period. The November 3 notice to comply or vacate stated Ms. Daniels was in violation of her lease obligations and gave her 10 days to remedy her nonconformance. Thus, RCW 59.18.190 was applicable and K&H was required to pursue a remedy within 60 days.
+
+¶28 K&H argues it acted on the November 3 notice within 60 days because it issued a notice to quit and vacate on December 27. K&H appears to claim that issuing a notice to quit and vacate is a remedy under the RLTA. We disagree with this assessment.
+
+¶29 A “remedy” is generally defined as something “a court can do for a litigant who has been wronged.” DOUGLAS LAYCOCK & RICHARD L. HASEN, MODERN AMERICAN REMEDIES: CASES AND MATERIALS 1 (5th ed. 2019). The most common remedies are damages and injunctions. Id.; see also BLACK’S LAW DICTIONARY 1547 (11th ed. 2019) (A “remedy” is a means of enforcing rights or redressing wrongs through legal or equitable relief.).
+
+[13]¶30 Under the RLTA, the remedies a court may provide to a party include recovery of possession, related damages, <<*214>> and attorney fees. See RCW 59.18.290. The RLTA recognizes a landlord’s remedy to independently resolve certain tenant-caused defects in a rental unit at cost to the tenant, so long as there has first been adequate notice. See RCW 59.18.180(1). However, landlords are not authorized to engage in self-help evictions. See Gray v. Pierce County Hous. Auth., 123 Wn. App. 744, 757, 97 P.3d 26 (2004) (“[N]o landlord ... may ever use nonjudicial, self-help methods to remove a tenant.”).
+
+[14] <<14: 233-k-1794(2)>>¶31 A landlord’s service of a notice to terminate a tenancy is not a remedy. It is a legal prerequisite to avail oneself of the superior court’s jurisdiction. See Hall v. Feigenbaum, 178 Wn. App. 811, 819, 319 P.3d 61 (2014). Because K&H did not pursue a remedy under the RLTA within 60 days of providing Ms. Daniels with a notice to cure or vacate under RCW 59.18.650(2)(b), the November 3 notice expired. The only notice still operative by the time K&H filed suit on January 10, 2022, was the one dated December 27, 2021.
+
+Sufficiency of the December 27 notice
+
+¶32 The December 27 notice was issued pursuant to RCW 59.18.6502)(c)[fn:2] which allows a landlord to terminate a tenancy with three days’ notice based on “waste,” “nuisance,” “unlawful activity that affects the use and enjoyment of the premises,” or “other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant.”
+
+[fn:2] The notice also cited RCW 59.18.650(2)(b), which authorizes a landlord to terminate a tenancy based on a “substantial breach” of a material lease term. However, subsection (2)(b) requires a tenant be given 10 days to cure their noncompliance. Because the December 27 notice did not provide such a cure period, it cannot fairly be read as invoking subsection (2)(b). See Christensen v. Ellsworth, 162 Wn.2d 365, 372, 173 P.3d 228 (2007) (noting the time and manner requirements of notice demand strict compliance). Thus, subsection (2)(c) was K&H’s only viable cause for eviction.
+
+¶33 As recounted above, the December 27 notice was quite lengthy. It cited all four bases for termination under <<*215>>  <<**843>> RCW 59.18.650(2)(c). It also included a detailed summary of Ms. Daniels’s tenancy, including recitations of the other six notices that had been issued since August 24, 2020.
+
+¶34 Ms. Daniels criticizes the December 27 notice as both over- and underinclusive. According to Ms. Daniels, the notice should not have included all four bases for eviction under subsection (2)(c), and instead should have clarified which of the four bases K&H was relying on. Ms. Daniels also complains the notice should have included an identification of who was injured by her alleged misconduct, be it a specific neighboring tenant or the landlord. We disagree with these criticisms.
+
+[15] <<15: 233-k-1805>> [16] <<16: 233-k-956>> [17] <<17: 233-k-17513)>>¶35 A challenge to the adequacy of notice presents a mixed question of law and fact, reviewed de novo. Hall, 178 Wn. App. at 819. Washington courts require landlords to strictly comply with timing and manner requirements of notice. Id. at 818. But when it comes to form and content, substantial compliance is sufficient. Marsh-McLennan Bldg., Inc. v. Clapp, 96 Wn. App. 636, 640 n.1, 980 P.2d 311 (1999). In terms of substance, RCW 59.18.650(6)(b) requires any notice under subsection (2) of the statute to “[i]dentify the facts and circumstances known and available to the landlord ... that support the cause or causes with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.” (Emphasis added.) The critical question here is whether the landlord’s notice provided enough facts to allow Ms. Daniels to “effectively rebut the conclusion reached” by K&H. Hous. Auth. v. Pyrtle, 167 Ga. App. 181, 182, 306 S.E.2d 9 (1983); see Swords to Plowshares v. Smith, 294 F. Supp. 2d 1067, 1072 (N.D. Cal. 2002) (“[N]otice must enable [a] tenant to prepare a defense or rebuttal evidence ... .”)[fn:3]
+
+[fn:3] The “specificity” requirement in RCW 59.18.650(6)(b), effective since May 2021, has not yet been interpreted by an appellate court. Ms. Daniels points out that federal regulations governing evictions from federally subsidized projects impose a comparable requirement. See 24 C.F.R. § 247.4(a)(2) (“The landlord’s determination to terminate the tenancy shall ... state the reasons for the landlord’s action with enough specificity so as to enable the tenant to prepare a defense ... .” (emphasis added)). Given the scarcity of Washington authority on point, we may look to foreign cases interpreting such federal regulations, such as Pyrtle and Swords to Plowshares, for guidance. See In re Welfare of Colyer, 99 Wn.2d 114, 119, 660 P.2d 738 (1983).
+
+<<*216>> ¶36 We disagree with Ms. Daniels that K&H should have been clearer regarding the four bases for eviction set forth in RCW 59.18.650(2)(c). A fair reading of the notice is that K&H believed Ms. Daniels may have violated any of the four statutory clauses, while recognizing that only one such violation would be necessary to terminate her tenancy. Moreover, the real question regarding notice is whether Ms. Daniels understood the factual allegations against her. See Tacoma Rescue Mission v. Stewart, 155 Wn. App. 250, 255, 228 P.3d 1289 (2010); see also RCW 59.18.650(6)(b) (requiring landlords to “[i]dentify ... facts and circumstances,” rather than legal causes of action, with “specificity” (emphasis added)). Here, it was abundantly clear K&H sought to evict Ms. Daniels because she failed to keep her apartment clean and sanitary, as documented by the various inspections of her property and repeated notices to cure. K&H’s notice sufficiently apprised Ms. Daniels of the facts that K&H alleged rose to the level of waste, nuisance, or interference with enjoyment of the property. We do not fault K&H for including all four components of RCW 59.18.650(2)(c) in its notice.[fn:4]
+
+[fn:4] Nor are we persuaded by Ms. Daniels’s argument that the notice’s use of slashes and the phrase “and/or” rendered it impermissibly vague. Cf. Batchelor v. Madison Park Corp., 25 Wn.2d 907, 924-25, 172 P.2d 268 (1946).
+
+¶37 Ms. Daniels also argues the notice to quit was insufficiently specific as to whose rights were allegedly being interfered with by her conduct. An eviction can be justified under RCW 59.18.650(2)(c) based on “substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant.” But, as noted by Ms. Daniels, K&H’s notice did not specify whether the victim of Ms. Daniels’s conduct was the landlord or a neighbor and, if a neighbor, which one.
+
+<<*217>> <<**844>> [18] <<18: 233-k-956>>¶38 We disagree that identification of a specific victim was necessary to provide Ms. Daniels sufficient notice under RCW 59.18.650(2)(c). To be sure, in some cases, identifying victims is logically necessary to afford a tenant a meaningful ability to rebut allegations, such as where the tenant’s purportedly violative conduct is alleged threats, harassment, or violence directed at specific people. See, e.g., Swords to Plowshares, 294 F. Supp. 2d at 1068 n.1; Tacoma Rescue Mission, 155 Wn. App. at 256-57; Harris v. Paris Hous. Auth., 632 S.W.3d 167, 173 (Tex. App. 2021). But here, the information supplied to Ms. Daniels made clear that K&H was relying on the generally unsanitary condition of her apartment, conduct that could plausibly impair others’ enjoyment even when discrete victims are difficult to identify. See Tacoma Rescue Mission, 155 Wn. App. at 257 (faulting landlord for failing to name in notice the individuals who reported tenant’s excessive noise and threats); see also Midland Mgmt. Co. v. Helgason, 241 Ill. App. 3d 899, 911, 913, 608 N.E.2d 643, 181 Ill.Dec. 570 (1993) (notice sufficient where it apprised tenant they were being evicted for allowing “careless leakage of water”), rev’d on other grounds, 158 Ill.2d 98, 630 N.E.2d 836, 196 Ill.Dec. 671 (1994). And the condition of Ms. Daniels’s apartment had been extensively documented in prior notices, as referenced in the December 27 notice. See Martinez v. Hous. Auth., 264 Ga. App. 282, 286-87, 590 S.E.2d 245 (2003) (The notice was sufficiently specific where it cited the tenant’s “ ‘history of lease violations and warnings’ ” and referred to those prior warnings.). K&H’s notice therefore gave Ms. Daniels a sufficient opportunity to defend against its allegations.
+
+Whether the court should have ordered a trial
+
+¶39 The parties debate whether Ms. Daniels was entitled to a trial at the conclusion of the show cause hearing. As previously explained, while a show cause hearing resolves the preliminary question of who is entitled to possession of the premises during suit, it does not necessarily resolve <<*218>> questions regarding the ultimate right to possession or other remedies. Randy Reynolds, 193 Wn.2d at 157. Even if a landlord obtains preliminary success through a writ of restitution, trial on the right of possession must be ordered if the tenant raises genuine issues of material fact pertaining to a defense or setoff. RCW 59.18.380.
+
+1. K&H’s proof of grounds for eviction
+
+¶40 Pursuant to the December 27 notice, K&H alleged at the show cause hearing that Ms. Daniels was subject to eviction under RCW 59.18.650(2)(c). This provision provides four possible bases for eviction: (1) waste, (2) nuisance, (3) unlawful activity that affects the use and enjoyment of the premises, and (4) substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors. The trial court issued judgment under the fourth clause of RCW 59.18.650(2)(c). This is the only basis for eviction that K&H defends on appeal. We therefore focus our review on whether Ms. Daniels should have been afforded a trial on this allegation.
+
+¶41 The standard of review governing this inquiry is not well developed. In the recent case of Tedford v. Guy, Division Two of this court stated we review a trial court’s decision on whether to order a trial for abuse of discretion. 13 Wn. App. 2d 1, 16, 462 P.3d 869 (2020). But Tedford’s statement does not draw from the language of the applicable statute, nor is it based on Supreme Court precedent. It is not binding on us. See In re Pers. Restraint of Arnold, 190 Wn.2d 136, 154, 410 P.3d 1133 (2018). The wording of the applicable statute indicates a tenant is entitled to a trial so long as they raise a “genuine issue” of “material fact.” RCW 59.18.380. This is nearly the identical language that governs summary judgment. See CR 56(c). We review summary judgment orders de novo. Staples v. Allstate Ins. Co., 176 Wn.2d 404, 410, 295 P.3d 201 (2013). Thus, it appears something close to de novo review should <<*219>> apply, at least when a tenant denies the landlord’s grounds for eviction or raises an affirmative defense.[fn:5]
+
+[fn:5] The statute indicates a trial is proper if “there is a genuine issue of a material fact pertaining to a legal or equitable defense or set-off.” RCW 59.18.380 (emphasis added). A tenant’s legal defense might be a claim that the landlord’s basis for eviction is untrue. See, e.g., Webster, 18 Wn. App. 2d at 256-57. Or the tenant may have an affirmative defense that admits the landlord’s allegations, but nevertheless claims a right of possession. See, e.g., Josephinium Assocs. v. Kahli, 111 Wn. App. 617, 621, 45 P.3d 627 (2002). Either way, the statute suggests the tenant has a right to a trial if the tenant has raised a genuine issue of material fact.
+
+<<**845>> ¶42 Ms. Daniels disputes that her conduct substantially or repeatedly and unreasonably interfered with K&H’s use and enjoyment of the premises. She makes two arguments. We address each in turn.
+
+[19] <<19: 233-k-1752>>¶43 First, Ms. Daniels notes that the RLTA defines “premises” as property “held out for the use of tenants.” RCW 59.18.030(22). Thus, she argues that in order for a tenant’s conduct to interfere with a landlord’s “use and enjoyment of the premises,” the landlord must also be a tenant. RCW 59.18.650(2)(c) (emphasis added). We disagree. Ms. Daniels’s proposed reading of the statute strains its text. See White v. Salvation Army, 118 Wn. App. 272, 279, 75 P.3d 990 (2003) (statutes are construed to avoid absurd results). Just because a landlord holds out their premises for the use of others does not mean the landlord abandons their own right or ability to enjoy their property. See Rental Hous. Ass’n v. City of Seattle, 22 Wn. App. 2d 426, 452-53, 512 P.3d 545 (2022) (Out-of-possession landlords retain a property interest protected by due process principles.). A landlord may enjoy their property as an investment free from unreasonable risk. By failing to keep an apartment in a clean and sanitary condition, a tenant may interfere with their landlord’s right to a secure investment, insofar as they risk permanent damage to the apartment or disturbances to the landlord’s other tenants.
+
+¶44 Second, Ms. Daniels argues genuine issues of material fact remain as to whether her conduct was a sufficiently severe interference with K&H’s use and enjoyment <<*220>> of the property. We note that RCW 59.18.650(2)(c)’s phrase “unreasonable interference with the use and enjoyment of the premises,” echoes a common definition of “nuisance.” See Moore v. Steve’s Outboard Serv., 182 Wn.2d 151, 155, 339 P.3d 169 (2014) (“[A]n activity is a nuisance only when it ‘interferes unreasonably with other persons’ use and enjoyment of their property.’ ”) (quoting Tiegs v. Watts, 135 Wn.2d 1, 13, 954 P.2d 877 (1988)) (plurality opinion))). However, RCW 59.18.650(2)(c)’s use of this terminology must be distinct from the concept of nuisance, since subsection (2)(c) also lists “nuisance” as a separate basis for eviction. See State v. K.L.B., 180 Wn.2d 735, 742, 328 P.3d 886 (2014) (Statutes ordinarily must not be read in a manner that leaves any portion meaningless or superfluous.). We interpret RCW 59.18.650(2)(c)’s reference to “interference with the use and enjoyment of the premises” as referring to either “substantial or repeated and unreasonable” conduct that approximates a nuisance, even if the steep standard for a nuisance claim is not quite met.
+
+[20] <<20: 233-k-1769>>¶45 Reasonableness is typically a question of fact, but a court can resolve a question of reasonableness “as a matter of law where reasonable minds could come to only one conclusion.” Lakey v. Puget Sound Energy, Inc., 176 Wn.2d 909, 924, 296 P.3d 860 (2013). Here, K&H’s evidence of interference with its enjoyment of the apartment was not so strong that it could lead to only one conclusion. The evidence certainly revealed Ms. Daniels’s apartment was significantly unkempt. However, there was no conclusive evidence her failure to clean the premises had tangibly damaged the property or posed an imminent threat of such injury. There was evidence of some rodent droppings, but Ms. Daniels testified that those did not evidence a recent infestation because she had quelled any problem with mice after the first four months of her tenancy. Nor was there evidence the condition of her apartment was noticeable to anyone who did not step foot into the unit.
+
+[21] <<21: 233-k-1803>>¶46 We disagree with the trial court’s determination that there were no genuine issues of material fact as to <<*221>> whether K&H had established substantial or repeated and unreasonable interference with its right to enjoy the property. Trial is required. As recognized by the trial court’s oral ruling, <<**846>> there are also issues of fact as to other components of RCW 59.18.650(2)(c). Thus, the issue at trial will be whether K&H can establish any grounds for eviction under RCW 59.18.650(2)(c).
+
+2. Affirmative defense—failure to accommodate
+
+¶47 Apart from challenging K&H’s proof of its basis for eviction, Ms. Daniels raised an affirmative defense based on federal and state antidiscrimination law. Specifically, Ms. Daniels asserted she is disabled due to her age, infirmity, and back conditions. According to Ms. Daniels, her disability impaired her ability to remedy the problems giving rise to K&H’s grounds for eviction. Ms. Daniels requested K&H accommodate her disability by dismissing the current proceedings and giving her time to work with her attorney to find resources to help her clean and declutter the apartment.
+
+[22] <<22: 78-k-1083>> [23] <<23: 106-k-97(5)>>¶48 Both federal and state law prohibit landlords from discriminating against disabled tenants, including the failure to reasonably accommodate a tenant’s disability.[fn:6] 42 U.S.C. § 3604(f)(2), (3)(B); RCW 49.60.222(1)(f), (2)(b). A tenant’s claim that a landlord has failed to accommodate their disability may constitute a defense to eviction. Josephinium Assocs. v. Kahli, 111 Wn. App. 617, 626, 45 P.3d 627 (2002). The defense can be asserted so long as the failure to accommodate is germane to the landlord’s claim to the right to possess the premises. Id.
+
+[fn:6] The federal and Washington provisions requiring reasonable accommodation in housing are “virtually identical.” Wash. State Hum. Rts. Comm’n v. Hous. Auth., 21 Wn. App. 2d 978, 987, 509 P.3d 319 (2022). Because the Washington and federal statutes are analogous, authority interpreting the federal statute properly informs our interpretation of both provisions. Cf. Kumar v. Gate Gourmet, Inc., 180 Wn.2d 481, 491, 325 P.3d 193 (2014).
+
+[24] <<24: 78-k-1083>>¶49 A tenant raising failure to accommodate as an affirmative defense must show five elements: (1) they have <<*222>> a “disability” as that term is statutorily defined, (2) their landlord “knew or reasonably should have known” of the disability, (3) the requested accommodation “ ‘may be necessary’ to afford [the tenant] an equal opportunity to use and enjoy the dwelling,” and (4) the landlord denied the request. Giebeler v. M&B Assocs., 343 F.3d 1143, 1147 (9th Cir. 2003) (quoting United States v. Cal. Mobile Home Park Mgmt. Co., 107 F.3d 1374, 1380 (9th Cir. 1997)). Further, the tenant is not entitled to their requested accommodation unless it is (5) “reasonable.” Id. at 1148.
+
+¶50 The evidence here readily supports the possibility of a jury verdict for Ms. Daniels on the first and fourth elements. Ms. Daniels has presented evidence—in the form of medical records and sworn testimony—that she has medical conditions constituting a disability. And K&H undisputedly denied Ms. Daniels’s requested accommodation. Thus, the parties’ dispute centers on whether Ms. Daniels sufficiently showed K&H knew or reasonably should have known about her disability, whether her disability is related to the grounds for unlawful detainer asserted by K&H, and whether Ms. Daniels’s requested accommodation was reasonable.
+
+a. Landlord’s knowledge or constructive knowledge of tenant’s disability
+
+¶51 The trial court ruled in K&H’s favor as to the knowledge element on the basis that Ms. Daniels did not provide third-party verification of her disability. But such verification is not invariably required. While Washington’s Law Against Discrimination (WLAD), chapter 49.60 RCW, requires an interactive verification process in the employment context, see RCW 49.60.040(7)(d), there is no similar mandate in the housing context. Guidance from the United States Department of Justice and United States Department of Housing and Urban Development states:
+
+If a [tenant]’s disability is obvious, or otherwise known to the [landlord], and if the need for the requested accommodation is <<*223>> also readily apparent or known, then the [landlord] may not request any additional information about the [tenant’s] disability or the disability-related need for the accommodation.
+
+JOINT STATEMENT OF THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT AND THE DEPARTMENT OF JUSTICE: REASONABLE ACCOMMODATIONS <<**847>>  UNDER THE FAIR HOUSING ACT 12-13 (May 17, 2004) (Joint Statement) (emphasis added), https://www.justice.gov/sites/default/files/crt/legacy/2010/12/14/joint_statement_ra.pdf [https://perma.cc/SG47-BGKG].[fn:7] Similarly, the Washington State Human Rights Commission has also recognized that “[i]f a person has a visible disability and their request is reasonably tied to their disability, then no further verification is needed.” Disability in Housing, Wash. St. Hum. Rts. Comm’n, https://www.hum.wa.gov/fair-housing/disability-housing (emphasis added) (last. visited Apr. 27, 2023).
+
+[fn:7] The Joint Statement is a policy statement, rather than an authoritative interpretation, but it has been recognized as persuasive authority. See, e.g., Bhogaita v. Altamonte Heights Condo. Ass’n,, 765 F.3d 1277, 1286 n.3 (11th Cir. 2014); Sabal Palm Condos. of Pine Island Ridge Ass’n, v. Fischer, 6 F. Supp. 3d 1272, 1286 (S.D. Fla. 2014); Douglas v. Kriegsfeld Corp., 884 A.2d 1109, 1120, 1122 (D.C. 2005); Andover Hous. Auth. v. Shkolnik, 443 Mass. 300, 309 n.14, 820 N.E.2d 815 (2005); Kuhn v. McNary Ests. Homeowners Ass’n., Inc., 228 F. Supp. 3d 1142, 1149 (D. Or. 2017). K&H does not disagree that the Joint Statement should be referenced as persuasive authority. See Br. of Resp’t at 45.
+
+[25] <<25: 78-k-1083>>¶52 We agree with Ms. Daniels and amicus curiae the Attorney General of Washington that third-party verification of a tenant’s disability is unwarranted when a tenant’s disability is obvious or otherwise known to the landlord.
+
+[26] <<26: 78-k-1428>>¶53 Ms. Daniels has presented ample evidence of an obvious disability that was known to her landlord. Not only did Ms. Daniels testify that she told K&H employees about the disability to her back but it would be obvious to anyone who looked at her that she had a physical impairment. Although she was not required to do so, Ms. Daniels voluntarily furnished medical records in which her physician <<*224>> described her as “markedly kyphotic”[fn:8] along with noting several other physical impairments. Def.’s Ex. 2, at 2 (emphasis added). Moreover, multiple K&H employees testified they knew Ms. Daniels had problems with her back because she had told them as much. WLAD broadly defines “impairment” to include any “condition ... affecting” an individual’s “musculoskeletal” system. RCW 49.60.040(7)(c)(i). And an “impairment” is a “disability” when it is “perceived to exist whether or not it exists in fact.” RCW 49.60.040(7)(a)(iii). Ms. Daniels’s back problems readily meet this definition, and K&H’s employees were aware of them.
+
+[fn:8] “Kyphosis” is “abnormal backward curvature of the spine.” WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY 1258 (1993).
+
+b. Necessity of tenant’s requested accommodation
+
+[27] <<27: 78-k-1428>>¶54 The trial court also concluded Ms. Daniels should have provided third-party verification of the connection between her disability and her requested accommodation. We recognize there are cases where a landlord may require verification of the nexus between a tenant’s disability and the requested accommodation, even if the disability itself is obvious. See Joint Statement at 13. But this case is not one where verification was necessary. K&H’s allegations against Ms. Daniels included concerns that she failed to unpack boxes, did not remove garbage, and did not regularly clean. No specialized knowledge is needed to understand that an elderly person with significant back problems may have trouble engaging in these tasks. And Ms. Daniels expressly premised her requested accommodation—a discontinuation of the eviction proceedings—on the fact that such a discontinuation would give her time to find resources to help her with those tasks.
+
+¶55 The facts were sufficient to require a jury trial on the issue of the necessity of Ms. Daniels’s requested accommodation.
+
+<<*225>> c. Reasonableness of tenant’s requested accommodation
+
+[28] <<28: 78-k-1428>> [29] <<29: 78-k-1083>>¶56 K&H argues that even if it knew of Ms. Daniels’s disability and the connection between her disability and requested accommodation, the trial court should be affirmed because Ms. Daniels has not raised a material issue of fact regarding the reasonableness of her accommodation request. Generally, the reasonableness of an accommodation is a question of fact demanding case-by-case scrutiny. See Jankowski Lee & Assocs. v. Cisneros, 91 F.3d 891, 896 (7th Cir. 1996). And questions of fact are usually proper jury <<**848>> issues. Lascheid v. City of Kennewick, 137 Wn. App. 633, 642, 154 P.3d 307 (2007). However, a trial court may resolve reasonableness as a matter of law if reasonable minds could come to only one conclusion. Boyle v. Leech, 7 Wn. App. 2d 535, 539, 436 P.3d 393 (2019). “An accommodation is reasonable ... if it does not cause a ‘fundamental alteration in the nature of a [landlord’s] program’ or ‘undue financial and administrative burdens.’ ” Josephinium Assocs., 111 Wn. App. at 623 (quoting Groner v. Golden Gate Gardens Apts.,, 250 F.3d 1039, 1044 (6th Cir. 2001)).
+
+[30] <<30: 78-k-1428>>¶57 Ms. Daniels’s accommodation request was that K&H stop the eviction proceedings to give her time to work with her attorney to find services to help clean her apartment. Other courts have recognized that a request for “additional time to clean” can constitute a reasonable request. McGary v. City of Portland, 386 F.3d 1259, 1261, 1264, 1269-70 (9th Cir. 2004); see Douglas v. Kriegsfeld Corp., 884 A.2d 1109, 1120 (D.C. 2005) (recognizing brief stay in eviction proceedings to allow additional time for disabled tenant to conduct cleaning could constitute a reasonable accommodation); see also Andover Hous. Auth. v. Shkolnik, 443 Mass. 300, 311-12, 820 N.E.2d 815 (2005) (rejecting the idea that “indefinite” requests for more time are reasonable but acknowledging that delaying the typical eviction timetable can <<*226>> constitute a reasonable accommodation where “no neighbors [are] seriously disturbed by the tenants’ behavior”).
+
+[31] <<31: 78-k-1083>>¶58 Furthermore, we note that a reasonable accommodation may be requested up until the date of physical eviction. See Radecki v. Joura, 114 F.3d 115, 116 (8th Cir. 1997); Douglas, 884 A.2d at 1121 (“[A] reasonable accommodation defense will be timely until the proverbial last minute.”). This is consistent with landlords’ obligation to reasonably make accommodations to not only their “rules” but also their “policies, practices, or services.” RCW 49.60.222(2)(b) (emphasis added); see Douglas, 884 A.2d at 1127.
+
+¶59 We recognize that halting this unlawful detainer action would have imposed a burden on K&H.[fn:9] But those burdens should have been weighed—by a jury—against the benefit to Ms. Daniels. See Josephinium Assocs., 111 Wn. App. at 623-24; Marthon v. Maple Grove Condo. Ass’n, 101 F. Supp. 2d 1041, 1051 (N.D. Ill. 2000).
+
+[fn:9] Ms. Daniels contends that even if K&H found Ms. Daniels’s requested accommodation vague, objectionable, or flatly unreasonable, K&H should have engaged Ms. Daniels in a dialogue to seek clarification or explore other possible solutions. We acknowledge there is a split among legal authorities on whether such a dialogue is required by the relevant statutes or merely encouraged. See Joint Statement at 7 (explaining that landlords “should” open a dialogue with tenants who propose an unreasonable accommodation, and that if there is an alternative accommodation that would meet a tenant’s needs, the landlord “must” grant it); compare Howard v. HMK Holdings, LLC, 988 F.3d 1185, 1193-94 (9th Cir. 2021), and Groner, 250 F.3d at 1047, with Douglas, 884 A.2d at 1122 & n.22, 1143-44, and Jankowski Lee & Assocs., 91 F.3d at 896. At this juncture, we decline to endorse either side of this split because we conclude the reasonableness of Ms. Daniels’s accommodation should have reached a jury either way.
+
+¶60 For the reasons set forth above, Ms. Daniels has presented sufficient facts to allow a jury to decide whether her requested accommodation was reasonable. This affirmative defense was prematurely rejected.
+
+ATTORNEY FEES AND COSTS
+
+¶61 Ms. Daniels asks for an award of attorney fees, up to and costs, citing RCW 59.18.290 and RAP 18.1. This request is premature. If Ms. Daniels ultimately prevails on remand, <<*227>> she may request attorney fees, to and including fees and costs associated with her appeal. See Faciszewski, 187 Wn.2d at 324.
+
+CONCLUSION
+
+¶62 The trial court prematurely issued final judgment in favor of K&H after granting the request for writ of restitution at the show cause hearing. Because there are genuine issues of material fact as to whether Ms. Daniels is subject to eviction under RCW 59.18.650(2)(c) and, alternatively, whether she was entitled to a reasonable accommodation based on a disability, this matter should have been set for trial.
+
+<<**849>> ¶63 The final judgment in favor of K&H is reversed. This matter is remanded for trial, consistent with the terms of this opinion.
+
+Lawrence-Berrey, A.C.J., and Staab, J., concur.
+
+References LexisNexis Practice Guide: Washington Real Estate Litigation Annotated Revised Code of Washington by LexisNexis United States Code Service (USCS) by LexisNexis
+
+** End
+#+STARTUP: show2levels
