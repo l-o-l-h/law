@@ -1,0 +1,502 @@
+#+title:      Donaldson v. Greenwood, 40 Wn.2d 238, 242 P.2d 1038 (1952)
+#+date:       [1952-04-03 Thu 00:00]
+#+filetags:   :case:constructive:cr70:divest:judgment:law:title:trust:vest:
+#+identifier: 19520403T000000
+#+signature:  sc
+
+* Donaldson v. Greenwood -- Supreme Court of Washington, Department 1. | April 3, 1952 | 40 Wash.2d 238 | 242 P.2d 1038
+
+- Washington Citation :: Donaldson v. Greenwood, 40 Wn.2d 238, 242 P.2d 1038 (1952)
+- All Citations :: 40 Wash.2d 238, 242 P.2d 1038
+
+
+                            40 Wash.2d 238
+
+              Supreme Court of Washington, Department 1.
+
+                              DONALDSON
+
+                                  v.
+
+                           GREENWOOD et al.
+
+                              No. 31728.
+                            April 3, 1952.
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+*** Holdings
+
+**** Dictum
+[[dictum][Dictum]]
+Were the real property located in the county of trial, the decree itself could vest plaintiff’s title in him as a matter of record, Rules of Pleading, Practice, and Procedure rule 23, 34A Wash.2d 83; or, if it were located within the state, the court could appoint a commissioner to execute a conveyance in defendants’ name to plaintiff. See RCW 6.28.010 et seq.
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[*West Headnotes (23)][West Headnotes]]
+- [[*Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[*Opinion][Opinion]]
+
+
+
+- Rehearing Denied May 7, 1952.
+
+** Synopsis
+
+Paul D. Donaldson brought a proceeding against E. M. Greenwood and wife and their marital community alleging that Donaldson and Greenwood were joint adventurers with regard to lime bearing real estate and asking for an accounting between them, and for order directing Greenwoods to make such conveyance of the real estate to Donaldson as would reflect Donaldson’s interest therein, or, in the alternative, for money judgment in favor of Donaldson for value of his interest in real estate. The Superior Court, King County, James W. Hodson, J., entered decree for Donaldson and the Greenwoods appealed. The Supreme Court, Weaver, J., held that Donaldson and Greenwood had contracted as joint adventurers to acquire the property jointly and to share its profits equally.
+
+Decree affirmed in part, modified in part, reversed in part.
+
+** West Headnotes (23)
+
+*** [1] Appeal and Error  [[1: 30-k-3239][30-k-3239]]  Continuance and stay
+Pretrial Procedure-Discretion of court
+
+- /30 Appeal and Error/
+- /30-XVI Review/
+- /30-XVI(D) Scope and Extent of Review/
+- /30-XVI(D)3 Procedural Matters in General/
+- *30-k-3239 Continuance and stay*
+- /(Formerly 30k966(1))/
+- /307 APretrial Procedure/
+- /307A-IV Continuance/
+- *307A-k-713 Discretion of court*
+- /(Formerly 94k7 Continuance)/
+
+The denial of a continuance rests in the sound discretion of the trial court and will not be reversed except for manifest abuse.
+
+- 8 Cases that cite this headnote
+
+*** [2] Pretrial Procedure  [[2: 307A-k-715][307A-k-715]]  Absence, death, or disability of party
+
+- /307 APretrial Procedure/
+- /307A-IV Continuance/
+- *307A-k-715 Absence, death, or disability of party*
+- /(Formerly 94k19 Continuance)/
+
+A party, knowing date a cause is set for trial, cannot absent himself from the jurisdiction of the court and expect the court to delay trial merely to suit his personal convenience.
+
+- 3 Cases that cite this headnote
+
+*** [3] Pretrial Procedure  [[3: 307A-k-726][307A-k-726]]  Second or further continuance
+
+- /307 APretrial Procedure/
+- /307A-IV Continuance/
+- *307A-k-726 Second or further continuance*
+- /(Formerly 94k51(4) Continuance)/
+
+Where defendant moved for indefinite continuance in order to make nonemergency trip to Paris for personal reasons, left court’s jurisdiction before learning of its action on motion, and, after learning that case had been continued subject to call in order to give him opportunity to return, wired that he was leaving Paris for Chile and would not return for almost three months, it was not abuse of discretion to deny further continuance.
+
+- 1 Case that cites this headnote
+
+*** [4] Joint Ventures  [[4: 226H-k-86][226H-k-86]]  Accounting
+
+- /226 HJoint Ventures/
+- /226H-IV Actions and Proceedings/
+- *226H-k-86 Accounting*
+- /(Formerly 224k1.15 Joint Adventures)/
+
+In action between parties who were allegedly joint adventurers for an accounting between them, and for order directing defendant to make such conveyance of real property to plaintiff as would reflect plaintiff’s interest therein or, in the alternative, for a money judgment for plaintiff for value of his interest therein, evidence sustained finding that parties contracted and that their subsequent conduct showed that they intended to acquire property jointly and to share profits equally.
+
+*** [5] Joint Ventures  [[5: 226H-k-49][226H-k-49]]  Loyalty, Good Faith, and Fiduciary Duties
+
+- /226 HJoint Ventures/
+- /226H-II Rights, Duties, and Liabilities of Parties/
+- *226H-k-49 Loyalty, Good Faith, and Fiduciary Duties*
+- *226H-k-50 In general*
+- /(Formerly 224k4(1) Joint Adventures)/
+
+Joint adventurers, like copartners, owe to one another, while the enterprise continues, the duty of the finest loyalty.
+
+- 2 Cases that cite this headnote
+
+*** [6] Joint Ventures  [[6: 226H-k-45][226H-k-45]]  Property ownership and transactions
+
+- /226 HJoint Ventures/
+- /226H-II Rights, Duties, and Liabilities of Parties/
+- *226H-k-43 Particular Cases and Contexts*
+- *226H-k-45 Property ownership and transactions*
+- /(Formerly 224k4(1) Joint Adventures)/
+
+Where joint adventurer had paid his share according to several accountings, and had demanded further accountings so that he might make further payments, he fulfilled his duty to his associate and acquired a vested equitable interest in the land involved and in the proceeds of the venture.
+
+- 2 Cases that cite this headnote
+
+*** [7] Trusts  [[7: 390-k-71][390-k-71]]  Payment of Consideration for Conveyance to Another
+
+- /390 Trusts/
+- /390-I Creation, Existence, and Validity/
+- /390-I(B) Resulting Trusts/
+- *390-k-71 Payment of Consideration for Conveyance to Another*
+- *390-k-72 In general*
+
+When title to property is taken in name of a grantee other than person advancing consideration, the one in whose name title is taken is a resulting trustee for the person who paid the purchase price, in absence of evidence of contrary intent.
+
+- 7 Cases that cite this headnote
+
+*** [8] Trusts  [[8: 390-k-79][390-k-79]]  Part payment
+
+- /390 Trusts/
+- /390-I Creation, Existence, and Validity/
+- /390-I(B) Resulting Trusts/
+- *390-k-71 Payment of Consideration for Conveyance to Another*
+- *390-k-79 Part payment*
+
+Where plaintiff and defendant had contracted as joint adventurers to purchase property jointly and share in profits therefrom equally, but defendant, to facilitate financing, had taken title to property in his name, and thereafter gave plaintiff document in the nature of a deed which was later surrendered to defendant and lost, the transaction imposed a resulting trust for plaintiff the moment record title first passed to defendant so that loss of document did not affect his equitable rights to receive conveyance representing his interest in property.
+
+- 5 Cases that cite this headnote
+
+*** [9] Trusts  [[9: 390-k-284][390-k-284]]  Conveyance of trust property to cestui que trust
+
+- /390 Trusts/
+- /390-V Execution of Trust by Trustee or by Court/
+- *390-k-284 Conveyance of trust property to cestui que trust*
+
+Where transaction between plaintiff and defendant imposed resulting trust on property held in name of defendant and entitled plaintiff to conveyance of his interest in that property, quality of plaintiff’s interest in property was but equal to defendant’s and he was entitled not to warranty deed, but only to conveyance in nature of bargain and sale deed which would convey same sort of title defendant took.
+
+*** [10] Courts  [[10: 106-k-7][106-k-7]]  Local or transitory actions
+
+- /106 Courts/
+- /106-I Nature, Extent, and Exercise of Jurisdiction in General/
+- /106-I(A) In General/
+- *106-k-3 Jurisdiction of Cause of Action*
+- *106-k-7 Local or transitory actions*
+
+An action to impress a party with an implied trust is a transitory one and the trust may be enforced and a conveyance ordered wherever the trustee may be found, regardless of the situs of the property.
+
+- 1 Case that cites this headnote
+
+*** [11] Equity  [[11: 150-k-36][150-k-36]]  Exercise of jurisdiction beyond territorial limits
+
+- /150 Equity/
+- /150-I Jurisdiction, Principles, and Maxims/
+- /150-I(A) Nature, Grounds, Subjects, and Extent of Jurisdiction in General/
+- *150-k-36 Exercise of jurisdiction beyond territorial limits*
+
+A court of equity, acting in personam, has jurisdiction to decree conveyance of land situated in another state.
+
+- 2 Cases that cite this headnote
+
+*** [12] Property  [[12: 315-k-22][315-k-22]]  What law governs
+
+- /315 Property/
+- /315-I In General/
+- *315-k-22 What law governs*
+- /(Formerly 315k6)/
+
+An interest in land can be transferred by operation of law only by the law of the state where the land is.
+
+*** [13] Judgment  [[13: 228-k-228][228-k-228]]  Alternative provisions
+
+- /228 Judgment/
+- /228-VI On Trial of Issues/
+- /228-VI(A) Rendition, Form, and Requisites in General/
+- *228-k-228 Alternative provisions*
+
+A judgment in the alternative for pecuniary compensation may be given when the decree, operating in personam, orders a conveyance of property located in another jurisdiction, for without it equity has not given as full and complete relief as is within its power.
+
+*** [14] Joint Ventures  [[14: 226H-k-85][226H-k-85]]  Verdict, findings, and judgment
+
+- /226 HJoint Ventures/
+- /226H-IV Actions and Proceedings/
+- *226H-k-85 Verdict, findings, and judgment*
+- /(Formerly 224k5(1) Joint Adventures)/
+
+In equity proceeding between joint adventurers for conveyance to plaintiff of his interest in California property held in name of defendant or, in the alternative, money judgment for value of that interest, entering, in the alternative, of a money judgment against defendant in event he did not execute and deliver conveyance to plaintiff within time fixed was not error.
+
+*** [15] Judgment  [[15: 228-k-205][228-k-205]]  Amount of recovery
+
+- /228 Judgment/
+- /228-VI On Trial of Issues/
+- /228-VI(A) Rendition, Form, and Requisites in General/
+- *228-k-205 Amount of recovery*
+
+Where court of equity decreed that defendant should convey to plaintiff the plaintiff’s interest in California property held in defendant’s name and granted, in the alternative, a money judgment for value of plaintiff’s interest, the alternative money judgment was not in the nature of damages nor was it punitive, but it was compensatory and its amount should have been based on fair market value of the property as established by evidence.
+
+*** [16] Evidence  [[16: 157-k-1185(4)][157-k-1185(4)]]  Leases;  value of rents and profits
+Evidence-Amount for which property can be purchased or sold;  offers and quotations
+Evidence-Tax assessment value
+Evidence-Time and place of valuation
+Evidence-Sales of other property in general
+
+- /157 Evidence/
+- /157-VIII Evidence of Value/
+- *157-k-1182 Value of Property in General*
+- *157-k-1185 Cost of Property;  Amounts Paid or Received*
+- *157-k-1185(4) Leases;  value of rents and profits*
+- /(Formerly 157k113(11))/
+- /157 Evidence/
+- /157-VIII Evidence of Value/
+- *157-k-1182 Value of Property in General*
+- *157-k-1186 Amount for which property can be purchased or sold;  offers and quotations*
+- /(Formerly 157k113(15))/
+- /157 Evidence/
+- /157-VIII Evidence of Value/
+- *157-k-1182 Value of Property in General*
+- *157-k-1188 Tax assessment value*
+- /(Formerly 157k113(19))/
+- /157 Evidence/
+- /157-VIII Evidence of Value/
+- *157-k-1197 Time and place of valuation*
+- /(Formerly 157k113(2), 157k113(3))/
+- /157 Evidence/
+- /157-VIII Evidence of Value/
+- *157-k-1198 Value of Other Property;  Similar Facts and Transactions*
+- *157-k-1200 Sales of other property in general*
+- /(Formerly 157k142(1))/
+
+Actual bona fide sale price, a bona fide offer to purchase, a bona fide offer of sale, the sale price of similar properties similarly situated, royalties or rents paid or received, analytical appraisals by the present worth method and valuations for purposes of state and location taxation and appraisals for court proceedings, may be considered in determining fair market value of mineral properties.
+
+- 4 Cases that cite this headnote
+
+*** [17] Evidence  [[17: 157-k-1184][157-k-1184]]  Market value or price in general
+
+- /157 Evidence/
+- /157-VIII Evidence of Value/
+- *157-k-1182 Value of Property in General*
+- *157-k-1184 Market value or price in general*
+- /(Formerly 157k113(1))/
+
+“Fair market value” is the amount of money which a purchaser willing, but not obliged, to buy the property would pay an owner willing, but not obligated, to sell it, taking into consideration all uses to which the property is adapted and might in reason be applied.
+
+- 15 Cases that cite this headnote
+
+*** [18] Mines and Minerals  [[18: 260-k-101][260-k-101]]  Associations, joint-stock companies, and other joint enterprises
+
+- /260 Mines and Minerals/
+- /260-III Operation of Mines, Quarries, and Wells/
+- /260-III(B) Mining Partnerships and Companies/
+- *260-k-101 Associations, joint-stock companies, and other joint enterprises*
+
+In action between joint adventurers for conveyance to plaintiff of his interest in lime bearing land held in the name of the defendant, or, in the alternative, for a money judgment in the amount of the value of plaintiff’s interest in said land, evidence did not support finding that value of plaintiff’s interest was $250,000.
+
+*** [19] Pleading  [[19: 302-k-237][302-k-237]]  Amendment to Conform to Proofs
+
+- /302 Pleading/
+- /302-VI Amended and Supplemental Pleadings and Repleader/
+- *302-k-233 Leave of Court to Amend*
+- *302-k-237 Amendment to Conform to Proofs*
+- *302-k-237(1) In general*
+
+In action between joint adventurers to have conveyed to plaintiff his interest in property which was held in name of defendant and for which plaintiff had not received conveyance in form to which he was entitled, it was not error to allow amendment of complaint to conform with proof that defendant had given plaintiff a deed to property, since it was immaterial what effect of instrument given plaintiff was.
+
+- 1 Case that cites this headnote
+
+*** [20] Mines and Minerals  [[20: 260-k-101][260-k-101]]  Associations, joint-stock companies, and other joint enterprises
+
+- /260 Mines and Minerals/
+- /260-III Operation of Mines, Quarries, and Wells/
+- /260-III(B) Mining Partnerships and Companies/
+- *260-k-101 Associations, joint-stock companies, and other joint enterprises*
+
+In action between joint adventurers for accounting and for conveyance to plaintiff of his interest in lime bearing property on part of which defendant had built guest house, stables, sprinkling system, and cyclone fencing, evidence supported finding that by agreement between parties those betterments were placed thereon at defendant’s expense and that plaintiff had no interest in them.
+
+*** [21] Mines and Minerals  [[21: 260-k-101][260-k-101]]  Associations, joint-stock companies, and other joint enterprises
+
+- /260 Mines and Minerals/
+- /260-III Operation of Mines, Quarries, and Wells/
+- /260-III(B) Mining Partnerships and Companies/
+- *260-k-101 Associations, joint-stock companies, and other joint enterprises*
+
+Where plaintiff and defendant, as joint adventurers in development of lime bearing real estate, agreed that a guest house, stables, sprinkling system and cyclone fencing would be built on property at defendant’s expense and that plaintiff had no interest in them, plaintiff was not charged on accounting with a portion of the cost of those betterments.
+
+*** [22] Appeal and Error Determination and Disposition of Cause
+
+- /30 Appeal and Error/
+- /30-XVII IDetermination and Disposition of Cause/
+- /30X-VIII(A) In General/
+- *30-k-4611 In general*
+- /(Formerly 30k1121)/
+
+The Supreme Court will not grant a motion permitting the filing in a superior court of a motion for new trial unless it could uphold an order of the superior court granting the motion after the case had been remanded.
+
+- 1 Case that cites this headnote
+
+*** [23] Appeal and Error Determination and Disposition of Cause
+
+- /30 Appeal and Error/
+- /30-XVII IDetermination and Disposition of Cause/
+- /30X-VIII(A) In General/
+- *30-k-4611 In general*
+- /(Formerly 30k1121)/
+
+Where proposed change in witness’ testimony was only cumulative and newly discovered document was immaterial to decision, appellant’s motion for order granting leave to file in superior court a petition for new trial and leave for that court to act thereon was denied.
+
+- 1 Case that cites this headnote
+
+** Attorneys and Law Firms
+
+- <<*240>> <<**1040>> Ogden & Ogden, Clinton H. Hartson, Seattle, for appellants.
+- Lenihan & Ivers, Seattle, for respondent.
+
+** Opinion
+
+WEAVER, Justice.
+
+This is an action between the parties to a joint venture (a) for an accounting between them; (b) for a declaration that defendants hold one-half of the real property involved in trust for plaintiff; and (c) for an order directing defendants to make such conveyance of the real property to plaintiff as would reflect plaintiff’s interest therein, or, in the alternative, for a money judgment in favor of plaintiff for the value of his interest in the property. It is not, as defendants urge, an action for specific performance of an agreement to deed an undivided one-half interest in certain real property.
+
+The first question raised by appellants’ (defendants’) assignments of error requires we set forth the procedural history of this case in some detail. Trial commenced September 6, 1950. Both plaintiff and E. M. Greenwood, who will be referred to in most instances as the sole defendant, were present in court. On the afternoon of the following day, plaintiff, before his cross-examination had been completed, fell ill. He was confined to a hospital for a short time and directed to take a complete rest for at least thirty days. It was the doctor’s opinion that he had suffered a light stroke.
+
+<<*241>> Over defendant’s objection, the trial was resumed on Friday, September 8. Five additional witnesses testified for plaintiff and were cross-examined. The trial was continued until Monday, September 11. On that day, plaintiff being unable to appear in order that his cross-examination be completed, the case was continued until November 13, 1950.
+
+October 18, defendant signed an affidavit in support of a motion to continue the trial from November 13 to a later, unspecified date. Defendant’s reasons for the continuance were wholly personal. No emergency existed. The motion was set for hearing October 27.
+
+In the meantime, defendant left the jurisdiction without the assurance of the trial court that the motion would be granted. The trial court denied it.
+
+The trial was resumed on November 13. Plaintiff’s cross-examination was completed and an additional witness for the plaintiff examined. The plaintiff rested his case on November 14. A challenge to the sufficiency of the evidence having been denied, defendant’s counsel renewed his former motion for a continuance. Defendant had sailed for Europe. Between October 27, the day defendant’s motion for a continuance had been denied, and November 13, the date to which the trial had been continued, defendant’s counsel had used unusual diligence, by transatlantic telephone and cable, to inform defendant of the <<**1041>> court’s ruling. It appeared to the trial court that defendant did not receive word of the denial of the continuance until his arrival in Paris on November 13. In view of this, the court continued the case, subject to call, to afford defendant the opportunity of returning to Seattle to testify. Defendant’s counsel cabled him to determine whether he would return to Seattle on any date prior to December 12.
+
+November 17, defendant’s counsel received a cablegram from him stating he was leaving Paris almost immediately for South America and that it would be impossible for him to return to Seattle before February, 1951. The reasons for <<*242>> his absence from the jurisdiction were still entirely personal and not of an emergency nature.
+
+Having been so informed, plaintiff’s counsel, on November 22, moved to rescind the continuance ‘subject to call.’ On that day, the indefinite continuance was cancelled and the case continued until November 29.
+
+On November 29, the trial court entered an order terminating all further continuances. Plaintiff having rested and defendant offering no testimony, other than his pre-trial deposition, which was received, the trial court announced it was prepared to give judgment for plaintiff. A referee was appointed to report on certain items of accounting between the parties. In due course, findings and judgment were entered for plaintiff.
+
+[1] <<1: 30-k-3239>> The denial of a continuance rests in the sound discretion of the trial court and will not be reversed except for manifest abuse. Conner v. Zanuzoski, 36 Wash.2d 458, 218 P.2d 879; State v. Gillingham, 36 Wash.2d 655, 220 P.2d 333; see note and cases cited in 26 Wash.L.Rev. 212 (1951).
+
+On October 27, the trial court had for consideration defendant’s affidavit dated October 18, which alleged:
+
+‘* * * that affiant’s daughter * * * had been attending school in Paris, France; that within the last several days she notified affiant and her mother that she had met a man in Paris whom she desired to marry; that affiant considers it essential and he has, therefore, arranged to leave Seattle, Washington, on the 18th day of October, 1950, to go to Paris, France. * * *’
+
+Overlooking the doubtful sufficiency of the affidavit to entitle defendant to an indefinite continuance, and even disregarding the fact that defendant voluntarily assumed the calculated risk of leaving the jurisdiction before he knew whether the continuance would be granted or not, he was, on November 14, given a continuance to afford him the opportunity of returning to Seattle to testify on any date prior to December 12. Having been informed of this, he chose to cable from Paris:
+
+<<*243>> ‘Wedding December Santiago. We all sailing this Saturday Chile. Impossible return Seattle before February.’
+
+[2] <<2: 307A-k-715>> A party knowing the date a cause is set for trial, cannot absent himself from the jurisdiction of the court and expect the court to delay the trial merely to suit his personal convenience. Humphrey v. Mutual Life Ins. Co., 86 Wash. 672, 151 P. 100.
+
+[3] <<3: 307A-k-726>> The record discloses that the trial judge not only did not abuse his discretion in denying a further continuance, but, under the circumstances of this case, exercised a high degree of fairness and judicial restraint.
+
+Plaintiff Donaldson and defendant Greenwood met more than twenty years before the occurrence of the transaction out of which the present litigation arose. Their casual acquaintance grew into one of friendship and mutual confidence.
+
+In October, 1944, plaintiff and defendant orally agreed to purchase and develop some thirty-two hundred acres of patented land and certain mining claims containing valuable lime deposits located in Siskiyou County, California. Each of the parties was to have an undivided one-half interest in the enterprise. Plaintiff was interested in developing the lime deposits; defendant, in a place to breed horses.
+
+<<**1042>> Plaintiff, with the knowledge of the former owners of the properties that he had an interest in the purchase, was allowed a $2,000 commission, which was credited upon the sale. The purchase price, which was $25,000 cash, included livestock on the premises. $5,000 was agreed upon as the value of the mining claims, to be paid later when the claims were assigned. The $20,000 was financed as follows: (a) $2,000 commission credited to plaintiff; (b) $12,500 mortgage placed upon the property by defendant; (c) $5,500 cash paid by defendant. Shortly after the purchase, the livestock was sold and the $3,500 realized therefrom was paid to defendant, leaving each of the parties with $2,000 cash in the transaction.
+
+In order to facilitate the financing and to carry out the terms of the agreement between the parties, title was <<*244>> taken in the name of defendant. However, on November 20, 1944, defendant gave plaintiff the following receipt:
+
+‘Rec’d from Paul Donaldson $2000—as first payment on 1/2 (one-half) interest in Chastain McCoy property, lime claims & cattle—balance due on entire deal $23,000 of which you are to pay one-half—Formal agreement to be prepared covering deal more explicitly——
+
+‘/s/ E. M. Greenwood’
+
+On December 26, he wrote plaintiff as follows:
+
+‘Dear Paul:
+
+‘In conjunction with our purchase of the Chastain and McCoy property and lime claims near Gazelle, California, it is understood and agreed as follows:
+
+‘1. That I am to finance this transaction in its entirety up to July 1, 1945, and take the deed and all papers pertaining thereto in my name.
+
+‘2. On or before July 1, 1945, you are to reimburse me for 50% of any amounts advanced for the acquiring of this property and any amounts expended for its operation and development. To date this would amount to 50% of our net down payment of $2000 plus 50% of the first monthly payment re the mortgage, which is $234.72, plus 50% of the clearing and appraisal fees. The total purchase price for the property now amounts to $19,500.00, $5,000.00 of which is apportioned to the lime claims.
+
+‘The legal description of the deeded land is as follows: [We omit the legal description.]
+
+‘The description of the lime claims is as follows: [We omit the legal description.]
+
+‘Your failure to pay half of the purchase money expended, plus any other expenses we mutually agree upon, by July 1, 1945, shall constitute a default and cancellation of this agreement.
+
+‘Very truly yours,
+
+‘/s/ E. M. Greenwood.’
+
+(Italics ours.)
+
+It is apparent that the parties purchased the property as joint venturers, that title was taken in defendant’s name in order to finance the transaction more easily, that they were to share equally therein, and that plaintiff was to pay one-half of the purchase price and one-half of the expenses upon which they would mutually agree. The trial court so found.
+
+<<*245>> The property had been used as a cattle ranch by the former owner. On it, however, is located a tremendous deposit of very high-grade lime rock. The tonnage estimate is astronomical. The deposit extends almost two miles. It varies in width from four hundred yards to a quarter of a mile, with the pinnacle almost six hundred feet high. It is comparatively free from overburden. Laboratory tests show the lime rock to be of high quality. The deposit is readily accessible to highway and railroad. When the property was purchased, the parties knew of the lime deposit but were not aware of its vast extent.
+
+They lost little time putting the property into production. On June 23, 1945, the parties contracted with the Spreckels Sugar Company of San Franciso to deliver to it 25,000 tons of lime rock at $2.50 per ton, <<**1043>> to be used in its sugar refinery. C. J. Montag and Sons contracted with plaintiff and defendant to quarry the rock. All three of them signed the Spreckels contract, which was fulfilled. This is significant only by reason of the by-product resulting from its fulfillment.
+
+The Spreckels contract called for lime rock of a specified size. As a result of the quarrying operation, a stockpile of lime rock, not meeting the specified size, accumulated upon the property. The trial court found the stockpile contained approximately 22,500 tons valued at $32,625. Defendant’s counsel admitted that the stockpile is no longer upon the property. The trial court found that it had been removed by defendant without accounting to the plaintiff for its value. This is supported by the evidence.
+
+By their agreement of December 26, 1944, plaintiff was to complete his payment of one-half the purchase price and expenses by July 1, 1945. On or about that date, defendant extended the time. About October 5, 1945, defendant furnished plaintiff an accounting of expenses to date. It included miscellaneous expenses incurred in the operation of the property, monthly payments of interest and principal on the mortgage to date, and $4,000 paid by defendant for the mining claims, the price having theretofore been reduced by the vendor $1,000. Plaintiff’s share of the expenses was <<*246>> $4,976.17, which he paid to defendant by check dated October 5, 1945. Plaintiff testified ‘I didn’t deliver the check until I got the deed’ and fixed the date of delivery as October 26, 1945. The check cleared plaintiff’s bank on November 3, 1945.
+
+The nature of the ‘deed’ to which plaintiff referred is the subject of much testimony in the record. It is undisputed that it was signed by defendants, ran to plaintiff, and was acknowledged. It is variously described as a ‘memorandum,’ a ‘memorandum deed,’ and a ‘conveyance’ of an undivided one-half interest, subject to certain conditions which were not acceptable to plaintiff. In view of the law applicable to the transaction, the nature of the instrument is immaterial, except in so far as it is evidentiary that plaintiff had an interest in the subject matter of the joint venture. After the instrument was delivered to plaintiff, defendant again came into possession of it before it had been recorded, under circumstances the narration of which would unduly extend this opinion. Defendant lost the instrument. It could not be produced at the trial.
+
+On January 30, 1946, a second accounting was had between plaintiff and defendant. The balance of the $12,500 mortgage was paid with a Montag royalty check for lime rock shipped to the Spreckels Sugar Company and with additional funds advanced by defendant. The royalty checks received up to that time were accounted for, and plaintiff gave defendant his promissory note for $3,880.50, found by the trial court to represent plaintiff’s unpaid portion of the total purchase price. This note subsequently came into the plaintiff’s possession in the same transaction in which defendant secured the ‘memorandum deed.’
+
+In 1947, and thereafter, defendant placed improvements upon the property, none of which contributed to the development of the lime rock deposit Photographs in evidence show the improvements to be extensive. They consist chiefly of a guest house, stables, sprinkling system, and considerable cyclone fence. Plaintiff testified that they were built by agreement between them at defendant’s expense and that he made no claim thereto. Since they are in no <<*247>> way involved with the lime rock deposit, the plaintiff deposited in the registry of the trial court a disclaimer of any interest in the improvements or the land on which they stand and a quitclaim deed running to the defendants purporting to cover all of the land upon which the improvements are located.
+
+After the Spreckels contract had been completed, plaintiff, during 1946 and 1947, spent considerable time in an effort to develop the lime rock deposit. Although he interested several prospective operators to <<**1044>> the point where proposed leases were tendered to defendant for his signature, defendant seemed content to keep the property nonproductive. One of the leases proposed in 1946 is enlightening; on it, defendant, in his own handwriting, designated the lessors as ‘E. M. Greenwood and Paul D. Donaldson, as co-owners (legal and equitable).’ Plaintiff testified defendant would not permit the sale of the stockpile accumulated during the performance of the Spreckels contract.
+
+During 1946 and 1947, plaintiff made various demands upon defendant for an accounting and offered to settle in order that he might receive a conveyance of his interest in the property which he could record. Defendant had promised him such a conveyance. Defendant repeatedly postponed such an accounting upon the excuse he could not make it until certain litigation between defendant and Montag, involving the removal of machinery placed on the property during the performance of the Spreckels contract, had been terminated and the costs and attorneys’ fees determined, as well as the cost of patenting the mining claims.
+
+The record discloses that, during 1946–1947, the relationship of the parties became progressively strained. In April, 1948, plaintiff demanded a final accounting from defendant. Plaintiff testified that defendant, then, for the first time, told him: ‘Why, you have not a dime’s worth of interest in this thing, I cancelled you out, not any interest at all—you are through here—I have cancelled you out.’ At no time had defendant attempted to enforce the forfeiture provision of the contract of December 26, 1944.
+
+<<*248>> The record, made piecemeal as it was under the circumstances, the briefs, and the findings of the court, are detailed. We feel, however, that the foregoing portrays the situation with sufficient clarity to present the questions of law determinative of the issues.
+
+At the end of the trial, the court directed a reference to ascertain the cost of the Montag litigation, the cost of patenting the mining claims, and the amount paid by defendant for assessment work and for taxes. After the report of the referee, the court charged defendant with the value of the stockpile and $2,400 received by him from a sale of a portion of the real property, and credited him with expenses paid and the balance owed by plaintiff upon his half of the purchase price. The result showed $9,316.54 due plaintiff for which judgment was entered.
+
+The court directed defendants to deliver to plaintiff a good and sufficient warranty deed conveying a fee simple title, free from encumbrances, except real estate taxes for that portion of a tax year following the date of the deed, for an undivided half interest in the property, excluding the land upon which defendant’s improvements are located and excluding four hundred eighty acres previously sold by defendant and charged against him in the accounting. The deed was to be delivered within thirty days from the date of the decree or within thirty days after the filing of the remittitur of this court, in the event of an appeal. The court, having found that the reasonable and fair value of plaintiff’s undivided one-half interest in the property was $250,000, directed judgment against defendants in this amount in the event they failed to execute and deliver the conveyance as ordered.
+
+The defendants have appealed.
+
+[4] <<4: 226H-k-86>> Twelve of defendants’ assignments of error are directed to the findings of the trial court. An examination of the record convinces us that the findings to which they are directed, are supported by a fair preponderance of the evidence and establish the facts as we have heretofore outlined them.
+
+<<*249>> By four assignments of error, appellants (defendants) urge the evidence was insufficient to support the decree. With this we cannot agree, except as we hereafter indicate. The facts show unequivocally, and the trial court so found, that the parties contracted, and their subsequent conduct shows that they intended, to acquire the property jointly and share the profits equally. The parties were not dealing at arm’s length.
+
+<<**1045>> [5] <<5: 226H-k-49>> ‘Joint adventurers, like copartners, owe to one another, while the enterprise continues, the duty of the finest loyalty. Many forms of conduct permissible in a workaday world for those acting at arm’s length, are forbidden to those bound by fiduciary ties. A trustee is held to something stricter than the morals of the market place. Not honesty alone, but the punctilio of an honor the most sensitive, is then the standard of behavior. As to this there has developed a tradition that is unbending and inveterate.’ Meinhard v. Salmon, 249 N.Y. 458, 164 N.E. 545, 546, 62 A.L.R. 1.
+
+[6] <<6: 226H-k-45>> Defendant E. M. Greenwood’s announcement, made for the first time in April, 1948, that he had ‘cancelled’ plaintiff out of the transaction does not meet the test of approved conduct between joint adventurers. No prior or subsequent attempt was ever made by defendant to effect a cancellation or forfeiture. Plaintiff, having paid his share, according to the several accountings, and having demanded further accountings so that he might make further payments, fulfilled his duty to his associate and acquired a vested equitable interest in the land itself and the proceeds of the venture.
+
+[7] <<7: 390-k-71>> [8] <<8: 390-k-79>> When title to property is taken in the name of a grantee other than the person advancing the consideration, the one in whose name title is taken is a resulting trustee for the person who paid the purchase price, in the absence of evidence of a contrary intent. Walberg v. Mattson, 38 Wash.2d 808, 232 P.2d 827. The trust arose, and plaintiff acquired his interest therein, the moment record title first passed to defendants. Mouser v. O’Sullivan, 22 Wash.2d 543, 156 P.2d 655. The ‘memorandum deed’ did not, therefore, vest a present interest in plaintiff. At best, <<*250>> it was but a tangible indicium of that which he already had. Its subsequent surrender to defendant E. M. Greenwood, and his loss thereof, did not affect plaintiff’s equitable rights. The cestui que trust is entitled to that portion of the property agreed upon by the parties. The evidence is conclusive that they were to share equally.
+
+The plaintiff is, therefore, entitled to receive a conveyance representing his interest in the real property (including mining claims), excluding therefrom that portion of the property sold and accounted for by defendants, and, having disclaimed an interest therein, excluding the property upon which the improvements are located. The trial court, however, directed that this be done by warranty deed.
+
+[9] <<9: 390-k-284>> The quality of plaintiff’s interest in the property is equal to, but not greater than, defendants’. The quality of his title was determined at the time of the original conveyance to defendants. To require them to execute a warranty deed casts upon them a burden greater than contemplated by the contract between the parties, and greater than is cast upon defendants as resulting trustees. The decree will be modified to require defendants to convey to plaintiff the same quality of title as originally received by them, warranting the property free from encumbrances done or suffered by the grantors, and warranting quiet enjoyment against the grantors, their heirs, or assigns. We have in mind a conveyance in the nature of a bargain and sale deed, Rem.Rev.Stat. § 10553, qualified as above indicated.
+
+[10] <<10: 106-k-7>> An action to impress a party with an implied trust is a transitory one. The trust may be enforced and a conveyance ordered wherever the trustee may be found, regardless of the situs of the property. State ex rel. Campbell v. Superior Court, 7 Wash. 306, 34 P. 1103; State ex rel. Scougale v. Superior Court, 55 Wash. 328, 104 P. 607.
+
+‘A state can exercise through its courts jurisdiction to order or to forbid the doing of an act within the state, although to carry out the decree may involve doing an act <<*251>> or affecting a thing in another state.’ Restatement, Conflict of Laws, 147, § 97.
+
+[11] <<11: 150-k-36>> Hence, a court of equity, acting in personam, has jurisdiction to decree the <<**1046>> conveyance of land situated in another state. Rosenbaum v. Evans, 63 Wash. 506, 115 P. 1054; Elsom v. Tefft, 140 Wash. 586, 250 P. 346.
+
+<<dictum>>Were the real property located in the county of trial, the decree itself could vest plaintiff’s title in him as a matter of record, Rules of Pleading, Practice, and Procedure rule 23, 34A Wash.2d 83; or, if it were located within the state, the court could appoint a commissioner to execute a conveyance in defendants’ name to plaintiff. See RCW 6.28.010 et seq. Such cannot be done here, for:
+
+[12] <<12: 315-k-22>> ‘An interest in land can be transferred by operation of law only by the law of the state where the land is.’ Restatement, Conflict of Laws, 314, § 223; Smith v. Fletcher, 102 Wash. 218, 173 P. 19, 636; accord: Lindsley v. Union Silver Star Mining Co., 26 Wash. 301, 66 P. 382.
+
+[13] <<13: 228-k-228>> [14] <<14: 226H-k-85>> Were the decree to go no further, plaintiff would be limited in its enforcement to a proceeding in the nature of contempt. See Wright v. Suydam, 79 Wash. 550, 140 P. 578. Although perhaps theoretically adequate, such a proceeding need not necessarily result, under the facts of this case, in plaintiff receiving a conveyance representing his interest in the property. Equity having jurisdiction, plaintiff is entitled to have the maximum protection of his rights which a court of equity can give him, so that he may be in a position as near as possible to that in which he would have been, had the property been located in the state of Washington. A judgment in the alternative for pecuniary compensation may be given when the decree, operating in personam, orders a conveyance of property located in another jurisdiction, for without it, equity has not given as full and as complete relief as is within its power. The trial court did not err when it entered, in the alternative, a money judgment against defendants in the event they did not execute and deliver a conveyance to plaintiff within the time fixed.
+
+<<*252>> The trial court found that the reasonable and fair value of plaintiff’s undivided one-half interest in the property is $250,000, and entered judgment against defendants for this sum in the event they did not convey plaintiff’s interest to him within thirty days.
+
+[15] <<15: 228-k-205>> The alternative money judgment is not in the nature of damages. It is compensatory, not punitive. Its amount must be based upon the fair market value of the property established by evidence.
+
+[16] <<16: 157-k-1185(4)>> [17] <<17: 157-k-1184>> The ‘fair market value’ of mineral properties can be established in various ways. The following factors may enter into its proof and determination: (1) actual bona fide sale price; (2) a bona fide offer to purchase; (3) a bona fide offer of sale; (4) the sale price of similar properties similarly situated; (5) royalties or rents paid or received; (6) analytical appraisals by the present worth method; and (7) valuations for purposes of state and local taxation and appraisals for court proceedings. ‘Fair market value’ means neither a panic price, auction value, speculative value, nor a value fixed by depressed or inflated prices. We have defined it as the amount of money which a purchaser willing, but not obliged, to buy the property would pay an owner willing, but not obligated, to sell it, taking into consideration all uses to which the property is adapted and might in reason be applied. Ozecte Ry. Co. v. Grays Harbor County, 16 Wash.2d 459, 133 P.2d 983.
+
+[18] <<18: 260-k-101>> Defendants assign as error the trial court’s finding that the value of plaintiff’s undivided one-half interest was $250,000. The trial judge must have entertained considerable doubt about this, for, at the close of the testimony, he said: ‘I have a pretty sharp memory of what the testimony was, but even then, I would have a very difficult time attempting to estimate the value of that place.’ He later said, in reference to the value: ‘Would it not be a matter of just reaching out in the thin air?’
+
+We have examined all of the evidence relating to the value of the property. It covers a wide and nebulous range. It varies from the admitted purchase price to an <<*253>> estimation that ‘it is probably worth <<**1047>> millions and millions of dollars.’ At one time, plaintiff offered to sell one-half of his one-half interest for $22,500. One witness testified defendant expressed the opinion that the property was worth five million dollars but that he would sell it for one million dollars. On the other hand, defendants’ counsel stated, during the trial, that defendant E. M. Greenwood had authorized him to state that he would sell it ‘for what he has in it.’ It would unduly extend this opinion to further analyze the evidence treating with value. We hold that the evidence does not support the finding that $250,000 is the value of plaintiff’s one-half interest in the property. It may be worth more; it may be worth less.
+
+[19] <<19: 302-k-237>> Defendants assign as error amendment of the complaint to conform to the proof that, on October 25, 1945, defendants gave plaintiff a deed to the property. In view of the fact that plaintiff has equitable title to half of the property and has not received a conveyance in the form to which he was entitled, it is immaterial what the effect of the instrument given plaintiff that day was. The assignment is without merit.
+
+[20] <<20: 260-k-101>> [21] <<21: 260-k-101>> Defendants urge the court erred in not charging plaintiff was one-half of all sums expended by defendants ‘with respect to’ the property. At the close of the trial, the court appointed a referee who computed the amounts plaintiff owed defendants for expenses and purchase money payments. Respective counsel had stipulated as to the amounts involved in the items set forth in the order of reference. A balance was struck. We assume, then, that this assignment goes to the question of whether the court erred in not charging plaintiff with one-half of the expenses of the improvements placed upon the property by defendants. The evidence supports the finding that, by agreement between the parties, these betterments were placed thereon at defendants’ expense and that plaintiff had no interest in them. He should not, then, be charged with their cost.
+
+[22] [23] After appeal to this court had been perfected, defendants filed a motion for an order granting leave to file in the superior <<*254>> court a petition for a new trial and leave for that court to act thereon. Haaga v. Saginaw Logging Co., 170 Wash. 93, 15 P.2d 655. Ordinarily, we would dispose of this motion before considering the merits on appeal; but, in view of our decision, we reverse the usual order and avoid repetition of facts.
+
+The proposed motion for a new trial is supported by an affidavit of one witness who measured the stockpile. He alleged he had been mistaken in fixing the quantity of lime rock and that he would now testify that it contained substantially less than his former testimony indicated; that this testimony, if produced, and if held to be controlling, would materially reduce the judgment of $9,316.54. In answer to this, plaintiff filed a counteraffidavit signed by the same witness denying and repudiating his first affidavit.
+
+Subsequently, but before argument, defendants filed a supplemental petition for a new trial setting forth that a copy of the alleged ‘memorandum’ or ‘memorandum deed’ had been discovered in the files of a lawyer in Seattle and requested a new trial be granted in order that it might be produced in evidence.
+
+We will not grant a motion permitting the filing in the superior court of a motion for a new trial ‘unless we could uphold an order of the trial court granting the motion after the case had been remanded.’ Quackenbush v. Slate, 12 Wash.2d 201, 121 P.2d 331, 335.
+
+In Nelson v. Placanica, 33 Wash.2d 523, 206 P.2d 296, we set forth, with particularity, the requisites justifying the granting of a new trial on the ground of newly discovered evidence. The grounds alleged here do not satisfy these requirements. Passing the conflicting affidavits of the proposed witness without comment, his proposed testimony, favorable to defendants, if produced, would only be cumulative. Other witnesses testified to the quantity of lime rock in the stockpile, and it does not follow that the additional testimony would ‘probably change the result’ if a <<**1048>> new trial were granted. As to the alleged copy of the ‘memorandum deed,’ our prior discussion shows that it is <<*255>> not material to the issues except as we have heretofore indicated. We could not uphold an order of the trial court granting the motion after the case had been remanded; hence, we deny the motion.
+
+In summary: (a) Defendants’ motion for leave to file a motion for a new trial in the superior court and leave for that court to act thereon is denied; (b) judgment for $9,316.54 against defendants is affirmed; (c) that portion of the decree ordering and directing defendants to convey an undivided one-half interest in the property, as described in the decree, is affirmed, the form of the conveyance to be as we have indicated; (b) that portion of the decree granting plaintiff judgment for $250,000 against defendants in the event such conveyance is not made within thirty days after the filing of the remittitur of this court with the clerk of the superior court, is reversed. In the event defendants do not execute and deliver to plaintiff a conveyance of his undivided one-half interest in the property in the form ordered, within thirty days after the filing of the remittitur of this court with the clerk of the superior court, plaintiff shall have the right, within ninety days from the expiration of the thirty-day period, to petition the trial court to set a day certain upon which a trial of the issue as to the fair market value of plaintiff’s interest in the property will be held, and judgment shall be entered for such value as so determined against defendants. In the event plaintiff does not so request the trial court to set a day certain upon which a trial of the issue of market value will be had, this shall constitute an election by plaintiff to forego an alternative money judgment against defendants.
+
+Plaintiff (respondent) will recover his costs.
+
+SCHWELLENBACH, C. J., and MALLERY, GRADY, and OLSON, JJ., concur.
+
+** End
+#+STARTUP: show2levels
