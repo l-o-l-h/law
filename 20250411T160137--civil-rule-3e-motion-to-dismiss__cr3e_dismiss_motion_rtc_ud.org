@@ -1,0 +1,28 @@
+#+title:      Civil Rule 3(e) Motion to Dismiss
+#+date:       [2025-04-11 Fri 16:01]
+#+filetags:   :cr3e:dismiss:motion:rtc:ud:
+#+identifier: 20250411T160137
+
+* Sample Motion to Dismiss Based upon CR 3(e) Violation
+
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+3:51 PM (9 minutes ago)
+to john.wolff@nwjustice.org, HTF@groups.nwjustice.org
+
+The Defendant, \_\_\_\_\_, was not served with sufficient process. Therefore, service of the summons and complaint should be quashed. See, CR 3(e) and 12(b)(4).
+
+The Plaintiff’s argument assumes that it complied with Civil Rule 3 when serving its complaint. It did not.
+
+The final paragraph of CR 3 limits when a lawsuit can be served before it is filed: “[n]o debtor shall be served with a summons and complaint unless the summons and complaint have been filed with the court and bear the case number assigned by the court.” CR 3(e).
+
+This civil rule expands a sensible provision of the Collection Agency Act (or “CAA”). See, RCW 19.16.250(27). That is, the CAA prohibits only “licensees” (collection agencies) from “[s]erv[ing] a debtor with a summons and complaint unless the summons and complaint have been filed with the court  and bear the case number assigned by the court.” RCW 19.16.250(27). Civil Rule 3(e) protects all debtors from procedures that may be familiar to a lawyer, but can be utterly baffling to the ordinary people who are facing eviction.
+
+Social science research supports this concern. See, Geldern, et al., Evictions by Default Judgment in Washington State (2024) \<https://ocla.wa.gov/wp-content/uploads/2024/12/Evictions-by-Default-Judgment-in-Washington-State-Final-7.9.2024.pdf\>. The Office of Civil Legal Aid commissioned the Evans School of Public Policy and Governance at the University of Washington to study, among other data sets, the 83 unlawful detainer cases filed in Kitsap County during January and February 2024. Id. at p. 3. Summons that had not been filed were disproportionately likely to result in ex parte default judgments. Id. at p. 5-6. Specifically, 74.6% of cases were served before they were filed, but those cases produced 93.3% of all ex parte default judgments. Id. In other words, serving cases that have not been filed tend to prevent courts from evaluating the substantive merits of unlawful detainer cases. Accordingly, Civil Rule 3(e) should be construed in a way that encourages parties to present substantive arguments to the court. See, CR 1.
+
+Analyzing the rule’s language confirms its scope in two ways. First, the term “debtor” is broad. It includes any “person who owes a debt” according to Merriam-Webster. This definition is similar to the definitions in the CAA. In that statute, “‘[d]ebtor’ means any person owing or alleged to owe a claim.” RCW 19.16.100(8). A “‘[c]laim’ means any obligation for the payment  of money or thing of value arising out of any agreement or contract, express or implied.” RCW 19.16.100(2). Either definition encompasses a tenant who has not paid rent.
+
+Second, the  Supreme Court adopted language that deviated from the language of the CAA. It employed the passive voice and omitted the agent. Those choices should be understood as deliberate because “[a] legislative body’s use of a verb tense holds significance in construing statutes.” Crown W. Realty, LLC v. Pollution Control Hearings Bd., 7 Wn. App. 2d 710, 738, 435 P.3d 288 (2019) (citations omitted); see also, State v. Brown, 111 Wn.2d 124, 154, 761 P.2d 588 (1988) (Court rules are interpreted as if drafted by the Legislature).
+
+That is, if the Supreme Court had intended Civil Rule 3(e) to be as limited in scope as the CAA, then it could have simply copied the language of the CAA. For example, it could have employed the active voice instead of the passive voice: “no collection agency may serve a debtor with a summons and complaint unless the summons and complaint have been filed  with the court and bear the case number assigned by the court.” Similarly, the agent could have been specified: “No debtor shall be served with a summons and complaint by a collection agency unless the summons and complaint have been filed with the court and bear the case number assigned by the court.” The Supreme Court declined to adopt either of these obvious methods of limiting the scope of Civil Rule 3(e). Thus, a trial court should assume that the Supreme Court considered the text of a relatively narrow statute and decided to employ broader language when enacting a rule based on that statue. Thus, all debtors should be protected from the confusion inflicted by complaints that are served but not filed.
+
+Finally, remedies for violating this rule illustrate the distinction between Civil Rule 3 and the CAA. A violation of CR 3(e) constitutes nothing but insufficient process. See, e.g., CR 12(b)(4). If a collection agency violates that rule, however, it has committed a per se violation of the Consumer Protection Act, RCW 19.16.440, and loses the right to collect attorney's fees and interest, RCW 19.16.450. The weaker remedies for violating Civil Rule 3(e), thus, provide a final reason to conclude that its scope is broader than the CAA.
