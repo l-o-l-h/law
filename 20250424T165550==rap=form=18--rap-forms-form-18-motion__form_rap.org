@@ -1,0 +1,58 @@
+#+title:      RAP Forms -- Form 18. Motion
+#+date:       [2025-04-24 Thu 16:55]
+#+filetags:   :form:rap:
+#+identifier: 20250424T165550
+#+signature:  rap=form=18
+
+* [[file:20250424T162636==rap=17--title-17-motions__motions_rap.org::#h:B57F6AE6-9BB4-4C40-8B25-D952D379E0B2][Rule 17.3(a)]]
+
+No. (appellate court)
+Court of Appeals, Division __ of the State of Washington
+
+Title of trial court proceeding		) MOTION FOR (identity of relief sought)
+with parties designated as in rule 3.4.
+
+** 1. IDENTITY OF MOVING PARTY
+(Name), (designation of moving party, for example:
+"Appellant" or "Assignee of Respondent's interest in the
+judgment being reviewed") asks for the relief designated in
+Part 2.
+
+** 2. STATEMENT OF RELIEF SOUGHT
+(State the relief sought, for example: "Substitution of
+John Doe as respondent in place of Alvin Jones".)
+
+** 3. FACTS RELEVANT TO MOTION
+(Here state facts relevant to motion with reference to or
+copies of parts of the record relevant to the motion. For
+example: "Alvin Jones, plaintiff, obtained a judgment against
+defendant, Henry Hope (Judgment, CP 17). Alvin Jones
+assigned the judgment to John Doe after defendant filed his
+Notice of Appeal. A true copy of the assignment is attached.
+Defendant did not assert a counterclaim against plaintiff in the
+trial court".)
+
+** 4. GROUNDS FOR RELIEF AND ARGUMENT
+[Here state the grounds for the relief sought with
+authority and supporting argument. For example: “RAP 3.2(a)
+authorizes substitution of parties when the interest of a party in
+the subject matter of the review has been transferred.
+Substitution should be granted here as defendant has no claim
+against plaintiff-respondent and respondent no longer has an
+interest in the judgment which is the subject matter of this
+appeal”.]
+
+[If the petition is prepared using word processing
+software, include the following statement: This document
+contains words, excluding the parts of the document
+exempted from the word count by RAP 18.17.]
+
+(Date)
+
+Respectfully submitted,
+
+Signature
+Attorney for (Appellant, Respondent, or Petitioner)
+(Name, personal pronouns (optional), address, telephone
+number, and Washington State Bar Association
+membership number of attorney)

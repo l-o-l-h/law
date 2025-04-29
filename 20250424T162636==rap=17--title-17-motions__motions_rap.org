@@ -1,0 +1,192 @@
+#+title:      TITLE 17 -- Motions
+#+date:       [2025-04-24 Thu 16:26]
+#+filetags:   :motions:rap:
+#+identifier: 20250424T162636
+#+signature:  rap=17
+
+* 17.1 - SCOPE
+
+** (a) Relief under This Title.
+A person may seek relief, other than a decision of the case on the merits, by motion as provided in Title 17.
+
+In a criminal appeal where the defendant is represented by counsel,
+- the defendant may file only a motion related to a statement of additional grounds for review or the representation of counsel.
+- Other motions submitted by a defendant who is represented by counsel will be placed in the file without action.
+- Any such action is not subject to the provisions of rule 17.7.
+
+** (b) Motion on the Merits.
+A party may seek a decision on the merits by motion as provided in rule 18.14.
+
+The rules in Title 17 apply to a motion for a decision on the merits only to the extent provided in rule 18.14.
+
+* 17.2 - WHO DECIDES A MOTION
+
+** (a) Generally.
+The judges determine
+- (1) a motion in a brief,
+- (2) a motion to modify a ruling by a commissioner or the clerk,
+- (3) a motion for reconsideration of a decision,
+- (4) a motion to recall the mandate, except for a motion made to correct an inadvertently issued mandate, and
+- (5) a motion to publish.
+
+All other motions may be determined initially by a commissioner or the clerk of the appellate court.
+
+** (b) Reference to the Judges.
+A commissioner or clerk may refer a motion to the judges for determination.
+
+If the motion is referred to the judges, the commissioner or clerk will give notice of the reference to all persons entitled to notice of the motion.
+
+A decision to refer a motion to the judges is not subject to review by the judges in the form of a motion to modify
+
+** (c) Transfer by Supreme Court to Court of Appeals.
+A commissioner or clerk of the Supreme Court may transfer a motion for discretionary review of a trial court decision to the Court of Appeals for determination.
+
+* 17.3 - CONTENT OF MOTION
+:PROPERTIES:
+:CUSTOM_ID: h:B57F6AE6-9BB4-4C40-8B25-D952D379E0B2
+:END:
+
+** (a) Generally.
+A motion must include
+- (1) a statement of the name and designation of the person filing the motion,
+- (2) a statement of the relief sought,
+- (3) reference to or copies of parts of the record relevant to the motion, and
+- (4) a statement of the grounds for the relief sought, with supporting argument.
+
+** (b) Motion for Discretionary Review.
+A motion for discretionary review should contain under appropriate headings and in the order here indicated:
+
+*** (1) /Cover./
+A title page, which is the cover.
+
+*** (2) /Identity of Petitioner./
+A statement of the name and designation of the person filing the motion.
+
+*** (3) /Decision Below./
+A statement of the decision which petitioner wants reviewed, the court entering or filing the decision, the date entered or filed, and the date and a description of any order granting or denying motions made after the decision.
+
+*** (4) /Issues Presented for Review./
+A concise statement of the issues presented for review.
+
+*** (5) /Statement of the Case./
+A statement of the facts and procedure below relevant to the issues presented for review, with appropriate reference to the record.
+
+*** (6) /Argument./
+A direct and concise statement of the reasons why review should be granted, with supporting argument
+
+*** (7) /Conclusion./
+A short conclusion stating the precise relief sought.
+
+*** (8) /Appendix./
+An appendix containing
+- a copy of the decision which the party wants reviewed,
+- a copy of any order granting or denying motions made with respect to that decision, and
+- a copy of parts of the record relevant to the motion.
+
+In addition, the appendix may include
+- copies of statutes and constitutional provisions relevant to the issues presented for review and
+- other material which would assist the court in determining whether the motion should be granted.
+
+The appendix should include a table of contents and the pages should be consecutively numbered.
+
+** (c) Statement of Grounds for Direct Review.
+If the motion is for discretionary review of a trial court decision and the party making the motion seeks direct review by the Supreme Court, the party seeking review must also serve and file a separate statement urging grounds for Supreme Court review as provided in rule 4.2(b) and (c).
+
+** References
+- Form 3, Motion for Discretionary Review;
+- Form 4, Statement of Grounds for Direct Review;
+- Form 18, Motion;
+- Form 20, Motion To Modify Ruling;
+- Rule 6.2, Discretionary Review;
+- Rule 12.4, Motion for Reconsideration of Decision Terminating Review.
+
+* 17.4 - FILING AND SERVICE OF MOTION—ANSWER TO MOTION
+
+** (a) Filing and Service Generally; Procedure for Noting a Motion Where Permitted.
+
+*** (1) Service
+A motion filed by a party must be served on all parties, amicus, and other persons entitled to notice.
+
+*** (2) Note for Hearing.
+The Supreme Court and each division of the Court of Appeals will determine by General Order whether a party may note a motion for hearing.
+
+If a party is permitted to note a motion for hearing, the motion must be accompanied by a notice of the time and date set for oral argument of the motion.
+
+The movant should contact the clerk of the appellate court to determine the date and time available for argument of the motion.
+
+The motion and notice must be served on all parties, amicus, and other persons entitled to notice and filed in the appellate court at least 15 days before the date noted for the hearing on the motion.
+
+If a motion is not noted for hearing and the court does not set a date for a hearing, the motion will be decided without oral argument
+
+** (b) Emergency Motion.
+In an emergency, a person may request expedited consideration of a motion.
+- The person presenting the motion must, at the time the motion is made, file an affidavit stating the type of notice given and the time and date the notice was given to each person, and explain in the motion why it should be decided on an emergency basis.
+
+If the court requires an answer or sets the motion for argument, it will notify the parties and other persons entitled to notice as to when an answer should be filed, and of the date, time, and place the motion will be heard.
+
+The commissioner or clerk may decide the motion only if satisfied
+- (1) that adequate relief cannot be given if the motion is considered in the normal course, and
+- (2) the movant has taken reasonable steps under the circumstances to give notice to persons who would be affected by the ruling sought.
+
+An emergency motion may be presented on less notice than that required by section (a).
+
+** (c) Summary Determination.
+
+*** (1) Summary Decision
+The commissioner or clerk may summarily determine without oral argument, and without awaiting an answer, a motion which, in the judgment of the commissioner or clerk, does not affect a substantial right of a party.
+
+*** (2) Motion for Reconsideration
+If the commissioner or clerk makes a summary determination granting a motion under subsection (c)(1) of this rule, and a party files and serves a timely responsive pleading after the ruling has been entered, the commissioner or clerk will treat the responsive pleading as a motion for reconsideration of the ruling.
+
+If such a responsive pleading is filed, the commissioner or clerk may permit the moving party to file a reply and may allow oral argument on the motion.
+
+** (d) Motion in Brief.
+A party may include in a brief only a motion which, if granted, would preclude hearing the case on the merits.
+
+The answer to a motion within a brief may be made within the brief of the answering party in the time allowed for filing the brief.
+
+** (e) Answer and Reply to Motion.
+A person with a recognized interest in the subject matter of the motion may submit a written answer to the motion.
+
+Unless the court directs otherwise, any answer must be filed and served no later than ten (10) days after the motion is served on the answering party.
+
+The moving party may submit a written reply to the answer to the motion.
+
+Unless the court directs otherwise, any reply to an answer must be filed and served no later than three (3) days after the answer is served on the moving party, but at least one (1) day prior to the date set for oral argument.
+
+** (f) Supporting Papers.
+A person should serve and file with the motion all affidavits and other papers submitted in support of the motion.
+
+Affidavits and other papers submitted in support of an answer or reply must be served and filed with the answer or reply.
+
+Rule 9.11 does not apply to affidavits and other papers submitted in connection with a motion other than a motion on the merits under rule 18.14.
+
+** (g) Length of Motion, Answer and Reply; Form of Papers and Number of Copies.
+
+*** (1) Length
+A motion, answer, or reply should not exceed the length limitations in RAP 18.17.
+For compelling reasons, the court may grant a motion to file an over-length motion, answer, or reply.
+
+*** (2) Format
+All papers relating to motions or answers should comply with the formatting requirements of RAP 18.17, provided an original only and no copy should be filed.
+
+The appellate court commissioner or clerk may reproduce additional copies that may be necessary for the appellate court and charge the appropriate party as provided in rule 10.5(a).
+
+* 17.5 - ORAL ARGUMENT OF MOTION
+
+* 17.6 - MOTION DECIDED BY RULING OR ORDER
+** (a)  Motion Decided by Commissioner or Clerk.
+A commissioner or clerk decides a motion by a written ruling which includes a statement of the reason for the decision. The commissioner or clerk will file the ruling and serve a copy on the movant and all persons entitled to notice of the original motion.
+** (b) Motion Decided by Judges.
+Ordinarily the judges decide a motion by an order.
+The judges may decide a motion by an opinion.
+The clerk will notify the movant and all persons entitled to notice of the motion of the order made or opinion rendered by the court.
+* 17.7 - OBJECTION TO RULING--REVIEW OF DECISION ON MOTION
+** (a) Motion to modify.
+An aggrieved person may object to a ruling of a commissioner or clerk, including transfer of the case to the Court of Appeals under rule 17.2(c), only by a motion to modify the ruling directed to the judges of the court served by the commissioner or clerk.
+
+Except as set forth in subsection (b), the motion to modify the ruling must be served on all persons entitled to notice of the original motion and filed in the appellate court not later than 30 days after the ruling is filed.
+
+A motion to the Justices in the Supreme Court will be decided by a panel of five Justices unless the court directs a hearing by the court en banc.
+** (b) RAP 18.13 and RAP 18.13A.
+A motion to modify a Court of Appeals commissioner’s ruling terminating review of a motion for accelerated review filed pursuant to RAP 18.13 or RAP 18.13A is governed by the provisions of those rules.
