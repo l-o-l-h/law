@@ -1,0 +1,446 @@
+#+title:      Chabuk v. Miller, 18 Wn. App. 2d 1016 (2021)
+#+date:       [2021-07-07 Wed 00:00]
+#+filetags:   :case:law:
+#+identifier: 20210707T000000
+#+signature:  coa=div2=unpub
+
+#+TODO: [2025-05-15 Thu 15:30] Footnotes did not process; figure out why.
+
+* Chabuk v. Miller -- Court of Appeals of Washington, Division 2. | July 7, 2021 | Not Reported in Pac. Rptr. | 18 Wash.App.2d 1016
+
+- Washington Citation :: Chabuk v. Miller, 18 Wn. App. 2d 1016 (2021)
+- All Citations :: Not Reported in Pac. Rptr., 18 Wash.App.2d 1016, 2021 WL 2823211
+
+
+                         18 Wash.App.2d 1016
+
+          ** NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+
+             Court of Appeals of Washington, Division 2.
+
+                       Ahmet CHABUK, Appellant,
+
+                                  v.
+
+        Frances MILLER, and All Other Occupants, Respondents.
+
+                            No. 52917-3-II
+                          Filed July 7, 2021
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[**Attorneys and Law Firms][Attorneys and Law Firms]]
+- [[**NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1][UNPUBLISHED OPINION]]
+
+
+
+- Appeal from Kitsap Superior Court, Docket No: 18-2-01102-9, Honorable Jeanette M. Dalton, Judge
+- ** Attorneys and Law Firms
+- Ahmet Chabuk, Attorney at Law, 11663 Ivy Ln Nw, Silverdale, WA, 98383-8881, Christopher Martin Constantine, of Counsel Inc. PS, Po Box 7125, Tacoma, WA, 98417-0125, for Appellant.
+- Karen E Richmond, Richmond & Richmond Ltd., 1521 Piperberry Way Se Ste., 135, Port Orchard, WA, 98366-1231, for Respondents.
+
+** UNPUBLISHED OPINION
+
+Worswick, J.
+
+<<*1>> Attorney Ahmet Chabuk is a landlord for his client, Frances Miller. Chabuk and Miller had a personal relationship, which Miller alleges was romantic and sexual in nature. During this relationship, Chabuk purchased a home for Miller to live in. Several years after Miller moved into the home, Chabuk and Miller entered into a written lease agreement to comply with public housing assistance requirements. Miller never paid rent to Chabuk; Chabuk only collected rental assistance checks directly from the housing authority. At some point, Chabuk and Miller’s personal relationship ended. Soon after, Miller’s housing assistance benefits decreased, and Chabuk served Miller with a 3-day notice to pay rent or vacate. Miller neither paid rent nor vacated the premises.
+
+Chabuk sued Miller for unlawful detainer. The case proceeded to a trial, after which the court entered findings of fact and conclusions of law, ruling that Miller was not guilty of unlawful detainer and that Miller was entitled to reasonable attorney fees. Accordingly, the trial court entered a judgment against Chabuk. The trial court subsequently denied Chabuk’s motion for reconsideration.
+
+Chabuk appeals the trial court’s pre-trial orders; the findings of fact, conclusions of law, and order; the judgment for attorney fees; and the order denying his motion for reconsideration. We hold that the trial court erred when it entered one conclusion, but that this conclusion was superfluous. We hold that the trial court did not otherwise err when it entered the pre-trial orders; the findings of fact, conclusions of law, and order; the judgment, or the order denying Chabuk’s motion for reconsideration. Thus, we affirm.
+
+*** FACTS
+
+Attorney Ahmet Chabuk represented Frances Miller for several years, beginning in 2002. Chabuk represented Miller on many matters, including disability claims and landlord tenant law issues. Miller contends that during the time Chabuk represented her, she and Chabuk formed a romantic and sexual relationship. Chabuk denies this.
+
+In 2007, Miller and her family needed housing. They found a house they liked in Bremerton and convinced Chabuk, who had owned several investment properties, to purchase the house so they could live there. That summer, Chabuk purchased the Bremerton home. Miller contends she and Chabuk mutually understood that the Bremerton house would serve as permanent housing for Miller. In early 2008, the Miller family moved in without a written lease. Chabuk alleges Miller and her family paid rent between 2008 and 2016, but there is no evidence in the record on appeal corroborating this claim.
+
+In April 2009, Miller qualified for public housing assistance through the Bremerton Housing Authority (BHA) in the amount of $650 per month. Miller and Chabuk entered into a written rental agreement dated April 1, 2010. The purpose of signing this lease was to obtain Section 8 housing assistance from the BHA. The agreement provided a term of six months with rent due the first of each month in the amount of $1250. Under the agreement, Miller was to be responsible for all services and utilities. The agreement also provided, in relevant part, as follows:
+
+<<*2>> At the end of the term of this lease, the lease shall be deemed automatically renewed for one month under the same conditions and terms thereafter from month to month unless either party notifies the other, in writing, of his/her intentions to vacate, at least twenty (20) days prior to vacating....
+
+...
+
+It is further agreed that no waiver of any breach of any covenant, condition, or agreement herein shall operate as a waiver of the covenant, condition, or agreement itself.
+
+Clerk’s Papers (CP) at 7-9.
+
+Throughout the agreement, the terms “vacate” and “terminate” are used distinctively. “Vacate” is used with respect to the tenant’s surrendering possession or occupancy of the property, while “terminate” describes the landlord’s ability to end the lease. The “time is of the essence” provision is exemplary of this distinction:
+
+Time is the essence of this agreement in all respects, and if the tenant shall fail to make foregoing payments or any of them on time ... or shall vacate the premisses [sic], each or any of the foregoing acts (among others) shall constitute violation of this agreement; in which case the landlord or his agent hereby has the right to terminate the lease and thereby repossess the premisses [sic] without let or hindrance.
+
+CP at 8.
+
+The lease purports to incorporate a housing assistance contract by addendum, but no such addendum appears in the record on appeal. Chabuk contends that after the lease was signed, Miller paid rent in addition to the rental assistance provided from BHA, but no evidence corroborates this claim.1 Rental assistance payments from the BHA were deposited directly into Chabuk’s bank account. Sometime in 2015, Chabuk and Miller’s relationship ended.
+
+1
+
+In fact, on June 27, 2018, Chabuk stipulated that no payments of rent appear on his tax documents for the years 2010 through 2017 and that all payments during this period for the subject property were from the BHA.
+
+In February 2018, the BHA reduced Miller’s rental assistance benefit.2 Chabuk contends that on March 8, 2018, he delivered to Miller a 3-day notice to pay rent or vacate premises.
+
+2
+
+The assistance from the BHA decreased to $519 per month.
+
+On April 18, Chabuk filed a complaint for unlawful detainer against Miller. In the complaint, Chabuk alleges that monthly rent was $1250, and that Miller had failed to pay $650 for March 2018 in violation of the terms of the rental agreement.
+
+Miller drafted a handwritten, pro se response to the complaint. That response alleged that Miller and Chabuk had a romantic, extramarital sexual relationship for over a decade, and that Chabuk bought the house for Miller to live in permanently as part of their ongoing relationship. Chabuk redacted most of Miller’s response, and then filed the redacted document with the trial court. Miller later obtained counsel who filed a formal answer and later offered an unredacted copy of her response as an exhibit at trial. In addition to describing the relationship between Miller and Chabuk, Miller’s response and answer denied the existence of any obligation to pay rent, and asserted defenses of duress, misrepresentation of the agreement, and CR 11.
+
+On May 11, the trial court held a show cause hearing. The trial court ruled that there was an issue of fact as to whether the matter should proceed as an unlawful detainer under the residential landlord tenant act (RCW 59.18) or as an ejectment (RCW 7.28), because Miller denied that her possession of the property was based on any written agreement. The trial court set a trial date. Chabuk moved for reconsideration of the trial court’s ruling, which was denied.
+
+<<*3>> Miller sent Chabuk requests for discovery. On June 8, Chabuk moved for a protective order to quash Miller’s discovery requests, arguing that the matter was an unlawful detainer action, that the civil rules did not apply, and that he should be awarded attorney fees. The trial court denied Chabuk’s motion, set a due date for discovery production, and awarded attorney fees for Miller. Chabuk responded to Miller’s discovery on June 28.
+
+The case proceeded to trial on July 13. The trial court heard testimony from Miller and Chabuk concerning the basis of Miller’s possession of the property.3 The trial court found that Miller’s account of their housing arrangement was more credible than Chabuk’s. The trial court ruled that Miller was not guilty of unlawful detainer because she was not in violation of any covenants under a lease. The trial court issued written findings of fact and conclusions of law. Pertinent to this appeal, the court made the following findings of fact and conclusions of law:
+
+I. Findings of Fact
+
+...
+
+3. The house was purchased by Chabuk with the intent of providing a place for Miller to reside. Miller’s testimony as to the intent of the parties to provide a permanent residence for her at the time of the initial occupancy was more credible than Chabuk’s, especially given the lack of compliance with requirements of the RLTA.[4]
+
+...
+
+5. Chabuk and Miller both signed a lease agreement on or about April 1, 2010.
+
+...
+
+8. The purpose of signing the lease was to continue to obtain Section 8 housing assistance from the BHA....
+
+9. The lease provided in evidence did not contain the addendum required as part of any Section 8 housing contract.
+
+10. The amount charged in the lease exceeded the reasonable rental amount for a 2-bedroom house posted by the Department of Housing and Urban Development (HUD) for the relevant period.
+
+11. No documentation was provided of Chabuk complying with the requirements of HUD and BHA for Section 8 housing, including:
+
+a. Complying with the HUD approved rental limits for Bremerton.
+
+b. Obtaining HUD approval on the payment of utilities.
+
+c. Attaching the appropriate HUD documents to the rental contract.
+
+12. No evidence was provided of Chabuk complying with required actions by a landlord under the Residential Landlord-Tenant Act (RLTA) RCW 59.18 et seq., such as:
+
+a. Receipts for payments of security deposit or rent.
+
+b. List of conditions of premises.
+
+c. Maintaining a separate bank account for deposit,
+
+d. Reporting income to the IRS.
+
+13. Chabuk is a licensed practicing attorney as well as the owner of multiple residential properties.
+
+14. Prior to entry into the lease agreement Chabuk assumed responsibility as Miller’s attorney on a number of matters, including prior landlord-tenant matters and an ERISA claim.
+
+15. Chabuk and Miller had a close, personal relationship which developed subsequent to Chabuk’s representation of Miller, but prior to execution of the lease. Miller’s testimony that the relationship was romantic and sexual in nature is more credible than Chabuk’s denial of the same, especially given the degree of personal knowledge of Miller shown by Chabuk.
+
+16. Chabuk had extensive intimate personal knowledge of Miller and her family and circumstances, obtained during this representation of her, which he made use of in entering this transaction and bringing this action for enforcement.
+
+17. At the time of signing the lease, Miller’s income was approximately $900 a month in disability payments.
+
+<<*4>> 18. As her representative on an ERISA claim and because of his intimate knowledge of Miller’s personal circumstances and history, it is beyond reason that Chabuk was not aware of Miller’s income and its relationship to the rent amount stated in the agreement. His testimony denying such knowledge is not credible.
+
+19. Chabuk received payments from the Bremerton Housing Authority for many years.
+
+20. Chabuk showed no documented payments of rent from Miller and acknowledged multiple years had gone by without any payments being received. ...
+
+23. Chabuk presented no evidence of contacting Miller to modify the agreement or demand rent payment before February 2018; Chabuk then served the 3-day notice to pay rent or vacate which was dated March 6, 2018.
+
+II. Conclusions of Law
+
+1. As an individual allowed to reside in a premises owned by another under the terms of an agreement, Miller was a tenant of Chabuk.
+
+2. Given that Chabuk had represented Miller, had a close relationship with her, and admitted knowledge of her romantic interest in him, he had a duty to clarify when the attorney-client relationship ended. Since he did not do so, the attorney-client relationship remained in effect at the time of signing the lease.
+
+3. As her attorney, Chabuk failed to fulfill his ethical obligation to ensure Miller gave informed consent to a transaction with himself.
+
+4. As a landlord, Chabuk failed to follow the requirements of the RLTA.
+
+5. Because he is the drafter of the agreement and had an attorney-client relationship with Miller, all terms of the agreement must be construed against Chabuk.
+
+6. The language of the agreement provides for a six-month term, followed by a single month renewal on the same terms, and then an indefinite month-to-month renewal without any terms and conditions unless “either party notifies the other, in writing, of his/her intentions to vacate.” Since the six month period ended in October 31, 2010, the lease now provides for indefinite renewal without any requirement of payment from Miller. Since only a tenant may “vacate,” only Miller may terminate the agreement.
+
+7. The language of the lease gives a clear and unequivocal grant of a lease with perpetual renewal, which under the case of Tischner v. Rutledge, 35 Wn. 285 (1904) may be sufficient for a grant of fee simple. This is consistent with the testimony as to the intent of the parties to provide a permanent home for Miller.
+
+8. Even if the agreement signed by the parties had required payment of rent by Miller, by taking no action after several years without payment, Chabuk waived the payment of rent and agreed to a modification of the contract by his extended inaction so that no rent was due from Miller.
+
+9. Because Miller has not violated any covenant she made under the lease, she is not guilty of an unlawful detainer.
+
+10. Although BHA modified the amount it was paying, since Chabuk accepted this modification without protest, no violation of the lease occurred.
+
+11. Chabuk may not obtain an eviction or other remedies against Miller unless he can establish:
+
+a. That Miller has failed to comply with her duties under the lease.
+
+b. That Chabuk has complied with the requirements of Section 8 for removing a compliant tenant.
+
+c. That Miller did not receive a fee simple in the Property by the term of the lease.
+
+12. As the prevailing party, Miller is entitled to reasonable attorney fees under RCW 59.18.
+
+<<*5>> CP at 154-159.
+
+3
+
+The record contains no verbatim or narrative reports of proceedings from the trial. The facts herein are derived from the clerk’s memorandum following the oral ruling, and the written order.
+
+4
+
+Residential Landlord Tenant Act; Chapter 59.18 RCW.
+
+The trial court issued a judgment against Chabuk in favor of Miller for attorney fees and costs as the prevailing party under RCW 59.18.290(2).5 Chabuk moved for reconsideration under CR 59(a)(7) and (9). Attached to his motion for reconsideration, Chabuk included a “partial narrative report of proceedings” from the trial, which he prepared and that purports to be based on a verbatim audio recording of the proceedings. Miller objected to the court accepting Chabuk’s transcript as a report of proceedings. The trial court denied Chabuk’s motion for reconsideration without ruling on the objection. Chabuk now contends that this transcript is compliant with RAP 9.3. Am. Statement of Arrangements at 1.
+
+5
+
+The trial court ordered that Chabuk pay Miller $10,851.00 in attorney fees and $52.47 in costs.
+
+Chabuk appeals the trial court’s pretrial orders; the findings of fact, and conclusions of law, and order; the judgment for attorney fees; and the denial of his motion for reconsideration.
+
+*** ANALYSIS
+
+Chabuk argues the trial court erred when it set the matter for trial, denied him a writ of restitution, entered judgment against him for attorney fees, and denied his motion for reconsideration. We hold that the trial court did not err because Miller was not guilty of unlawful detainer.
+
+**** I. REPORT OF PROCEEDINGS
+
+As an initial matter, we consider whether to accept the attachment to Chabuk’s motion for reconsideration, titled “Partial Narrative Report of Proceedings,” as a narrative report of proceedings under RAP 9.3 for this appeal. CP at 183. Chabuk argues that this document is compliant with relevant court rules, and that Miller waived any objections. Miller objected to the use of this transcript at the trial level, and argues on appeal that the document prepared by Chabuk does not comply with relevant court rules and cannot be considered. We agree with Miller.
+
+The Washington Rules of Appellate Procedure set forth the form, content, and method of preparing reports of proceedings for appellate review. Parties may provide a verbatim transcript under RAP 9.2, a narrative report of proceedings including a fair and accurate statement of the occurrences at trial under RAP 9.3, or an agreed report of proceedings under RAP 9.4. RAP 9.1(b). A narrative report of proceedings may be prepared if the court reporter’s notes or the electronic recording of the proceeding being reviewed is lost or damaged. RAP 9.3. The proposed report of proceedings must be filed with the trial court, where the trial judge settles any objections and approves the amendments. State v. Tilton, 149 Wn.2d 775, 782, 72 P.3d 735 (2003). “Alternative methods of reporting trial proceedings are permissible if they place before the appellate court an equivalent report of the events at trial from which the appellant’s contentions arise.” State v. Jackson, 87 Wn.2d 562, 565, 554 P.2d 1347 (1976) (quoting Draper v. Washington, 372 U.S. 487, 495, 83 S.Ct. 774, 9 L. Ed. 2d 899 (1963)).
+
+<<*6>> The appellant bears the burden of perfecting the record on appeal so that a reviewing court has all relevant evidence necessary to decide the issues. Yorkston v. Whatcom County., 11 Wn. App. 2d 815, 824, 461 P.3d 392 (2020). When an appellant fails to so perfect the record, we may accept the trial court’s findings of fact as verities, or we may decline to reach the merits of an issue. Yorkston, 11 Wn. App. 2d at 824.
+
+Here, Chabuk’s purported narrative report of proceedings was attached to his motion for reconsideration in the trial court. In her reply to that motion, Miller objected to both the form and substance of that proposed narrative, arguing that it was inaccurate and unacceptable. The trial court denied Chabuk’s motion for reconsideration without mentioning Miller’s objection. Nonetheless, it is clear that the trial court did not certify Chabuk’s narrative report of proceedings.
+
+On appeal, Chabuk has expressly declined to file any report of proceedings, but instead continues to rely on the uncertified document attached to his motion found in the clerk’s papers. Chabuk took no steps that would allow us to consider this document as a report of proceedings under RAP 9.5. Accordingly, we cannot consider this document to be a report of proceedings for purposes of this appeal.
+
+Chabuk has not properly filed any report of proceedings in this appeal, and we do not consider the document he purports to be a narrative report of proceedings. Thus, we review Chabuk’s arguments in light of the evidence in the record on appeal.6
+
+6
+
+Chabuk argues that this court should not consider Miller’s arguments because she fails to cite to relevant portions of the record. But Chabuk failed to meet his burden of perfecting the record, so we consider Miller’s arguments.
+
+**** II. UNLAWFUL DETAINER
+
+***** A. Pre-Trial Rulings
+
+Chabuk argues the trial court erred when it denied his motion for a writ of restitution at the show cause proceedings, and instead set the matter for trial. Specifically, Chabuk argues that Miller’s initial answer, being unsworn, should not have been considered and that the trial court erred by permitting discovery. We disagree.
+
+The Residential Landlord-Tenant Act of 1973 applies when a dispute involves a residential lease. Chapter 59.18 RCW. A tenant cannot exclude the landlord “after the termination of the rental agreement [and] ... [a]ny landlord so deprived of possession ... may recover possession of the property and damages sustained by him or her ... and reasonable attorney fees.” RCW 59.18.290(2).
+
+A “show cause” proceeding is an evidentiary hearing on a landlord’s motion for a writ of restitution to return possession of the premises to the landlord. RCW 59.18.380. At the proceeding, the tenant is entitled to answer the landlord’s motion and may assert any legal or equitable defenses arising out of the tenancy; the trial court considers testimony and must examine the witnesses. RCW 59.18.380; Tedford v. Guy, 13 Wn. App. 2d 1, 11, 462 P.3d 869 (2020). A party not represented by an attorney shall sign and date the party’s pleading, motion, or legal memorandum and state the party’s address. CR 11(a). “Petitions for dissolution of marriage, separation, declarations concerning the validity of a marriage, custody, and modification of decrees issued as a result of any of the foregoing petitions shall be verified. Other pleadings need not, but may be, verified or accompanied by affidavit.” CR 11(a).
+
+<<*7>> At the show cause proceedings, the trial court must enter an order directing issuance of the writ if the court finds that the landlord has the right to be restored to possession of the property. RCW 59.18.380. If the court finds that the landlord does not have the right to be restored to possession, or if there are genuine issues of material fact regarding possession, the court enters an order directing the parties to proceed to trial. RCW 59.18.380.
+
+Here, the trial court ruled that there was a genuine issue of material fact as to whether Miller’s possession of the premises was controlled by the written agreement. Chabuk’s contention that the trial court erred because Miller’s initial answer was unsworn is without merit. Chabuk has cited no facts in the record showing that the trial court based its ruling on that unsworn pleading as evidence. Moreover, under CR 11, Miller’s reply need not be sworn.
+
+Chabuk also argues that the trial court erred when it permitted discovery. But, the civil rules governing discovery apply universally to civil cases in the superior court, including unlawful detainer actions. RCW 59.12.180. And Chabuk provides no authority to support his contention that discovery is not permitted in this civil case. Thus, his argument fails.
+
+We hold that the trial court did not err when it denied Chabuk’s motion for a writ of restitution and ordered the matter to trial. We also hold that the trial court did not err when it permitted discovery.
+
+***** B. Trial
+
+Chabuk claims that the trial court erred in making numerous findings of fact and conclusions of law.7 Aside from one superfluous conclusion, we disagree.
+
+7
+
+Chabuk challenges findings of fact 10 through 18, 20, and 23, and conclusions of law 2 through 12. Chabuk states various legal challenges to the conclusions of law, but this court reviews conclusions of law to see if they are supported by the findings of fact. Pham, 187 Wn. App. at 825.
+
+We review a trial court’s findings of fact in an unlawful detainer action for substantial evidence and we presume the findings are supported by substantial evidence unless the appellant has proven otherwise. Pham v. Corbett, 187 Wn. App. 816, 825, 351 P.3d 214 (2015). Substantial evidence exists when there is a sufficient quantity of evidence to persuade a fairminded, rational person that a finding is true. Pham, 187 Wn. App. at 825. We review conclusions of law de novo, deciding whether the trial court’s findings support its conclusions of law. Pham, 187 Wn. App. at 825.
+
+Generally, we consider only those documents that have properly become part of the record on review. City of Sumner v. Walsh, 148 Wn.2d 490, 495, 61 P.3d 1111 (2003). When an appellant fails to so perfect the record, we may decline to reach the merits of an issue and we may accept the trial court’s findings of fact as verities. Yorkston, 11 Wn. App. 2d at 824. Unchallenged findings of fact are also verities on appeal. Pham, 187 Wn. App. at 825.
+
+****** ,1. Findings of Fact
+
+The record shows that the trial court heard testimony from both Miller and Chabuk at the trial, but Chabuk failed to perfect the record to include a report of proceedings that would allow this court to discern the substance of that testimony. As a result, we are unable to decide whether the findings of fact are supported by substantial evidence. Because Chabuk bears the burden to overcome the presumption that the trial court’s findings of fact are not erroneous, Chabuk’s challenges to the trial court’s findings of fact fail, and we accept these findings of fact as verities on appeal.
+
+****** ,2. Conclusions of Law
+
+******* a. Conclusion of Law 2: Attorney-Client Relationship
+
+<<*8>> Chabuk argues the trial court erred when it concluded that “[t]he attorney client relationship remained in effect at the time of signing the lease.” We disagree.
+
+The existence of an attorney-client relationship depends on whether “the attorney’s advice or assistance is sought and received on legal matters,” and on “the client’s subjective belief that [the relationship] exists.” Bohn v. Cody, 119 Wn.2d 357, 363, 832 P.2d 71 (1992). A client’s subjective belief must be reasonably formed based on the attending circumstances, including the attorney’s words or actions. Bohn, 119 Wn.2d at 363.
+
+The trial court found that Chabuk was a practicing attorney as well as an owner of residential properties, and that Miller’s account of their romantic and sexual relationship was credible. Prior to execution of the lease, Chabuk was Miller’s attorney on several matters, including prior landlord-tenant matters. During the same period, he was also her romantic and sexual partner. The court made no finding that Chabuk disclaimed an attorney-client relationship during the execution of the lease; it concludes that the opposite occurred. These findings of fact support the trial court’s conclusion that the attorney-client relationship remained when the lease was executed.
+
+******* b. Conclusion of Law 3: Conflict of Interest
+
+Chabuk argues the trial court erred when it concluded that he “failed to fulfill his ethical obligation to ensure Miller gave informed consent to a transaction with himself.” We disagree.
+
+A lawyer is ethically obligated not to represent a client if there is a significant risk that the representation will be materially limited by the lawyer’s own interests, unless the lawyer (1) reasonably believes the representation will not be adversely affected, and (2) obtains written client consent after fully disclosing the material facts. Arden v. Forsberg & Umlauf, P.S., 189 Wn.2d 315, 326-27, 402 P.3d 245 (2017).
+
+Chabuk represented Miller as her attorney, including in prior landlord-tenant matters. During the execution of the lease at issue here, Chabuk was both Miller’s attorney and her landlord. The trial court made no finding of fact that Chabuk reasonably believed representation of his client would not be adversely affected, that he disclosed all the material facts concerning this apparent conflict of interest, or that he obtained written consent from Miller prior to the transaction. We hold that the trial court did not err in concluding Chabuk violated his ethical duty to avoid conflicts of interest.
+
+******* c. Conclusion of Law 4: Failure to Follow Requirements of RLTA
+
+Chabuk argues the trial court erred when it concluded that “[a]s a landlord, Chabuk failed to follow the requirements of the [Residential Landlord Tenant Act].” We disagree.
+
+Landlords must furnish to tenants, upon request, a written receipt for any payments made by a tenant in a form other than cash. RCW 59.18.063. No deposit may be collected by a landlord from a tenant unless the rental agreement is in writing and a written checklist or statement specifically describing the condition and cleanliness of or existing damage to the premises and furnishings is provided to the tenant. RCW 59.18.260. Moneys paid as deposit by a tenant must be kept in a trust account or licensed escrow agent. RCW 59.18.260, .270.
+
+<<*9>> The trial court found that Chabuk failed to maintain any receipts for payments of security deposits or rent, failed to provide a checklist or statement of the condition of the premises, and failed to maintain separate bank accounts for deposits. These are all violations of the RLTA. We hold that the trial court did not err in concluding that Chabuk failed to follow the RLTA.
+
+******* d. Conclusion of Law 5: Contract Construction
+
+Chabuk assigns error to conclusion of law 5 which states Chabuk was the drafter of the agreement and that all terms of the agreement must be construed against him. We consider this issue waived, because Chabuk provides no argument or briefing for this alleged error. Brown v. Vail, 169 Wn.2d 318, 336 n. 11, 237 P.3d 263 (2010) (“[a] party that offers no argument in its opening brief on a claimed assignment of error waives the assignment.”).
+
+******* e. Conclusion of Law 6: Only Miller May Terminate the Agreement
+
+Chabuk argues the trial court erred when it concluded that only Miller could terminate the lease. Specifically, Chabuk argues that the plural “parties” as used in the lease indicates that both Chabuk and Miller have the power to unilaterally terminate the lease. Chabuk also argues that the term “vacate” should be construed to have the same meaning as “terminate.” We disagree.
+
+The goal of contract interpretation is to ascertain the intent of the parties, which we perform by focusing on the objective manifestation of the parties in the written agreement rather than through the unexpressed, subjective intent of the either party. Hearst Commc’ns, Inc. v. Seattle Times Co., 154 Wn.2d 493, 503, 115 P.3d 262 (2005). Where the contract language is clear, the intent is ascertained from the language of the contract as a question of law. In re Estates of Wahl, 99 Wn.2d 828, 831, 664 P.2d 1250 (1983).
+
+We give the words in a contract their ordinary, normal, and popular meaning unless the agreement as a whole clearly demonstrates some contrary intent. Parr v. Haselwood Imports, Inc., 15 Wn. App. 2d 604, 613, 476 P.3d 629 (2020). Even without ambiguity, extrinsic evidence may be considered in determining the circumstances of contract formation and as an aid in ascertaining the intent of the parties. Parr, 15 Wn. App. 2d at 613. Course of dealings and trade usage evidence may be used to interpret a contract and determine its terms even when those terms are not necessarily ambiguous. Puget Sound Fin., L.L.C. v. Unisearch, Inc., 146 Wn.2d 428, 434, 47 P.3d 940 (2002). As a general rule, terms used in a lease are given their technical meaning in conformity with their technical field. Berg v. Hudesman, 115 Wn.2d 657, 669, 801 P.2d 222 (1990).
+
+“In the absence of anything in the context of a contract clearly indicating a contrary intent, when the same word is used in different parts of the contract, it will be presumed to be used in the same sense throughout the contract. Where its meaning in one instance is clear, that meaning will be attached to it in other parts of the contract.” Holter v. Nat’l Union Fire Ins. Co. of Pittsburgh, Pa., 1 Wn. App. 46, 50, 459 P.2d 61 (1969). Where possible, we construe a contract so as to give effect to all of the contract’s provisions. Kut Suen Lui v. Essex Ins. Co., 185 Wn.2d 703, 710, 375 P.3d 596 (2016).
+
+Here, the relevant provisions from the rental agreement is as follows:
+
+At the end of the term of this lease, the lease shall be deemed automatically renewed for one month under the same conditions and terms thereafter from month to month unless either party notifies the other, in writing, of his/her intentions to vacate, at least twenty (20) days prior to vacating....
+
+<<*10>> ...
+
+It is further agreed that no waiver of any breach of any covenant, condition, or agreement herein shall operate as a waiver of the covenant, condition, or agreement itself.
+
+CP at 7-9.
+
+The term “vacate” also appears in the “time is of the essence” provision:
+
+Time is the essence of this agreement in all respects, and if the tenants shall fail to make foregoing payments or any of them on time ... or shall vacate the premisses [sic], each or any of the foregoing acts (among others) shall constitute violation of this agreement; in which case the landlord or his agent hereby has the right to terminate the lease and thereby repossess the premisses [sic] without let or hindrance.
+
+CP at 8.
+
+Throughout the agreement, the terms “vacate” and “terminate” are used distinctively. “Vacate” is used only with respect to the tenant’s surrendering possession or occupancy of the property, while the term “terminate” describes the landlord’s ability to end the lease. The “time is of the essence” provision is exemplary of this distinction.
+
+The trial court interpreted the term “vacate” from the lease as being consistent with trade usage in tenancies, where only a tenant can surrender possession of a property, therefore only a tenant can “vacate.” The word “vacate” in this agreement is unambiguous and the court’s reading is in accord with the rules of interpretation concerning trade usage.8 Puget Sound Fin., L.L.C., 146 Wn.2d at 434.
+
+8
+
+Even if the term “vacate” was ambiguous, we construe the contract against Chabuk in accordance with conclusion of law 5 because any ambiguities generally are resolved against the drafting party. Viking Bank v. Firgrove Commons 3, LLC, 138 Wn. App. 706, 713, 334 P.3d 116 (2014).
+
+The court’s definition of “vacate” is also consistent with the term’s usage in other parts of the contract, which is in accord with our rule on the presumption of consistent usage. Kut Suen Lui, 185 Wn.2d at 710. In the “time is of the essence” provision, the terms “vacate” and “terminate” are deployed separately and distinctly. There, “vacate” refers to the tenant’s surrender of the premises, in contrast to the landlord’s ability to “terminate” the agreement only after such event has occurred. The trial court’s interpretation of the contract was not erroneous considering that the term “vacate” has a specific, unambiguous meaning that is consistent with its trade usage, and used consistently in the agreement. Therefore, we hold that the trial court did not err in its interpretation of the term “vacate.”
+
+******* f. Conclusion of Law 7: Grant of Fee Simple
+
+Chabuk argues the trial court erred when it concluded that “the language of the lease gives a clear and unequivocal grant of a lease with perpetual renewal, which under the case of Tischner v. Rutledge, 35 Wn. 285 (1904) may be sufficient for a grant of fee simple. This is consistent with the testimony as to the intent of the parties to provide a permanent home for Miller.” We agree with Chabuk that this conclusion was erroneous, but this conclusion is also superfluous and not germane to our decision.
+
+<<*11>> Perpetual leases are disfavored, and leases are interpreted to avoid this result whenever possible. Oak Bay Props., Ltd. v. Silverdale Sportsman’s Ctr., Inc., 32 Wn. App. 516, 519, 648 P.2d 465 (1982). In Tischner v. Rutledge, 35 Wn. 285, 288, 77 P. 388, 389 (1904), the case relied upon by the trial court, our Supreme Court held that “the intention to create [a perpetual] lease must be expressed in clear and unequivocal language, and not be left to mere inference.” In Tischner, a lease provided a commercial tenant with the privilege to renew at the same rent “year thereafter from year to year.” Tischner, 35 Wn. at 286. Even though the provision appeared to provide a perpetual lease, the court examined the contract as a whole and decided otherwise. Tischner, 35 Wn. at 286. The court noted that the lease contained covenants applicable to a short term rental, and did not include any provision for waste or repair in the event of a fire or accident, which are normally found in long term grants of property. Tischner, 35 Wn. at 288. Instead, the lease provided that the tenant had a duty to return the premises to the landlord in the same condition less usual wear, which is a covenant typically found in short term rental agreements. Tischner, 35 Wn. at 289. The court also noted the absence of terms in the written agreement signifying perpetuity, such as “forever” or terms of similar import. Tischner, 35 Wn. at 289.
+
+Here, like Tischner, Miller’s lease does not contain long term covenants or terms signifying perpetuity that would provide for a clear and unequivocal perpetual lease. Miller’s lease is a month-to-month lease. It ends when Miller vacates the premises, or when Chabuk terminates the lease for Miller’s failure to abide by the lease’s covenants. The lease contains provisions consistent with its short term nature. For example, Miller is required to turn over the property to Chabuk in a “clean and neat condition ... ready to be occupied by new tenants without any additional cleaning or painting.” CP at 233. Miller must also permit Chabuk, with certain notice, to inspect the premises and to place a “For Rent” or “For Sale” sign on the premises during a certain time preceding expiration of the rental term. CP at 234. Miller is also required to return the keys to Chabuk. All these provisions are consistent with a short term lease, and not a perpetual lease.
+
+We hold that the trial court erred when it concluded that Miller’s lease granted a perpetual lease under Tischner. However, the trial court’s ruling on this issue is superfluous because it has no impact on our ultimate decision in this case. The issue the trial court was to resolve here, as set forth in the complaint and answer, was whether Chabuk was entitled to a writ of restitution based on Miller’s failure to pay rent. Whether the lease was a perpetual lease had no bearing on the issues before the trial court: whether Chabuk was entitled to a writ of restitution based on Miller’s failure to pay March rent.
+
+******* g. Conclusion of Law 8: Waiver of Covenant to Pay Rent
+
+Chabuk argues the trial court erred in concluding that he waived the covenant to pay rent by failing to collect rent for years. Chabuk argues that this is an affirmative defense that was not affirmatively pleaded, and therefore we cannot consider it. We hold that the affirmative defense of waiver was not waived, and we disagree that the trial court erred in concluding that Chabuk waived his covenant to collect rent.
+
+******** i. Defense not waived
+
+CR 8(c) provides that a defendant’s answer must affirmatively set forth a number of specified affirmative defenses as well as “any other matter constituting an avoidance or affirmative defense.” However, this requirement is not absolute. Hogan v. Sacred Heart Med. Ctr, 101 Wn. App. 43, 54-55, 2 P.3d 968 (2000). The purpose of CR 8(c) is to avoid surprise. Henderson v. Tyrrell, 80 Wn. App. 592, 624, 910 P.2d 522 (1996). Where a defense is tried by the express or implied consent of the parties, then the defense of waiver has not been waived. Hogan, 101 Wn. App. at 54. If the failure to plead a defense affirmatively “does not affect the substantial rights of the parties, the noncompliance will be considered harmless.” Mahoney v. Tingley, 85 Wn.2d 95, 100, 529 P.2d 1068 (1975).
+
+<<*12>> Here, Miller failed to set forth the affirmative defense of waiver in her answer, but she did obtain the implied consent to try the issue from Chabuk when Chabuk provided a stipulation in lieu of discovery that he never received rent from Miller. This notice was sufficient to avoid surprise to Chabuk. Noncompliance with CR 8(c), given these circumstances, did not affect Chabuk’s substantial rights. We hold that Miller’s affirmative defense of waiver was not waived for failure to set it forth in her answer.
+
+******** ii. Covenant to pay rent waived
+
+A waiver is generally defined as a voluntary relinquishment of a known right. Cornerstone Equip. Leasing, Inc. v. MacLeod, 159 Wn. App. 899, 909, 247 P.3d 790 (2011). “When a waiver is given without consideration, the waiving party may reinstate the rights that have been waived upon reasonable notice that gives a reasonable opportunity to comply.” Cornerstone Equip. Leasing, Inc., 159 Wn. App. at 909. A party may not retract a waiver if it would be unjust in view of a material change of a position by the other party in reliance on the waiver. Restatement (Second) of Contracts § 150 cmt. c (1981), cited in Cornerstone Equip. Leasing, Inc., 159 Wn. App. at 910-11.
+
+Here, there were no documented payments of rent from Miller to Chabuk. To the extent that Chabuk argues Miller had made any payments of rent to him at all, either before or after execution of the lease, the court made no such finding. Further, Chabuk collected housing assistance directly from the BHA, both before and after the written lease was executed. That lease was executed so that Chabuk could continue collecting housing assistance directly from the BHA because a rule required as much; it was not executed so that he could start collecting rent from Miller. Even after the lease was executed, Chabuk never collected rent from Miller, but only collected housing assistance directly from the BHA.9
+
+9
+
+Chabuk cites to his unofficial transcript to argue that Miller made rent payments to him during some unspecified period thus negating any waiver, but as discussed above, we do not consider this transcript as an official report of proceedings.
+
+The trial court’s findings that Chabuk never collected rent from Miller, despite the lease stated a rental amount, supports the conclusion that he waived that covenant. After years of not collecting rent, it was unjust for Chabuk to attempt to reinstate his rights to collect rent from Miller without first giving her a reasonable opportunity to comply. Miller’s reliance on the waiver is obvious here given that she made only $900 per month at the time the lease was executed. Therefore, we hold that the trial court did not err when it concluded that Chabuk waived rent and that he did not effectively reinstate enforcement of that covenant.
+
+******** h. Conclusion 9: Not Guilty of Unlawful Detainer
+
+Chabuk argues the trial court erred when it concluded Miller was not guilty of unlawful detainer. Because Chabuk waived rent and failed to effectively retract that waiver, we hold that Miller is not guilty of unlawful detainer.
+
+Chabuk based his unlawful detainer action specifically on Miller’s purported violation of a covenant to pay rent. Because that covenant was waived and not effectively reinstated, Miller did not in fact violate that covenant. Therefore, Miller had not breached the lease, and was not in unlawful possession of the premises following a termination of the lease such that she would be guilty of unlawful detainer. Thus, the trial court did not err in concluding Miller was not guilty of unlawful detainer.
+
+******** i. Conclusions 10 & 11: Unbriefed Issues
+
+<<*13>> Chabuk assigns error to the trial court’s conclusions of law 10 and 11. Because Chabuk failed to adequately brief these issues, we do not consider them.
+
+We do not consider statements of fact without citation to the record, issues that are not adequately briefed, or arguments that fail to provide sufficient supporting authority to be reviewed. RAP 2.5(a); RAP 10.3(a)(5), (6).
+
+Chabuk summarily assigns error to the trial court’s conclusions of law 10 and 11, but he provides no coherent argument, cites no facts, and provides no authorities. We decline to consider these arguments.
+
+******** j. Conclusion 12: Prevailing Party Entitled to Reasonable Attorney Fees
+
+Chabuk argues the trial court erred in concluding Miller was entitled to reasonable attorney fees. Chabuk also argues that, in the alternative, the amount of the award to Miller was unreasonable. Miller argues that RCW 59.18.290(2) entitles her to attorney fees as the prevailing party at trial. We agree with Miller.
+
+“[A]n award of attorney fees and costs under RCW 59.18.290 is discretionary.” Council House, Inc., v. Hawk, 136 Wn. App. 153, 159, 147 P.3d 1305 (2006). We review such award for an abuse of discretion to determine whether it is manifestly unreasonable, decided on untenable grounds or for untenable reasons, including errors of law. Council House, Inc., 136 Wn. App. at 159.
+
+********* i. Miller is the prevailing party and is entitled to reasonable attorney fees and costs
+
+RCW 59.18.290(2) allows a court to award reasonable attorney fees and costs to the prevailing party in an unlawful detainer action.10 To be awarded fees and costs as the prevailing party, a tenant must prove either that the lease was not terminated or that the tenant held over under a valid court order. Hous. Auth. of Everett v. Terry, 114 Wn.2d 558, 570-71, 789 P.2d 745 (1990).
+
+10
+
+RCW 59.18.290(2) provides, in relevant part: “It is unlawful for the tenant to hold over in the premises or exclude the landlord therefrom after the termination of the rental agreement except under a valid court order so authorizing. Any landlord so deprived of possession of premises in violation of this section may recover possession of the property and damages sustained by him or her, and the prevailing party may recover his or her costs of suit or arbitration and reasonable attorney fees.”
+
+Here, the trial court concluded that Miller was not guilty of unlawful detainer because she had not violated the covenant to pay rent as alleged by Chabuk. The court also concluded that Chabuk could not terminate the lease without cause because it construed the term “vacate” as applicable only to Miller. Because Miller is the prevailing party in this case where the lease was not terminated, she is entitled to reasonable attorney fees and costs. We hold that the trial court did not err in concluding that Miller is entitled to reasonable attorney fees and costs at trial.
+
+********* ii. The attorney fee award was reasonable
+
+Chabuk argues that the amount of attorney fees was unreasonable because Miller’s counsel allegedly made misrepresentations to the court that purportedly caused an unnecessary trial. Chabuk argues that the award amount must be constrained by the amount in controversy. Chabuk also argues that several claims were raised that were not successful, and so the court erred in its calculation. We disagree.
+
+<<*14>> Courts are required to exclude from the calculation of reasonable attorney fees “any wasteful or duplicative hours and any hours pertaining to unsuccessful theories or claims.” Hous. Auth. of Seattle v. Bin, 163 Wn. App. 367, 378, 260 P.3d 900 (2011) (quoting Mahler v. Szucs, 135 Wn.2d 398, 434, 957 P.2d 632, 966 P.2d 305 (1998)). But where a party obtains substantial relief from one of multiple issues raised involving the same “common core of facts and related legal theories,” courts are not required to reduce an award simply because not all the issues were ultimately grounds for the court’s decision. Hous. Auth. of Seattle, 163 Wn. App. at 378 (quoting Steele v. Lundgren, 96 Wn. App. 773, 783, 982 P.2d 619 (1999)).
+
+“Central to the calculation of an attorney fees award ... is the underlying purpose of the statute authorizing the attorney fees.” Target Nat’l. Bank v. Higgins, 180 Wn. App. 165, 191, 321 P.3d 1215 (2014) (quoting Brand v. Dep’t of Labor & Indus., 139 Wn.2d 659, 666, 989 P.2d 1111 (1999)).
+
+Here, the fact that Miller prevailed on only one of her several claims is not the sole consideration as to the amount of attorney fees that are reasonable. It was not an abuse of discretion for the court to decline to reduce her award on this basis because Hous. Auth. of Seattle requires no such reduction. 163 Wn. App. at 367. A plain reading of RCW 59.18.290 provides that the statute is intended to ensure tenants facing unlawful detainer actions are able to obtain adequate representation. Such controversies involve the right to occupancy of the property and not simply a sum of money. Nothing in the record reveals any manifestly unreasonable, untenable grounds or reasons for the amount awarded in this case. Miller defended the unlawful detainer action and prevailed. We hold that the trial court did not abuse its discretion in the amount awarded to Miller for attorney fees and costs.
+
+***** C. New Judge on Remand
+
+Chabuk argues that we should remand to a different judge due to the “unusual sua sponte rulings” in this case. Brief of Appellant (Br. of App.) at 50. Because we affirming the trial court, we do not consider Chabuk’s argument.
+
+***** D. Attorney Fees on Appeal
+
+Chabuk and Miller both argue that they should be awarded reasonable attorney fees on appeal. Chabuk argues that he should be awarded attorney fees “both in the trial court and in the Court of Appeals, pursuant to CR 11, RAP 18.1, RCW 59.18.290, and the Court’s inherent authority to sanction attorneys for bad faith conduct.” Br. of App. at 44-45. Miller argues that she should be awarded fees as the prevailing party under RCW 59.18.290(2). We award attorney fees on appeal to Miller as the prevailing party.
+
+Under CR 11, a trial court may impose appropriate sanctions, against a person who violated the rule, which may include reasonable expenses incurred and a reasonable attorney fee. Biggs v. Vail, 124 Wn.2d 193, 196-97, 876 P.2d 448 (1994). CR 11 is violated when a party files a pleading, motion, or legal memoranda which is not well grounded in fact and warranted by law, or is filed for any improper purpose. Bryant v. Joseph Tree, Inc., 119 Wn.2d 210, 217, 829 P.2d 1099 (1992). Although CR 11 sanctions were formerly available on appeal, the rules were amended in 1994, so that sanctions on appeal are allowed only under RAP 18.1 and RAP 18.9. Bldg. Indus. Ass’n of Wash. v. McCarthy, 152 Wn. App. 720, 750, 218 P.3d 196 (2009).
+
+Under RAP 18.1, a party may recover reasonable attorney fees and expenses on appeal if applicable law grants the party such right.
+
+****** 1. Chabuk’s Request
+
+<<*15>> Chabuk cites to State v. S.H., 102 Wn. App. 468, 8 P.3d 1058 (2000) for the proposition that we have an inherent authority to sanction attorneys for bad faith conduct. S.H. discusses a trial court’s inherent authority to impose sanctions against an attorney for inappropriate and improper conduct, not an appellate court. S.H., 102 Wn. App. at 474 (“Following Wilson and case law from other jurisdictions, we hold that a trial court’s inherent authority to sanction litigation conduct is properly invoked upon a finding of bad faith.”). S.H. is not controlling on the issue of whether an appellate court has an inherent authority to sanction attorneys, and Chabuk provides no other authorities to support this contention. Moreover, even assuming we have inherent authority to award attorney fees as a sanction, Chabuk has provided us no compelling reason to do so here.
+
+We deny Chabuk’s request for attorney fees because he is not the prevailing party, he has not shown that Miller has engaged in any action justifying sanctions, and CR 11 sanctions are not available to Chabuk in this appeal. Bldg. Indus. Ass’n of Wash. v. McCarthy, 152 Wn. App. at 750.
+
+****** 2. Miller’s Request
+
+RCW 59.18.290(2) provides for reasonable attorney fees where a tenant prevails in an unlawful detainer action and where the lease was not terminated. Because the applicable law grants attorney fees and costs at trial in this case, we can award attorney fees and costs under RAP 18.1 on appeal. We therefore award attorney fees and costs to Miller as the prevailing party.
+
+*** CONCLUSION
+
+In conclusion, we do not consider Chabuk’s unofficial transcript as an official report of proceedings. Despite the trial court’s err in concluding that Miller was entitled to a perpetual lease, we hold that the trial court did not err when it entered the orders in this case setting the matter for trial, denying Chabuk’s writ of restitution, entering a judgment for attorney fees, and denying Chabuk’s motion for reconsideration. Consequently, we affirm. We also award reasonable attorney fees and costs on appeal to Miller as the prevailing party.
+
+A majority of the panel having determined that this opinion will not be printed in the Washington Appellate Reports, but will be filed for public record in accordance with RCW 2.06.040, it is so ordered.
+
+We concur:
+
+Lee, C.J.
+
+Cruser, J.
+
+** End
+#+STARTUP: show2levels

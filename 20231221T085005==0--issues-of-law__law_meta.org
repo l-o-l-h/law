@@ -116,6 +116,7 @@
 - [[denote:20250321T091038][23d1  Housing Discrimination under the FHA]]
 - [[denote:20250321T091629][23d0  Fair Housing Laws]]
 - [[denote:20250321T091843][23d2  Housing Resource Center]]
+- [[denote:20250515T091250][23e  VAWA]]
 #+END:
 
 * 24. Damages in RLTA Cases
