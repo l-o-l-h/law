@@ -1,0 +1,22 @@
+#+title:      Statutes Operate Prospectively
+#+date:       [2025-05-19 Mon 14:55]
+#+filetags:   :law:prospective:retroactive:statute:
+#+identifier: 20250519T145517
+
+* Statutes are presumed to operate prospectively.
+
+In re Estate of Haviland, 177 Wn.2d 68, 75, 301 P.3d 31 (2013).
+
+A statute acts prospectively “ ‘when the precipitating event for the application of the statute occurs after the effective date of the statute, even though the precipitating event had its origin in a situation existing prior to the enactment of the statute.’ ” Id. (quoting Aetna Life Ins. Co. v. Wash. Life & Disability Ins. Guar. Ass'n, 83 Wn.2d 523, 535, 520 P.2d 162 (1974)).
+
+* Statutes Act Retroactively When
+
+** Precipitating Event Occurred Before Statute's Enactment
+
+However, a statute acts retroactively “when the precipitating event under the statute occurred before the statute's enactment.” Id.
+
+** Imposes New Duties To Respect Past Transactions
+
+A statute may also be retroactive when it imposes new duties in respect to past transactions. Id.
+
+Here, the parties do not dispute that RCW 59.18.650 applies. RCW 59.18.650, rather than Proclamation 20-19.4, applies because it was the law in effect at the time Santom initiated its unlawful detainer suit against McCabe. Haviland, 177 Wn.2d at 75; see Dzaman v. Gowman, 18 Wn. App. 2d 469, 482, 491 P.3d 1012 (2021). The initiation of the suit is the “ ‘precipitating event for the application of the statute’ ” because the action is the means through which the statute is enforced. See Dzaman, 18 Wn. App. 2d at 479 (internal quotation marks omitted) (quoting Haviland, 177 Wn.2d at 75).
