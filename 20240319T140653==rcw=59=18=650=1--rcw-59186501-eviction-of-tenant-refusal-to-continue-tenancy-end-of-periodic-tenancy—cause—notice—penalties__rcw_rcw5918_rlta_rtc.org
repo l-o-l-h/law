@@ -9,9 +9,9 @@
 
 *** a. [General prohibition against ending tenancies; exceptions allowed in this subsection 1]
 - A landlord may not
-  - evict a tenant,
-  - refuse to continue a tenancy, or
-  - end a periodic tenancy
+  - *evict* a tenant,
+  - *refuse to continue* a tenancy, or
+  - *end* a periodic tenancy
 - except for the causes enumerated in subsection (2) of this section and
 - *as otherwise provided in this subsection.*
 

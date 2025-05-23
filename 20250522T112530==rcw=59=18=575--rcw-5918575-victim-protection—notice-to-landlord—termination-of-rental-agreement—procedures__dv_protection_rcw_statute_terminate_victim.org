@@ -1,0 +1,90 @@
+#+title:      RCW 59.18.575 Victim protection—Notice to landlord—Termination of rental agreement—Procedures
+#+date:       [2025-05-22 Thu 11:25]
+#+filetags:   :dv:protection:rcw:statute:terminate:victim:
+#+identifier: 20250522T112530
+#+signature:  rcw=59=18=575
+
+* RCW 59.18.575 -- Victim protection—Notice to landlord—Termination of rental agreement—Procedures.
+
+** (1)
+
+*** (a)
+
+ If a tenant
+ - notifies the landlord
+ - in writing that
+   - he or she or a household member
+   - was a victim of
+   - an act that
+   - constitutes a crime of
+     - domestic violence,
+     - sexual assault,
+     - unlawful harassment, or
+     - stalking,
+   - and
+     - either
+       - (a)(i) or
+       - (ii)
+     - of this subsection applies,
+     - then
+       - subsection (2) of this section applies:
+
+**** (i)
+
+The tenant or the household member
+- has
+  - a domestic violence protection order,
+  - sexual assault protection order,
+  - stalking protection order, or
+  - antiharassment protection order
+  - under chapter 7.105 RCW,
+- or
+  - a valid order for protection
+  - under one or more of the following:
+    - Chapter 26.26A or 26.26B RCW,
+  - or any of the former chapters
+    - 7.90 and 26.50 RCW,
+    - or RCW 9A.46.040, 9A.46.050, 10.99.040 (2) or (3),
+    - or 26.09.050,
+    - or former RCW 10.14.080;
+- or
+
+**** (ii)
+
+The tenant or the household member
+- has reported
+  - the domestic violence,
+  - sexual assault,
+  - unlawful harassment, or
+  - stalking
+- to
+  - a qualified third party acting in his or her official capacity
+  - and the qualified third party has provided
+  - the tenant or the household member
+  - a written record of the report
+  - signed by the qualified third party.
+
+*** (b)
+
+When
+- a copy of
+  - a valid order for protection
+  - or a written record of a report
+  - signed by a qualified third party,
+  - as required under (a) of this subsection,
+- is made available to the landlord,
+  - the tenant may
+    - terminate the rental agreement and
+    - quit the premises
+    - without further obligation
+    - under the rental agreement
+    - or under this chapter.
+- However,
+  - the request to terminate the rental agreement
+  - must occur within ninety days of
+    - the reported act,
+    - event, or
+    - circumstance
+    - that gave rise to the protective order or report
+    - to a qualified third party.
+  - A record of the report to a qualified third party that is provided to the tenant or household member shall consist of a document signed and dated by the qualified third party stating: (i) That the tenant or the household member notified him or her that he or she was a victim of an act or acts that constitute a crime of domestic violence, sexual assault, unlawful harassment, or stalking; (ii) the time and date the act or acts occurred; (iii) the location where the act or acts occurred; (iv) a brief description of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking; and (v) that the tenant or household member informed him or her of the name of the alleged perpetrator of the act or acts. The record of the report provided to the tenant or household member shall not include the name of the alleged perpetrator of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking. The qualified third party shall keep a copy of the record of the report and shall note on the retained copy the name of the alleged perpetrator of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking. The record of the report to a qualified third party may be accomplished by completion of a form provided by the qualified third party, in substantially the following form:
