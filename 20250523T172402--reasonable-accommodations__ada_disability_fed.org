@@ -1,0 +1,107 @@
+#+title:      Reasonable Accommodations
+#+date:       [2025-05-23 Fri 17:24]
+#+filetags:   :ada:disability:fed:
+#+identifier: 20250523T172402
+
+* Reasonable Accommodation Law
+
+Property operators must make reasonable accommodations to their policies when necessary to afford a person with a disability the equal opportunity to use and enjoy a place of public accommodation or a dwelling.
+
+* Disability
+
+A physical or mental impairment that substantially limits one or more major life activities or the operation of a major bodily function.
+
+** Physical or Mental Impairment
+
+1. Any physiological disorder, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems:
+   - Neurological
+   - Musculoskeletal
+   - Special sense organ
+   - Respiratory, including speech organs
+   - Cardiovascular
+   - Reproductive
+   - Digestive
+   - Genito-urinary
+   - Hemic and lymphatic
+   - Skin
+   - Endocrine
+
+2. Any mental or psychological disorder, such as:
+   - Mental retardation
+   - Organ brain syndrome
+   - Emotional or mental illness
+   - Specific learning disabilities
+
+3. The term “physical or mental impairment” includes, but is not limited to:
+   - Orthopedic, visual, speech & hearing impairments
+   - Cerebral palsy
+   - Autism
+   - Epilepsy
+   - Muscular dystrophy
+   - MS
+   - Cancer
+   - Heart disease
+   - Diabetes
+   - HIV
+
+** Major Life Activities
+- Caring for one’s self
+- Performing manual tasks
+- Walking
+- Seeing
+- Hearing
+- Speaking
+- Breathing
+- Learning
+- Working
+- Interacting with others
+- Concentrating
+- Bending
+- Reading
+- Sleeping
+- Thinking
+- Standing
+- Communicating
+
+* Americans With Disabilities Act
+
+** Service Animals
+
+Under ADA and Rehab Act:
+
+- Service animals are dogs (or miniature horses) specifically trained to perform a task or service related to a person’s disability.
+- E.g.
+  - Guiding people who are blind,
+  - alerting people who are deaf,
+  - pulling a wheelchair,
+  - alerting and protecting a person who is having a seizure,
+  - reminding a person with mental health diagnosis to take prescribed medications,
+  - calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack
+
+- Public spaces, public entities, places receiving federal funds
+- Dog or miniature horse only
+- Pet rules do not apply
+- Must be individually trained
+- Nexus to disability
+- Verification only if not obvious (2 questions)
+- Is the animal needed because of a disability?
+- What work or task is the animal trained to perform?
+- No mandatory certification or registration
+
+
+You MAY NOT:
+- Request medical documentation from the dog or handler
+- Request an ID card or license from the handler
+- Ask that the animal demonstrate the task or service it performs
+
+* Fair Housing Act
+
+** When Does the FHA Apply?
+
+All types of housing, including public housing.
+
+Exclusions:
+- Owner occupied buildings with 4 units or less
+- Single family homes sold or rented by the owner without use of a broker
+- Housing owned by private clubs or religious organizations that limit occupancy to members
+- Housing specifically designated for the disabled or elderly
