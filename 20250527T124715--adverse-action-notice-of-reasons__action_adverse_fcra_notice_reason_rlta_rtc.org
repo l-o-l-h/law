@@ -1,0 +1,14 @@
+#+title:      Adverse Action-Notice of Reasons
+#+date:       [2025-05-27 Tue 12:47]
+#+filetags:   :action:adverse:fcra:notice:reason:rlta:rtc:
+#+identifier: 20250527T124715
+
+* RLTA
+
+[[denote:20250527T124941][RCW 59.18.257(1)(c)]] requires the landlord to provide a written notice of the adverse action.
+
+* FCRA
+
+Also, if the denial was based on information the landlord obtained from a consumer report, then Washington's FCRA, specifically RCW 19.182.110, also requires written notice of the reasons for the denial/adverse action.
+
+
