@@ -1,0 +1,12 @@
+#+title:      Judgment--Amount of Recovery
+#+date:       [2025-06-16 Mon 09:27]
+#+filetags:   :allegations:amount:default:judgment:
+#+identifier: 20250616T092740
+#+signature:  228k118
+
+* Columbia Val. Credit Exch., Inc. v. Lampson, 12 Wn. App. 952, 533 P.2d 152 (1975)
+
+Where allegations of complaint totalled $1,596.25 but prayer of complaint was for $3,328.20, allegations of complaint provided defendant with sufficient notice to support default judgment against him in amount of allegations but to extent judgment exceeded that amount it was void.
+
+
+In the instant case the allegations of the complaint total $1,596.25, but the prayer of the complaint was for $3,328.20. We hold that the allegations of the complaint provided defendant with sufficient notice to support a default judgment against him in the amount of these allegations, I.e., $1,596.25; however, to the extent the judgment exceeded that amount it is void.

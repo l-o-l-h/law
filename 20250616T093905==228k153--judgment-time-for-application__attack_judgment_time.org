@@ -1,0 +1,32 @@
+#+title:      Judgment--Time for Application
+#+date:       [2025-06-16 Mon 09:39]
+#+filetags:   :attack:judgment:time:
+#+identifier: 20250616T093905
+#+signature:  228k153
+
+* Columbia Val. Credit Exch., Inc. v. Lampson, 12 Wn. App. 952, 533 P.2d 152 (1975)
+
+** Rule
+Default judgment which is void to extent it exceeds allegations in complaint may be attacked within reasonable time and is not subject to one-year limitation period. CR 60(b).
+
+Considering defendant's motion to vacate default judgment on basis that judgment exceeded allegations of complaint was not abuse of discretion despite fact that such motion was not made until approximately 18 months after entry of default judgment. CR 60(b).
+
+** Application
+
+Finally, plaintiff contends that the defendant may not attack the validity of a default judgment when more than 1 year has elapsed since the entry of that judgment. It relies upon Corporate Loan & Security Co. v. Peterson, 64 Wash.2d 241, 391 P.2d 199 (1964). We disagree.
+
+That case was decided prior to the adoption of CR 60(b). Under this rule, the vacation of a void judgment is not within the 1-year limitation.
+
+In Trautman, Vacation and Correction of Judgments in Washington, 35 Wash.L.Rev. 505, 530, the author notes that:
+
+     There is no time limit as a judgment entered without jurisdiction
+     is void. The court has said that this is true without regard to
+     laches. . . . Just as the one year statutory time limit does not
+     apply, so likewise it is not necessary to show a defense upon the
+     merits. The law requires no showing other than that the defendant
+     was, in fact, not served with process or that there was no
+     jurisdiction over the subject matter. This results from the fact
+     that the power to vacate such judgments does not arise from the
+     statutes or rule; it is an inherent power of the court.
+
+The defendant's motion to vacate challenges the jurisdiction of the court to enter a judgment *957 which exceeded the allegations of the complaint. We have held that such judgment is void to the extent that it exceeds the allegations in the complaint. In such a case, the judgment may be attacked within a reasonable time and we cannot say that the court bused its discretion by considering the defendant's motion to vacate. Roth v. Nash, Supra.

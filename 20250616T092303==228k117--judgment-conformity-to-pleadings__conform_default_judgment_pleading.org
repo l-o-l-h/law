@@ -1,0 +1,27 @@
+#+title:      Judgment--Conformity to Pleadings
+#+date:       [2025-06-16 Mon 09:23]
+#+filetags:   :conform:default:judgment:pleading:
+#+identifier: 20250616T092303
+#+signature:  228k117
+
+* Columbia Val. Credit Exch., Inc. v. Lampson, 12 Wn. App. 952, 533 P.2d 152 (1975)
+
+One has right to assume that relief granted on default will not exceed or substantially differ from that described in complaint and may safely allow default to be taken in reliance upon this assumption.
+
+It is a well-settled rule that ‘one has a right to assume that the relief granted on default will not exceed or substantially differ from that described in the complaint and may safely allow a default to be taken in reliance upon this assumption.’
+- Sceva Steel Buildings, Inc. v. Weitz, 66 Wash.2d 260, 262, 401 P.2d 980, 982 (1965);
+- Mueller v. Garske, 1 Wash.App. 406, 409, 461 P.2d 886 (1969);
+- Gattavara v. Henrikson, 3 Wash.App. 585, 476 P.2d 131 (1970);
+- Davis v. Bafus, 3 Wash.App. 164, 166, 473 P.2d 192 (1970).
+
+
+The reason underlying this rule was expressed in State ex rel. Adams v. Superior Court, 36 Wash.2d 868, 872, 220 P.2d 1081, 1084 (1950):
+
+    The principle upon which such a rule rests is that the court is
+    without jurisdiction to grant relief beyond that which the
+    allegations And prayer of the complaint may seek. . . .
+
+    A judgment entered without notice and opportunity to be heard is
+    void.
+
+In Gattavara, the court observed, ‘The relief granted on default is limited by the facts alleged in the complaint.’

@@ -1,0 +1,82 @@
+#+title:      Process--Party or Person Interested
+#+date:       [2025-06-16 Mon 09:32]
+#+filetags:   :agent:employee:officer:party:process:
+#+identifier: 20250616T093224
+#+signature:  313k55
+
+* Rules: 313k55
+
+Service of summons and complaint by a plaintiff's officer or employee should not be construed to mean “service of summons * * * by * * * a party,” within purview of statute providing that service of summons and process shall be made by any person, other than a party, over 18 years of age who is competent to be witness in action. CR 4(c); RCW 4.28.070 [ _Repealed by 1984 c 76 § 10_ ].
+
+- Scanlan v. Townsend, 336 P.3d 1155, 1161, 181 Wash.2d 838 (Wash.) [NOTE: THIS CASE DOES NOT ACTUALLY CITE FOR THIS PROPOSITION; RATHER, IT INCLUDES A QUOTE THAT CITES TO A CASE THAT HAS THAT PROPOSITION.]
+
+  - *Holding:* The Supreme Court, en banc, Gordon McCloud, J., held
+    that as a matter of first impression, direct, hand-to-hand, but
+    “secondhand” service satisfied state's service of process
+    requirements.
+
+  - 48Ak235 Process
+
+    - Personal service on personal injury defendant in automobile
+      accident case was effective after service was made _on
+      defendant's father_, even though father subsequently asserted
+      that defendant did not live with father, where father was
+      competent to serve process on defendant, he delivered a copy of
+      the summons and complaint personally to defendant within the
+      statute of limitations, and defendant's testimony and her
+      attorney's stipulation established proof of service. West's RCWA
+      4.28.080(15); CR 4.
+
+- Crouch v. Friedman, 754 P.2d 1299, 1300, 51 Wash.App. 731 (Div1 1988) [NOTE: THIS CASE DOES NOT CITE TO THIS PROPOSITION.]
+
+Service of summons and complaint by employee and stockholder of plaintiff was not thereby invalid. CR 4(c).
+
+Word “plaintiff,” as found in statute requiring that service of process be made by a person other than a plaintiff, signifies a person who seeks remedial relief for an injury to rights; it designates a complainant. RCWA 4.28.070.
+
+Chief of police, who served police officers with city manager's notice of dismissal, was not a “plaintiff” within statute requiring that service of process be made by a person other than a plaintiff, where he did not have a right to claim legal redress from officers for any reason stated in accusation charge and no right of his had been derogated. RCWA 4.28.070.
+
+** Citiing References
+
+- Brown-Edwards v. Powell, 182 P.3d 441, 442, Wash.App. Div. 3 [NEIGHBOR SERVED PROCESS ON DEFENDANT AFTER BEING SERVED ERRONEOUSLY BY PROCESS SERVER.]
+
+- In re Marriage of Logg, 875 P.2d 647, 649, Wash.App. Div. 3
+
+* Columbia Val. Credit Exch., Inc. v. Lampson, 12 Wn. App. 952, 533 P.2d 152 (1975)
+Second, plaintiff assigns error to the court's conclusion that the attempted service of the summons and complaint upon defendant was invalid by reason of having been performed by a party. Our State has long required service of process to be made by a person Other than a plaintiff. Laws of 1893, ch. 127, s 6, p. 408; RRS s 225; RCW 4.28.070.
+
+In Roth v. Nash, 19 Wash.2d 731, 144 P.2d 271 (1943), the court strictly interpreted this language in holding that a plaintiff's attorney may lawfully serve a summons and complaint.
+
+<<<RCW 4.28.070>>> as follows: [NOTE:  <<<CR 4(c)>>> is essentially copied verbatim from this statute.  This statute was repealed in 1984.]
+
+     Service of summons and process, except when service is by
+     publication, shall be by the sheriff of the county wherein the
+     service is made, or by his deputy, or by any person over 18 years
+     of age who is competent to be a witness in the action, Other than
+     a party.
+
+In alluding to such language, the court, in Roth, prophetically noted at pages 735—736, 144 P.2d at page 273:
+
+     Other cases, seemingly the greater in number, hold that a statute
+     which forbids the serving of summons by a party to an action does
+     not inhibit service by an attorney for the plaintiff, For the
+     reason that the word ‘party,’ as used in such statute, is
+     employed in its technical sense, *956 and a person not strictly a
+     party to the record is therefore competent to serve the summons.
+
+Thus, our court has indicated that language ‘other than a party’ is not subject to interpretation and will be understood to refer to a named party of record.
+
+In the present case, plaintiff-corporation is the named party of record. Service by plaintiff's officer or employee should not be construed to mean service by a ‘party.’ As this record shows, Mr. Bowers had been serving papers on behalf of plaintiff for some 16 years. Undoubtedly, other collection agencies have followed and are following a similar practice. If the word ‘party’ is intended to include employees **155 of a corporation who are officers, directors, or managing agents, as defendant contends, that intention should be expressed by amendment of the rule rather than by judicial decision so as not to impair outstanding, valid judgments.
+
+* City of Vancouver v. Jarvis, 76 Wn.2d 110, 455 P.2d 591 (1969)
+
+It is first claimed that improper service of the City manager's written accusation was made on the appellants—not as required by the applicable statutes, city charter, ordinance and civil service rules and regulations.
+
+Each such statute and ordinance, it is argued, and specifically RCW 4.28.070, requires that service of process be made by a person other than a plaintiff. Two of the appellants were served by the chief of police and the third by another member of the police department, each of whom it is claimed is a party plaintiff.
+
+*We hold* that the persons who effected service of process on the appellants are not Plaintiffs.
+
+As that word is used in the statute, it signifies a person who seeks remedial relief for an injury to his rights; it designates a complainant. Neither Chief Edward Mayo nor any other member of the police department had the right to claim legal redress from appellants for any reason stated in the accusation charge, and no right of theirs had been derogated. They were not the complainants.
+
+The object and purpose of the written statement was to notify each employee of his discharge and the reasons therefor, and the notice each employee received fully accomplished that object and purpose.
+
+*We conclude* that the service of process here on each of the three appellants satisfied the legal requirements. See State ex rel. Miller v. Tacoma, 177 Wash. 689, 33 P.2d 88 (1934).
