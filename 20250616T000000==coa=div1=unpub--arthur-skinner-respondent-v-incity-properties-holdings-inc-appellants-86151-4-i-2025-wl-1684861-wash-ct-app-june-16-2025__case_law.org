@@ -1,0 +1,214 @@
+#+title:      ARTHUR SKINNER, Respondent, v. INCITY PROPERTIES HOLDINGS, INC., Appellants, 86151-4-I, 2025 WL 1684861 (Wash. Ct. App. June 16, 2025)
+#+date:       [2025-06-16 Mon 00:00]
+#+filetags:   :case:law:
+#+identifier: 20250616T000000
+#+signature:  coa=div1=unpub
+
+* ARTHUR SKINNER, Respondent, v. INCITY PROPERTIES HOLDINGS, INC., Appellants. -- Court of Appeals of Washington, Division 1. | June 16, 2025 | Not Reported in Pac. Rptr. | 2025 WL 1684861
+
+- Washington Citation :: ARTHUR SKINNER, Respondent, v. INCITY PROPERTIES HOLDINGS, INC., Appellants, 86151-4-I, 2025 WL 1684861 (Wash. Ct. App. June 16, 2025)
+- All Citations :: Not Reported in Pac. Rptr., 2025 WL 1684861
+
+
+                           2025 WL 1684861
+
+          ** NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1
+
+             Court of Appeals of Washington, Division 1.
+
+           ARTHUR SKINNER III, Respondent/Cross Appellant,
+
+                                  v.
+
+INCITY PROPERTIES HOLDINGS, INC.; and COLUMBIA BUSINESS PARTNERS BUSINESS PARK, LLC, Appellants/Cross Respondents.
+
+                                 No.
+
+                                86151
+
+                                  -
+
+                                  4
+
+                                  -
+
+                                  I
+                              06/16/2025
+
+** Brief
+:PROPERTIES:
+:VISIBILITY: all
+:END:
+
+*** Issues
+
+*** Holdings
+
+*** History
+
+*** Facts
+
+*** Law
+
+*** Analysis
+
+** Document Details
+
+- [[**NOTE: UNPUBLISHED OPINION, SEE WA R GEN GR 14.1][Opinion]]
+
+
+
+** Opinion
+
+Birk, J.
+
+<<*1>> We are asked to consider, among other things, the relief available to a tenant of a residential lease who has proved that Columbia Partners Business Park LLC, and its agent, InCity Properties Holdings Inc. (collectively “landlords”), committed forcible entry and forcible detainer, unlawfully dispossessing him from his apartment.
+
+According to the landlords, Arthur Skinner III, was arrested in his apartment on criminal charges, purportedly involving possession of an incendiary device, whose elements were never supported by sufficient evidence to the extent of this court’s record. Witness accounts state that the arrest was disruptive to the apartment community and the neighborhood, seemingly because police and fire departments feared a potential incendiary conflagration. Skinner was held in jail for 10 days following his arrest, and the unsupported charges against him were eventually dismissed. While Skinner was in jail, his landlords executed a notice which purported to terminate Skinner’s tenancy. When Skinner attempted to return home after his release from jail, his landlords locked him out, and some weeks later entered his apartment and seized his belongings. Skinner remains locked out, despite winning a judgment in superior court concluding the landlords engaged in an illegal self-help eviction in the absence of an authorizing court order—an act that has been illegal in Washington since 1890. See Laws of 1889-90, ch. V, § 2.
+
+The landlords originally justified their action based on a theory of terminating Skinner’s tenancy for illegal behavior, a justification long since abandoned. In pretrial proceedings, the landlords interposed their centerpiece legal counter-move: more than six months after dispossessing Skinner, they re-let his apartment to a new tenant never joined in this action, a fact they claim requires the court to deny relief to Skinner. The landlords principally justified their actions at trial on the theory that Skinner had abandoned his apartment, disputing factually whether he had returned and sought to re-enter the apartment, a theory on which the superior court found the landlords’ witnesses all not credible. And for the first time in this court, the landlords suggest the theory that Skinner’s rent arrearage bars redress (and would thus mean any tenant in arrears might be subjected to self-help evictions without the ability to seek redress). Wash. Ct. of Appeals oral arg., Skinner v. InCity Props. Holdings, Inc., No. 86151-4-I (Mar. 6, 2025), at 1 min., 7 sec., https://www.tvw.org/watch/?clientID=9375922947&eventID=2025031228& startStreamAt=69.
+
+We affirm the superior court’s judgment that Skinner is entitled to possession of the apartment, reasonable attorney fees and costs, and a protective order barring the landlords from disposing of his illegally seized belongings. Skinner was entitled to actual damages, but we affirm the superior court’s conclusion that he proved none. We modify the superior court’s judgment to the extent that relief alternative to possession—here, allowing the landlords to optionally provide a substantially similar unit and requiring the landlords to pay Skinner fair rental value during any period of noncompliance from the date of the judgment—may be ordered only under the court’s contempt power and requires the court to first find willful noncompliance. We deny Skinner’s cross appeal for double damages. And we award Skinner, as the prevailing party, his reasonable attorney fees and costs on appeal.
+
+I
+
+<<*2>> On January 27, 2021, Arthur Skinner entered into a lease agreement with the landlords for a premises located at 1050 James Street, Unit 401, Seattle, WA 98104. That lease expired on January 26, 2022, but Skinner continued to reside in Unit 401 and pay rent. Skinner fell behind in his rent, but after a governmental rental assistance payment, he was current on his rent through July 2022. Skinner did not make subsequent rental payments.
+
+On October 29, 2022, at a gas station near his apartment building, Skinner placed a bottle, he said containing fish sauce, with a gym sock in it on his ex-boss’s car. This “stupid little prank” purportedly gave some, including law enforcement, the impression that the bottle was a Molotov cocktail. Skinner returned home from the gas station and shortly thereafter police arrived to arrest him. Police slid an arrest warrant under his door, Skinner refused entry, and police kicked in the door and arrested him. The incident caused commotion at the apartment building, with “multiple police officers and cars and ... fire trucks, ambulances, [and] people everywhere.”
+
+Skinner spent 10 days in jail and was released on November 8, 2022. Two hours before his release, he was served with a “three day notice to vacate” his apartment. (Capitalization and boldface omitted.) The notice stated that Skinner’s conduct on October 29, 2022, had “endangered the entire neighborhood,” and “good cause” existed to terminate his tenancy for “unlawful activity.”
+
+Upon release, Skinner walked from the jail to his apartment building. Skinner was without his identification, keys, wallet, and phone. Unable to enter the building, he used the building’s call box to contact the building manager who, he testified, received his call, looked at him through the window, rejected his call, and left on an elevator. Skinner approached a ground floor tenant whom he asked for help to enter the building. The tenant refused to help, and instead reported him to building management, who called the police. In the following weeks, Skinner made other unsuccessful attempts to contact building management.
+
+On November 21, 2022, the landlords posted a 48 hour “notice of abandonment” on Skinner’s apartment door. (Capitalization and boldface omitted.) The notice was signed by Karis Scott, as “agent” of the landlord, who identified her address as that of “InCity Properties.” (Capitalization omitted.) The landlords entered Unit 401. The landlords found Skinner’s belongings still in the unit, removed them, and placed them into storage. They continued to store Skinner’s car on site. The landlords charged Skinner’s account for legal fees, repair, restoration, cleaning, dumping, and removal after they took possession of Unit 401.
+
+In early December 2022, Skinner submitted a complaint with the Seattle Department of Construction and Inspections claiming he had been locked out of his apartment. Through the department, Skinner first learned of the notice of abandonment. Shortly after, Skinner and the landlords began to communicate by phone and text message, though the subject matter of these communications was generally the landlords encouraging Skinner to collect his belongings. By January 6, 2023, the charges against Skinner had been dropped.
+
+On January 18, 2023, Skinner, through counsel, sent a demand letter to InCity, notifying it that he would file a forcible entry and detainer action if possession of his apartment was not restored to him. On January 30, 2023, Skinner filed a complaint against InCity.
+
+<<*3>> InCity argued that Skinner had failed to name the proper defendant. The court ordered that Skinner amend his summons and complaint.1 On March 27, 2023, Skinner, through counsel, served a renewed demand for possession on Columbia, and on April 27, 2023, he filed an amended complaint naming Columbia as an additional defendant. Although not then disclosed to Skinner or the court, on June 16, 2023, the landlords re-let Unit 401 to Patrick Richardson for a lease term ending on August 31, 2024.
+
+1
+
+At no time in the trial court or in this court have the landlords cited any legal authority that Skinner could not obtain relief against InCity if InCity unlawfully dispossessed him unless he also named and served Columbia. Nevertheless, Skinner did so as directed. We do not address this question.
+
+At the July 14, 2023 show cause hearing, the landlords jointly filed a motion to dismiss. The motion, made a month after Richardson signed his lease, made no mention that the landlords had re-let Unit 401. After two more continuances, at the July 26, 2023 show cause hearing, the landlords first disclosed that they had rented Unit 401 to a new tenant. The court denied the landlords’ motion to dismiss and ordered a trial in 30 days. The court stated it “would grant [Skinner] possession” of Unit 401 pending trial “if the unit was vacant,” but determined that it was impractical because of Richardson’s lease. Later, on August 29, 2023, less than two weeks before trial, the landlords first asserted the affirmative defense that Skinner had failed to join Richardson as an indispensable party under CR 19. The trial court rejected the landlords’ CR 19 defense.
+
+The two day bench trial was held on September 11 and 12, 2023. At trial, Skinner testified that he had been homeless since his release from jail on November 8, 2022. In its oral ruling, the trial court said of the landlords’ argument that Skinner had abandoned his apartment that “this is a clear case of self-help eviction,” and “all three of the witnesses that the defense put on, I did not find any of them to be credible.”
+
+On December 12, 2023, the court entered an order for writ of restitution and judgment, which included findings of fact and conclusions of law. It found the landlords guilty of forcible entry and detainer. The court ordered issuance of a writ of restitution on August 31, 2024, the date the new tenant’s initial one year lease term expired. The court ordered the landlords to return Unit 401 to Skinner, or to alternatively provide Skinner a substantially similar unit. The court ordered the landlords to pay Skinner the pro-rated cost of his rent for each day until they were in compliance. In its oral ruling, the court explained that Skinner did not prove any recoverable damages.2 The court held that Skinner was the prevailing party and awarded him reasonable costs and attorney fees.
+
+2
+
+A trial court’s oral ruling may be used to complement and explain written findings. Spencer v. Badgley Mullins Turner, PLLC, 6 Wn. App. 2d 762, 801, 432 P.3d 821 (2018). Somewhat unclearly, the trial court entered written findings appearing to say Skinner was entitled to damages equal to fair rental value from November 8, 2022, to August 31, 2023. These findings appear only to determine the fair rental value of the unit. Consistent with the court’s oral ruling that Skinner proved no damages, the court entered no award for past damages but rather allowed future damages “until possession is restored.”
+
+On December 21, 2023, nine days after the entry of judgment, the landlords’ counsel sent Skinner’s counsel an e-mail advising that the landlords intended to dispose of Skinner’s belongings, which they had stored since December 2022, if Skinner did not collect them by January 10, 2024. Skinner moved for, and was granted, an order shortening time and a protective order. The court explained to the landlords, “If he had not been wrongfully displaced in the first place, he’d have his stuff, and you wouldn’t have to worry about this. But now that you’re in a position of holding his stuff, you don’t get to just decide unilaterally to dispose of it.”
+
+<<*4>> In April 2024, Skinner moved for supplemental judgment, stating that the landlords had made no effort to contact him about restoring him to possession of the apartment and he had received no payments from the landlords, as ordered by the court. In May 2024, the court entered a supplemental judgment for Skinner, awarding $6,708 for the period December 11, 2023 to April 11, 2024, and $55.13 for each day after April 11, 2024, until the landlords complied with the court’s order.
+
+The landlords appeal the court’s orders for writ of restitution and judgment, award of attorney fees, and supplemental judgment, as well as other court orders.3 Skinner cross appeals the superior court’s denial of damages for his loss of use of Unit 401 for the period he was unlawfully displaced before the order for writ of restitution.
+
+3
+
+In their notice of appeal, the landlords sought review of a September 12, 2023 order denying their “Supplemental Trial Brief re: Lack of Jurisdiction,” and a December 11, 2023 order denying their “Motion Re: Lack of Subject Matter Jurisdiction.” Parties are required to provide concise statements of the alleged error, argument, and citations to legal authority and the record for each issue presented for review. RAP 10.3(a)(4), (6). Because the landlords do not present argument concerning these orders in their brief, we decline to review them. See Long v. Snoqualmie Gaming Comm’n, 7 Wn. App. 2d 672, 690, 435 P.3d 339 (2019) (“We need not address an issue that a party does not argue in its brief.”).
+
+II
+
+The landlords make two arguments challenging the finding of forcible entry and detainer: first, that failure to join Richardson required dismissal under CR 19, and second, that substantial evidence supported that the landlords’ entry was lawful and supported their defense of abandonment. We are not persuaded by these arguments.
+
+A
+
+Richardson was not a necessary party, both under statute and under CR 19. In a forcible entry or forcible detainer action, “No person other than the tenant of the premises ... in the actual occupation of the premises when the complaint is filed, need be made parties defendant in any proceeding under this chapter.” RCW 59.12.060. When Skinner filed his complaint, Richardson was not in “actual occupation of the premises,” and did not occupy Unit 401 until June 2023, almost five months after Skinner filed the complaint. Under RCW 59.12.060, anyone who enters “under the tenant, after the commencement of the action ... shall be bound by the judgment the same as if they had been made parties to the action.” This language signals the intent of the legislature that only those in occupation of the premises need be joined originally, and those that take subsequently do so subject to the action. By statute, Richardson took the unit subject to being bound by the judgment against the landlords and was not required to be joined in the action.
+
+Analysis under CR 19 leads to the same result. We review a trial court’s decision under CR 19 for abuse of discretion and the legal determinations necessary to that decision de novo. Auto. United Trades Org. v. State, 175 Wn.2d 214, 222, 285 P.3d 52 (2012). The facts and circumstances of a given case are highly determinative of whether a party is a necessary party under CR 19. Guldon v. Simon Prop. Grp., Inc., 158 Wn.2d 483, 495, 145 P.3d 1196 (2006). The party urging dismissal bears the burden of proof. Id. We assume Richardson was subject to the jurisdiction of the superior court and joinable.
+
+<<*5>> CR 19(a)(1) compels joinder if “in the person’s absence complete relief cannot be afforded among those already parties.” The determination of the landlords’ liability for forcible entry and detainer does not necessitate Richardson’s involvement. Moreover, complete relief can be provided in his absence. “While the unlawful detainer provisions identify the writ of restitution as the ordinary means for enforcing the court’s award of possession, they do not prescribe the terms of the writ or deprive the court of authority to enforce its judgment by other means.” Excelsior Mortg. Equity Fund II, LLC v. Schroeder, 171 Wn. App. 333, 345, 287 P.3d 21 (2012). Complete relief is available here both because under RCW 59.12.060 Richardson took the unit subject to Skinner’s already pending action against the landlords, and because, as the superior court did, the court could shape relief to allow the landlords to give Skinner equivalent alternative relief.
+
+CR 19(a)(2) compels joinder if Richardson is so situated that disposition of the action in his absence may (A) impair or impede his ability to protect his interest or (B) leave existing parties “subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations by reason of [Richardson’s] claimed interest.”
+
+Turning first to CR 19(a)(2)(A), there is no evidence that Richardson’s absence impaired his ability to protect his interest in Unit 401. “It is established that ‘[a]s a practical matter, an absent party’s ability to protect its interest will not be impaired by its absence from the suit where its interest will be adequately represented by existing parties to the suit.’ ” Auto. United Trades Org., 175 Wn.2d at 225 (alteration in original) (quoting Washington v. Daley, 173 F.3d 1158, 1167 (9th Cir. 1999)). The events giving rise to Skinner’s claim occurred in November and December 2022, six months or more before Richardson began renting Unit 401. The landlords resisted Skinner’s claims, adequately representing Richardson’s interests. The landlords point to no argument or claim Richardson could interpose against Skinner’s claims of illegal dispossession that the landlords themselves did not present.
+
+Turning next to CR 19(a)(2)(B), Richardson’s absence does not leave the landlords subjected to multiple or inconsistent legal obligations. It is true that the order to restore Skinner to Unit 401 creates potentially inconsistent legal obligations for the landlords, as they have re-let the apartment to Richardson. But any inconsistent legal obligations do not arise from Richardson’s absence from the action. Any inconsistent legal obligations are exclusively a problem of the landlords’ voluntary making. They sought serial delays of the adjudication of Skinner’s claim to possession, then despite knowing of his claim, chose to re-let the property. The Landlords voluntarily re-let Unit 401 to Richardson approximately four months after the lawsuit was filed, after they were served with process, and with actual knowledge of Skinner’s claim to possession, and in addition, Richardson is a lessee in direct privity with the landlords. With these conditions present, the trial court did not abuse its discretion in denying the landlords’ CR 19 motion.
+
+B
+
+The landlords contend that the superior court erred in finding them guilty of forcible entry and forcible detainer, claiming their entry was lawful, Skinner was not in “actual possession” of the apartment, or Skinner had abandoned Unit 401. We affirm the superior court’s conclusion that the landlords forcibly entered and forcibly detained Unit 401.
+
+On appeal from a bench trial, we review the superior court’s findings to determine if they are supported by substantial evidence, and whether those findings support the conclusions of law. Columbia State Bank v. Invicta Law Grp. PLLC, 199 Wn. App. 306, 319, 402 P.3d 330 (2017). “ ‘Substantial evidence is a quantum of evidence sufficient to persuade a rational fair-minded person.’ ” Id. (quoting Sunnyside Valley Irrig. Dist. v. Dickie, 149 Wn.2d 873, 879, 73 P.3d 369 (2003)). On appeal, we view the evidence and make all reasonable inferences in the light most favorable to the prevailing party. Id. Credibility determinations are not reviewed on appeal. Id.
+
+<<*6>> No landlord “may ever use nonjudicial, self-help methods to remove a tenant.” Gray v. Pierce County Hous. Auth., 123 Wn. App. 744, 757, 97 P.3d 26 (2004). The purpose behind the forcible entry and detainer statute is to “prevent the disturbance of the public peace” by ensuring that even rightful landowners assert their right to possession in the court rather than by force or other extrajudicial means. Gore v. Altice, 33 Wash. 335, 338, 74 P. 556 (1903).
+
+One is “guilty of forcible entry” who by “breaking open windows, doors or other parts of a house, or by fraud, intimidation or stealth, or by any kind of violence or circumstance of terror, enters upon or into any real property.” RCW 59.12.010 (emphasis added). One is guilty of forcible detainer who “during the absence of the occupant of any real property, enters thereon, and who after demand made for the surrender thereof, refuses for the period of three days to surrender the same to such former occupant.” RCW 59.12.020. To be an “occupant,” a person must be in the peaceable and undisturbed possession of the real property “for the five days next preceding such unlawful entry.” RCW 59.12.020. For forcible entry, the plaintiff must also show the plaintiff “was peaceably in the actual possession at the time,” and for forcible detainer, the plaintiff must show the plaintiff was “entitled to the possession at the time.” RCW 59.12.140. “Actual continuous physical presence ... is not required to establish the possessory right [RCW 59.12.140] is intended to protect. Some actual physical control, with intent and apparent purpose of assertion dominion, is sufficient.” Priestley Mining & Milling Co. v. Lenox Mining & Dev. Co., 41 Wn.2d 101, 104, 247 P.2d 688 (1952); accord Randolph v. Husch, 159 Wash. 490, 490-91, 496, 496, 294 P. 236 (1930) (leasing and keeping personal property on an orchard constituted actual possession).
+
+The superior court concluded that the landlords used stealth to gain forcible entry of Unit 401. This was supported by findings of fact that the landlords’ agents were aware of Skinner’s arrest, release, and attempts to reenter the building. And during his absence, the landlords entered the apartment on November 21, 2022. These findings were supported by substantial evidence, including Skinner’s testimony about his failed attempts to reenter the building, the landlords’ knowledge of his efforts, and their posting notice on his apartment door while knowing he lacked access to the building. This evidence supports the inference that the landlords knew that Skinner could not know that they were entering the unit and seizing his belongings, and thus used stealth.
+
+The superior court concluded that the landlords engaged in forcible detainer because, in Skinner’s absence, they refused his demand to reenter Unit 401 for more than three days. This conclusion was supported by findings of fact that Skinner and the landlords had entered into a lease, Skinner continued in possession and the landlords accepted rental assistance, Skinner left his belongings in the unit, and he intended to return to his apartment. These findings were supported by substantial evidence, including Skinner’s lease, testimony that Skinner continued in the apartment with rental assistance, testimony that Skinner’s possessions were still in his apartment and his car was on the premises, and Skinner’s testimony detailing his attempts to reenter his apartment. Skinner made his demand to be restored to possession of Unit 401, through counsel, on January 18, 2023, and the trial was almost eight months later, well beyond the three days required by the statute. RCW 59.12.020. Skinner’s “actual possession” and entitlement to possession as required under RCW 59.12.140 are similarly established by evidence of his intent to return and his remaining belongings.
+
+<<*7>> The landlords assert the superior court failed to analyze the issue of abandonment and erroneously relied on Skinner’s statements that he did not intend to abandon. However, the record supports the superior court’s conclusion that the landlords did not meet their burden of proof to show that Skinner abandoned Unit 401 within the meaning of RCW 59.18.310. A tenant may be liable for abandonment if the tenant defaults on rent “and reasonably indicates by words or actions the intention not to resume tenancy.” RCW 59.18.310(1). “[A]bandonment of a property interest must be proved by clear, unequivocal and decisive evidence.” Nelson v. Pac. County, 36 Wn. App. 17, 22, 671 P.2d 785 (1983). In Watkins v. ESA Management, LLC, belongings left in the unit and a car left in the parking lot were sufficient evidence of a temporarily absent hotel guest’s intent to return to rebut a claim of abandonment. 30 Wn. App. 2d 916, 919, 926, 547 P.3d 271 (2024).
+
+The superior court’s conclusion that the landlords failed to prove abandonment is supported. There was evidence that Skinner had left his belongings and car on site. He demonstrated intent to reenter the premises on November 8, 2022. He further demonstrated his intent to return by filing a complaint with the city and by making continuous efforts to communicate with management. Although the landlords presented evidence conflicting in some ways with Skinner’s, the superior court did not find it credible. We do not re-weigh the evidence. See Real Carriage Door Co., Inc. ex. rel. Rees v. Rees, 17 Wn. App. 2d 449, 457, 486 P.3d 955 (2021) (“On appeal, we do not review the trial court’s credibility determinations.”).
+
+The landlords fail to justify appellate relief setting aside the superior court’s conclusion that they committed forcible entry and forcible detainer.
+
+III
+
+The landlords assert the superior court erred in the remedies it provided to Skinner. They assert it erred by ordering the prospective relief of an alternative unit or monetary damages in the judgment, by granting a postjudgment protective order for Skinner’s belongings on shortened time, and by granting Skinner attorney fees.
+
+A
+
+The landlords claim the trial court erred by ordering them to place Skinner in a substantially similar unit and by awarding prospective damages. They assert this relief was an error of law, as RCW 59.12.090 provides relief in the form of “the property in the complaint described.” We agree.
+
+In a forcible entry or detainer action, a plaintiff may apply to the court for a writ of restitution “restoring to the plaintiff the property in the complaint described, and the judge shall order a writ of restitution to issue.” RCW 59.12.090. In Watkins, the appellants asserted forcible entry and detainer under RCW 59.12.090, describing “15451 53rd Ave S, #110, Tukwila, WA 98188” as the property in their complaint. 30 Wn. App. 2d at 928. Possessory relief in the action was limited to restoration of that specific unit. Id.
+
+Skinner described the property in his complaint as “1050 James St., Unit 401, Seattle, WA 98104.” The landlords were found guilty of forcible entry and detainer and the court issued a writ of restitution to return Skinner to possession of Unit 401. The court did not have authority under RCW 59.12.090 to order the landlords to provide Skinner any other property or prospective damages. Id. The superior court’s orders for writ of restitution and judgment and supplemental judgment must be vacated insofar as they require the landlords to provide alternative property or prospective damages. We vacate conclusions of law 13, 14, and 15, and paragraphs 2 and 3 of the superior court’s decree, except to the extent they conclude and order that Skinner is entitled to possession of Unit 401. And we vacate the superior court’s May 29, 2024 supplemental judgment.
+
+B
+
+<<*8>> RCW 59.12.090 limits the form of relief, but under Excelsior, the superior court has authority to enforce its award of possession by other means. 171 Wn. App. at 345. One such means of providing relief is through the court’s contempt powers. RCW 7.21.030(2). If the landlords continue to refuse to restore possession of Unit 401 to Skinner, the superior court may hold a contempt hearing as an alternative to or in addition to issuance of a writ of restitution that would dislodge a new occupant, and if a contempt finding is made, the superior court may order remedies appropriate to contempt.
+
+Contempt proceedings require notice and a hearing. RCW 7.21.030(1). Remedial sanctions may be imposed if the court finds “that the person has failed or refused to perform an act that is yet within the person’s power to perform.” RCW 7.21.030(2). The court must find that such a failure to comply is intentional before imposing sanctions. RCW 7.21.010; Smith v. Whatcom County Dist. Ct., 147 Wn.2d 98, 112, 52 P.3d 485 (2002). Under RCW 7.21.030(2)(c), the court may craft an “order designed to ensure compliance with a prior order of the court,” including remedial relief up to $2,000 per day. RCW 7.21.030(2)(b). The court may “order a contemnor to pay losses suffered as a result of the contempt and costs incurred in the contempt proceedings ... without regard to whether it is possible to craft a coercive sanction.” In re Structured Settlement Payment Rights of Rapid Settlements, Ltd’s, 189 Wn. App. 584, 601, 359 P.3d 823 (2015).
+
+Here, the superior court has not held a contempt hearing and has not made the necessary finding that the landlords’ failure to comply with the judgment was intentional. While we conclude that the superior court lacked authority to order the landlords to provide an alternative unit or pay prospective damages, it had authority to order that the landlords restore Skinner to possession of Unit 401. And, upon following contempt procedures and making the required findings, the court has the authority either to find any contempt purged should the landlords provide Skinner a substantially equivalent unit, or to impose a daily forfeiture during any period of the landlords’ intentional noncompliance. On remand, the superior court has discretion to determine the appropriate means of enforcing its order restoring possession based on the circumstances, including whether it may appear that the landlords have intentionally failed to comply with the judgment. Should contempt be found, and because the landlords may yet purge any contempt by providing Skinner an alternative unit, we reverse as premature the superior court’s direction that a writ of restitution issue on August 31, 2024. We emphasize, however, that we are affirming the superior court’s ruling that Skinner is entitled to possession of Unit 401, and is therefore entitled to a writ of restitution in the event the landlords fail to provide alternative performance satisfactory to the superior court.
+
+C
+
+The landlords assert that the superior court did not have “jurisdiction” over Skinner’s personal property and car and therefore erred in entering a protective order enjoining disposal of such property. Further, they complain that the superior court violated court rules by shortening time to hear the motion for protective order. We disagree. The superior court had the authority, and acted well within its discretion, to ensure Skinner received the benefit of the possession awarded to him by the court.
+
+In a detainer action a court “ ‘does not sit as a court of general jurisdiction to decide issues unrelated to possession of the subject property,’ ” but it “ ‘may resolve any issues necessarily related to the parties’ dispute over such possession.’ ” Excelsior, 171 Wn. App. at 344-45 (quoting Port of Longview v. Int’l Raw Materials, Ltd., 96 Wn. App. 431, 438, 979 P.2d 917 (1999)). “A trial court has discretion when ruling on a motion to shorten time. A deviation from the normal time limits is permitted as long as there is ample notice and time to prepare. An appellate court will overturn a discretionary ruling only for a manifest abuse of discretion.” State ex rel. Citizens Against Tolls (CAT) v. Murphy, 151 Wn.2d 226, 236, 88 P.3d 375 (2004) (citation omitted).
+
+<<*9>> Skinner’s personal property and car were in the landlords’ possession only because they wrongfully took possession of them after their unlawful self-help eviction. When the landlords threatened to dispose of Skinner’s property after the court’s judgment, they had been storing it for a year. When Skinner moved for a protective order on shortened time, the landlords had at least two days’ notice, as required under local rules, to respond to Skinner’s motion. See King County Local Rule 7(b)(10)(D). The superior court had the authority to resolve issues related to possession of Unit 401, including Skinner’s personal property, and it acted properly in entering its protective order, and doing so on shortened time. We affirm the order shortening time and the protective order concerning Skinner’s belongings.
+
+D
+
+The landlords claim that Skinner did not provide sufficient notice that he would seek attorney fees and that there was no basis for the award of attorney fees. We disagree. “Washington follows notice pleading rules and simply requires a ‘concise statement of the claim and the relief sought.’ ” Champagne v. Thurston County, 163 Wn.2d 69, 84, 178 P.3d 936 (2008) (quoting Pac. Nw. Shooting Park Ass’n v. City of Sequim, Wn.2d 342, 352, 144 P.3d 276 (2006)). “It is unlawful for the landlord to remove or exclude from the premises the tenant thereof except under a court order so authorizing.” RCW 59.18.290(1). Any tenant so removed or excluded, if they are the prevailing party, may recover reasonable attorney fees. Id. Skinner properly provided notice that he would seek attorney fees in his initial and amended complaints. The superior court found that the landlords had unlawfully excluded Skinner from Unit 401, and that he was the prevailing party. Skinner is entitled to attorney fees under RCW 59.18.290.
+
+IV
+
+A
+
+In his cross appeal, Skinner seeks damages for the months he was displaced and awaiting a court ruling. He further contends that these damages, based on the value of rent he would have paid for those months, should be doubled by statute. We disagree. Skinner cites RCW 59.12.170 as a basis for his recovery. RCW 59.12.170 awards “the amount of any rent due” to the plaintiff, contemplating the recovery of rental value for property owners. See Holmquist v. King County, 192 Wn. App. 551, 562-63, 565, 368 P.3d 234 (2016) (property owners awarded rental value of their property after they were denied exclusive use); Brownie v. McNelly, 134 Wash. 380, 380-81, 384, 235 P. 807 (1925) (property owner awarded rental value in unlawful detainer action for property that defaulting purchasers continued to occupy after forfeiture). The purpose in awarding damages is to “place the plaintiff, as nearly as possible in the position [the plaintiff] would be had the contract been performed.” Lincor Contractors, Ltd. v. Hyskell, 39 Wn. App. 317, 320, 692 P.2d 903 (1984). “If the defendant, by [the defendant’s] breach, relieves the plaintiff of duties under the contract which would have required [the plaintiff] to spend money, an amount equal to such expenditures must be deducted from [the plaintiff’s] recovery.” Id. at 321. Skinner was denied the benefit of his bargain, Unit 401, but he was relieved from his duty of paying rent. We affirm the superior court’s decision that Skinner proved no damages for the period of time he was displaced and awaiting a court order.
+
+B
+
+The landlords argue that Skinner is not entitled to double damages by operation of a provision of the Residential Landlord-Tenant Act of 1973 (RLTA), chapter 59.18 RCW. In actions brought under chapter 59.12 RCW, “the judgment shall be rendered against the defendant guilty of the forcible entry, forcible detainer, or unlawful detainer for twice the amount of damages thus assessed.” RCW 59.12.170. But RCW 59.18.420 states that “The provisions of RCW ... 59.12.170 shall not apply to any rental agreement” included under the RLTA. Because we affirm the superior court’s determination that Skinner proved no damages, it is not necessary to address his claim for double damages.
+
+<<*10>> However, for the first time at oral argument in this court, the landlords expanded their argument under the RLTA, RCW 59.18.420, to eliminate, in addition to the remedy of double damages, the remedy of possession itself. Wash. Ct. of Appeals oral arg., supra, at 1 min., 7 sec. The landlords acknowledge that where a landlord has excluded a tenant from the premises without an authorizing court order, the RLTA provides the tenant the remedies of possession, actual damages, and reasonable attorney fees and costs. Wash. Ct. of Appeals oral arg., supra, at 1 min., 45 sec. RCW 59.18.290(1). But the landlords say Skinner cannot access this relief, because as the landlords argue in a statement of additional authorities, the RLTA also states that the tenant shall be current in the payment of rent and other obligations “before exercising any of the remedies accorded” under the RLTA, chapter 59.18 RCW.4 RCW 59.18.080. Under the landlords’ reasoning, even after establishing forcible detainer, a residential tenant would need to be current in rent to be able to obtain possession, actual damages, and reasonable attorney fees. We disagree with this reasoning.
+
+4
+
+We deny Skinner’s motion to strike the landlords’ statement of additional authorities.
+
+The RLTA has modified the application of chapter 59.12 RCW in cases involving residential tenancies. But the RLTA intends that the chapter 59.12 RCW claims for forcible entry, forcible detainer, and unlawful detainer will continue to be available in residential tenancies. RCW 59.18.180. The procedures set forth in the generalized unlawful detainer statutes, chapter 59.12 RCW, apply to the extent they are not supplanted by those found in the RLTA. Randy Reynolds & Assocs., Inc. v. Harmon, 193 Wn.2d 143, 156, 437 P.3d 677 (2019). Chapters 59.12 and 59.18 RCW are statutes in derogation of the common law and thus are strictly construed in favor of the tenant. Id.
+
+The RLTA includes a number of provisions that apply to claims under chapter 59.12 RCW when the tenancy falls within its scope. See RCW 59.18.363-.412. But the RLTA never purports to redefine the elements of proof of forcible entry or forcible detainer, nor to displace chapter 59.12 RCW except to the extent explicitly stated. It would defeat the longstanding legislative policy to outlaw self-help evictions if we were to say that a landlord may not legally effect one, but then say the landlord would owe no legal remedy for doing so if the tenant were behind in rent. Thus, although we do not reach and do not decide that the RLTA eliminates the double damages remedy of RCW 59.12.170 in residential tenancies, we hold that a tenant in a residential tenancy proving forcible entry or forcible detainer is entitled to recover possession, actual damages, and reasonable attorney fees and costs as provided in RCW 59.18.290(1), even if the tenant is or was behind in rent.
+
+C
+
+Skinner seeks attorney fees and costs under RAP 18.1 on appeal. “Reasonable attorney fees are recoverable on appeal only if allowed by statute, rule, or contract, and RAP 18.1(a).” Malted Mousse, Inc. v. Steinmetz, 150 Wn.2d 518, 535, 79 P.3d 1154 (2003). “[I]n general, where a prevailing party is entitled to attorney fees” in the trial court, “they are entitled to attorney fees if they prevail on appeal.” Sharbono v. Universal Underwriters Ins. Co., 139 Wn. App. 383, 424, 161 P.3d 406 (2007). The superior court awarded Skinner attorney fees under RCW 59.18.290. As the prevailing party in the superior court, and the prevailing party here, we grant Skinner reasonable attorney fees and costs on appeal subject to his further compliance with RAP 18.1(d).
+
+We affirm the superior court’s orders, except those that required the landlords to pay prospective damages and provide Skinner with possession of an alternative unit, which we vacate. We reverse as premature the direction for a writ of restitution to issue on August 31, 2024. We remand for further proceedings to enforce the superior court’s orders and judgment, to the extent affirmed herein, in a manner consistent with this opinion.
+
+WE CONCUR:
+
+** End
+#+STARTUP: show2levels

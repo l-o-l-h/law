@@ -1,0 +1,30 @@
+#+title:      Motion to Convert UD Action to Civil Action
+#+date:       [2025-06-17 Tue 14:03]
+#+filetags:   :action:civil:convert:motion:ud:
+#+identifier: 20250617T140352
+#+signature:  motion
+
+* Craig Watt Motion to Convert
+
+
+Craig Watt via groups.nwjustice.org <craig.watt=nwjustice.org@groups.nwjustice.org>
+12:23 PM (1 hour ago)
+to HTF
+
+Below is my briefing on converting a UD to a civil action. Chris Brunetti has briefed this, but differently. Perhaps he will chime in.
+
+
+** The Court’s special statutory authority over this Unlawful Detainer ceased, the tenant already vacated.
+
+“Show cause hearings are summary proceedings to determine the issue of possession pending a lawsuit.” Carlstrom v. Hanline, 98 Wn. App. 780, 788, 990 P.2d 986, 990 (2000) (internal citation omitted). “[They] are summary proceedings to determine the issue of possession pending a lawsuit.” Id. (internal citation omitted).
+
+Unlawful detainers are narrow statutory proceedings, brought under RCW 59.12.030, “to determine the right of possession as between landlord and tenant.” Munden v. Hazelrigg, 105 Wn. 2d 39, 45, 711 P.2d 295 (1985). “A court presiding over an unlawful detainer action sits as a special statutory tribunal, not as a court of general jurisdiction.” Granat v. Keasler, 99 Wash.2d 564, 570-71, 663 P.2d 830 (1983). As such, the court lacks authority to address disputes unrelated to possession. Id (emphasis added).
+
+
+** The Court does not have general jurisdiction to address remaining disputes.
+
+“Where the right to possession ceases to be at issue at any time between the commencement of an unlawful detainer action and trial of that action, the proceeding may be converted into an ordinary civil suit for damages, and the parties may then properly assert any cross claims, counterclaims, and affirmative defenses…. [A] trial court has inherent power to fashion the method by which an unlawful detainer action is converted to an ordinary civil action. The court may require amended pleadings to convert the unlawful detainer to a civil suit. It may grant a continuance. In any event, once converted, the civil suit is no longer entitled to the calendar priority afforded an unlawful detainer action by RCW 59.12.130.
+
+Munden, 105 Wn. 2d at 45—48 (emphasis added).
+
+“Merely granting a party's request for general civil damages is insufficient. See Angelo Prop. Co. v. Hafiz, 167 Wash. App. 789, 818, 274 P.3d 1075 (2012) (no subject matter jurisdiction when court could have converted unlawful detainer action to general action for damages but did not do so).” Castellon v. Rodriguez, 4 Wn. App. 2d 8, 18–19, 418 P.3d 804, 809–10 (Div. 3, 2018). In an unpublished but citable case, the Plaintiff filed an amended complaint seeking damages for breach of contract, Defendants filed an answer asserting multiple affirmative defenses and a cross-claim, and further proceedings occurred. Mondragon v. Robinson Props. & Invs., LLC, 12 Wn. App. 2d 1028 (Div. 1, 2020) (Unpublished).
