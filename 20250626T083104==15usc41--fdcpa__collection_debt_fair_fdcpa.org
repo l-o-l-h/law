@@ -1,0 +1,46 @@
+#+title:      FDCPA
+#+date:       [2025-06-26 Thu 08:31]
+#+filetags:   :collection:debt:fair:fdcpa:
+#+identifier: 20250626T083104
+#+signature:  15usc41
+
+* Federal Fair Debt Collection Practices Act
+
+** Overview
+
+[[https://en.wikipedia.org/wiki/Fair_Debt_Collection_Practices_Act][Site]]
+
+The Fair Debt Collection Practices Act (FDCPA), Pub. L. 95-109; 91 Stat. 874, codified as 15 U.S.C. § 1692 –1692p, approved on September 20, 1977 (and as subsequently amended),
+
+is a consumer protection amendment, establishing legal protection from abusive debt collection practices, to the Consumer Credit Protection Act, as Title VIII of that Act.
+
+The statute's stated purposes are:
+- to eliminate abusive practices in the collection of consumer debts,
+- to promote fair debt collection, and
+- to provide consumers with an avenue for disputing and obtaining validation of debt information in order to ensure the information's accuracy.[1]
+
+The Act
+- creates guidelines under which debt collectors may conduct business,
+- defines rights of consumers involved with debt collectors, and
+- prescribes penalties and remedies for violations of the Act.
+
+It is sometimes used in conjunction with the Fair Credit Reporting Act.[2][3]
+
+** Federal Trade Commission on FDCPA
+[[https://www.ftc.gov/legal-library/browse/rules/fair-debt-collection-practices-act-text][Site]]
+
+As a public service, the staff of the Federal Trade Commission (FTC) has prepared the following complete text of the Fair Debt Collection Practices Act
+
+§§ 1692-1692p.
+
+Please note that the format of the text differs in minor ways from the U.S. Code and West’s U.S. Code Annotated. For example, this version uses FDCPA section numbers in the headings. In addition, the relevant U.S. Code citation is included with each section heading. Although the staff has made every effort to transcribe the statutory material accurately, this compendium is intended as a convenience for the public and not a substitute for the text in the U.S. Code.
+
+** 15 USC Ch 41 Subchapter V -- Debt Collection Practices
+[[https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-V][Site]]
+
+** Sample Verification Letter
+[[https://library.nclc.org/companion-material/sample-verification-letter?s=validation][In Green Book]]
+[[denote:20250627T090335][word  verification-letter]]
+
+** See Also
+[[denote:20241113T084226][15usc1681  Fair Credit Reporting Act - FCRA]]

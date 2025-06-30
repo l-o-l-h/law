@@ -28,18 +28,38 @@ Subject: Eviction law firm meets FDCPA definition of "debt collector"
 
 Caution: This is an external email. Please take care when clicking links or opening attachments.
 
-Judge Rules Law Firm Specializing in Evictions Meets FDCPA’s Definition of ‘Debt Collector’
+*Judge Rules Law Firm Specializing in Evictions Meets FDCPA’s Definition of ‘Debt Collector’*
 mikegibbby mikegibb   April 10, 2025  in Compliance, FDCPA
+
 A District Court judge in Minnesota has denied a defendant’s motion for judgment on the pleadings in a Fair Debt Collection Practices Act case, ruling the defendant — a law firm that specializes in representing landlords — meets the statute’s definition of a “debt collector.”
 
-The background: The case was filed after the defendant pursued eviction actions on behalf of clients against several tenants. In each instance, the defendant was hired to evict tenants over rental arrears, but the plaintiffs argue that the defendant’s actions extended beyond simply evicting them. For instance, in one case, a tenant alleges that the defendant tried to collect an incorrect debt after a landlord improperly assessed duplicate charges following an overpayment. Similarly, other plaintiffs allege that the defendant’s eviction actions sought to recover amounts that they did not legally owe, including excessive fees and overstated rental arrears.
+- The background ::
+  - The case was filed after the defendant pursued eviction actions on behalf of clients against several tenants.
+  - In each instance, the defendant was hired to evict tenants over rental arrears, but
 
-The plaintiffs argue that the defendant’s conduct violated multiple provisions of the FDCPA, including the prohibition against misleading representations and unlawful collection practices.
-In response, the defendant filed motions for judgment on the pleadings in three separate cases, asserting that its actions were exempt from the FDCPA’s reach because they were primarily related to enforcing a security interest, similar to actions in nonjudicial foreclosure cases.
-The ruling: Judge Katherine Menendez of the District Court for the District of Minnesota disagreed with the defendant’s position, like that in the Obduskey v. McCarthy & Holthus LLP case, that its eviction efforts were merely to enforce a security interest and should fall outside the scope of the FDCPA.
+- the plaintiffs argue that ::
+  - the defendant’s actions extended beyond simply evicting them.
+  - For instance, in one case, a tenant alleges that
+    - the defendant tried to collect an incorrect debt after a landlord improperly assessed duplicate charges following an overpayment.
+  - Similarly, other plaintiffs allege that
+    - the defendant’s eviction actions sought to recover amounts that they did not legally owe, including excessive fees and overstated rental arrears.
 
-Judge Menendez explained in her ruling that while Obduskey limited debt collector status to specific cases involving security interest enforcement, it did not create an exemption for eviction proceedings under Minnesota law. She emphasized that eviction actions, particularly when related to rent collection or disputes, often qualify as debt collection, a position previously supported in similar cases within the district.
-“Although the Eighth Circuit has not addressed this issue, courts in this District have observed that under Minnesota law, an eviction action is ‘equivalent to a demand for rent,’ and therefore qualifies as debt collection activity for purposes of the main coverage of FDCPA,” Judge Menendez wrote in her ruling.
+- The plaintiffs argue that ::
+  - the defendant’s conduct violated multiple provisions of the FDCPA,
+  - including the prohibition against misleading representations and unlawful collection practices.
+
+- In response, the defendant filed motions for judgment on the pleadings in three separate cases, asserting that ::
+  - its actions were exempt from the FDCPA’s reach because
+    - they were primarily related to enforcing a security interest, similar to actions in nonjudicial foreclosure cases.
+
+- The ruling ::
+  - Judge Katherine Menendez of the District Court for the District of Minnesota _disagreed_ with the defendant’s position, like that in the Obduskey v. McCarthy & Holthus LLP case, that its eviction efforts were merely to enforce a security interest and should fall outside the scope of the FDCPA.
+
+  - Judge Menendez explained in her ruling that ::
+    - while Obduskey limited debt collector status to specific cases involving security interest enforcement,
+    - it did not create an exemption for eviction proceedings under Minnesota law.
+    - She emphasized that eviction actions, particularly when related to rent collection or disputes, often qualify as debt collection, a position previously supported in similar cases within the district.
+    - “Although the Eighth Circuit has not addressed this issue, courts in this District have observed that under Minnesota law, an eviction action is ‘equivalent to a demand for rent,’ and therefore qualifies as debt collection activity for purposes of the main coverage of FDCPA,” Judge Menendez wrote in her ruling.
 
 [[https://www.accountsrecovery.net/wp-content/uploads/2025/04/Johnson-v.-Landlord-Resource-Network.pdf][Read the Ruling]]
 
@@ -71,4 +91,4 @@ Nick, in addition to CR 3(e), RCW 19.16.250(27) also prohibits a collection agen
 
 I’ll further note that although the CAA seems to exclude “lawyers” from its definition of “collection agency” (see RCW 19.16.100(5)(c)), the courts have interpreted that as only excluding lawyers who are attempting to collect their own debts.  Paris v. Steinberg & Steinberg, 828 F.Supp.2d 1212 (2011); Jenkins v. Puckett and Redford PLLC, 2020 WL 45179333 (2020).
 
-I’ve only just started thinking about how we could potentially use FDCPA and CAA in the context of representing tenants being evicted, so I’m not entirely sure how applicable it is, or how often it would even make sense strategically to raise claims/defenses based on the FDCPA/CAA.  That being said, I think we should try to familiarize ourselves to some extent with the prohibited acts in 15 USC 1692f and RCW 19.16.250 (Also, would landlord attorneys be subject to the licensing requirements in the CAA, RCW 19.16.110 and .260?), and continue the discussion about how and when to use these statutes to benefit our clients.  In that regard, I’m very interested in hearing others’ thoughts on this.
+I’ve only just started thinking about how we could potentially use FDCPA and CAA in the context of representing tenants being evicted, so I’m not entirely sure how applicable it is, or how often it would even make sense strategically to raise claims/defenses based on the FDCPA/CAA.  That being said, I think we should try to familiarize ourselves to some extent with the prohibited acts in [[https://www.law.cornell.edu/uscode/text/15/1692f][15 USC 1692f]] and [[https://app.leg.wa.gov/rcw/default.aspx?cite=19.16.250][RCW 19.16.250]] (Also, would landlord attorneys be subject to the licensing requirements in the CAA, RCW 19.16.110 and .260?), and continue the discussion about how and when to use these statutes to benefit our clients.  In that regard, I’m very interested in hearing others’ thoughts on this.

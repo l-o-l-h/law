@@ -2,6 +2,7 @@
 #+date:       [2024-11-13 Wed 08:42]
 #+filetags:   :credit:fcra:law:
 #+identifier: 20241113T084226
+#+signature:  15usc1681
 
 * About the FCRA
 
@@ -16,6 +17,7 @@ information to reinvestigate in response to a consumer dispute. Keep
 reading to find out more about disputes.
 
 * FCRA Statutes
+15 U.S.C. § 1681 et seq
 
 * FCRA Web Sites
 ** SaraEllen Hutchison
@@ -608,3 +610,6 @@ credit report in future.
 
 If you have a problem with your credit report, you can also
 [[https://www.consumerfinance.gov/complaint/][submit a complaint with the CFPB]].
+
+* See Also FDCPA
+[[denote:20250626T083104][15usc41  FDCPA]]
