@@ -1,0 +1,173 @@
+#+title:      Rent Stabilization Training Materials
+#+date:       [2025-07-01 Tue 09:23]
+#+filetags:   :rent:resource:stabilization:training:
+#+identifier: 20250701T092338
+#+signature:  training
+
+* Email [2025-05-19 15:21]
+
+Laura Parmenter via groups.nwjustice.org <laura.parmenter=nwjustice.org@groups.nwjustice.org>
+Attachments
+May 19, 2025, 3:21 PM
+to HTF@groups.nwjustice.org
+
+Hello, all.
+
+If you missed the Rent Stabilization training today, you can find a recording of it [[https://groups.nwjustice.org/g/HTF/files/Rent%20Stablization%20training][HERE]].  Plus, all materials are attached.
+
+See [[denote:20250701T091915][powerpoint  rent-stabilization-prez-may-1-2025]]
+
+Thank you,
+
+Laura Parmenter (She/Her)
+Advocacy Counsel Legal Assistant
+Northwest Justice Project
+Phone 509-404-9238
+
+* Notes from Sharon Cousineau [2025-05-19 18:34]
+Sharon Cousineau <sharon@ccvlp.org>
+Mon, May 19, 6:34 PM
+to Ben, me, Robert, Cass, April, Amy, Morgan, Loulou, Sara
+
+HTF Meeting to review new legislation – Overview only today – purpose of meeting is to start generating questions and potential issues regarding the new laws.
+HTF will provide a training regarding same in June.  Andrew Baron and Chris Brunetti are developing the training.  As you review the bills and/or start to work with them, please refer issues that may need clarification to them.
+
+** HB 1217 – Rent Stabilization  - Statute went into effect on 5/7/2025 *
+
+ (I went in and got some summary info from the legislature's website as there wasn't enough time to go over all the changes/new rules)
+
+1.     RLTA
+
+·       Section 101: Most future rent increases capped at 7% + CPI or 10% (whichever is lower)  AND
+        o   Lease parity at 5% (no more than 5% difference in rent for term v. MTM leases)
+·       Section 102: Exempt tenancies
+·       Section 103: Increase notice (form)
+·       Section 104: Rent increase notice time expanded from 60 days to 90.
+
+2.   M-MHLTA
+
+·       Section 201: Rent control for M-MHLTA
+·       Section 202: Exempt M-MHLTA tenancies
+·       Section 203: M-MHLTA Increase notice (form)
+·       Section 204: RCW 59.20.170 move-in deposit cap
+·       Section 205: Amending of late fees
+·       Section 206: M-MHLTA rent definition à RLTA definition
+
+** HB 1217 - Summary of Engrossed Bill:
+
+*** Rent Increase Limit.
+
+Unless an exemption applies, rent increases under the RLTA are limited during any 12month period of a tenancy to the lesser of 7 percent plus the Consumer Price Index (CPI), or 10 percent.  Rent increases under the MHLTA are limited during any 12-month period of a tenancy to 5 percent.  Under both the RLTA and the MHLTA, rent increases are also prohibited during the first 12 months of a tenancy.
+
+The CPI is defined as the June 12-month percent change in the CPI for all urban consumers, all items, for the Seattle area, as published by the United States Bureau of Labor Statistics.  Beginning June 1, 2025, and annually thereafter, the Department of Commerce must calculate the maximum annual rent increase percentage allowed under the RLTA and publish the information on its website and in a press release.
+
+The RLTA rent increase limit does not prohibit a landlord from adjusting the rent by any amount after a tenant vacates the dwelling unit and the tenancy ends.
+
+**** Expiration of Limit.
+
+The RLTA rent increase limit and related provisions expire July 1, 2040.
+
+*** Exemptions to the Rent Increase Limit.
+
+The rent increase limit does not apply in the following circumstances:
+
+·       for tenancies under the RLTA where the first certificate of occupancy was issued 12 or less years before the date of the notice of the rent increase;
+
+·       for tenancies under either the RLTA or the MHLTA operated by public housing authorities; public development authorities; nonprofit organizations where maximum rents are regulated by other laws or local, state, or federal affordable housing program requirements; or certain other nonprofit entities; and for tenancies in certain qualified low-income housing developments where the property is owned by any such organizations;
+
+·       for tenancies under the RLTA in qualified low-income housing developments which were allocated federal low-income housing tax credits, so long as there is an enforceable regulatory agreement with the Washington State Housing Finance Commission;
+
+·       for tenancies in certain owner-occupied rentals under the RLTA, including the following, as long as the owner is not a real estate investment trust, a corporation, or a limited liability company in which at least one member is a corporation:
+
+·       tenancies in a dwelling unit where the tenant shares a bathroom or kitchen with the owner who maintains a principal residence at the property;
+
+·       tenancies in single-family owner-occupied residences, including residences where the owner-occupant rents no more than two units or bedrooms; and
+
+·       tenancies in duplexes, triplexes, and fourplexes in which the owner occupied one of the units as a principal residence at the beginning of tenancy, so long as the owner continues the occupancy;
+
+·       for tenancies under the MHLTA, during the first 12 months after the qualified sale of a manufactured/mobile home community (MHC) to an eligible organization under the MHLTA whose mission aligns with the long-term preservation and affordability of the MHC, if needed to cover the cost of purchasing the MHC and approved by the majority of homeowners in the MHC; and
+
+·       for tenancies under the MHLTA, if a rental agreement is transferred due to a former tenant's sale of a manufactured/mobile home, the landlord has the option to make a one-time rent increase of any amount at the time of the rental agreement's first renewal after the transfer, as long as the landlord provides the tenant with notice of this one-time increase option prior to final transfer of the rental agreement.
+
+*** Rent Increase Notice Requirements.
+
+A landlord must provide tenants with written notice of rent increases in a specific form known as the Rent and Fee Increase Notice to Tenants.  The form includes a brief summary of the laws regarding rent increases and the exemptions that can be claimed by a landlord.  If a landlord claims an exemption from the rent increase limit, the landlord must include facts or attach documents to the notice form supporting any claimed exemptions.  The notice must be served in accordance with the requirements for service of notices under the unlawful detainer laws, the RLTA, and the MHLTA.
+
+The rent increase notice period under the RLTA is increased from 60 days to 90 days such that a landlord is required to provide a minimum of 90 days' written notice to tenants before the effective date of any rent increase.  However, for a tenant whose lease or rental agreement was entered into or renewed before the effective date of the bill and whose tenancy is for a specified time, if the lease or rental agreement has more than 60 days but less than 90 days left before the end of the specified time, the landlord must provide written notice to the tenant a minimum of 60 days before the rent increase.
+
+*** Opportunity to Cure and Tenant Lease Termination Provisions.
+
+If a landlord increases rent above the rent increase limit and is not authorized by an exemption, the tenant:
+
+·       must offer the landlord an opportunity to cure the unauthorized rent increase by providing the landlord with a written demand to reduce the increase to an amount that complies with the limit; and
+
+·       may terminate the rental agreement at any time before the effective date of the increase by providing the landlord with a 20-day written notice under the RLTA or a 30-day written notice under the MHLTA.  In such case, the tenant owes rent for the full month in which the tenant vacates the dwelling unit or manufactured/mobile home lot, and the landlord is prohibited from charging the tenant any fines or fees for terminating the rental agreement.
+
+*** Other Tenant Protections.
+
+In addition to the rent increase limit, rent increase notice requirements, and tenant lease termination provisions, the following tenant protections are provided.
+
+**** For tenancies subject to the MHLTA:
+
+·       Move-in fees and security deposits combined may not exceed one month's rent, unless the tenant has any pets in which case the move-in fees and security deposits combined may not exceed two months' rent.  This requirement applies to leases or rental agreements entered into on or after the effective date of the bill.
+
+·       Late fees may not exceed 2 percent of the tenant's total rent per month during the first month that rent is past due, 3 percent of the tenant's total rent per month during the second consecutive month that rent is past due, and 5 percent of the tenant's total rent per month during the third consecutive month and all subsequent consecutive months that rent is past due.  This requirement applies to leases or rental agreements entered into or renewed on or after the effective date of the bill.
+
+**** For tenancies subject to the RLTA:
+
+Landlords are prohibited from including terms or conditions in a rental agreement that are more burdensome to a tenant for a month-to-month rental agreement than for a rental agreement where the term is greater or lesser than month-to-month, or vice versa.  However, a landlord must provide parity between lease types with respect to the amount of rent charged for a specific dwelling unit.  For these purposes, "parity between lease types" means that the landlord may not charge a tenant more than a 5 percent difference in rent for a specific dwelling unit depending on the type of lease or rental agreement offered.  This 5 percent difference may not cause the rent charged for a specific dwelling unit to exceed the rent increase limit.
+
+**** For tenancies subject to the RLTA or the MHLTA:
+
+Landlords are prohibited from reporting a tenant to a tenant screening service provider for failure to pay the portion of the tenant's rent that was unlawfully increased.
+
+*** Cause of Action.
+
+A tenant or the Attorney General (AG) may bring a court action to enforce compliance with the bill.  If the court finds that a landlord has violated the bill, the court must award reasonable attorneys' fees and costs to the entity who brings the lawsuit.  The court must also award the tenant damages in the amount of any excess rent, fees, or other costs paid by the tenant, and damages in an amount of up to three months of any unlawful rent, fees, or other costs charged by the landlord.
+
+The AG has certain investigative powers and may bring an enforcement lawsuit even if the tenant has not offered the landlord an opportunity to cure.  The civil penalties that the AG may recover are limited to $7,500 per violation.
+
+Landlord Resource Center. The Department of Commerce must create an online landlord resource center to distribute information to landlords about available programs, associated services, and resources, such as the Landlord Mitigation Program and low-income weatherization programs.
+
+*** Definition of Rent.
+A definition of "rent" or "rental amount" is added to the MHLTA that is similar to the definition provided in the RLTA.  For the MHLTA, these terms are defined as recurring and periodic charges identified in the rental agreement for the use and occupancy of the manufactured/mobile home lot, which may include certain charges for utilities.  These terms do not include nonrecurring charges for costs incurred due to late payment, damages, deposits, legal costs, or other fees.
+** SB 5313 – New Rental Agreement Provisions – goes into effect on 7/27/2025
+
+A landlord may not include in the rental agreement a provision in which the tenant agrees to:
+
+·       waive or forgo any right to bring, join, or otherwise participate in or maintain any cause of action against the tenant's landlord or the landlord's representatives or agents including, but not limited to, class actions;
+·       sign a nondisclosure agreement relating to the lease agreement or details of the offer, including rent amount, security deposits or fees, rent concessions, move-in gifts, or lease specials or terms; and
+·       arbitrate disputes, unless the landlord pays the entire cost of the arbitration, and the agreement is notarized. The provisions of this act apply to leases and rental agreements entered into or renewed on or after the effective date of the act.
+
+** HB 1003 – New Notice requirements – goes into effect on 7/27/2025
+
+Modifies requirements for service by mail of notices required under the unlawful detainer laws (changes in bold).
+
+·       Service by mail is deemed complete when the notice is deposited in the United States mail, with postage prepaid, by certified mail posted from within Washington State and directed to the last known address of the person entitled to the notice.
+·       When a notice is served by mail, five additional days must be allowed before the commencement of any action based on that notice.  A termination notice must specify the date by which the person to whom the notice is sent must vacate or, if applicable, comply.
+
+** Questions / issues:
+
+What is the “first certificate of occupancy” for a dwelling unit that is rehabilitated?
+
+M-MHLTA rent definition / RLTA rent definition and attorney fees
+
+Tenant must offer LL an opportunity to cure:
+
+Is unlawful increase a mere condition precedent for termination?  Or as to “all remedies?”
+
+      What is considered “rent”?  Do utilities added to rent increase the base rent for purposes of increase?
+
+Utilities?
+
+      If flat fee = rent;
+
+      If based on usage = not rent?
+
+How to deal with clients who received notice of increase after 5/7/2025:
+
+            Should they sign lease?
+
+Should they pay the rent increase?
+
+How does “lease parity” factor into rent increase rules?

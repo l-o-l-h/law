@@ -1,0 +1,18 @@
+#+title:      24 CFR 982.404 Maintenance: Owner and family responsibility; PHA remedies
+#+date:       [2025-06-30 Mon 14:03]
+#+filetags:   :federal:law:maintenance:pha:regulalation:
+#+identifier: 20250630T140356
+#+signature:  cfr
+
+* URL
+https://www.ecfr.gov/current/title-24/section-982.404
+
+** Owner Obligations
+
+** Family Obligations
+
+** Determination of Noncompliance with HQS
+
+** PHA Remedies
+
+** Relocation Due to HQS Deficients

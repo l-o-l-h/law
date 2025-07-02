@@ -1,0 +1,142 @@
+#+title:      Manufactured Home Owners--Know Your Rights (Washington Low Income Housing Alliance)
+#+date:       [2025-06-30 Mon 17:28]
+#+filetags:   :2025:home:laws:mobile:
+#+identifier: 20250630T172807
+#+signature:  training
+
+* Zoom Presentation [2025-06-30 Mon 17:30]
+Michele Thomas <michelet@wliha.org>
+2:59 PM (2 hours ago)
+to Michele, Ashe, Rob
+
+Hi all! Thank you for registering for tonight’s training! Just a reminder that it starts at 5:30 and will go until 7:00. Be sure to have some water and nourishment near by, we will be going into the weeds so that you have all the information you need to know and enforce your new rights!
+
+The training will have simultaneous interpretation and we will send the slides afterwards in both English and Spanish.
+
+After you registered, you were sent a unique zoom link. If you can’t find that, just register again and get a new one: https://us02web.zoom.us/meeting/register/hbt0h93vTnWzbQqHPYAjqA
+
+See you this evening,
+
+Michele
+
+Michele Thomas, she/her/hers (why we share our pronouns)
+Director of Policy and Advocacy
+Washington Low Income Housing Alliance
+(Contact Michele via the Housing Alliance Action Fund at MicheleT@housingactionfund.org)
+wliha.org  I  fb /wliha  I  tw @wliha
+
+* Presenters
+- Michele T (WA Low Income Housing Alliance)
+- Meredith Bruch (Statewide Advocacy Counsel)
+- Rob Huff (WA Low Income Housing Alliance)
+- Sebastian Miller
+- Lauren Holzer (WA AGO)
+- Elena Huizar (WA AGO)
+
+* Manufactured Home Owners
+You must: Own the home and rent the land.
+
+* Meredith Bruch
+Attorney, NJP
+
+Rent stabilization
+
+Changes to the law that will apply to mobile home tenancies
+
+HB 1217 Rent Stabilization
+
+- Rent increase limit
+- Exemptions to the rent increase limit
+- Notice requirements
+- Opportunity to Cure, tenant lease termination provisions
+- Other tenant protections and provisions
+- Potential issues
+- Enforcement by Attorney General
+- Resources
+
+** Rent increase limit
+- Inreases prohibited during first 12 months of tenancy (always been true)
+- During any 12-month period, rent increase is limited to 5% (cap); better than for RLTA tenants.
+- No prohibitation on LL adjusting rent by any amount after T vacates and ends tenancy
+- Default is 1 year, but individual lease could be different than 1 year.
+
+** Exemptions
+- During first 12 months after sale of a community to an eligible organization.  Pretty rare.
+- If agreement is transferred upon T's sale of their home, LL has option to a one-time rent increase of any amount at the time of the RA's first renewal after transfer; LL must provide buyer with notice of one-time increase prior to transfer.  Probably the most relevant for most people.  The T's right to transfer (not the LL's right).  LL will sign off for background checks.  Upon a transfer mid-year, LL cannot raise rent until after the year ends.
+- Park or lot is owned by a PHA, PDA of a non-profit.
+
+** Notice Requirements for an Increase
+- Notice must be in a form that is substantially the same as the form in the Act
+- If an exemption is claimed, LL must include facts and docs supporting the exemption.
+- Notice must be served and timed in accordance with the existing requirements
+  1. Served 90 days prior to increase
+  2. Increase can ONLY be made upon the lease renewal date (yearly usually)
+  3. Served by
+     - personal delivery; or
+     - leaving it with a suitable person AND mailing it; or
+     - posting it on the property, deliverying it to anyone found at the property, and mailing it to the property.
+
+If your lot rent is based on your income under a subsidy program, notice requirements may differ.
+
+** Opportunity to Cure / Tenant Lease Termination
+If LL increases rent above the limit, and there is no applicable exemption, the tenatn
+- must offer LL opportiunity to cure by providing LL with written demand (see NJP Housing 643); and
+- may terminate the rental agreement at any time before the effective date of the increase by providing the LL with written notice (30 cdays under MHLTA).
+- T must pay rent for full month in which they vacate;
+- LL prohibited from charging T any fines or fees for terminating the agt.
+- Most important part is to put the LL on notice; do it in writing and keep documents to support receipt (certified mail).
+- Also email park manager and attach proof of service receipt to the email.
+
+** Other T Protections for MHLTA Tenants
+- Move-in fees and security deposits combined may not exceed one month's rent, except if T has pets, then move-in fees and security deposits cannot exceep two months' rent.  Applies to rental agreements into on or after May 7, 2025.  Does NOT apply to agreements that renew after May 7, 2025
+- Late fees may not exceed 2% of T's total rent per month during first month rent is past due; 3% during second consecutive month rent is past due; 5% during 3rd and subsequent months.  Applies to rental agts entered on or after May 7, 2025.  Does apply to agts taht renew after May 7, 2025.
+- LLs prohibited from reporting to tenant screening provider that T's failure to apy any portion that was unlawfully increased.
+- Provides definition of "rent" ...
+
+** Potential Issues
+- Utilities as rent when fixed or not fixed
+  - Utility payments may be included in your lease as "rent" and if they are-the limits on increases apply
+- Rent increases given before May 7
+- LL might threaten eviction if T does not enter into a new lease agt; this starts a new 12-month period; illegal, but might be hard to prove.
+
+** Cause of Action / Enforcement by AG
+- T or AG may bring action to enforce compliance
+- If it is determined LL violated the act, court shall award T
+  - damages of any excess rent, fees, costs
+  - ...
+
+.** Reminder: Your rights when the Park sells
+- You are NOT required to sign a new lease when the park has a new owner
+  - The new owner inherits the existing leases-no matter how many years
+- Your lease continues to automatically renew on the same anniversary renewal date
+- Rent can only be increased if you are given 90 days minimum notice before your renewal
+- ...
+
+** Resources
+1. https://www.washingtonlawhelp.org
+2. Landlord Resource Center: Dept of Commerce
+3. Attorney General MHLTA Dispute Resolution Program https://...
+
+* AGO Presenters
+- Lauren Holzer
+- Elena Huizar, Outreach Services Supervisor, Consumr Protection Division
+
+** AGO Enforcement Authority
+- Sections 101(5), and 201(4)
+- Sue, investigations, enforcement
+- Not dependent on whether or not T has done anything themselves
+
+** Other Remedies
+- AG may also recover for "civil penalties" of up to $7500 per violation.
+- Injunctive relief
+
+** File a Complaint
+AGO website atg.wa.gov front and center
+
+* Questions
+1. Recording can be sent to those who missed
+2. Slides will be sent to all who registered
+3. Any rental assistance? Depends on County
+4. Mixed park; as long as more than 2, falls under MHLTA; some might be daily or weekly; law will not apply to them.
+5. Creative attempts to raise rent more than 5%; place an accrual on the ledger; hope the court of appeals rules that increase was effective.
+6. The rent increase effective date is the important date, not the date of the notice.  A rent increase notice that increases rent over a number of years is invalid.
