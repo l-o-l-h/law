@@ -7,3 +7,110 @@
 :PROPERTIES:
 :DIR:      ~/.local/share/notes/law/memoranda
 :END:
+
+* Cases
+
+** List of Cases
+Adam Johnson via groups.nwjustice.org <adam.johnson=nwjustice.org@groups.nwjustice.org>
+Wed, Jul 2, 1:18 PM (19 hours ago)
+to Jacob, HTF@groups.nwjustice.org
+
+Check these cases for any negative treatment, but here is a definition of waste:
+
+Waste is the committing or permitting of an injury to a landlord’s reversionary interest by a tenant.  Serious, permanent damage to the premises is required for a court to find waste. Graffel v. Honeysuckle, 30 Wash.2d 390, 191 P.2d 858 (1948).  Waste requires a showing of a diminution in the value of the property. Shepard v. Dye, 137 Wash. 181, 188, 242 Pac. 381 (1926).
+
+But, under .650 a LL can also use a 3-day notice for “unlawful activity that affects the use and enjoyment of the premises, or other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant.”
+
+A very unfortunate broadening of the bases for a 3-day notice, in my opinion.
+
+** Indigo
+
+Elizabeth Powell via groups.nwjustice.org <EPowell=ccsww.org@groups.nwjustice.org>
+Thu, Jul 3, 11:40 AM (5 days ago)
+to bramm@kitsaplegalaid.org, rob@ccvlp.org, craig.watt@nwjustice.org, HTF@groups.nwjustice.org
+
+Indigo Real Estate Services v Wadsworth is right on point. Tenant had a piece of plywood on her porch.
+
+Indigo issued a 10-day Comply or Vacate. Court said it was not a material breach of the rental agreement. Elizabeth
+
+* Best Argument
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+Attachments
+Wed, Jul 2, 1:38 PM (19 hours ago)
+to Adam, Jacob, HTF@groups.nwjustice.org
+
+Jacob,
+
+Your best argument is that there are material issues of fact as to whether there exists nuisance or waste.  The best case to look at for that would be Kiemle & Hagood v. Daniels, 26 Wn.App.2d 199 (2023).  Attached is the initial brief.  The analysis re waste, nuisance, material issue of fact, etc., begins at page 46.  But also take a look at Hill v. Huddleston, 28 Wn.App.2d 1050 (2023), which unfortunately is not very good for us.  However, it is unpublished.
+
+I think the fact that the landlord is getting notices from the city with regard to the condition of the property, is not good for you.  I think the court is going to (rightly or wrongly) place significant evidentiary value on the findings that the city is making with regard to the condition of the property.  So, you're definitely going to need to address that issue, and unfortunately the Daniels case and briefing doesn't really get into that.
+
+Also, take a look at RCW 59.18.180, which provides the tenant 30 days to cure these sorts of issues, despite the fact that .650(2)(c) doesn't allow for a cure period.  Also, as a practical matter, even though 3-day notices aren't curable, if you can show the court (at the time of the show cause hearing) that client has remedied the conditions (or at least taken significant steps toward remediating the issues), then you'll improve your chances of convincing the court to not evict your client.
+
+Good luck.
+
+Chris
+
+[[file:memoranda/Brief of Appellant re Waste and Nuisance Defense \[2022-09-23\].pdf][Brief of Appellant]]
+
+* Brief on Nuisance
+
+Lauren Hunady via groups.nwjustice.org <lhunady=tacomaprobono.org@groups.nwjustice.org>
+Jul 2, 2025, 4:04 PM (16 hours ago)
+to jacob@weba.law, HTF@groups.nwjustice.org
+
+Throwing my hat in the ring. I haven’t briefed waste, but I have briefed nuisance.
+
+** A.  The alleged conduct that forms the basis of this action does not rise to the level of nuisance, and therefore Defendant was entitled to a notice which provided an opportunity to comply. Because the underlying notice is improper, this action must be dismissed.
+
+*** RCW 59.18.650(2) enumerates several bases upon which an eviction can be commenced. As relevant here, a landlord may commence an unlawful detainer action where:
+
+     (b) The tenant continues in possession after substantial breach of a material program requirement of subsidized housing, material term subscribed to by the tenant within the lease or rental agreement, or a tenant obligation imposed by law, other than one for monetary damages, and after the landlord has served written notice specifying the acts or omissions constituting the breach and requiring, in the alternative, that the breach be remedied or the rental agreement will end, and the breach has not been adequately remedied by the date specified in the notice, which date must be at least 10 days after service of the notice;
+
+     (c) The tenant continues in possession after having received at least three days' advance written notice to quit after he or she commits or permits waste or nuisance upon the premises, unlawful activity that affects the use and enjoyment of the premises, or other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant.
+
+*** RCW 59.18.650(2)(b), (c).
+
+The Notice to Vacate served on Defendant [. . .] states that the eviction is being commenced pursuant to RCW 59.18.650(c) due to “activity which repeatedly and unreasonably interferes with management of the premises, threatens the health, safety, and right to peaceful enjoyment of the premises by the landlord and other tenants, and disrupts the livability of the premises.” If the conduct does not rise to the level of “unreasonable interference with the use and enjoyment of the premises,” Plaintiff must provide an opportunity to cure the breach before the tenancy is terminated. Therefore, the critical issue is whether the alleged conduct is nuisance or simply a breach of the lease. Determining whether nuisance exists is generally a question of fact due to the factually intensive process of balancing rights, interests, and convenience. Jones v. Rumford, 64 Wn.2d 559, 562, 392 P.2d 808 (1964); Kitsap County v. Kitsap Rifle and Revolver Club, 184 Wn.App. 252, 277, 337 P.3d 328 (2014).
+
+Nuisance refers to conduct which “interferes with the use or enjoyment of property; esp., a nontransitory condition or persistent activity that either injures the physical condition of adjacent land or interferes with its use or with the enjoyment of easements on the land or of public highways.” Nuisance, Black’s Law Dictionary (11th ed. 2019). See Hill v. Huddleston, 28 Wn.App.2d 1060, n. 4 (2023) (using the same definition). See also RCW 7.48.010 (defining “nuisance,” in relevant part, as “an obstruction to the free use of property, so as to essentially interfere with the comfortable enjoyment of the life and property.”).
+
+*** Prior Holdings
+
+The state courts’ prior determinations as to what rises to the level of nuisance prove persuasive. The Division II Court of Appeals, though in an unpublished opinion, found that the tenant’s erratic driving in the surrounding area, domestic violence, and the presence of sixty to eighty vehicles were appropriate bases for proceeding with an eviction for nuisance. Hill v. Huddleston, 28 Wn.App.2d 1060, slip op. at 8 (2023). On the other hand, the Division III Court of Appeals found that, even when employing a more relaxed definition of nuisance in favor of a reasonableness inquiry, keeping an unkempt apartment also did not definitively rise to the level of nuisance; the landlord could not produce evidence that the tenant’s “failure to clean the premises had tangibly damaged the property or posed an imminent threat of such injury. . . [n]or was there evidence the condition of her apartment was noticeable to anyone who did not step foot into the unit.” Kiemle & Hagood Co. v. Daniels, 26 Wn.App.2d 199, 220, 528 P.3d 834 (2023). See Tacoma Rescue Mission v. Stewart, 155 Wn.App. 250, 257, 228 P.3d 1289 (2010).
+
+Here, [. . .] Construing the unlawful detainer statutes strictly in favor of the tenant, the above allegations do not rise to the level of nuisance.
+
+[. . .] There is no evidence that [the allegations] damages the property itself or interferes with other tenants’ or the landlord’s use and enjoyment of the premises. See Kiemle & Hagood, 26 Wn.App.2d at 220 (2023). [. . .]
+
+*** Set for Trial
+In the alternative, this matter should be set for trial to resolve the issue of whether these allegations do, in fact, constitute nuisance. The facts therein are material to this matter, and there being a genuine dispute as to the underlying events, trial would be appropriate to resolve the discrepancies. See RCW 59.18.380; Webster v. Litz, Wn.App.2d 248, 255-57, 491 P.3d 171 (2021); Housing Auth. of City Pasco and Franklin County v. Pleasant, 126 Wn.App. 382, 392, 109 P.3d 422 (2005).
+
+* Notes on Nuisance
+
+Craig Watt via groups.nwjustice.org <craig.watt=nwjustice.org@groups.nwjustice.org>
+9:09 AM (4 minutes ago)
+to HTF
+
+It's important to differentiate between waste and nuisance. Waste could chain sawing the rental unit's support structures (also potentially a felony and certainly a misdemeanor). Nuisance could be grass that is too tall.
+
+Why nuisance is lumped in with waste in the statute is beyond me. And IMHO a nuisance is not "unlawful activity." Unlawful activity are crimes where someone violates a law/statute, while Code violations are merely civil nuisance matters, so you are dealing with the  other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant of .650.
+
+Having Junk on the property and referencing .650 implies it's a SFH or duplex, and not a MH. In my mobile home cases I have the client take pictures of neighboring properties so I can hopefully show the judge that "this type of nuisance is normal" in that particular MH Park.
+
+What Ben said about the cure period is on point. Also, did the LL promptly show the T the municipality's violation notice? And check the lease for relevant provisions.
+
+* Commercial Case on Nuisance                                                   :ATTACH:
+:PROPERTIES:
+:DIR:      ~/.local/share/notes/law/source/
+:END:
+
+Vicky Minto via groups.nwjustice.org <vickym=nwjustice.org@groups.nwjustice.org>
+Attachments
+Thu, Jul 3, 10:52 AM (5 days ago)
+to rob@ccvlp.org, Craig, HTF@groups.nwjustice.org
+
+Slightly far afield from Jacob’s and Melissa’s questions, but there is a June 25, 2025 case from W.D. of WA denying cross motions for summary judgment between neighboring commercial buildings in Seattle. It  discusses private nuisance, public nuisance, and nuisance per se. (Only Slip Opinion available). Not a LL-T context.
+
+- [[file:source/SOUTH LAKE UNION 06 2025 HOTEL LLC Plaintiff(s) v FAndF ROGERS FAMILY LIMITED PARTNERSHIP et al Defendant(s).pdf][South Lake Union 06 225 Hotel LLC v. Rogers]]

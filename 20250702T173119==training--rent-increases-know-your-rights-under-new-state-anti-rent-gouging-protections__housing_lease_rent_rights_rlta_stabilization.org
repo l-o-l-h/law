@@ -1,0 +1,70 @@
+#+title:      Rent Increases: Know Your Rights under new state anti-rent gouging protections
+#+date:       [2025-07-02 Wed 17:31]
+#+filetags:   :housing:lease:rent:rights:rlta:stabilization:
+#+identifier: 20250702T173119
+#+signature:  training
+
+* HB 1217 Rent Stabilization for RLTA Tenants
+
+* Presenters
+- Christopher Brunetti
+- Lauren Holzer AGO
+- Elena Huizar
+
+* Christopher Brunetti's Presentation
+
+** HB 1217 Rent Stabilization
+Protections; overview of rights
+
+- Rent increase limit
+- Exemptions
+- Notice Requirements
+- Opportunity to Cure
+- Other T protections
+
+*** Rent Increase Limit
+- Rent increases prohbited during first 12 months
+- During any 12 month period, the lesser of 7% plus CPI, or 10%
+- Beginning Jun1,'25, Dept of Commerce must calculate the max
+- No prohibition on rent increase after end of tenancy
+
+*** Exemptions to Rent Increase Limit
+- First certificate of occupancy issued 12 or less years before date of the notice of the rent increase; applies to newer buildings.
+- Certain tenancies operated by public housing authorities; nonprofit organziations where max rents are regulated by other laws or local, state, or federal affordable housing program requirements
+- Tenancies in qualified low-income housing developments where were allocated by federal low-income housing credits, and where there is an enforceable regulartory agreement with WSHFC
+- Tenancies in certain owner-occupied rentals, including tenancies
+  - shared bathroom or kitchen
+  - single-family owner owner-occupied residences; no more than two rented rooms.
+  - duplexes, triplexes, and fourplexes in which owner occupies one of the units
+
+*** Notice Requirements
+- Must be in a form that is the same as provided in Sec 103
+- If exemption is claimed, LL must include facts and docuents supporting any claimed exemptions
+- Must be served in accordance with requirements for service of notices under RCW 59.12.040
+- Notice period increased from 60 to 90 days. Exception for tenancies around May 7, 2025.
+
+*** Opportunity to Cure / Tenant Lease Termination
+- T must offer LL opportunity to cure the unauthorized rent increase by providing LL with written demand; and
+- may terminate the RA at any time before the effective date of the increase by providing the LL with written notice (20 days under RLTA). T must pay rent for full month in which they vacate; LL prohibited from charging T any fines or fees for terminating the agreement.
+
+*** Other Tenant Protections
+- LL prohibited from including terms or conditions in RA that are more burdensome to a T for a M2M RA for a RA where the term is greater or lesser than M2M.
+- LL prohibted from reporting to T screening provider the T's failure to pay any portion that was unlawfully increased.
+- LL must provide parity between lease types with regard to amount of rent charged for specific dwelling unit
+  - This menas LL may not charge a T more than 5% diff in rent
+  - Also ...
+
+* Lauren Holzer AGO Consumer Protection Division
+
+** AG Enforcement Authority
+Right to investigate and bring action against LLs who have violated the law by demanding an unlawful rent increase.
+
+** Other Remedies Available for AG Enforcement
+- Money damages for illegal rent
+- Atty Fees
+- Civil penalties of up to $7500 per violation.
+
+* Elena Huizar AGO Consumer Protection Division Outreach Supervisor
+
+** File a Complaint
+https://atg.wa.gov
