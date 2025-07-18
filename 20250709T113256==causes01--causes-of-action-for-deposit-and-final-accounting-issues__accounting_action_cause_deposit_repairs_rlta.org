@@ -1,0 +1,125 @@
+#+title:      Causes of Action for Deposit and Final Accounting Issues
+#+date:       [2025-07-09 Wed 11:32]
+#+filetags:   :accounting:action:cause:deposit:repairs:rlta:
+#+identifier: 20250709T113256
+#+signature:  causes01
+
+* FIRST CAUSE OF ACTION: UNLAWFUL COLLECTION OF A DEPOSIT WITHOUT A SIGNED CHECKLIST OR STATEMENT -- RCW 59.18.260(2)
+RCW 59.18.260(2)
+
+No deposit may be collected by a landlord unless a signed and dated (by the landlord and tenant) written checklist or statement is made and a copy provided by the landlord to the tenant at the commencement of the tenancy specifically describing the condition and cleanliness of or existing damages to the premises, fixtures, equipment, appliances, and furnishings including, but not limited to: (a) Walls, including wall paint and wallpaper; (b) Carpets and other flooring; (c) Furniture; and (d) Appliances. RCW 59.18.260(2), (3).  If the landlord collects a deposit without providing a written checklist at the commencement of the tenancy, the landlord is liable to the tenant for the amount of the deposit, and the prevailing party may recover court costs and reasonable attorneys' fees.  RCW 59.18.260(5).
+
+The defendant landlord collected a deposit from the plaintiff defendant at the commencement of the tenancy without first obtaining and providing to the tenant a signed and dated written checklist or statement specifically describing the condition and cleanliness of or existing damages to the premises.  The defendant landlord is liable to the plaintiff tenant for the amount of the deposit, court costs, and reasonable attorney fees.
+
+* SECOND CAUSE OF ACTION: FAILURE TO PROVIDE TENANT WITH WRITTEN RECEIPT FOR THE DEPOSIT IN A TRUST ACCOUNT -- RCW 59.18.270
+All moneys paid to the landlord by the tenant as a deposit as security for performance of the tenant's obligations in a lease or rental agreement shall promptly be deposited by the landlord in a trust account, maintained by the landlord for the purpose of holding such security deposits for tenants of the landlord, in a financial institution as defined by *RCW 30.22.041 [recodified as RCW 30A.22.041] or licensed escrow agent located in Washington. The landlord shall provide the tenant with a written receipt for the deposit and shall provide written notice of the name and address and location of the depository and any subsequent change thereof.  RCW 59.18.270.
+
+The defendant landlord failed to provide the plaintiff tenant with a written receipt for the deposit that provided the tenant with notice of the name and address and location of the depository.  Upon information and belief, the defendant failed to deposit the plaintiff's security in a financial institution defined by RCW 30.22.041 or licensed escrow agent located in Washington.  Based upon these failures, the defendant has breached the RLTA, and owes the plaintiff the full amount of the security deposit.
+
+* THIRD CAUSE OF ACTION: FAILURE TO PROVIDE ACCOUNTING, DOCUMENTATION, AND FULL REFUND DUE OF SECURITY DEPOSIT WITHIN 30 DAYS OF SURRENDER -- RCW 59.18.280(1)(A),(B); RCW 59.18.280(2)
+RCW 59.18.280(1)(a):
+
+Within 30 days after the termination of the rental agreement and vacation of the premises,
+(1) the landlord shall give a full and specific statement of the basis for retaining any of the deposit, and
+(2) any documentation required by (b) of this subsection,
+(3) together with the payment of any refund due the tenant under the terms and conditions of the rental agreement.
+(4) The landlord complies with this subsection if
+    (a) these are delivered to the tenant personally or
+    (b) deposited in the United States mail properly addressed to the tenant's last known address with first-class postage prepaid
+    (c) within the 30 days.
+
+RCW 59.18.280(1)(b):
+
+(5) With the statement required by (a) of this subsection, the landlord shall include
+    (a) copies of (i) estimates received or (ii) invoices paid to reasonably substantiate damage charges.
+    (b) Where repairs are performed by the landlord or the landlord's employee,
+        - if a deduction is made for materials or supplies,
+          - the landlord shall provide
+            (i) a copy of the bill, invoice, or receipt.
+        - The landlord may document the cost of materials or supplies already in the landlord's possession or purchased on an ongoing basis by providing
+          - a copy of a (i) bill, (ii) invoice, (iii) receipt, (iv) vendor price list, or
+          - (v) other vendor document that reasonably documents the cost of the item used in the repair or cleaning of the unit.
+    (c) Where repairs are performed by the landlord or the landlord's employee,
+        - the landlord shall include
+          - a statement of the time spent performing repairs and
+          - the reasonable hourly rate charged.
+
+RCW 59.18.280(2):
+
+I.  If
+
+    (A) the landlord fails to give
+        (i) the statement and
+        (ii) any documentation required by subsection (1) of this section
+        (iii) together with any refund due the tenant
+        (iv) within the time limits specified in subsection (1) of this section
+
+    (B) he or she shall be liable to the tenant for the full amount of the deposit.
+
+II. The landlord is also barred in any action brought by the tenant to recover the deposit from asserting any claim or raising any defense for retaining any of the deposit.
+
+III.  The court may in its discretion award up to two times the amount of the deposit for the intentional refusal of the landlord to give the statement, documentation, or refund due.
+
+IV. In any action brought by the tenant to recover the deposit, the prevailing party shall additionally be entitled to the cost of suit or arbitration including a reasonable attorneys' fee.
+
+
+The defendant landlord failed to provide a full and specific statement of the basis for retaining any of the deposit within 30 days of the termination of the rental agreement.  The defendant did not personally provide a copy of the statement to the plaintiff.  The defendant did not deposit the statement into the mail within 30 days of the termination of the lease.
+
+The defendant landlord failed to provide adequate or sufficient documentation as required by RCW 59.18.280(1)(b).
+
+The defendant landlord failed to pay to the plaintiff tenant the full amount of refund due the plaintiff based upon the terms and conditions of the rental agreement and condition of the premises.
+
+The defendant landlord is barred from in this action from asserting any claim or raising any defense for retaining any of the deposit.
+
+The defendant landlord intentionally failed to give the statement, the documentation required by RCW 59.18.280(1), and the full refund due the plaintiff.  The court may therefore award up to two times the amount of the deposit for any or all of these intentional failures..
+
+The plaintiff is entitled to an award of costs of suit and reasonable attorney fees.
+
+* FOURTH CAUSE OF ACTION: UNLAWFUL RETENTION OF SECURITY DEPOSIT FOR WEAR RESULTING FROM ORDINAY USE OF THE PREMISES -- RCW 59.18.260(4)
+
+RCW 59.18.260(4):
+
+The landlord shall not withhold any amount of the tenant's security deposit on account of wear resulting from ordinary use of the premises.
+
+RCW 59.18.280(1)(c):
+
+No portion of any deposit may be withheld:
+(i) For wear resulting from ordinary use of the premises;
+(ii) For carpet cleaning unless the landlord documents wear to the carpet that is beyond wear resulting from ordinary use of the premises;
+(iii) For the costs of repair and replacement of fixtures, equipment, appliances, and furnishings if their condition was not reasonably documented in the written checklist required under RCW 59.18.260;
+(iv) In excess of the cost of repair or replacement of the damaged portion in situations in which the premises, including fixtures, equipment, appliances, and furnishings, are damaged in excess of wear resulting from ordinary use of the premises but the damage does not encompass the item's entirety.
+
+
+The defendant landlord withheld the plaintiff tenant's security deposit or part of the security deposit for wear resulting from ordinary use of the premises.
+
+The defendant landlord withheld the plaintiff tenant's security deposit or part of the security deposit for carpet cleaning for wear resulting from ordinary use of the premises.  The defendant did not document wear to the carpet that was beyond normal wear and tear caused by the plaintiff's negligence.
+
+The defendant landlord withheld the plaintiff's security deposit in excess of the cost of repair or replacement for damaged portions when damages in excess of wear resulting from ordinary use of the premises did not encompass the item's entirety.
+
+* FIFTH CAUSE OF ACTION: UNLAWFUL CHARGE TO THE TENANT FOR DAMAGES CAUSED BY WEAR RESULTING FROM ORDINARY USE OF THE PREMISES OR NOT DOCUMENTED BY WRITTEN STATEMENT -- RCW 59.18.280(3)(b)
+
+RCW 59.18.280(3)(b):
+
+Damages
+I.  for wear resulting from ordinary use of the premises or
+II. not substantiated by documentation equivalent to that required in subsection (1) of this section may not be:
+ - charged to the tenant.
+
+
+ The defendant landlord charged to the plaintiff tenant damages for wear resulting from the ordinary use of the premises in violation of law.
+
+ The defendant landlord charged to the plaintiff tenant damages not substantiated by documentation equivablent to that required in RCW 59.18.280(1) in violation of law.
+
+*  SIXTH CAUSE OF ACTION: UNLAWFUL REPORTING OF DAMAGES FOR WEAR RESULTING FROM ORDINARY USE OF THE PREMISES OR NOT DOCUMENTED BY WRRITEN STATEMENT TO PROHIBITED ENTITIES -- RCW 59.18.280(3)(b)
+
+RCW 59.18.28O(3)(b):
+
+I.  for wear resulting from ordinary use of the premises or
+II. not substantiated by documentation equivalent to that required in subsection (1) of this section may not be:
+ - reported to (i) any consumer reporting agency, (ii) tenant screening service, or (iii) prospective landlord, or
+ - submitted for collection by any third-party agency.
+
+
+ The defendant landlord reported damages for wear resulting from ordinary use of the premises or not substantiated by documentation equivalent to that required in RCW 59.18.280(1) to one or more consumer reporting agencies, tenant screening services, or prospective landlords in violation of law.
+
+ The defendant landlord reported damages for wear resulting from ordinary use of the premises or not substantiated by documentation equivalent to that required in RCW 59.18.280(1) for collection by one or more third-party agencies in violation of law.
