@@ -1,0 +1,36 @@
+#+title:      Retaliation Statute RCW 59.18.240
+#+date:       [2025-09-03 Wed 09:53]
+#+filetags:   :defense:eviction:retaliation:rlta:
+#+identifier: 20250903T095338
+#+signature:  rcw=59=18=240
+
+* RCW 59.18.240 Reprisals or retaliatory actions by landlord—Prohibited.
+
+So long as the tenant is in compliance with this chapter, the landlord shall not take or threaten to take reprisals or retaliatory action against the tenant because of any good faith and lawful:
+
+- (1) Complaints or reports by the tenant to a governmental authority concerning the failure of the landlord to substantially comply with any code, statute, ordinance, or regulation governing the maintenance or operation of the premises, if such condition may endanger or impair the health or safety of the tenant; or
+
+- (2) Assertions or enforcement by the tenant of his or her rights and remedies under this chapter.
+"Reprisal or retaliatory action" shall mean and include but not be limited to any of the following actions by the landlord when such actions are intended primarily to retaliate against a tenant because of the tenant's good faith and lawful act:
+
+  - (a) Eviction of the tenant;
+  - (b) Increasing the rent required of the tenant;
+  - (c) Reduction of services to the tenant; and
+  - (d) Increasing the obligations of the tenant.
+
+
+* RCW 59.18.250 Reprisals or retaliatory actions by landlord—Presumptions—Rebuttal—Costs.
+
+Initiation by the landlord of any action listed in RCW 59.18.240 within ninety days after a good faith and lawful act by the tenant as enumerated in RCW 59.18.240, or within ninety days after any inspection or proceeding of a governmental agency resulting from such act, shall create a rebuttable presumption affecting the burden of proof, that the action is a reprisal or retaliatory action against the tenant:
+
+PROVIDED, That if at the time the landlord gives notice of termination of tenancy pursuant to chapter 59.12 RCW the tenant is in arrears in rent or in breach of any other lease or rental obligation, there is a rebuttable presumption affecting the burden of proof that the landlord's action is neither a reprisal nor retaliatory action against the tenant:
+
+PROVIDED FURTHER, That if the court finds that the tenant made a complaint or report to a governmental authority within ninety days after notice of a proposed increase in rent or other action in good faith by the landlord, there is a rebuttable presumption that the complaint or report was not made in good faith:
+
+PROVIDED FURTHER, That no presumption against the landlord shall arise under this section, with respect to an increase in rent, if the landlord, in a notice to the tenant of increase in rent, specifies reasonable grounds for said increase, which grounds may include a substantial increase in market value due to remedial action under this chapter:
+
+PROVIDED FURTHER, That the presumption of retaliation, with respect to an eviction, may be rebutted by evidence that it is not practical to make necessary repairs while the tenant remains in occupancy.
+
+In any action or eviction proceeding where the tenant prevails upon his or her claim or defense that the landlord has violated this section, the tenant shall be entitled to recover his or her costs of suit or arbitration, including a reasonable attorney's fee, and where the landlord prevails upon his or her claim he or she shall be entitled to recover his or her costs of suit or arbitration, including a reasonable attorney's fee:
+
+PROVIDED FURTHER, That neither party may recover attorney's fees to the extent that their legal services are provided at no cost to them.

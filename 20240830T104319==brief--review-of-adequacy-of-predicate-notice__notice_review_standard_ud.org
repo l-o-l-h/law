@@ -12,3 +12,12 @@ Court of Appeals considers de novo the adequacy of a termination notice under a 
 lease. See Duvall Highlands LLC v. Elwell, 104 Wash.App. 763, 771
 n. 18, 19 P.3d 1051 (2001); Carlstrom v. Hanline, 98 Wash.App. 780,
 784, 990 P.2d 986 (2000).
+
+* Specificity Requirement of Predicate Notice
+
+Notices under the RLTA must identify “facts and circumstances known and available to the landlord at the time of the issuance of the notice that support the cause or causes with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged.”
+- Laws 2021, Ch. 212, Sec. 2.
+- RCW 59.18.650(6)(b)
+
+A notice may also be insufficient if it doesn’t comply with the lease and fails to state the reasons for termination with reasonable specificity.
+- Tacoma Rescue Mission v. Stewart, 155 Wn. App. 250 (2010) (subsidized housing).

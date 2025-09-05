@@ -1,0 +1,80 @@
+#+title:      Acceptance of Rent as Waiver
+#+date:       [2025-09-03 Wed 10:16]
+#+filetags:   :acceptance:defense:rent:rlta:waiver:
+#+identifier: 20250903T101647
+#+signature:  law
+
+* Acceptance of Rent as Waiver by the Landlord
+
+
+** a) What constitutes acceptance?
+
+Inexcusable delay in returning a rent check has been held to constitute acceptance.
+- Tipton v. Roberts et ux., 48 Wash. 391 (1908) (where, in an unlawful detainer action, tenant timely remitted rent to landlord for two months, landlord’s retention of checks until after commencing action constituted acceptance by the landlord).
+
+Failure to cash a rent check does not negate acceptance.
+- C & A Land Co. v. Rudolf Investment Corp., 163 Ga. App. 832, 296 S.E. 2d 149 (1982).
+- See also
+  - Aspen Enterprises, Ltd. V. Bray, 148 Mich. App. 9, 384 N.W. 2d 65 (1985);
+  - EDC Associates, Ltd. v. Gutierrez, 153 Cal. App. 3d 167, 200 Cal. Rptr. 333 (1984);
+  - Roxborough Apartment Corporation v. Becker, 177 Misc. 2d 408, 676 N.Y.S. 2d 821 (1998);
+  - Office Enterprises, Inc. v. Pappas, 19 N.C. App. 725, 200 S.E. 2d 205 (1973).
+
+** b) Acceptance of current rent.
+
+If a tenant fails to pay rent and the landlord accepts later rental payments, the landlord has waived a right under the unlawful detainer act to declare forfeiture for nonpayment.
+
+A landlord may declare a forfeiture for an older, continuing breach or any new breach.
+
+Under Munden v. Hazelrigg, 105 Wn.2d 39 (1985) the court could enter a judgment for the older rents due after ruling for the tenant on the issue of possession.
+- MH 2 Company v. Hwang, 104 Wn. App. 680 (2001)[Commercial case].
+
+** c) Application to earliest defaults.
+
+A landlord does not waive defaults in rent by accepting rent after a three-day notice if he applies the receipts to the earliest rent first and there is still some rent owing for the period before the notice.
+- Housing Resources Group v. Price, 92 Wn. App. 394 (1998).
+
+Payment for rent must be applied to rent first before being applied to any other charges.
+- RCW 59.18.283.
+
+** d) Acceptance of partial payment.
+
+A landlord does not waive her right to proceed with an unlawful detainer action by accepting partial payment from a third party that is late and is applied to unpaid utilities.
+- Hwang v. McMahill, 103 Wn. App. 945 (2000).
+
+Under certain circumstances, however, acceptance of a partial payment may waive the right to proceed on a previously served unlawful detainer notice.
+- Cf. RCW 59.18.390.
+
+A rental agreement may contain a provision that states that such acceptance does not constitute waiver.
+
+** e) Acceptance after commencement of action.
+
+A landlord waives its right to proceed with an unlawful detainer action when it accepts the full amount of rent after the action is commenced.
+- Housing Authority of Grant County v. Newbigging, 105 Wn. App. 178 (2001).
+
+** f) Acceptance as waiver of prior breaches.
+
+Acceptance of rent with knowledge of breaches of a lease or rental agreement may constitute a waiver.
+- Wilson v. Daniels, 31 Wn.2d 633 (1948);
+- First Union Management v. Slack, 36 Wn. App. 849 (1984);
+- Stevenson v. Parker, 25 Wn. App. 639 (1980);
+- 24 WASH. L. REV. 165 (1949); Landlord and Tenant--Covenants--Continuing Breach--Waiver (Wilson v. Daniels)
+- See also Alaska Pac. v. Eagon Forest Prods., 85 Wn. App. 354, 361 (1997).
+
+Acceptance of rent after termination of the tenancy for a reason other than breach, however, is not a waiver of the termination of the tenancy.
+- See Leda v. Whisnand, 150 Wash. App. 69, 78, 207 P.3d 468, 473 (2009).
+
+*** (1) Estoppel or Part Performance:
+
+A landlord may be estopped from asserting that an oral lease is a month-to-month tenancy.
+- Armstrong v. Burkett, 104 Wash. 476 (1918).
+
+The elements of equitable estoppel are discussed in Crown Plaza v. Synapse Software, 87 Wn. App. 495, 502 (1997) and Kennewick v. Board of Firefighters, 85 Wn. App. 366, 370 (1997).
+
+Part performance may enable enforcement of a lease that does not comply with the statute of frauds.
+- Tiegs v. Watts, 135 Wn.2d 1 (1998).
+
+It is unclear whether estoppel is available in an action based on nonpayment of rent where the landlord has frequently accepted the rent late.
+- See Neitsch v. Tyrrell, 25 Wn.2d 303 (1946);
+- Glover v. Hanks, 396 S.2d 949 (La. App. 1980);
+- 22 WASH. L. REV. 144 (1947).
