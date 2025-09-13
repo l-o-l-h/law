@@ -1,0 +1,41 @@
+#+title:      Writ of Restitution
+#+date:       [2025-09-12 Fri 09:02]
+#+filetags:   :execution:ud:writ:
+#+identifier: 20250912T090206
+#+signature:  law
+
+* Washington Law on Executions
+
+Washington law authorizes “three kinds of executions:
+1. First, against the property of the judgment debtor;
+2. second, for the delivery of the possession of real ... property ... and
+3. third, commanding the enforcement of or obedience to any other order of the court.”
+
+RCW 6.17.060.
+
+An unlawful detainer judgment authorizes the second kind of execution, “the delivery of the possession of real ... property.”
+
+Such a writ must “particularly describe the property ... and require the officer to deliver possession of it to the party entitled thereto[.]" RCW 6.17.110(c).
+
+None of the language in this statute allows the second type of writ to be directed against a specific person.
+
+The chapters that govern evictions, 59.12 and 59.18, similarly mention only writs against property, not against specific individuals.
+
+Instead, the statues authorize only “delivery of the possession” by — repeatedly — authorizing a writ “restoring to the plaintiff possession of the property.” For example:
+
+• “The plaintiff… may apply … for a writ of restitution restoring to the plaintiff the property in the complaint described[.]” RCW 59.12.090
+
+• “If upon the trial the verdict … be in favor of the plaintiff and against the defendant, judgment shall be entered for the restitution of the premises[.]” RCW 59.12.170
+
+• “The plaintiff … may apply … for an order directing the defendant to appear and show cause … why a writ of restitution should not issue restoring to the plaintiff possession of the property in the complaint described[.]” RCW 59.18.370
+
+• “the court shall enter an order directing the issuance of a writ of restitution … restoring to the plaintiff possession of the property[.]” RCW 59.18.380.
+
+• “If at trial the verdict … is in favor of the landlord … judgment shall be entered for the restitution of the premises” RCW 59.18.410(1).
+
+The absence of any authorization to remove specific individuals is to be expected because an unlawful detainer action is a “quasi in rem” proceeding.
+- See, In re Perl, 811 F. 3d 1120, 1129 (9th Cir. 2016) (California law);
+- Chapman v. Deutsche Bank Nat’l Trust Co., 651 F.3d 1039, 1043 (9th Cir. 2011), certified question answered sub nom. Chapman v. Deutsche Bank Nat’l Trust Co., 302 P.3d 1103, 1107 (Nev. 2013) (Nevada law);
+- Seitz v. FNMA, 909 F.Supp.2d 490 (2012) (E.D. Va. 2012) (Virginia law).
+
+That is, the outcome of an unlawful detainer action affects the rights to occupy property, not just the people named as defendants.

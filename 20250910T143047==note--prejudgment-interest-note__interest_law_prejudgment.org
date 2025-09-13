@@ -1,0 +1,13 @@
+#+title:      Prejudgment Interest Note
+#+date:       [2025-09-10 Wed 14:30]
+#+filetags:   :interest:law:prejudgment:
+#+identifier: 20250910T143047
+#+signature:  note
+
+* Prejudgment Interest Note
+
+When a party breaches an obligation to pay a specified amount, a new forbearance is created and that forbearance triggers the prejudgment interest statute. Id. Unpaid rent accrues interest at a default rate of 12 percent per annum when the parties’ agreement does not provide otherwise. In re Est. of Wimberley, 186 Wn. App. 475, 511, 349 P.3d 11 (2015).
+
+¶31 The ordinance prohibiting the accrual of prejudgment interest on unpaid rents violates the rights conferred on any creditor under RCW 19.52.010. There is no way of interpreting the provision banning the accrual of interest so that it does not conflict with RCW 19.52.010. We therefore affirm the trial court's ruling that the interest provision in Ordinance 126081 is preempted by state law.
+
+- Rental Hous. Ass'n v. City of Seattle, 22 Wash. App. 2d 426, 444, 512 P.3d 545, 556 (2022)

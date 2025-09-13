@@ -1,0 +1,102 @@
+#+title:      UD Trial Example
+#+date:       [2025-09-11 Thu 08:52]
+#+filetags:   :example:rtc:trial:ud:
+#+identifier: 20250911T085207
+#+signature:  25=2=01217=06=0
+
+#+columns: %35item %10todo %22scheduled %22deadline %clocksum{:} %20tags
+
+* RTC CASE
+:PROPERTIES:
+:O/C:		--
+:CAUSE:	-- 25-2-01217-06
+:DEPT:	--
+:PL-1:	--
+:PL-2:	--
+:APRTMNT:	--
+:DEF-1:	--
+:DEF-2:	--
+:LEASE:	--
+:NOTICE:	--
+:SUMMONS:	--
+:COMPLAINT:	--
+:OSC-1:	--
+:OSC-2:	--
+:ASSIGNED:	--
+:INTERVIEW:	--
+:APPOINTED:	--
+:NOA:		--
+:LEDGER:	--
+:OLD:		--
+:DISMISS:	--
+:SURRENDER:	--
+:WRIT:	--
+:JUDGMENT:	--
+:CHECKLIST:	--
+:END:
+
+** OSC
+*** OSC-1
+
+*** OSC-2
+
+** DOCUMENTS
+*** NOA-APPT
+
+*** COURT FILES
+
+*** EXHIBITS			:EXTRACT:
+:PROPERTIES:
+:SOURCE:		-- Complaint
+:EXHIBIT-1:	-- Lease [date]
+:EXHIBIT-2:	-- Notice [date]
+:EXHIBIT-3:	-- Service [date]
+:END:
+
+*** LEDGERS
+:PROPERTIES:
+:LEDGER-1:	-- [DATE]
+:LEDGER-2:	-- [DATE]
+:END:
+
+*** DISMISSAL-OLD
+
+*** FINAL ORDERS
+
+* CLIENT
+
+* O/C
+** O/C INFO
+
+** O/C COMMUNICATION
+
+* PLAN [0/7]
+
+- [ ] Engagement Agreement
+- [ ] Initial RTC Interview [0/2]
+  - [ ] Proper Notice Service
+  - [ ] Proper Summons/Complaint Service
+- [ ] NOA [0/2]
+  - [ ] Served on O/C
+  - [ ] Filed with Clerk
+- [ ] Appointment [0/1]
+  - [ ] Presented
+- [ ] Lease [0/1]
+  - [ ] Reviewed
+- [ ] Ledger [0/3]
+  - [ ] Requested
+  - [ ] Received
+  - [ ] Reviewed
+- [ ] Checklist [0/3]
+  - [ ] Requested
+  - [ ] Received
+  - [ ] Reviewed
+
+* ISSUES [0/0]
+
+** Balance Calculation
+
+|DATE|DESCRIPTION|AMOUNT|SUBTOTAL|RUNNING TOTAL|COMMENTS|
+|-	|
+
+* TASKS [0/0]
