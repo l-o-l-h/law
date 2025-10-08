@@ -1,0 +1,75 @@
+#+title:      Constructive Eviction or Covenant of Quiet Enjoyment
+#+date:       [2025-10-06 Mon 08:33]
+#+filetags:   :constructive:enjoyment:eviction:quiet:
+#+identifier: 20251006T083321
+
+* Emails [2025-08-26 Tue 14:26]
+
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Attachments
+Aug 26, 2025, 2:26 PM
+to chaisten.weigel@nwjustice.org, Housing
+
+
+On Aug 26, 2025, at 1:20 PM, Chaisten Weigel via groups.nwjustice.org <chaisten.weigel=nwjustice.org@groups.nwjustice.org> wrote:
+
+I was wondering if anyone knows what possible remedies a tenant can pursue if their landlord is doing extensive repairs on the tenant’s bedroom for 4-6 weeks? It seems like that would be a partial constructive eviction. Tenant does not want to move, so I see there being a possible argument for rent reduction, but I am not sure how the tenant should proceed if the landlord says no to the rent reduction. Rent set off isn’t necessary because tenant is not being evicted.
+
+Washington law isn’t particularly clear on this point.
+
+Other states have addressed it. California cases describe the issue as an eviction from a substantial portion of the leased premises. The gist of the argument is that it’s not up to the tenant to figure out how much to pay when the landlord’s actions take away a substantial use value of the property.
+
+Here’s a passage from one California case that cites decisions from other states (since California cases might have an anti-persuasive effect in Yakima):
+
+“Partial Eviction by Landlord: General Rule. When the eviction is of a part of the premises only, and is by the landlord himself, this, according to the generally accepted view, will relieve the tenant from liability for future rents, though he remains in possession and enjoyment of the balance of the premises and the law will not in such a case apportion the rent.” Citing Halligan v. Wade, 21 Ill. 470, 74 Am.Dec. 108;**185 Royce v. Guggenheim, 106 Mass. 201,8 Am.Rep. 322;*548Kuschinsky v. Flanigan, 170 Mich. 245, 136 N.W. 362, 41 L.R.A.,N.S., 430, Ann.Cas.1914A, 1228; Briggs v. Hall, 4 Leigh, Va., 484, 26 Am.Dec. 326. “As has been said the landlord cannot so apportion his own wrong as to force the tenant to pay anything for the residue.” Colburn v. Morrill, 117 Mass. 262,19 Am.Rep. 415.
+
+Here’s another California case that summarizes the rules in supporting the opposite result:
+
+Dussin Investment Co. v. Bloxham, 96 Cal. App. 3d 308 - Cal: Court of Appeal, 4th Appellate Dist., 2nd Div. 1979 - Google Scholar
+scholar.google.com
+favicon.ico
+
+Bloxham is correct that in appropriate circumstances an actual, partial eviction of a tenant by a landlord will relieve the tenant from liability for future rents so long as the eviction continues even though the tenant remains in possession of the balance of the premises. ( Skaggs v. Emerson, 50 Cal.3, 6;*315Giraud v. Milovich, 29 Cal.App.2d 543, 547-549, 85 P.2d 543; see **650Camarillo v. Fenlon, 49 Cal. 202, 207;Slater v. Conti, 171 Cal.App.2d 582, 585, 341 P.2d 395;Kelley v. Long, 18 Cal.App. 159, 163-164, 122 P. 832.) However, the tenant's obligation to pay rent is not thus suspended unless the tenant has been actually evicted from a Substantial portion of the demised premises. (Skaggs v. Emerson, supra; Giraud v. Milovich, supra, 29 Cal.App.2d at pp. 548-549, 85 P.2d 543; Kelley v. Long, supra ; cf. Walmsley v. Holcomb, 61 Cal.App.2d 578, 584, 143 P.2d 398;North Pac. S. S. Co. v. Terminal Inv. Co., 43 Cal.App. 182, 188-189, 185 P. 205.)
+
+In support of his contention that the portion of the premises from which he was evicted was “a substantial portion of the demised premises” as a matter of law Bloxham asserts first, that “a substantial portion of the demised premises” as used in the cases imports any portion of the premises beyond what would be considered De minimus and, secondly, that in determining whether the portion of the demised premises from which the tenant has been evicted is “substantial,” no consideration is to be given to the extent of actual interference with the tenant's use and enjoyment of the premises, because those considerations are germane only to the doctrine of constructive eviction as distinguished from actual, partial eviction. As authority for these propositions, Bloxham relies upon Skaggs v. Emerson, supra, 50 Cal. 3,Giraud v. Milovich, supra, 29 Cal.App.2d 543, 85 P.2d 182, and especially Kelley v. Long, supra, 18 Cal.App. 159, 122 P. 832. He also cites a considerable number of decisions from the State of New York.
+
+Kelley v. Long, supra, does not support the propositions advanced by Bloxham. In pertinent part the court said: “But we think the rule as stated does not apply where it does not appear that the interference has resulted in depriving the lessee of a substantial as distinguished from an insignificant or inconsequential portion of the demised premises, or, in other words, in depriving him of the beneficial enjoyment of a substantial portion of the premises.” ( 18 Cal.App. at pp. 163-164,122 P. at p. 834 orig. emphasis.) It is true that in attempting to give definitive meaning to the word “substantial,” the court contrasted that adjective with “insignificant” and “inconsequential.” But in its statement the court related the question of substantiality to the tenant's being deprived of beneficial use and enjoyment, and in the succeeding paragraph the court noted that the water appurtenant to the property had been wrongfully taken on only one occasion and resulted in damages of only $40. The court concluded that the wrongful taking “was inconsequential and did not disturb the defendant's beneficial enjoyment of a substantial portion of the demised *316 premises . . . .” ( 18 Cal.App. at p. 164, 122 P. at p. 834; emphasis added.) The conclusion was inescapable.
+
+Similarly, Giraud v. Milovich does not support Bloxham's position. The court concluded that “(t)he evidence sufficiently supports the finding that there was a substantial partial eviction . . . .” ( 29 Cal.App.2d at p. 549, 85 P.2d at p. 185.) But an examination of the evidence considered by the court in reaching that conclusion is most revealing; it related largely to the extent of the interference with the tenant's use and enjoyment of the leased premises as a gasoline service station. The leased premises had dimensions of 100' by 50'. The portion of the premises from which the tenant had been evicted was a strip fronting on the highway 100' long and 20' deep, hardly de minimus. Nevertheless, the evidence referred to by the court as being sufficient to support the finding of substantiality was summarized by the court as follows: “The evidence discloses that it would be necessary to make some extensive fill to the rear portion of the remaining parcel of the leased premises before it would be usable as a filling station; that respondent was compelled to move three large one-thousand-gallon gasoline tanks from the strip taken by the state and that thereafter he had no available space on the property to place them . . . .”   (29 Cal.App.2d at pp. 545-546, 85 P.2d at pp. 183, 184.) If the propositions espoused by Bloxham were correct there would have been no occasion for **651 the court to discuss and rely upon those facts.
+
+It is true that in Skaggs v. Emerson the leased premises consisted of hotel buildings, cottages, corrals, half a barn, a 10-acre field, a garden and an orchard and that the court held an allegation that the landlord wrongfully evicted the tenant of a certain cottage called the “ ‘Hewitt Cottage’ ” was sufficient to raise the defense of actual, partial eviction. But the case is singularly unhelpful in shedding light on the substantiality requirement of the rule. The meaning of “substantial” was not discussed. Moreover, the case was a pleading case, and the court could certainly not say as a matter of law that the tenant's eviction from “ ‘Hewitt Cottage’ ” was not an eviction from a substantial portion of the demised premises. It is also noteworthy that although the court suggested in its opinion that “no recovery could be had upon the covenant to pay rent” (50 Cal. at p. 6), the portion of the answer held erroneously stricken by the trial court “alleged that the defendant had sustained one hundred and ninety dollars damage, and . . . asked to set it off against the rent.” (50 Cal. at p. 4.)
+
+*317*318 We do not feel it necessary to discuss the cited New York cases except to say that so far as we have discerned they contain no meaningful discussion of “substantial.” In this regard we note that in the only decision of New York's highest court to which we have been cited, the court did not include in its statement of the rule any substantiality requirement. (See Fifth Ave. Bldg. Co. v. Kernochan (1917), 221 N.Y. 370, 117 N.E. 579.)FN5 We are persuaded by our analysis of the California cases that a tenant is not relieved entirely of the obligation to pay rent by an actual partial eviction unless the eviction is from a substantial portion of the premises and that in determining the question of substantiality, the court may and should consider the extent of the interference with the tenant's use and enjoyment of the property. These conclusions are particularly appropriate where, as here, the eviction was not malicious or in bad faith but, rather, resulted from a tenable, though mistaken, interpretation of an ambiguous lease provision. While the extent of the interference with the tenant's use and enjoyment of the property is the prime consideration in constructive eviction cases (see, e. g., Veysey v. Moriyama, 184 Cal. 802, 805, 195 P. 662), our analysis of the actual, partial eviction cases discloses that the courts have also given consideration to that factor in determining substantiality. Appropriately so, for it is fairly apparent that the doctrine of constructive eviction evolved from the law relating to actual, partial eviction. (See Note, Partial Constructive Eviction: The Common Law Answer in the Tenant's Struggle For Habitability, 21 Hastings L.J. 417, 420-421.) Indeed, the courts have evinced some difficulty in marginal factual circumstances in determining whether a claimed eviction should be treated as a partial, actual eviction or a constructive eviction. (Cf., e. g., McAlester v. Landers, 70 Cal. 79, 82, 11 P. 505;Slater v. Conti, supra, 171 Cal.App.2d at pp. 585-586,341 P.2d 395;Giraud v. Milovich, supra, 29 Cal.App.2d at p. 547, 85 P.2d 182;Walmsley v. Holcomb, supra, 61 Cal.App.2d at p. 584, 143 P.2d 398;Tregoning v. Reynolds, 136 Cal.App. 154, 156-158, 28 P.2d 79;Kelley v. Long, supra, 18 Cal.App. at pp. 163-164,122 P. 832.)
+
+
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Tue, Aug 26, 2:34 PM
+to chaisten.weigel@nwjustice.org, Housing
+
+
+
+On Aug 26, 2025, at 1:20 PM, Chaisten Weigel via groups.nwjustice.org <chaisten.weigel=nwjustice.org@groups.nwjustice.org> wrote:
+
+I am not sure how the tenant should proceed if the landlord says no to the rent reduction. Rent set off isn’t necessary because tenant is not being evicted.
+
+And, to answer your actual question: no efficient or practical remedy exists.
+
+The procedurally safest way to litigate the issue would be sue for damages or declaratory relief to determine the amount of the rent reduction.
+
+I prosecuted a class action under this theory against a landlord who inflicted uncompensated renovations on the common areas of a large apartment complex. The case survived motions to dismiss and settled. It was worth doing, but just barely. I can’t see how a dispute about an individual apartment would be worth it.
+
+Benjamin Ramm
+Staff Attorney
+Kitsap Legal Aid Services
+
+* Email [2025-08-26 Tue 19:17]
+
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Aug 26, 2025, 7:17 PM
+to Chaisten, Housing
+
+As for constructive eviction from some, but not all, of the leased premises, check out this opinion:
+
+Income Properties Inv. Corp. v. Trefethen, 155 Wash. 493, 284 P. 782 (1930)
+
+The underlying and procedural facts are convoluted but it does address the issue. It might be worth reading and sorting out if you’re ever desperate for a defense to an eviction.
