@@ -1,0 +1,214 @@
+#+title:      Trial Presentation Skills
+#+date:       [2025-10-08 Wed 14:55]
+#+filetags:   :cle:trial:
+#+identifier: 20251008T145501
+#+signature:  cle
+
+* Jury Selection
+- Word association
+
+
+** Perspectives
+
+*** Attorney POV
+- Experiences; good, bad.
+- talk about the specifics? question of degree.
+- Judge objected before the O/C; need to know the judge's perspective
+- Bring up at status conference;
+- Questionnaire; helpful.  Did a juror want to speak in private?
+- Limit size and length; they are getting too long.
+- Bring up questionnaire at status conference.
+- Tell juror what you are asking for; notice juror's response;
+- Judge is not sure that that is a proper question.
+- Don't wait to figure out voir dir questions.
+- Be mindful of time spent asking and answering questions.
+- Ask the judge what their questions will be.
+
+
+*** RCW 4.44.120 Purpose of Voir Dir
+Discover basis for challenge for cause and to permit intelligent
+exercise of peremptory challenges.  RCW 4.44.120.
+
+*** Juror POV
+
+*** Challenge for Cause
+
+**** What is it?
+1. General; juror is disqualified from serving in any action.
+2. Particular; the juror is disqualified from serving in the action on trial.  RCW 4.44.150
+
+**** Particular Causes for Challenge of three kinds.
+1. Bias.  Implied bias.
+   - Existence of facts ascertained.
+2. State of Mind.  In reference to the action or either party.
+3. Defect in the functions or organs of the body.  RCW 4.44.170.
+   - Injury that would prevent you from sitting for a long time.
+   - Reason, limitation, cannot be a juror.
+
+**** How-When Accomplished?
+- Success? depends on the judge.
+- How :: entire jury present? outside the presence of the jury? Ask judge at status conference.
+
+*** Peremptory Challenge
+
+**** What is It?
+- Objection for which no reason need be given.
+
+**** How Many? RCW 4.44.130
+- 3
+- Conflicting parties? more than 3? Object?
+
+**** How Are They Done? When?
+- Be aware of the consequences? Who will replace?
+- Out of presence of the jury. With a clip board.
+
+*** Racial Discrimination
+
+**** GR 37 (4/2018)
+- State v. Bell, 571 P.3d 272, 280 (2025)
+
+***** (a) Policy and Purpose.
+eliminate race and ethnicity
+
+***** (c) Objection
+- a party may objectto the use of a peremptory challenge.
+- court may raise objection.
+- simple citation to this rule
+
+***** (d) Response
+- articulate the reasons that the PC has been exercised.
+- Must be aware of the standard, and make a record.
+- court should explain its ruling on the record.
+- a factor that an objective observer would find race-ethnicity as A factor.
+
+***** (g) Circumstances Considered.
+- the court should consider....
+
+***** (h) Reasons Presumptively Invalid
+
+***** (i) Reliance on Conduct.
+- reasonable notice to the court and other parties so behavior can be
+  verified and addressed in a timely manner.
+- simple reliance on behavior is not going to be sufficient to survive a challenge.
+
+***** State v. Bell
+- Juror revealed they were not paying attention.
+- Objection; one of two people of color to be enpanaled.
+- SC found the trial judge had made a mistake.
+- De novo standard of review.
+- Objective observer could use race as a factor in PC.
+- Remedy is reversal and new trial.
+- Should not have PCs at all.
+
+***** Frequency of Use?
+
+* ER 901 Requirement of Authentication or Identification
+
+** (a) Condition precedent to admissibility
+This is what it claims to be
+
+AI challenge.  Electronic relationship.
+
+** (b) Examples of authentication
+
+*** (1) Testimony of a Witness with knowledge
+
+*** (4) Distinctive characterics
+
+*** (6) Telephone conversations
+
+*** (10) Electronic mail / Texting / Messaging
+
+** Self-Authentication
+Extrinsic evidence of auth is not required
+
+*** (a) domestic public documents under seal
+
+*** (d) certified copies of public records
+
+** ER 904 Admissibility of Documents
+
+*** Civil case
+Types of documents
+- bill
+- report
+- photograph
+- document having equivalent circumstantial guaranties of trustworthiness
+- 30 days prior to trial
+
+*** Admissibility
+Objection on grounds of relevancy
+Admissibility is determined at trial.
+If a party submits a request, party cannot object to authenticity if other party offers it.
+- Hendrickson v. King County 101 Wash.App. 258 (2000)
+Requests for admission--an alternative approach. CR 36.
+Different fee compensation analysis
+- ER 904(c)(2) may award
+- CR 37(c) shall make the order unless it finds...
+
+**** Admission of Exhibits (mechanics)
+1. Mark exhibit for id
+2. Show exhibit to O/C
+3. Provide exhibit to W and establish.
+   - Recognize the exhibit
+   - Identifies what the exhibit is
+     - Not by reading the content of the exhibit
+   - Establsihes how it is recognizes
+   - Establishes that it is true and accurate copy.
+4. Offer exhibit for admission into evidence
+5. Publish the exhibit
+
+**** Exhibits for Illustrative Purposes Only
+
+***** Examples
+- Diagram
+- anatomical model
+- Summary chart
+
+***** Requires showing of
+- relevance
+- reasonable accuracy
+
+***** Not to jury deliberations
+
+* Depositions
+
+** Difficult witnesses
+- Keep asking the questions; ignore the objections
+- State on the record what is happening.
+- Be matter of fact. Don't engage in fighting.
+- Videotape depositions.
+
+** They do go the jury CR 51(h)
+- impeachment;
+
+** CR 32
+- At trial.
+- Contradicting, impeaching.
+- 30(b)(6) designee.
+
+** Use of Depositions
+- (3) may be used for any purpose if
+  - dead
+  - resides far away
+  - unable to attend
+  - party offering has been unable to procure attendance of witness by subpoena.
+  - exceptional circumstances.
+- (4) ...
+- Crim Rule 4.6
+  - (d) contradicting or impeaching
+
+** Virtual Depositions
+- Remote depositions
+- Challenges
+  - what is the other attorney doing? leading witness?
+
+* Testimony by Experts ER 702
+- Frye test
+
+* TODO Materials
+:LOGBOOK:
+- State "TODO"       from              [2025-10-09 Thu 10:00] \\
+  Study the Materials in Depth
+:END:
+[[https://drive.google.com/drive/folders/1PspvBrDndBUFT_V5DsDOb6hwa8OXAZbw?usp=sharing][CLE Materials]]
