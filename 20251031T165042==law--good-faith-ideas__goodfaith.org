@@ -1,0 +1,16 @@
+#+title:      Good Faith ideas
+#+date:       [2025-10-31 Fri 16:50]
+#+filetags:   :goodfaith:
+#+identifier: 20251031T165042
+#+signature:  law
+
+* Good Faith
+Adapted good faith argument:
+
+Failing to offer a lease and, thereby, denying the defendant the right to a tenancy violated a consent decree. If the statutory obligation to act in good faith means anything, it requires the owners of mobile home parks to comply with consent decrees. The owners of mobile home parks must act in good faith “as a condition precedent to the exercise of a right or remedy under this chapter[.]” RCW 59.20.020; see also, Country Manor MHC, LLC v. Doe, 176 Wn. App. 601, 609, 308 P.3d 818 (2013). Unfortunately, no appellate opinion explains either how to determine whether this duty has been breached or the consequences of a breach.  Accordingly, the duty to act in good faith might be merely a non-justiciable aspiration, like a parent who, when irked by screaming and wailing from another room, hollers, “play nice kids!”
+Or, perhaps, the MHLTA merely restates the “implied duty of good faith and fair dealing” that “obligates the parties to cooperate with each other so that each may obtain the full benefit of performance.” Badgett v. Sec. State Bank, 116 Wn.2d 563, 569, 807 P.2d 356 (1991). If so, a breach of the duty to act in good faith can prevent an eviction even if the landlord may still recover “the rents agreed upon[.]” Strom v. Union Oil Co., 88 Cal. App.2d 78, 83-85, 198 P.2d 347 (Cal. Ct. App. 1948); and Bawa v. Terhune, 244 Cal. Rptr. 3d 854 (Cal. Super. 2019). This result is consistent with Washington’s provision that good faith is “a condition precedent to the exercise of a right or remedy under this chapter” because a writ of restitution is a remedy under the MHLTA, but a money judgment is not. RCW 59.20.020. Refusing to evict the tenant is a particularly appropriate application of the statutory duty of good faith in this case because the defendant is a tenant at will primarily because the plaintiff violated its obligation under the consent decree to offer the defendant a lease.
+
+...
+
+good faith is “a question of fact.” Smith v. Safeco Ins. Co., 150 Wn.2d 478, 486 (2003) (citing Van Noy v. State Farm Mut. Auto. Ins. Co., 142 Wn.2d 784, 796, 16 P.3d 574 (2001)). Pattern jury instructions have been issued for contracts, WPI 302.11, and insurance disputes, WPI 320.02.
+The very nature of a dispute about good faith supports this case law. Different people can answer the same question about good faith differently. One person, however judicious,  is likely to overlook some aspect of the dispute that would be noticed and analyzed by twelve people deliberating as equals.

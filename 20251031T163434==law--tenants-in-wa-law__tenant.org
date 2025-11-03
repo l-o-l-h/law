@@ -1,0 +1,13 @@
+#+title:      Tenants in WA Law
+#+date:       [2025-10-31 Fri 16:34]
+#+filetags:   :tenant:
+#+identifier: 20251031T163434
+#+signature:  law
+
+* Email
+
+Jason Quackenbush via groups.nwjustice.org <jason.quackenbush=nwjustice.org@groups.nwjustice.org>
+Oct 28, 2025, 2:19 PM (3 days ago)
+to Lisa, Housing, Kelly
+
+My understanding is that everybody residing in someone else’s property was a tenant of some kind at common law even squatters, and that’s still the case in Washington unless it’s abrogated by statute, because in the absence of a statute or case law Washington follows the restatement. which is why tenancy at will is still a thing here. I think if it’s not an RLTA case (defined at RCW 59.18.030(34) or a tenancy-at-will (defined in Rest(2nd) Property: Landlord and Tenant sec 1.6) then every other kind of tenancy that exists fits into one of the definitions in 59.04 or one of the less common other kinds of tenancy in the restatement. It will depend on the terms of any contract the tenant signed, but for transitional housing it’s tenancy for a specified time 59.04.030 or Tenancy from month to month (59.04.020). Tenancy by sufferance doesn’t fit because the tenant takes possession with the owners permission. They might be tenants at will if there is no consideration paid for continued possession aka rent reserved in the contract, but I kind of doubt any transitional housing is operating without some sort of consideration imposed on the residents even in very low barrier properties.
