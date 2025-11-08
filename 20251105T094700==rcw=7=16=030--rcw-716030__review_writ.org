@@ -1,0 +1,9 @@
+#+title:      RCW 7.16.030
+#+date:       [2025-11-05 Wed 09:47]
+#+filetags:   :review:writ:
+#+identifier: 20251105T094700
+#+signature:  rcw=7=16=030
+
+* RCW 7.16.030 -- Certiorari defined
+
+The writ of certiorari may be denominated the writ of review.

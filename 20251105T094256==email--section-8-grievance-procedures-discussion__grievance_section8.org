@@ -1,0 +1,55 @@
+#+title:      Section 8 Grievance Procedures Discussion
+#+date:       [2025-11-05 Wed 09:42]
+#+filetags:   :grievance:section8:
+#+identifier: 20251105T094256
+#+signature:  email
+
+* Email Asking About Section 8 Grievance Procedure
+
+Andrew Jones via groups.nwjustice.org <andrewj=kcba.org@groups.nwjustice.org>
+Tue, Nov 4, 10:00 AM (23 hours ago)
+to HTF@groups.nwjustice.org
+
+Good morning,
+
+To appeal a  subsidy termination, grievance decision  from the Seattle
+Housing Authority,  is the applicable statute  of limitations timeline
+the 30  days for review  of agency  actions (RCW 34.05.542)  under the
+Washington Administrative Procedures Act? Are there any exceptions for
+that timeline?
+
+Here at the Housing Justice Project, we don't have a lot of experience
+with Sec.  8 grievances/ normally  send them to the  Northwest Justice
+Project  or the  Tenant Law  Center. I  just inherited  this case  two
+appearances into a show cause hearing,  so scrambling to figure out if
+anything I can still do about the May grievance decision. Thank you.
+
+Sincerely,
+Andrew Jones
+Staff Attorney
+(he/him)
+King County Bar Association
+Housing Justice Project
+1200 5th Ave, Ste 700, Seattle, WA 98101
+Telephone: 206-267-1246
+
+* Answer from Scott Crain: Statutory Writ of Review Ch. 7.16 RCW
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Tue, Nov 4, 10:09 AM (23 hours ago)
+to Andrew, HTF@groups.nwjustice.org
+
+The SOL  for a  statutory writ  of review  is 30  days from  the final
+administrative  action.  There’s  a  bit   of  case  law  on  it.  The
+constitutional writ of review has a flexible timeline, but you have to
+have a good reason for not seeking a writ of review within 30 days and
+the standard of  review is worse. I  have some briefing on  this if it
+would be  helpful. The APA is  not applicable to PHA  actions. Instead
+you are looking at writ procedures under RCW 7.16.
+
+Also,  if  you  can  make  a  federal  case  out  of  it,  or  have  a
+discrimination angle,  you could bring  it as  either a FHA,  1983, or
+WLAD claim  and extend your deadline  to at least two  years. Happy to
+take a look at it if you want to share the issue on review.
+
+See [[denote:20251105T094700][RCW 7.16.030]] Writ of Review

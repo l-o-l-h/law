@@ -1,0 +1,67 @@
+#+title:      Unlawful Detainer Cause of Action Requires Proper Notice
+#+date:       [2025-11-03 Mon 11:28]
+#+filetags:   :action:cause:notice:ud:
+#+identifier: 20251103T112810
+
+* Email [2025-10-13 Mon]
+:LOGBOOK:
+- Note taken on [2025-10-13 Mon 12:58]\\
+  EMAIL DISCUSSION ABOUT PROPER NOTICE:
+  -------------------------------------
+  Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+  Oct 13, 2025, 12:58 PM
+  to chris.brunetti@nwjustice.org, Marrene, Housing, Tyler
+
+  A decision in one of my cases highlights an important semantic nuance of the cases that Chris cites in this briefing.
+
+  On Oct 10, 2025, at 5:21 PM, Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org> wrote:
+
+  A landlord that commences an unlawful detainer action after providing an inadequately clear notice may not " 'avail itself of the superior court's jurisdiction.' "  Housing Authority of City of Seattle v. Bin, 163 Wn.App. 367, 374, 260 P.3d 900 (2011), quoting Tacoma Rescue Mission v. Stewart, 155 Wn.App. 250, 254 n. 9, 228 P.3d 1289 (2010).
+
+  On Friday, a court decided to enter a dismissal without prejudice after a jury found that the demand for rent in the landlord’s notice to pay or vacate was not “reasonably accurate.” The judge reasoned that the jury had not reached the merits of the decision but decided only that the trial court had no jurisdiction over the dispute because the notice was insufficient.
+
+  As the federal courts have observed:
+
+  “Jurisdiction ... is a word of many, too many, meanings.” Steel Co. v. Citizens for Better Environment, 523 U. S. 83, 90, 118 S.Ct. 1003, 140 L.Ed.2d 210 (1998)  (1998) (internal quotation marks omitted).
+
+  I had cited Bin and Tacoma Rescue Mission for the proposition that the notice itself is not “jurisdictional” the way the failure to effect service of a summons and complaint might be jurisdictional. Yes, many opinions resolving unlawful detainer actions use the term “jurisdiction” when the sufficiency of a notice is litigated, but that terminology is based upon an antiquated and less precise use of the term “jurisdiction.” Often, these antiquated opinions are quoted without any consideration for how the term “jurisdiction” has narrowed in scope.
+
+  The term “jurisdiction” has narrowed in scope because jurisdictional defects can be raised for the first time on appeal. Over the last fifty years or so, appellate courts have had to explain that the liberal use of the term “jurisdiction” in much older opinions does not authorize appellants to challenge all manner of errors for the first time on appeal. Bin and Tacoma Rescue Mission belong to this family of cases. Flaws in a notice cannot be raised for the first time on appeal and, therefore, a flawed notice is not a jurisdictional defect in the way the term “jurisdiction” is used now.
+
+  *[WHAT IS FLAWED NOTICE?]*
+
+  If a flawed notice is not a jurisdictional defect, what is it? The rest of the cases Chris cited answer that question in my opinion: Housing Authority of City of Everett v. Terry, 114 Wn.2d 558, 564, 789 P.2d 745 (1990) ("Because it gave deficient notice, the Housing Authority could not prove a cause of action for unlawful detainer.”)
+
+  A sufficient notice is just one of the elements of a claim for unlawful detainer the way that “duty” and “breach” are elements of a claim for negligence or “death” is an element of the crime of murder. Notices are substantive. They separate unlawful detainer actions from ordinary breach of contract claims.
+
+  That argument was rejected. The old timey case law uses the term “jurisdiction” quite often, so the case was dismissed without prejudice. After a jury verdict.
+
+  I think the trial court’s decision was motivated by the landlord’s argument that a dismissal with prejudice would bar the landlord from ever collecting the rent sought in the notice. That argument badly misunderstands the scope of issue and claim preclusion, but I didn’t bother to correct the misunderstanding.
+
+  I’m tempted to drag the landlord through an appeal, but I’m not sure my client is aggrieved by a dismissal without prejudice.
+
+  Benjamin Ramm
+  Staff Attorney
+  Kitsap Legal Aid Services
+
+- Note taken on [2025-10-13 Mon 13:14]\\
+  RESPONSE:
+  ---------
+  Elizabeth Powell via groups.nwjustice.org <EPowell=ccsww.org@groups.nwjustice.org>
+  Oct 13, 2025, 1:14 PM
+  to bramm@kitsaplegalaid.org, chris.brunetti@nwjustice.org, Marrene, Housing, Tyler
+
+  The Bin court said:
+
+  not because the trial court lacked subject matter jurisdiction, but because the notice was insufficient to permit the action to be maintained. The court explained why it was inaccurate to characterize the issue as a lack of subject matter jurisdiction:
+
+  Some cases speak of the trial court lacking jurisdiction to hear unlawful detainer actions, chapter 59.12 RCW, without adequate notice to the tenant. See, e.g., Christensen v. Ellsworth, 162 Wash.2d 365, 372, 173 P.3d 228 (2007); Hous. Auth. v. Terry, 114 Wash.2d 558, 566, 789 P.2d 745 (1990); IBF, LLC v. Heuft, 141 Wash.App. 624, 632, 174 P.3d 95 (2007); Hous. Auth. v. Silva, 94 Wash.App. 731, 734, 972 P.2d 952 (1999). But under chapter 59.12 RCW, “[t]he superior court of the county in which the property or some part of it is situated shall have jurisdiction of proceedings **904 under this chapter.” RCW 59.12.050. Furthermore, superior courts have broad general jurisdiction over real estate disputes. See Wash. Const. art. IV, § 6; Young v. Clark, 149 Wash.2d 130, 133–34, 65 P.3d 1192 (2003). Thus, a superior court has jurisdiction to determine whether an unlawful detainer action may go forward. See RCW 59.12.050. The proper terminology is that a party who files an action after improper notice may not maintain such action or avail itself of the superior court’s jurisdiction. See Nickum v. City of Bainbridge Island, 153 Wash.App. 366, 379 n. 9, 223 P.3d 1172 (2009).
+
+  I appreciated the Bin decision when it came out, and the end of twenty plus years of the COA taking about a trial court lacking jdx.
+
+  Benjamin, what you were noticing was 20+years of sloppiness on the part of the COA. You just have to continue being precise when advising the Court (which you did).
+
+  But if the dismissal happened, even without prejudice, I think you take the W.
+
+  Elizabeth
+:END:

@@ -1,0 +1,117 @@
+#+title:      Washington Has Looked to California's Interpretation of UD Statutes
+#+date:       [2025-11-05 Wed 09:13]
+#+filetags:   :california:law:statutes:ud:
+#+identifier: 20251105T091316
+
+* Email with Case Citations
+
+On Tue, Oct 28, 2025 at 3:38 PM Benjamin Ramm <bramm@kitsaplegalaid.org> wrote:
+
+On Oct 28, 2025, at 2:34 PM, Ron Baugh-Schlossberg via groups.nwjustice.org <rbaugh=soundlegalaid.org@groups.nwjustice.org> wrote:
+
+Is  it  still within  30  days,  RCW  59.12.190 is  discretionary  but
+available and  I have used  it once in a  case of full  repayment that
+went beyond the days in which RCW 59.18.410 apply.
+
+Exactly!
+
+This statute  is the  traditional, old-timey  procedure for  keeping a
+tenancy. Washington courts have not  interpreted it very often, but it
+was copied from a California law.  Here’s an argument that I made last
+week about nonpayment outside the scope of RCW 59.18.410:
+
+Even if  the Defendants are  found liable for unlawful  detainer, they
+would like relief against forfeiture:
+
+#+begin_quote
+The court  may relieve a  tenant against a  forfeiture of a  lease and
+restore him  or her  to his or  her former estate,  as in  other cases
+provided  by law,  where application  for such  relief is  made within
+thirty days  after the forfeiture is  declared by the judgment  of the
+court, as provided  in this chapter. The application may  be made by a
+tenant  or subtenant,  or  a  mortgagee of  the  term,  or any  person
+interested in the continuance of the term.
+#+end_quote
+
+RCW 59.12.190.
+
+This statute has  existed for almost all of  Washington’s history, but
+it has not been interpreted, except  that one opinion held that it did
+not  protect a  tenant who  created  a nuisance.  Therefore, the  best
+guidance is  provided by  virtually identical statutes  in California,
+Cal. Code Civ. Proc., §§ 1176  and 1179.[1] The These statutes require
+courts to  balance the hardships that  the parties face and  a pair of
+cases provide  useful guideposts  for balancing relative  hardships of
+landlords  and  tenants.  See,  e.g.,
+- _Mehr  v.  Superior  Court_,  139 Cal. App. 3d 1044, 189 Cal.Rptr.  138 (1983); and
+- _Candeias v. Superior Court_, 49 Cal. App. 580, 193 P. 957 (1920).
+
+The _Mehr_ opinion provides the most useful guide for this Court because
+the  underlying facts  resemble  this case.  The tenants  demonstrated
+that: (1)  they would suffer  “irreparable injury” if  evicted because
+they had three children and have lived  in their home for 15 years and
+(2)  the landlord  would suffer  only  minimal harm  because he  never
+intended to live on the property and the tenants could pay rent.
+
+On the other  hand, the _Candeias_ opinion illustrates the  sort of harm
+that a  landlord might suffer if  a tenant remains in  possession. The
+tenant in  Candeias had allowed  his dairy cows  to damage a  field of
+alfalfa  and did  so  even  throughout the  pendency  of the  unlawful
+detainer action. Thus, the court  found that the landlord would suffer
+a great and even irreparable  hardship because the cows would continue
+to damage the crops.
+
+In   this   case,   the   tenants  are   medically   and   financially
+vulnerable.  They  need  stable  housing. The  breach  has  also  been
+cured. Kitsap  County is  not prosecuting the  landlord. She  will not
+suffer any harm if the tenants are relieved from the forfeiture.
+
+[1]
+
+*California:*
+
+The court  may relieve  a tenant  against a forfeiture  of a  lease or
+rental  agreement, whether  written or  oral, and  whether or  not the
+tenancy has  terminated, and restore him  or her to his  or her former
+estate   or   tenancy,  in   case   of   hardship,  as   provided   in
+Section 1174. ... An application  for relief against forfeiture may be
+made  at  any  time  prior  to restoration  of  the  premises  to  the
+landlord. The application  may be made by a tenant  or subtenant, or a
+mortgagee of the term, or any  person interested in the continuance of
+the term.
+
+*Washington:*
+
+The court  may relieve a  tenant against a  forfeiture of a  lease and
+restore him  or her  to his or  her former estate,  as in  other cases
+provided  by law,  where application  for such  relief is  made within
+thirty days  after the forfeiture is  declared by the judgment  of the
+court, as provided  in this chapter. The application may  be made by a
+tenant  or subtenant,  or  a  mortgagee of  the  term,  or any  person
+interested in the continuance of the term.
+
+Washington courts  have been guided by  California’s interpretation of
+its  forcible  and unlawful  detainer  statutes.
+
+See, e.g., Randolph v. Husch, 159  Wash. 490, 495, 294 Pac. 236 (1930)
+(“California has  a statute worded  almost identical with our  own and
+having exactly  the same meaning  and effect  as the language  used in
+our” statute);
+
+Gore v.  Altice, 33 Wash.  335,  338, 74 P. 556  (1903) (“the statutes
+are essentially similar, and the court in the California case said…”);
+
+Huston v. Big Bend  Land Co., 106 Wash. 130, 135,  179 P.  101 (1919);
+
+Exeter Co. v.  Holland Corp., 172  Wash. 323, 350, 23 P.2d 864 (1933);
+
+Chezum v.  Campbell,  42 Wash.  560, 564, 85 P.   48 (1906);
+
+Schreiner  v.  Stanton,  26 Wash.   563, 566,  67 P.  219 (1901);  and
+
+Selene RMOF  II REO Acquisitions II,  LLC v.  Ward, 189  Wn.2d 72, 79,
+399 P.  3d 1118 (2017) (relying  on California’s analysis of a statute
+governing  evictions  from  foreclosed   properties);  and  Munden  v.
+Hazelrigg,  105 Wn.2d  39, 46,  711 P.2d  295 (1985)  (referencing the
+conversion of an unlawful detainer  action to an ordinary civil action
+once possession is not disputed).

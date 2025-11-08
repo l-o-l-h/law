@@ -287,3 +287,78 @@ If you believe your VAWA rights have been violated, you can [[https://www.hud.go
 link]] to file a complaint with HUD’s Office of Fair Housing and Equal
 Opportunity (FHEO). You can also [[https://www.hud.gov/stat/fheo/intake-investigation][find out more]] about the complaint
 process.
+
+* Issue Involving Voucher--Family Breakup Procedure
+:LOGBOOK:
+- Note taken on [2025-11-03 Mon 10:06] \\
+  EMAIL ISSUE FROM CL:
+  --------------------
+  From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Paola Morinigo via groups.nwjustice.org
+  Sent: Monday, October 27, 2025 1:19 PM
+  To: HTF@groups.nwjustice.org
+  Subject: [HTF] Family law client w/ housing issue
+
+  Hi all,
+
+  I am in the family law unit. A client ( victim of DV with a DVPO in place) was told that she qualified for section 8 housing and wants to know if she can exclude her husband ( the restrained party in the DVPO). The issue is that she has no income, and it is unlikely that she will get a job. I'm not familiar with Section 8, but I assume it is not free. Does she need to reapply on her own?
+
+  Thank you,
+
+  Paola
+
+  Paola E. Morinigo
+  (she/her pronouns)
+  Attorney
+  Northwest Justice Project
+  124 4th Ave. South, Suite 240
+  Kent, WA 98032
+  (206) 707-0806
+
+- Note taken on [2025-11-03 Mon 10:06] \\
+  RESPONSE FROM SCOTT CRAIN WITH SPECIFIC INFORMATION ABOUT VAWA AND VOUCHERS:
+  ----------------------------------------------------------------------------
+  From: Scott Crain <scottc@nwjustice.org>
+  Sent: Monday, October 27, 2025 2:06 PM
+  To: Paola Morinigo <Paola.Morinigo@nwjustice.org>; Jennifer Ammons <jennifera@nwjustice.org>; HTF@groups.nwjustice.org
+  Subject: RE: [HTF] Family law client w/ housing issue
+
+  *She would be covered by VAWA*, most likely, particularly if there is
+  a denial of the housing as a result of the family breakup, i.e. they
+  revoke the voucher or deny it because the partner is no longer in
+  the home as a result of the DV.
+
+  *The Family Breakup Procedure*
+
+  If the voucher has already been assigned to the family and they are
+  looking for housing with it now, she can ask to have the abuser
+  removed by initiating the family breakup procedure under VAWA.
+
+  _VAWA requires the HA to remove the abuser from the household_ and
+  make sure that the victim receives continued assistance.
+
+
+  *HUD Form 5382*
+
+  In either case, you want to get a copy of HUD Form 5382 and fill it
+  out with her. Once VAWA applies, the HA has less discretion to deny
+  her for things that are directly related to the DV, like loss of
+  income. Same thing applies if she has the voucher and it is already
+  being used to pay her rent, since she’ll want to remove the partner
+  from the voucher household. You could determine where she is in the
+  process by asking her if she’s been approved to look for housing
+  with the voucher, or if she hasn’t yet gone to the housing authority
+  to complete her intake paperwork.
+
+  Happy to consult more if you have some of this information to help
+  figure out where she is in the process.
+
+  *Zero Income OK*
+
+  Even if she has zero income, she can get and use a voucher. She will
+  encounter resistance from landlords to using her voucher, however,
+  since they will perceive that she has less disposable income to meet
+  her daily needs. That being said, they can’t deny her on the basis
+  that she is using a voucher under state law. If you encounter that,
+  we could try to find a consult with someone in one of our housing
+  teams.
+:END:

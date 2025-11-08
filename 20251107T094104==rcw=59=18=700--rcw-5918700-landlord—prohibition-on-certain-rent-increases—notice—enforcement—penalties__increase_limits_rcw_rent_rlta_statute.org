@@ -1,0 +1,187 @@
+#+title:      RCW 59.18.700 Landlord—Prohibition on certain rent increases—Notice—Enforcement—Penalties
+#+date:       [2025-11-07 Fri 09:41]
+#+filetags:   :increase:limits:rcw:rent:rlta:statute:
+#+identifier: 20251107T094104
+#+signature:  rcw=59=18=700
+
+* RCW 59.18.700 -- Landlord—Prohibition on certain rent increases—Notice—Enforcement—Penalties
+
+** (1) [Rent Increase Limitations]
+
+*** (a) [Annual Limitations]
+
+Except as authorized  by an exemption under RCW  59.18.710,
+
+A  LANDLORD  MAY NOT  INCREASE  THE  RENT  FOR  ANY TYPE  OF  TENANCY,
+
+    regardless of whether the tenancy  is
+    - month-to-month or
+    - for a term greater or lesser than month-to-month:
+
+**** (i)
+
+During the first 12 months after the tenancy begins; and
+
+**** (ii)
+
+During any 12-month  period of the tenancy, in an  amount greater than
+seven percent plus the consumer  price index, or 10 percent, whichever
+is less.
+
+*** (b) [Rent May Be Adjusted After Vacate]
+
+This subsection  (1) does not  prohibit a landlord from  adjusting the
+rent by  any amount after a  tenant vacates the dwelling  unit and the
+tenancy ends.
+
+*** (c) [D of C Percentage Limit]
+
+Beginning June  1, 2025,  and annually  thereafter,
+
+the department  of commerce  shall calculate  the maximum  annual rent
+increase  percentage allowed  under  (a) of  this  subsection for  the
+following calendar year
+
+and
+
+[[https://www.commerce.wa.gov/housing-policy/hb1217-landlord-resource-center/][publish the information  on their website]] and in a  press release.
+
+For the purposes of this subsection, "consumer price index" means the
+June 12-month percent change in the consumer price index for all urban
+consumers, all items, for the Seattle area as published by the United
+States bureau of labor statistics.
+
+** (2) [Claimed Exemptions]
+
+If  a  landlord  increases  the  rent  above  the  amount  allowed  in
+subsection (1) of this section as authorized by an exemption under RCW
+59.18.710,
+
+  *the landlord must include facts supporting any claimed exemptions* in
+  the written  notice of the  rent increase.  Notice must  comply with
+  this section, RCW 59.18.720, 59.18.140,  and be served in accordance
+  with RCW 59.12.040.
+
+** (3) [Opportunity to Cure; Right to Terminate]
+
+If a  landlord increases rent  above the amount allowed  in subsection
+(1) of this section and the increase is not authorized by an exemption
+under RCW 59.18.710,
+
+  *the  tenant must  offer  the  landlord an  opportunity  to cure*  the
+  unauthorized  increase
+
+  *by  providing the  landlord  with  a written  demand*  to reduce  the
+  increase to an  amount that complies with the limit  created in this
+  section.
+
+In  addition to  any other  remedies  or relief  available under  this
+chapter or other law,
+
+  *the tenant may  terminate the rental agreement at any  time* prior to
+  the effective  date of the  increase by providing the  landlord with
+  written  notice  at least  20  days  before terminating  the  rental
+  agreement.
+
+  If a tenant terminates a rental agreement under this subsection, the
+  tenant owes rent for the full  month in which the tenant vacates the
+  dwelling unit.
+
+  A landlord may not charge a tenant any fines or fees for terminating
+  a rental agreement under this subsection.
+
+** (4) [Parity Requirements]
+
+*** (a) [Terms and Payment cannot be more Burdensome for MtM Leases]
+
+Except  as provided  in (b)  of this  subsection, a  landlord may  not
+include  terms of  payment or  other material  conditions in  a rental
+agreement that  are more burdensome  to a tenant for  a month-to-month
+rental agreement than for a rental agreement where the term is greater
+or lesser than month-to-month, or vice versa.
+
+*** (b) [Parity Between Lease Types]
+
+A landlord must provide parity between lease types with respect to the
+amount of rent charged for a  specific dwelling unit.
+
+  For the  purposes of this  subsection, "parity between  lease types"
+  means that,
+  - for  leases or  rental agreements  that  a landlord  offers for  a
+    specific dwelling unit, the landlord  may not charge a tenant more
+    than a  five percent difference in  rent depending on the  type of
+    lease or rental agreement offered,  regardless of whether the type
+    of lease  or rental  agreement offered is  on a  month-to-month or
+    other periodic basis or for a specified period.
+  - This five percent difference may not  cause the rent charged for a
+    specific  dwelling  unit to  exceed  the  rent increase  limit  in
+    subsection (1) of this section.
+
+** (5) [Enforcement]
+
+*** (a) [Action in Court by Tenant or AG; Damages]
+
+A tenant  or the attorney  general may bring an  action in a  court of
+competent jurisdiction to enforce compliance  with this section or RCW
+59.18.710, 59.18.720, or 59.18.140.
+
+If the court finds that a landlord  violated any of the laws listed in
+this subsection,
+
+  the  court SHALL  award  the  following damages  to  the tenant  and
+  attorneys' fees and costs to the tenant who brings the action or the
+  attorney general:
+
+**** (i) [Excess Rent, etc. Paid]
+
+Damages in the amount of any excess rent, fees, or other costs paid by
+the tenant;
+
+**** (ii) [Treble Damages]
+
+Damages in an amount of up to three months of any unlawful rent, fees,
+or other costs charged by the landlord; and
+
+**** (iii) [Attorneys' Fees]
+
+Reasonable attorneys' fees and costs incurred in bringing the action.
+
+*** (b) [Attorney General Rights]
+
+The  attorney  general  may  bring an  action  under  this  subsection
+notwithstanding  whether  the  tenant  has  offered  the  landlord  an
+opportunity to cure, and may recover  civil penalties of not more than
+$7,500 for  each violation in  addition to other remedies  provided by
+this  subsection.  The  attorney   general  may  issue  written  civil
+investigative  demands for  pertinent  documents,  answers to  written
+interrogatories, or oral testimony as required to investigate or bring
+an action under this subsection.
+
+[[https://www.atg.wa.gov/news/news-releases/consumer-alert-attorney-general-s-office-issues-know-your-rights-flyers-12][Information about the Enforcement Action of the AG]]
+[[https://www.atg.wa.gov/file-complaint][File a Complaint with the AG Office]]
+
+** (6) [Remedies Not Exclusive]
+
+The remedies  provided by this  section are  in addition to  any other
+remedies provided by law.
+
+** (7) [LL May Not Report Tenant for Failing to Pay]
+
+ A landlord  may not report the  tenant to a tenant  screening service
+ provider for failure to pay the portion of the tenant's rent that was
+ unlawfully increased in violation of this section.
+
+** (8) [Expiration Date]
+
+This section expires July 1, 2040.
+
+* 2025 c 209 s 101
+
+[[https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/House/1217.SL.pdf?cite=2025%20c%20209%20s%20101][Engrossed House Bill 1217]]
+
+* Effective Date : May 7, 2025
+
+Effective date—2025 c 209: "This act is necessary for the immediate
+preservation of the public peace, health, or safety, or support of the
+state government and its existing public institutions, and takes
+effect immediately [May 7, 2025]." [ 2025 c 209 s 301.]
