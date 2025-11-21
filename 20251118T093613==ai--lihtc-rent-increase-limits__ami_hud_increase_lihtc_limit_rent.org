@@ -1,0 +1,57 @@
+#+title:      LIHTC Rent Increase Limits
+#+date:       [2025-11-18 Tue 09:36]
+#+filetags:   :ami:hud:increase:lihtc:limit:rent:
+#+identifier: 20251118T093613
+#+signature:  ai
+
+* What is the LIHTC rent increase limit in Washington state
+
+** Overview
+
+In  Washington  state, properties  under  the  Low-Income Housing  Tax
+Credit (LIHTC) program are generally  exempt from the state's new rent
+increase  cap  law (HB  1217)  because  they  are already  subject  to
+specific  government  affordable  housing  regulations.  The  relevant
+limits for  these properties are  based on federal guidelines  tied to
+the  Area Median  Income (AMI),  as  determined by  the Department  of
+Housing and Urban Development (HUD).
+
+** LIHTC Rent Limits
+
+The maximum allowable  rent for a LIHTC unit is  calculated based on a
+percentage of  the AMI for the  specific county or area,  typically at
+the 50% or 60% AMI level. This rent is generally capped at 30% of that
+specific AMI level for the corresponding unit size.
+
+These  limits  are updated  annually  by  the federal  government  and
+published  by   the  [[https://wshfc.org/Managers/Map.aspx][Washington   State  Housing   Finance  Commission]]
+(WSHFC).  Property  owners  are  responsible for  using  the  correct,
+annually updated limits for their specific properties.
+
+*** Income and Rent Limits for All Tax Credit and Bond Financed Properties
+
+HUD published  the 2025  affordable housing  limits on  4/1/2025.  Tax
+Credit and Bond property owners  must implement the 2025 income limits
+no later  than Friday, May 16,  2025.  Click the blue  button below to
+download the limits list by property  name, or click the orange button
+to download the limit sets by county.
+
+[[https://wshfc.org/Managers/AMCLimits/Others/BoxInfo/2025LimitsbyPropertyList.pdf][LINKS BY PROPERTY]]
+
+To find  the limits for  your property, click  on the blue  *Limits by
+Property* button above.  A PDF will open with an  alphabetical list of
+Multifamily properties.  Locate your  property, then click  the limits
+hyperlink to view the current applicable income and rent limits.
+
+
+** Washington State Rent Cap Law Exemption
+
+The statewide  rent cap law (HB  1217), which went into  effect in May
+2025, limits annual rent increases  for most residential properties to
+the lesser of 10% or 7%  plus the Consumer Price Index (CPI). However,
+this law  specifically exempts  units that  are already  restricted by
+government  affordable housing  programs,  which  includes most  LIHTC
+developments.
+
+Therefore, LIHTC properties must adhere to their specific program rent
+limits rather than the general state rent cap.

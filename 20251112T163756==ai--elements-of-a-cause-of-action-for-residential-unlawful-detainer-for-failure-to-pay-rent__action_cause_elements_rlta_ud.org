@@ -1,0 +1,348 @@
+#+title:      Elements of a Cause of Action for Residential Unlawful Detainer for Failure to Pay Rent
+#+date:       [2025-11-12 Wed 16:37]
+#+filetags:   :action:cause:elements:rlta:ud:
+#+identifier: 20251112T163756
+#+signature:  ai
+
+* Elements of a Cause of Action for Residential Unlawful Detainer for Failure to Pay Rent
+
+** Summary
+
+Under Washington law, a landlord must prove five essential elements to
+establish a cause of action for  unlawful detainer based on failure to
+pay rent:
+
+- (1) a  default in  the payment  of rent,
+- (2) service of a written notice requiring payment of rent or
+  surrender of the premises,
+- (3) proper  service of the notice  pursuant to RCW 59.12.040,
+- (4) the tenant's failure to comply with the notice for the required
+  period (three days for general tenancies or fourteen days for
+  residential tenancies under the Residential Landlord-Tenant Act),
+  and
+- (5) the tenant's continued possession of the premises after the cure
+  period expires.
+- Additionally, the complaint must specifically state the amount of
+  rent due, and the landlord bears the burden of proving these
+  elements by a preponderance of the evidence.
+
+** Statutory Framework and Elements
+
+Washington's unlawful detainer statute,  RCW 59.12.030(3), defines the
+essential elements for an unlawful detainer action based on nonpayment
+of rent.
+
+A tenant is liable for unlawful  detainer
+
+#+begin_quote
+when he or she continues in possession in person or by subtenant after
+a  default  in the  payment  of  rent,  and  after notice  in  writing
+requiring in the alternative the payment  of the rent or the surrender
+of the detained premises, served (in manner in RCW 59.12.040 provided)
+on behalf of the person entitled to the rent upon the person owing it,
+has  remained uncomplied  with  for  the period  of  three days  after
+service, or  for the  period of  14 days  after service  for tenancies
+under chapter 59.18 RCW.
+#+end_quote
+
+- RCW 59.12.030.
+
+The statute establishes distinct notice  periods depending on the type
+of tenancy.
+
+*** General (Commercial) Tenancies
+
+For general tenancies,  the tenant has three days to  cure the default
+after  proper service  of  notice.
+- RCW 59.12.030
+
+*** Residential Tenancies
+
+For residential tenancies governed  by the Residential Landlord-Tenant
+Act (chapter 59.18  RCW), the cure period extends to  fourteen days.
+- RCW 59.12.030
+
+The  notice may  be served  at any  time after  the rent  becomes due,
+providing landlords  with flexibility  in timing  their notices.
+- RCW 59.12.030
+
+** Notice Requirements and Procedural Prerequisites
+
+Washington  courts have  consistently  held that  proper  notice is  a
+condition  precedent to  maintaining an  unlawful detainer  action. In
+_Little v. Catania_,  the Washington Supreme Court  emphasized that "the
+giving of the  statutory three-day notice is a  condition precedent to
+an unlawful detainer  action. It is a fact to  be established upon the
+trial before the court may pronounce a judgment of unlawful detainer"
+
+- KeyCite Yellow  Flag _Little  v.  Catania_, 48  Wash.2d 890  (1956).
+
+The court further  noted that where "the three-day  notice was neither
+pleaded nor proved;  therefore, any judgment of  unlawful detainer was
+erroneous"  KeyCite Yellow  Flag _Little  v.  Catania_,  48 Wash.2d  890
+(1956).
+
+The notice must be served in  the manner specified in RCW 59.12.040.
+- RCW 59.12.030
+
+Courts require  strict compliance with these  procedural requirements,
+as  emphasized in  _Hall v.   Feigenbaum_, where  the court  stated that
+
+#+begin_quote
+"Washington courts require strict compliance  with the time and manner
+requirements for unlawful detainer  actions and strictly construe them
+in  favor  of the  tenant."
+#+end_quote
+- _Hall v.  Feigenbaum_, 178 Wash.App. 811 (2014).
+
+This strict  compliance requirement  extends to  +both the  content and+
+service of the notice.
+
+In _FPA  Crescent Assocs.,  LLC v. Jamie's,  LLC_, the  court reinforced
+that  lease provisions  allowing  termination without  notice did  not
+relieve  landlords  of  providing  notice  pursuant  to  the  unlawful
+detainer statute and that the three-day notice to pay rent or quit was
+a condition precedent to instituting an unlawful detainer action where
+reentry  was sought  for nonpayment  of rent
+- KeyCite Yellow Flag _FPA Crescent Associates, LLC v. Jamie's, LLC_,
+  190 Wash.App.  666 (2015).
+
+
+This holding demonstrates that  contractual provisions cannot override
+statutory notice requirements.
+
+** Pleading Requirements
+
+RCW 59.12.070 establishes specific  pleading requirements for unlawful
+detainer complaints based  on nonpayment of rent.
+
+- RCW 59.12.070
+
+The statute  requires that the  plaintiff's complaint "must  set forth
+the  facts on  which he  or  she seeks  to recover,  and describe  the
+premises with reasonable certainty".
+
+- RCW 59.12.070
+
+Most  importantly  for  rent-based  actions,  "in  case  the  unlawful
+detainer  charged  be  after  default  in the  payment  of  rent,  the
+complaint must state the amount of such rent".
+
+- RCW 59.12.070
+
+The complaint  serves as notice to  the tenant of the  specific claims
+being made.  In _Angelo Prop.  Co., LP v.  Hafiz_, the court  noted that
+where a  landlord "had not  alleged Maged's failure  to pay rent  as a
+basis for seeking  unlawful detainer damages in its notice  to quit or
+in its unlawful detainer complaint,"  the trial court's order based on
+failure to  pay rent was  not supported  by the record  KeyCite Yellow
+Flag  _Angelo   Property  Co.,  LP   v.   Hafiz_,  167   Wash.App.   789
+(2012). This reinforces  the importance of properly  pleading the rent
+default in the complaint.
+
+** Burden of Proof and Standard of Evidence
+
+The burden of proof in unlawful detainer actions rests squarely on the
+landlord. In _FPA Crescent Assocs., LLC v. Jamie's, LLC_, the court held
+that "the burden is on the  landlord in an unlawful detainer action to
+prove  his or  her  right  to possession  by  a  preponderance of  the
+evidence"
+
+- KeyCite Yellow Flag _FPA Crescent Associates, LLC v. Jamie's, LLC_,
+  190 Wash.App.  666 (2015).
+
+The court  explained that  "the possession of  a tenant  is originally
+lawful, and is so presumed  until the contrary appears"
+
+- KeyCite Yellow _Flag FPA Crescent Associates, LLC v. Jamie's, LLC_,
+  190 Wash.App. 666 (2015).
+
+This burden extends  to proving each element of  the unlawful detainer
+claim. The landlord must establish not only the existence of the lease
+relationship and the default in  rent payment, but also proper service
+of the required notice and the tenant's continued possession after the
+cure period  expired. The Washington  Supreme Court in _Sangha  v. Keen_
+reaffirmed that "both chapters are in derogation of the common law and
+are  strictly construed  in  the  tenant's favor"
+
+- _Sangha  v. Keen_,  4 Wash.3d 852 (2025).
+
+** Waiver and Acceptance of Rent
+
+Washington  law recognizes  that landlords  can waive  their right  to
+proceed with an  unlawful detainer action through  their conduct after
+serving notice. In  _First Union Mgmt., Inc. v. Slack_,  the court found
+that  a landlord  waived the  default  by accepting  and cashing  rent
+payments after  serving notice  without advising  the tenant  that the
+payments were  for damages  rather than  rent.
+
+- _First  Union Management, Inc. v. Slack_,  36 Wash.App. 849 (1984).
+
+The court noted  that tenants were justified in  assuming the landlord
+accepted  their  payment  as  rent   when  the  landlord  provided  no
+advisement otherwise.
+
+Similarly, in _Leda v. Whisnand_, the court noted that "in an action for
+unlawful  detainer based  upon the  nonpayment of  rent, the  landlord
+waives prior breaches by accepting rent after he has served the notice
+to  quit"
+
+- KeyCite  Yellow Flag  _Leda  v.  Whisnand_,  150 Wash.App.  69 (2009).
+
+This principle requires  landlords to be cautious  about accepting any
+payments  after  serving notices,  as  such  acceptance may  cure  the
+default and prevent the unlawful detainer action from proceeding.
+
+** Residential Tenancy Protections
+
+For residential tenancies governed  by the Residential Landlord-Tenant
+Act,  additional  protections  and  procedures  apply.  RCW  59.18.410
+provides courts with discretion to  stay writs of restitution in cases
+involving nonpayment of rent.
+
+- KeyCite Yellow Flag RCW 59.18.410
+
+The statute directs courts to consider factors including "the tenant's
+willful or  intentional default  or intentional  failure to  pay rent"
+when determining whether  to grant such relief
+
+- KeyCite  Yellow Flag RCW 59.18.410.
+
+The Act also establishes that tenants who have been served with "three
+or more notices to pay or vacate  for failure to pay rent as set forth
+in RCW  59.12.040 within twelve months  prior to the notice  to pay or
+vacate upon  which the proceeding is  based may not seek  relief under
+this subsection" unless the court determines the notices were invalid.
+
+- KeyCite Yellow  Flag RCW 59.18.410
+
+This  provision balances  tenant  protection  with accountability  for
+repeat violations.
+
+** Damages and Remedies
+
+Upon successful  proof of  unlawful detainer  for nonpayment  of rent,
+Washington law  provides specific remedies. RCW  59.12.170 establishes
+that  for proceedings  involving  unlawful detainer  after default  in
+payment of  rent, "the judgment  shall also declare the  forfeiture of
+the  lease, agreement,  or tenancy"  and that  "the judgment  shall be
+rendered against the defendant guilty  of the forcible entry, forcible
+detainer, or  unlawful detainer for  twice the amount of  damages thus
+assessed and of the rent, if any, found due".
+
+- RCW 59.12.170
+
+In _Queen  v. McClung_,  the court clarified  that "the  statute clearly
+requires the doubling of all unpaid rent, whether it accrues before or
+during the  period the tenant  is found  to be in  unlawful detainer".
+
+- KeyCite Yellow Flag _Queen v. McClung_, 12 Wash.App.  245 (1974).
+
+This  double  damages  provision   serves  as  both  compensation  and
+deterrent, though it applies only after the court has found the tenant
+in unlawful detainer.
+
+** Related Issues
+
+*** Breach of warranty of habitability claims
+
+Tenants frequently assert that landlord's failure to maintain premises
+in habitable condition justifies  rent withholding, creating a defense
+to unlawful detainer actions
+
+*** Unlawful discrimination defenses
+
+Fair housing  violations are commonly  raised as defenses  in eviction
+proceedings, as recognized in cases like _Josephinium Assocs. v. Kahli_
+
+*** Retaliatory eviction claims
+
+Allegations that  eviction proceedings  are in retaliation  for tenant
+complaints about housing conditions or exercise of tenant rights under
+the Residential Landlord-Tenant Act
+
+*** Security deposit disputes
+
+Disagreements  over  proper  handling,   application,  and  return  of
+security deposits often arise in conjunction with unpaid rent claims
+
+** Commentary on This Question
+
+An  unlawful detainer  action  in  Washington to  evict  a tenant  for
+failure  to  pay rent  requires  the  landlord to  establish  specific
+elements.  The landlord  must  show
+
+- the existence of a valid lease agreement obligating the tenant to
+  pay rent,
+
+- that the tenant breached this obligation by failing to pay rent when
+  due, and
+
+- that the landlord served proper notice of the breach to the tenant.
+
+Following  the notice,  if  the tenant  does not  pay  or vacate,  the
+landlord initiates the unlawful  detainer proceeding through statutory
+summons  and complaint.   Washington  law  specifically mandates  that
+tenants in actions  based on nonpayment of rent must  pay the landlord
+the amount claimed due into the  court registry during the pendency of
+the action. Failure to do so  may result in an order directing sheriff
+to return possession to the  landlord. Courts focus exclusively on the
+immediate right  to possession, with  damages or other  claims handled
+separately. A valid unlawful detainer notice in Washington must comply
+with statutory notice requirements, which  include giving the tenant a
+chance  to  remedy  the  default if  mandated.   The  underlying  rent
+obligation is not suspended by  eviction moratoria, and tenants remain
+liable for rent due.
+
+- Real Estate Leasing Practice Manual :: RELPM § 38:20 Defaults and
+  other failures to perform obligations—Remedies for
+  defaults—Cancellation of lease—Eviction.
+
+- Cause of Action by Residential Landlord to Evict Tenants or Other Occupants :: 44
+  COA2d 447
+
+In summary  pleadings, the landlord  must allege:
+
+- the existence  of the lease,
+- the breach by nonpayment,
+- the amount due,
+- the notice provided,
+- and  the  tenant’s continued  possession.
+
+The eviction  procedure is summary  and expedited, focusing  solely on
+possession  and  rent  due.  Notice  requirements  in  Washington  are
+designed to  protect due process,  and a landlord’s failure  to comply
+may  defeat the  action.  The statutory  scheme  permits amendment  of
+amounts due  during the  proceeding and  requires landlords  to follow
+prescribed procedural prerequisites before eviction.
+
+- Plaintiff's Proof of a Prima Facie Case :: PPPFC § 7:5 Summary
+  proceeding to evict tenant
+
+- Real Estate Leasing Practice Manual :: RELPM § 38:20 Defaults and
+  other failures to perform obligations—Remedies for
+  defaults—Cancellation of lease—Eviction.
+
+- Cause of Action by Residential Landlord to Evict Tenants or Other Occupants :: 44
+  COA2d 447
+
+** Current awareness
+
+In  Washington, unlawful  detainer actions,  including those  based on
+failure to pay rent, proceed under the Residential Landlord-Tenant Act
+(RCW  59.18 et  seq.), and  landlords  must strictly  comply with  the
+statute’s  procedural requirements;  recent amendments  have increased
+notice  requirements within  this framework.
+
+- Regaining Possession of Real Property – Unlawful Detainer or Ejectment?
+  - Harman Bual, Lasher Holzapfel Sperry & Ebberson PLLC JD Supra •
+    2024 WLNR 25711178 • April 23, 2025 (Westlaw News Review)
+
+For properties covered by the CARES  Act, a 30-day notice to vacate is
+required  for   evictions  based  on  nonpayment   after  the  federal
+moratorium period; the Washington Supreme  Court held that this 30-day
+requirement  applies only  to nonpayment  evictions and  not to  other
+lease breaches.
+
+- _Housing  Authority of  County  of  King v.   Knight_,  563 P.3d  1058
+  (Wash. 2025) 54-APR RELR-NL 4.

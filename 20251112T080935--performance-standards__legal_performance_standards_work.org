@@ -1,0 +1,47 @@
+#+title:      Performance Standards
+#+date:       [2025-11-12 Wed 08:09]
+#+filetags:   :legal:performance:standards:work:
+#+identifier: 20251112T080935
+
+* Cites for Performance Standards
+
+** Performance Standards for Legal Aid in the State of Washington
+
+** ABA 2021 Standards for the Provision of Legal Aid
+
+[[https://www.americanbar.org/groups/legal_aid_indigent_defense/civil-legal-aid/][Home of Civil Legal Aid]]
+
+[[https://www.americanbar.org/groups/legal_aid_indigent_defense/resource_center_for_access_to_justice/standards-and-policy/updated-standards-for-the-provision-of-civil-legal-aid/][Home of the Standards for the Provision of Civil Legal Aid]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/ABA Standards for the Provision of Civil Legal Aid <ls-sclaid-final-legal-aid-standards-2021>.pdf][Standards for the Provision of Civil Legal Aid PDF (2021)]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/ABA Eight Guidelines of Public Defense Related to Excessive Workloads -- <ls_sclaid_def_train_eight_guidelines.authcheckdam>.pdf][ABA Eight Guidelines of Public Defense Related to Excessive Workloads PDF (2009)]]
+
+** Office of Civil Legal Aid’s Eviction Defense Best Practices Policy
+
+[[https://ocla.wa.gov/programs/eviction-defense][Home -- Eviction Defense]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/OCLA Final Caseload Guidance 6.26.25.pdf][OCLA Final Caseload Guidance 6.26.25]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/WA Appointed Counsel Program-Baseline Report -- <RTC_202310_FinalReportonImplementationofTenantAppointmentCounselProgram>.pdf][WA Appointed Counsel Program-Baseline Report]]
+
+** Washington State Bar Association Standards for Indigent Defense Services
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/WSBA-Indigent-Defense-Standards-as-approved-by-BOG-2024.03.08.pdf][WSBA-Indigent-Defense-Standards-as-approved-by-BOG-2024.03.08 PDF (2024)]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/Washington State Bar Association Standards for Indigent Defense Services <Standards_092211>.pdf][PDF (2011)]]
+
+** Washington Supreme Court's Standards for Indigent Defense
+
+*** Washington State Office of Public Defense
+
+[[attachment:\[2025-11-10\] MOORE,Jim -- CCVLP-HJP-Services-Agreement.docx][Cite]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/Order 25700-A-1644 -- Summary Communication of the Courts Conclusions on Caseloads.pdf][Order -- summary communication of the Court’s conclusions on caseloads PDF]]
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/Washington Supreme Court Standards for Indigent Defense <SUP_MPR_02_01_00_Standards>.pdf][PDF for MPR 2.1]]
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/Washington Supreme Court's Standards for Indigent Defense <cljcrrlj3.1standards>.pdf][PDF for CrRLJ 3.1]]
+
+** Legal Aid in the United States
+
+[[file:~/Library/CloudStorage/GoogleDrive-lincoln@ccvlp.org/My Drive/Lincoln-Private/Performance Standards/USA-National-Report-ILAG-Conference-2023.pdf][PDF]]

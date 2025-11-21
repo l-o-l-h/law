@@ -1,0 +1,104 @@
+#+title:      Project Based versus Housing Choice Voucher Programs
+#+date:       [2025-11-12 Wed 14:11]
+#+filetags:   :ama:federal:hap:housing:increase:lihtc:programs:rent:subsidized:
+#+identifier: 20251112T141135
+#+signature:  email
+
+* Email Describing Some Differences
+Tyler Graber via groups.nwjustice.org <tylerg=nwjustice.org@groups.nwjustice.org>
+1:21 PM (50 minutes ago)
+to mderry@cwlegalaid.org, htf@groups.nwjustice.org
+
+Just to clarify  – LIHTC and Section 8 housing  (unclear from email if
+project-based or  housing choice  voucher) are separate  programs.
+
+** Housing Assistance Payments (HAP)
+
+- Subsidized Housing
+
+HAP (Housing  Assistance Payments) would  only be under Section  8,
+
+** Low Income Housing Tax Credits (LIHTC)
+
+- Tax credits to the LL
+
+as LIHTC  in of itself isn’t  subsidized housing where the  LL gets an
+additional payment from a PHA.
+
+Instead,  they just  get  tax  credits, and
+
+- Tenant's Income is irrelevant except to determine if they are eligible at move-in
+
+for the most part, the tenant’s  income only factors into whether they
+were eligible when they first moved in.
+
+in LIHTC,  their income is  irrelevant for  the purpose of  their rent
+setting.
+
+- Rent is based on Percentage of Area Median Income (AMA)
+
+The rent is set based on a certain % of the AMI (area median income).
+
+** Section 8 HCV for LIHTC Tenants
+
+However, a tenant living in LIHTC  can have a section 8 housing choice
+voucher.
+
+- Voucher Program Standard
+
+In these circumstances,  the LIHTC LL can charge rent  up to the local
+VPS (Voucher Payment Standard).
+
+*** Example
+For example, if your client is in  the 98903 zip code and is living in
+a 2 bedroom, the max rent can be about $1591.
+
+https://yakimahousing.org/site/files/file_manager/page/shared/2025_Payment_Standards.pdf
+
+*** Tenant's Portion of Rent
+
+- Rent cannot be over the VPS
+- Tenant's Portion of Rent is based upon income
+
+Since under  the Section 8 program, the tenant’s  portion of rent is
+based on their  income, it doesn’t matter  what the rent is  set at as
+long as the  rent is not over  the VPS.
+
+Since LIHTC  can’t go over the  VPS, their portion will  never be over
+~30% of their  income.
+
+They  may also  qualify for  $0 rent  if they  are very  low income/no
+income.  YHA (Yakima  Housing  Authority) will  have  their policy  on
+minimum rents. Anything not paid by the tenant would be covered by the
+HAP.
+
+** Questions
+
+So I think the following maybe addresses your questions:
+
+1.  An LIHTC  LL does  not  set HAP  levels, those  are calculated  by
+   YHA. YHA would be the party to notify a tenant in a change of their
+   rent portion.
+
+2.  Any rent  increase sent  by LIHTC  would need  to comply  with RCW
+   59.18.140(3)(a)  (either  60  days  or 90  days  depending  on  the
+   timeframe we are  talking). LIHTC LL’s do not  qualify under (3)(b)
+   because tax credits  are not subsidized housing, and  the amount of
+   the rent is not determined by the tenant’s income.
+
+3. PHA’s generally give a tenant at  least 30 days’ notice of a change
+   in the tenant portion. Certainly if the tenant portion decreases, I
+   don’t think  you would object  to less notice, especially  if their
+   portion is zero.
+
+* Housing Assistance Payments
+- Section 8 program
+- Tenant's portion of rent is based upon the tenant's income
+- Calculated by the PHA, not the LL
+
+* LIHTC Program
+- Tax credit program
+- Not subsidized housing
+- Rent limited by AMI
+- Tenant's qualify at initial application time
+- LL cannot exceed rent increase limit under RCW 59.18.140(3)(a) because the program is not subsidized housing

@@ -1,0 +1,43 @@
+#+title:      Title to Property Cannot be Tried in Unlawful Detainer
+#+date:       [2025-11-16 Sun 16:37]
+#+filetags:   :title:ud:
+#+identifier: 20251116T163720
+
+* Supreme Court Case
+
+Decker v. Verloop, Supreme Court of Washington. April 12, 1913 | 73 Wash. 10 | 131 P. 190
+
+1 Landlord and Tenant | Display Key Number Topics 233k659 Actions in which estoppel is effective
+
+The court in unlawful detainer may not try title to the property; and,
+where plaintiff  alleged ownership in  fee, evidence that the  deed to
+him was void was inadmissible.
+
+Monroe v. Stayt, Supreme Court of Washington. March 9, 1910 | 57 Wash. 592 | 107 P. 517
+
+Landlord and Tenant | Display Key Number Topics 233k664 Persons estopped
+
+Where, after a lease  of property to a husband alone,  he and his wife
+occupied it  and paid rent  for the full  term, both were  estopped to
+deny the landlord's title, though the  wife did not sign the lease and
+the community relation was not considered when it was made.
+
+* Supporting Case
+
+River Stone Holdings NW, LLC v. Lopez, Court of Appeals of Washington, Division 2. April 25, 2017 | 199 Wash.App. 87 | 395 P.3d 1071
+
+Forcible Entry and Detainer | Display Key Number Topics 179k12 Defenses
+
+Former homeowner's arguments that the promissory note was not properly
+assigned,  that the  appointment of  a successor  trustee was  legally
+ineffective,  and that  the  foreclosure and  trustee's  sale did  not
+comply with the  Deeds of Trust Act (DTA) were  not available defenses
+to  unlawful-detainer   action  against  former  homeowner   filed  by
+purchaser of  home at  the trustee's  sale, and  thus the  trial court
+could  not consider  them;  an  unlawful-detainer defendant  generally
+could not raise defective title as a defense to possession, and former
+homeowner either did not attempt to restrain the trustee's sale or was
+unsuccessful at doing so. Wash. Rev. Code Ann. § 61.24.130(1).
+
+An unlawful-detainer defendant generally  cannot raise defective title
+as a defense to possession.
