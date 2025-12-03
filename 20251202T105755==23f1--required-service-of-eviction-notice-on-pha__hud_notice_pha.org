@@ -1,0 +1,50 @@
+#+title:      Required Service of Eviction Notice on PHA
+#+date:       [2025-12-02 Tue 10:57]
+#+filetags:   :hud:notice:pha:
+#+identifier: 20251202T105755
+#+signature:  23f1
+
+* [HTF] Housing Authority or Voucher Administrator notice for Shelter Care Plus Housing Voucher administered by Plymouth
+
+** Email with Question
+
+carnissa.lucassmith via groups.nwjustice.org <carnissa.lucassmith=wearepda.org@groups.nwjustice.org>
+10:14 AM (43 minutes ago)
+to HTF
+
+Good morning!
+
+Does anyone know if a landlord must provide notice to the relevant housing authority (SHA) or the voucher administrator at the same time as a tenant regarding a 10-Day notice for a tenant with a Shelter Care Plus Housing Voucher that is administered by Plymouth?
+
+Thanks in advance,
+Carnissa
+
+** Response with Resources
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+10:40 AM (17 minutes ago)
+to carnissa.lucassmith@wearepda.org, HTF@groups.nwjustice.org
+
+Carnissa,
+
+Take a look at the HAP Contract.  I believe the form may have changed a bit over the years, but in the Tenancy Addendum (Part C) there are provisions about giving notice, it provides: "The owner must give the PHA a copy of any owner eviction notice at the same time the owner notifies the tenant." (emphasis added).
+
+Also, 24 CFR 982.310(e)(2)(ii) provides that "[t]he owner must give the PHA [Public Housing Authority] a copy of any owner eviction notice to the tenant."
+
+There are some out of state cases that you can also cite to which deal with this issue:
+
+Alayan v. Jackson, 159 Misc.2d 767, 768, 606 N.Y.S.2d 518 (Dist. Ct. Nassau Cnty. 1993): "The owner may evict a tenant from the unit only by instituting a court action after notifying the PHA in writing at the same time that the owner gives written notice to the tenant…"
+
+Winns v. Rosado, 440 N.J.Super. 98, 111 A.3d 155 (Law Div. 2014): Holding that landlord’s failure to provide eviction notice to public housing authority was a jurisdictional defect that required dismissal of action.
+
+Lamlon Development Corp. v. Owens, 141 Misc.2d 287, 293, 533 N.Y.S.2d 186 (Dist. Ct. Nassau Cnty. 1988)
+
+700 Bklyn Realty, LLC v. Bklyn Realty, LLC, 73 Misc.3d 11, 154 N.Y.S. 732 (2nd Dept 2021)
+
+ Unfortunately, I don't think there is a Washington case directly on point.  But I would add some of this to your briefing/argument:
+
+“[T]he protections provided … by federal law are properly considered as limitations to our state’s unlawful detainer statute.”  Indigo Real Estate, Inc. v. Wadsworth, 169 Wn. App. 412, 423 (2012).  A notice to terminate a federally-subsidized tenancy must fully comply with the requirements of both state and federal law, and failure to do so requires dismissal.  Hous. Auth. of City of Everett v. Terry, 114 Wn. 2d 558 (1990).
+
+Good luck!  Hope this helps.
+
+Chris

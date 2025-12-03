@@ -1,0 +1,57 @@
+#+title:      LL Conversion of T Property Following Eviction
+#+date:       [2025-12-02 Tue 11:00]
+#+filetags:   :conversion:property:rlta:ud:
+#+identifier: 20251202T110024
+
+* [HTF] storage of items under .312
+
+** Email Query
+
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Melissa Derry via groups.nwjustice.org
+Sent: Tuesday, December 2, 2025 9:12 AM
+To: Housing Task Force (HTF@groups.nwjustice.org) <htf@groups.nwjustice.org>
+Subject: [HTF] storage of items under .312
+
+
+
+Hello All,
+
+
+
+I had a client report to me that she filled out the storage request form when the writ was served, and then she faxed it over to the LL attorney.
+
+
+
+She reports that LL said he was not going to store her items and that he told her she needed to come pick them up. She said she was afraid to go near the house – so she didn’t go pick up the items.
+
+
+
+If I can verify that she sent in the paperwork within the 3 days under the statute, is there a remedy for this? If so, I’m thinking that remedy would be that she files an action in small claims court to try and get the value of her items?
+
+
+
+Melissa Derry (She/Hers)
+
+Eviction Defense Staff Attorney
+
+(509) 453-4400 ext. 102
+
+315 Holton Ave., Ste. 202
+
+Yakima, WA 98902
+
+https://cwlegalaid.org
+
+** Response with Resources
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+9:32 AM (1 hour ago)
+to John, mderry@cwlegalaid.org, Housing
+
+We have brought these claims as conversion claims when the landlord destroyed or sold the property in violation of that statute. In one case, we had the court issue a summary judgment order on the claim that you could cite to if you wanted to send a demand, or maybe encourage private counsel or the local NJP office to take a look at it. Conversion is nice because it is an intentional tort, so the client’s emotional distress damages are on the table. If they lost items of sentimental value, that could matter a lot. In our case, the landlord threw away the client’s father’s ashes, the child’s toys and clothing, etc. The cite to that case is 731 F.Supp.3d 1212.
+
+
+** Federal Case 731 F.Supp.3d 1212
+McIntyre v. Housing Authority or Snohomish County | [2024-04-26 Fri]
+
+United States District Court, W.D. Washington, at Seattle. | April 26, 2024 | 731 F.Supp.3d 1212 | 2024 WL 1832952
