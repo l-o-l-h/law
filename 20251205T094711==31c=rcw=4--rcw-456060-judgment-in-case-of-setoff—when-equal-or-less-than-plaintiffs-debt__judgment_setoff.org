@@ -1,0 +1,13 @@
+#+title:      RCW 4.56.060 Judgment in case of setoff—When equal or less than plaintiff's debt
+#+date:       [2025-12-05 Fri 09:47]
+#+filetags:   :judgment:setoff:
+#+identifier: 20251205T094711
+#+signature:  31c=rcw=4
+
+* Judgment in case of setoff—When equal or less than plaintiff's debt.
+
+If  the amount  of  the  setoff, duly  established,  be  equal to  the
+plaintiff's  debt  or demand,  judgment  shall  be rendered  that  the
+plaintiff take nothing  by his or her  action; if it be  less than the
+plaintiff's debt or demand, the  plaintiff shall have judgment for the
+residue only.

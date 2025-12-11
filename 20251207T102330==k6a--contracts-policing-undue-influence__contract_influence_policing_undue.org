@@ -1,0 +1,14 @@
+#+title:      Contracts -- Policing -- Undue Influence
+#+date:       [2025-12-07 Sun 10:23]
+#+filetags:   :contract:influence:policing:undue:
+#+identifier: 20251207T102330
+#+signature:  k6a
+
+* Presumption of Undue Influence
+
+In  certain  relationships,  there  will be  a  presumption  of  undue
+influence that the defendant has the burden of overcoming.  This means
+that once the plaintiff presents certain facts, the presumption is one
+of  undue  influence and  the  contract  is presumptively  void.   The
+defendant then has  to show that there was no  undue influence and the
+bargain was fair to the plaintiff.

@@ -5,6 +5,35 @@
 
 * ACTION FOR AN ACCOUNTING
 
+An accounting is an equitable action, and so needs to be pleaded as an
+action in equity, not law.
+
+Elementns of Action for an Accounting:
+- Fiduciary relationshp between the parties; or
+- Account is complicated and cannot be taken in an action at law;
+- PL has demanded an accounting from defendant;
+- DEF has refused the accounting request from the PL;
+
+- /Corbin v. Madison/, 12 Wn. App. 318, 327, 529 P.2d 1145, 1151–52 (1974)
+
+
+Lease situation qualifies as a  fiduciary relationship allowing for an
+accounting.
+
+"The  action,  as  it was  finally  tried,  was  in  the nature  of  an
+accounting upon a farm lease between the appellant and the respondent."
+
+/Gentry v. Krause/, 106 Wash. 474, 475, 180 P. 474, 475 (1919)
+
+
+As we  have hereinbefore  stated, the action  resolved itself  into an
+accounting between appellant  and respondent, and _it was  the duty of
+the court to  take into account all the items  in controversy between_
+_the parties  at the time of  the trial, in order  to finally determine
+the condition of the account and do justice between the parties._
+
+/Gentry v. Krause/, 106 Wash. 474, 477, 180 P. 474, 475 (1919)
+
 ** Elements of an Action for Accounting
 :PROPERTIES:
 :CUSTOM_ID: h:A819CE3D-9014-48B4-A0B3-D4D36C55749B
@@ -22,10 +51,22 @@ latter's refusal to render it, in order to state a cause of action.
 #+end_quote
 (Italics ours.)
 
-- Corbin v. Madison, 12 Wn. App. 318, 327, 529 P.2d 1145, 1151–52 (1974)
+- /Corbin v. Madison/, 12 Wn. App. 318, 327, 529 P.2d 1145, 1151–52 (1974)
 
 
-The record in this regard revealed that the defendants by their actions had raised the possibility that disallowable charges had been added to the account, there was testimony to the effect that the parties' figures as to the amounts due did not coincide, it appeared that defendants' records had been casually kept, and there had been *328 several assignments of both the vendor's and vendee's interest in the real estate contract. The record further revealed that the defendants had repeatedly refused plaintiffs' requests for an accounting to determine the amount due. Under these circumstances it is our opinion that the trial court was acting well within the scope of its equitable powers when the accounting was required, and there is substantial evidence in the record to support the court's judgment as to the balance properly due on the contract.
+The  record in  this  regard  revealed that  the  defendants by  their
+actions had raised the possibility  that disallowable charges had been
+added  to the  account, there  was testimony  to the  effect that  the
+parties' figures as  to the amounts due did not  coincide, it appeared
+that defendants'  records had been  casually kept, and there  had been
+*328 several assignments of both the vendor's and vendee's interest in
+the  real  estate  contract.  The record  further  revealed  that  the
+defendants  had   repeatedly  refused  plaintiffs'  requests   for  an
+accounting to determine  the amount due. Under  these circumstances it
+is our opinion  that the trial court was acting  well within the scope
+of its equitable powers when the accounting was required, and there is
+substantial evidence in the record  to support the court's judgment as
+to the balance properly due on the contract.
 
 - Corbin v. Madison, 12 Wn. App. 318, 327–28, 529 P.2d 1145, 1152 (1974)
 

@@ -6,6 +6,8 @@
 
 * Limitations
 
+* Limitations Not Applicable to Defenses
+
 ** An Issue that is Time Barred Can Be Raised as an Affirmative Defense
 Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
 Feb 12, 2025, 2:28 PM (7 days ago)
@@ -18,6 +20,190 @@ I used this argument when my client’s rent was increased in violation of her l
 “Statutes of limitations do not bar the defense of recoupment or offset as long as the main action itself is timely.” Olsen v. Pesarik, 118 Wn. App. 688, 690, 77 P.3d 385 (2003). In Olsen, a home buyer’s claim against the seller would have been barred by the statute of limitations if it had been brought as a separate lawsuit. Instead, the claim was asserted as a setoff when the seller’s successor in interest tried to foreclose on the deed of trust.
 This rule is extremely well-established: “Statutes of limitation never run against defenses arising out of the transactions sued upon[.]” Seattle First Nat. Bank, N.A. v. Siebol, 64 Wn. App. 401, 407, 824 P.2d 1252 (1992) (citing Allis–Chalmers Corp. v. North Bonneville, 113 Wn.2d 108, 112, 775 P.2d 953 (1989). Under this rule, “although no affirmative judgment can be had, recoupment is available as a defense even when barred as an affirmative cause of action.” Id. (citing 20 Am.Jur.2d Counterclaim, Recoupment, and Setoff §§ 10 and 11, at 235–36 (1965)); see also, J.C. Felthouse & Co. v. Bresnahan, 145 Wash. 548, 549–50, 260 P. 1075 (1927) (“the statute of limitations never runs against a defense arising out of the transaction sued upon by the plaintiff. The defendant in such an action may be barred by the statute from securing damages by reason of the fraud, but he can always offset the damages to the extent of the claim of the plaintiff.”).
 This rule also applies to disputes between landlords and tenants. Ennis v. Ring, 56 Wn.2d 465, 353 P.2d 950 (1959). Although the statute of limitations might have barred the tenants from seeking affirmative relief against their landlord, “the damages incurred by [the tenants] from 1949 to 1951 [could] be asserted defensively against the [landlords’] claims arising out of the lease” because “the statute of limitations never runs against a defense arising out of the transaction sued upon by the plaintiff.” Id. at p. 471.
+
+** Fruit v. Fancher (1926)
+
+It is  next urged  that the  statute of  limitations should  have been
+applied to the claim for recoupment. In /State v. Tanner/, 45 Wash. 348,
+88 P.  321, we  held that  an equitable  defense to  an action  is not
+barred by the  statute of limitations, and that, so  long as the cause
+of  action  survives,  an  equitable defense  thereto  should  survive
+also. This rule is sustained by many authorities.
+
+/Fruit v. Fancher/, 137 Wash. 311, 315, 242 P. 11, 12 (1926)
+
+
+The rule  for applying the  3-year statute of limitations  to actions,
+based  upon fraud,  applies to  counterclaims, where  it is  sought to
+obtain affirmative relief, but, where suit is brought upon a contract,
+recoupment arising out of the same matter can be allowed to the extent
+of  the relief  demanded  by plaintiffs,  even  though an  independent
+action upon the ground of fraud could not be maintained because of the
+statute.
+
+/Fruit v. Fancher/, 137 Wash. 311, 315, 242 P. 11, 12 (1926)
+
+
+This question has been well stated in /Re Cover's Estate/, 188 Cal. 133, 204 P. 583:
+
+#+begin_quote
+‘While it  is the rule  generally that a  cause of action  grounded in
+fraud must be instituted within 3 years from the time of the discovery
+of the  fraud, that rule does  not apply to a  defense interposed upon
+the ground of fraud in a case where it is affirmatively sought to *316
+have declared  valid and enforceable  a contract claimed to  have been
+conceived  and consummated  in  fraud.  In such  a  case, neither  the
+limitation of the  statute nor the doctrine of laches  will operate to
+bar the defense of the invalidity  of the agreement upon the ground of
+fraud, for, so  long as the plaintiff is permitted  to come into court
+seeking to enforce  the agreement, the defendant may  allege and prove
+fraud as  a defense. In  short, it is not  incumbent upon the  who has
+thus been defrauded to go into court  and ask relief, but he may abide
+his time, and, when enforcement  is sought against him, excuse himself
+from the performance by proof of the fraud.’
+#+end_quote
+
+/Fruit v. Fancher/, 137 Wash. 311, 315–16, 242 P. 11, 12 (1926)
+
+** J.C. Felthouse & Co. v. Bresnahan (1927)
+
+It is  urged that the court  erred in sustaining the  objection to the
+evidence under the  cross-complaint. In part, the ruling  of the trial
+court was correct. No excusatory facts  being set out in the complaint
+and no request  being made to amend, it is  clear that appellants were
+not entitled  to recover against the  respondent on a cause  of action
+for fraud.  Noyes, Receiver, v.  Parsons, 104  Wash. 594, 177  P. 651;
+Davis v. Rogers, 128 Wash. 231, 222  P. 499. But this could not affect
+the right of  appellants to offer evidence as to  the fraud in defense
+against  the  notes,  **1076  the  rule  being  that  the  statute  of
+limitations  never  runs   against  a  defense  arising   out  of  the
+transaction  sued upon  by the  plaintiff.  The defendant  in such  an
+action may  be barred  by the  statute from  securing *550  damages by
+reason  of the  fraud, but  he can  always offset  the damages  to the
+extent of the claim of the plaintiff.  Clay Fruit et al. v. Fancher et
+al., 137 Wash. 311, 242 P. 11.
+
+/J. C. Felthouse & Co. v. Bresnahan/, 145 Wash. 548, 549–50, 260 P. 1075, 1075–76 (1927)
+
+
+Respondent  admits the  rule  of  Clay Fruit  v.  Fancher, supra,  but
+contends that, because the appellants did  not in their answer ask for
+recoupment to the extent of respondent's claim, but prayed for damages
+far in  excess of that sum,  they cannot recover. However,  it must be
+borne in mind  that the prayer was twofold, the  first part being that
+respondent's cause of action be  dismissed. If respondent had demurred
+to the cross-complaint  the court would, no doubt,  upon hearing, have
+stricken the prayer for damages in the sum of $30,000, but allowed the
+claim  of fraud  to stand  as a  defense to  the notes.  This was  the
+procedure followed in Clay Fruit v. Fancher, supra.
+
+/J. C. Felthouse & Co. v. Bresnahan/, 145 Wash. 548, 550, 260 P. 1075, 1076 (1927)
+
+** Carlson v. Ozmum (ID 1927)
+
+It  is first  contended by  appellant that  the trial  court erred  in
+overruling the demurrer to  respondent's counterclaim, upon the ground
+that  the same  was barred  by the  statute of  limitations, since  it
+appears from respondent's answer that the facts concerning the alleged
+fraud as  set out  in the  counterclaim were  discovered and  known by
+respondent for  a period of  over three years before  the counterclaim
+was filed.
+
+12 C.  S. § 6611,  subd. 4, the  three-year statute of  limitations to
+actions based on fraud, does not  apply to fraud relied upon purely as
+a defense where no affirmative relief  is sought, but it does apply to
+counterclaims or  cross-complaints seeking affirmative relief,  and we
+think the counterclaim  of respondent herein subject  to the objection
+urged against  it. Frank v.  Davis, 34 Idaho,  678, 203 P.  287; Fruit
+v. Fancher, 137  Wash. 311, 242 P.  11; Caples v. Morgan,  81 Or. 692,
+160 P. 1154, L. R. A. 1917B, 760; McColgan v. Muirland, 2 Cal. App. 6,
+82  P. 1113.  But we  are  not convinced  that the  overruling of  the
+demurrer to the counterclaim resulted  in any substantial prejudice to
+appellant's rights.  It is  not here contended  by appellant  that the
+statute  of  limitations applies  to  the  mere  defense of  fraud  as
+interposed by respondent,  and a reference to the  instructions of the
+court shows  that the court  advised the jury  that, if it  found that
+there was  nothing due to appellant  from respondent by reason  of the
+failure of consideration for the note, and likewise found that nothing
+was due respondent on his counterclaim, the form of the verdict should
+be,  “We, the  jury, find  in favor  of the  defendant.” That  was the
+verdict returned,  and it becomes  apparent that the  jury determined:
+First, that  the consideration for  the note had failed;  and, second,
+that respondent was not entitled to recover anything from appellant on
+his counterclaim,  thus reaching the  same result and having  the same
+effect  as  if the  cause  of  action  as  set forth  in  respondent's
+counterclaim had been disposed  of on demurrer. Appellant's contention
+that  the verdict  is indefinite  or irregular  *1079 is  thus without
+merit, in the light of the record.
+
+/Carlson v. Ozmun/, 44 Idaho 500, 258 P. 1078, 1078–79 (1927)
+
+** Marion Steam Shovel Co. v. Aukamp (WA 1933)
+
+See,  also,  Da  Ponte  v.  Simonian, supra;  Fruit  v.  Fancher,  137
+Wash. 311, 242 P. 11; Felthouse & Co. v. Bresnahan, 145 Wash. 548, 260
+P. 1075,  1076. The last two  cited decisions involve cases  where the
+statute of  limitations as  to affirmative relief  to be  granted upon
+such cross-complaints  by defendants was  in issue and they  held that
+while the  matters alleged in a  cross-complaint may be barred  by the
+statute of limitations as to  any affirmative relief, they constituted
+good defenses as offsets to the  extent of the claims of plaintiff. In
+the  last-cited case  we said:  ‘Respondent admits  the rule  of Fruit
+v. Fancher, supra, but contends  that, because the appellants did *463
+not in their  answer ask for recoupment to the  extent of respondent's
+claim, but prayed  for damages far in excess of  that sum, they cannot
+recover.  However, it  must  be  borne in  mind  that  the prayer  was
+twofold, the  first part  being that respondent's  cause of  action be
+dismissed. If respondent had demurred to the cross-complaint the court
+would, no doubt, upon hearing, have stricken the prayer for damages in
+the sum  of $30,000,  but allowed  the claim  of fraud  to stand  as a
+defense  to  the notes.  This  was  the  procedure followed  in  Fruit
+v. Fancher, supra.’
+
+/Marion Steam Shovel Co. v. Aukamp/, 172 Wash. 455, 462–63, 20 P.2d 851, 854 (1933)
+
+
+So here:  although appellant prayed for  damages far in excess  of the
+amount  of recovery  claimed by  respondent as  a deficiency  upon the
+notes after it  foreclosed by sheriff's sale of  the chattel mortgage,
+the  same facts  were  set up  as  a  pure defense  to  the action  of
+respondent.
+
+/Marion Steam Shovel Co. v. Aukamp/, 172 Wash. 455, 463, 20 P.2d 851, 854 (1933)
+
+
+Under the principles  announced in our former cases  cited, and others
+therein  discussed, appellant  was not  compelled to  bring an  action
+against  respondent  for  damages,  but  could  await  the  action  of
+respondent on  the notes and  interpose the  inducing fraud as  a pure
+defense to  the action. It  would seem that  laches should be  no more
+valid as a bar to such defense  than the statute of limitations, as to
+which we  have consistently  held that  so long as  a cause  of action
+survives, the  equitable defense thereto  should survive also.  On the
+facts in this case the statute of limitations had not run by a year or
+more as to any cause of action of appellant for damages for the deceit
+and fraud.
+
+/Marion Steam Shovel Co. v. Aukamp/, 172 Wash. 455, 463, 20 P.2d 851, 854 (1933)
+
+
+** Dixon v. Schoonover (OR SUP CT 1961)
+
+Synopsis
+
+Plaintiffs' action for  breach of contract against  the defendants who
+filed a counterclaim alleging fraud. The Circuit Court, Marion County,
+George R. Duncan, J.,  granted judgment for plaintiffs notwithstanding
+verdict, denied their  motion for a new trial and  both of the parties
+appealed.  The Supreme  Court,  Howell,  J. pro  tem.,  held that  the
+evidence disclosed  that the  defendants had  notice of  claimed fraud
+more than  two years prior  to the  filing of counterclaim,  but while
+defendants  were  not  entitled  to recover  an  affirmative  judgment
+because of bar of statute of limitations, trial court properly allowed
+recoupment  of  defendants'  verdict  for $8,000  to  cancel  the  sum
+admittedly due plaintiffs.
+
+/Dixon v. Schoonover/, 226 Or. 443, 359 P.2d 115 (1961))
 
 ** Waste Has 3-year Limitations Period
 

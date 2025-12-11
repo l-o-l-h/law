@@ -1,0 +1,14 @@
+#+title:      National Consumer Law Center Home
+#+date:       [2025-12-10 Wed 10:56]
+#+filetags:   :consumer:greenbook:housing:hud:law:
+#+identifier: 20251210T105656
+#+signature:  nclc
+
+NCLC Home
+https://library.nclc.org/
+
+My NCLC Home
+https://library.nclc.org/my-nclc
+
+NCLC The Green Book
+https://library.nclc.org/book/hud-housing-programs-tenants-rights-green-book

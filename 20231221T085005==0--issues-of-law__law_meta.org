@@ -83,10 +83,11 @@
 #+END:
 
 * 15. Contract Law
-#+BEGIN: denote-links :regexp "_contract" :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
-- [[denote:20240418T105430][k1  Context Rule]]
-- [[denote:20240418T105908][k  Contracts]]
+#+BEGIN: denote-links :regexp "_contract" :excluded-dirs-regexp nil :sort-by-component signature :include-date nil
 - [[denote:20241007T102808][15u  96-unconscionability-procedural-and-substantive]]
+- [[denote:20240418T105908][k  Contracts]]
+- [[denote:20251207T094719][k0  Contract Law -- Outline]]
+- [[denote:20240418T105430][k1  Context Rule]]
 - [[denote:20241202T172657][k2  Statute of Frauds]]
 - [[denote:20241211T101844][k3  Interpretation of Contracts]]
 #+END:
@@ -143,4 +144,11 @@
 * 30. Voucher
 #+BEGIN: denote-links :regexp "==30.--" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
 - [[denote:20250321T141705][30a  Income Certification Recertification]]
+#+END:
+* 31. Setoff -- Offset
+#+BEGIN: denote-links :regexp "==31[[:alpha:]].*--" :not-regexp nil :excluded-dirs-regexp nil :sort-by-component nil :reverse-sort nil :id-only nil :include-date nil
+- [[denote:20251204T164954][31a  Setoff-Offset Basic Definition]]
+- [[denote:20251205T091615][31b=352k  Set-Off and Counterclaim -- Westlaw Key Number Cites]]
+- [[denote:20251205T094711][31c=rcw=4  RCW 4.56.060 Judgment in case of setoff—When equal or less than plaintiff's debt]]
+- [[denote:20251205T131520][31a1  Set-Off -- Codification and Court Rule CR 13(j)]]
 #+END:

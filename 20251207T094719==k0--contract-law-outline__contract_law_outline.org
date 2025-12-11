@@ -1,0 +1,76 @@
+#+title:      Contract Law -- Outline
+#+date:       [2025-12-07 Sun 09:47]
+#+filetags:   :contract:law:outline:
+#+identifier: 20251207T094719
+#+signature:  k0
+
+* Preliminary
+
+* Consideration
+
+** Inadequacy
+[[denote:20251207T100117][k5  Contracts -- Consideration]]
+
+* Policing the Bargain -- Defenses
+
+Defenses to a prima facie case for breach of contract.
+
+** Statute of Frauds
+
+** Status -- Lack of Capacity
+
+*** Intoxication
+
+*** Minority
+
+*** Mental Illness
+
+** Behavior
+
+*** Duress and Undue Influence
+
+A possibility in defending a prima facie case is to find that the disadvanted party was the victim of undue influence.  A contract is *voidable* by the victim if that party was unfairly persuaded by another whom he or she was justified, by virtue of their relationship, in assuming would act in a manner consistent with his or her welfare.
+
+See Restatement, Second, §177.
+
+In one case the court refused to grant specific performance to the doctor, saying that there was a presumption of undue influence of the doctor-patient relationship, and it had not been rebutted.
+
+[[denote:20251207T102330][k6a  Contracts -- Policing -- Undue Influence]]
+
+*** Misrepresentation
+
+**** Material
+
+**** Fraudulent
+
+*** Non-Disclosure as Misrepresentation
+
+*** Mistake
+
+** Substance
+
+*** Traditional Means of Control
+
+**** Equity will deny specific performance if consideration is unconscionably low
+
+**** Contract is against public policy, e.g., non-enforcement of illegality
+
+**** Lack of consideration, e.g., performing a pre-existing duty that is not doubtful or the subject of honest dispute
+
+**** Lakc of notice before cashing a "full payment" check
+
+*** New and Expanding Principles
+
+**** Exculpatory clauses against public policy
+
+**** Denying enforcement to liability-limiting clauses in adhesion contracts
+
+**** Legislative devices to protect consumers
+
+***** Disclosure rules -- plain language requirements and truth-in-lending
+
+***** Control over the terms of an exchange by federal or state law
+
+***** Remedial assistance to consumers, such as recovery of punitive damages or attorney fees
+
+**** Unconscionability

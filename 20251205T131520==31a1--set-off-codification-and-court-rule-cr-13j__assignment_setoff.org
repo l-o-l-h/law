@@ -1,0 +1,127 @@
+#+title:      Set-Off -- Codification and Court Rule CR 13(j)
+#+date:       [2025-12-05 Fri 13:15]
+#+filetags:   :assignment:setoff:
+#+identifier: 20251205T131520
+#+signature:  31a1
+
+* Rem. Rev. Stat. § 265, subd. 2 [COUNTERCLAIMS]
+
+Appellant bases its  errors on the adverse rulings of  the court above
+mentioned;  the  principal  contention  being  that  the  counterclaim
+pleaded by respondents was not a valid counterclaim under our statutes
+(Rem. & Bal. Code, § 265, subd. 2).
+
+/Farmers' & Merchants' Bank v. Eagon/, 122 Wash. 586, 587, 211 P. 278, 278 (1922)
+
+
+[like nature]
+
+It is next claimed  that the counterclaim is not based  on *a cause of
+action  arising  out  of  contract.*  It is  plainly  one  arising  ex
+contractu, and  not ex delicto.  Russell v.  Union Machinery  & Supply
+Co.,  88 Wash.   533,  153  Pac.  341;  Buerkli  v.  Carstens  Packing
+Co. (Wash.) 210 Pac. 798, filed December 6, 1922. The counterclaim was
+valid.
+
+/Farmers' & Merchants' Bank v. Eagon/, 122 Wash. 586, 588, 211 P. 278, 278 (1922)
+
+
+** Ex Contractu vs. Ex Delicto
+
+A  "contract ex  contractu" refers  to a  legal right,  obligation, or
+lawsuit that arises directly from a contract, meaning it stems "from a
+contract" or  "out of a  contract". It describes situations  where one
+party fails to  uphold their promise in a valid  agreement (express or
+implied), allowing  the other party  to sue  for damages or  breach of
+contract, unlike actions ex delicto which arise from torts (wrongs).
+
+* Rem. Rev. Stat. § 266 [SET-OFFS]
+
+The statute relating to set-off is found at section 266 of the Code (Rem. Comp. Stat.), and reads as follows:
+
+#+begin_quote
+‘The  defendant  in a  civil  action  upon  **a contract  expressed  or
+implied*, may *set off* any demand of a *like nature* against the plaintiff
+in interest,  which existed  and belonged  to him at  the time  of the
+commencement of the  suit. And in all such actions,  other than upon a
+negotiable promissory  note or  bill of  exchange, negotiated  in good
+faith and  without notice before due,  which has been *assigned*  to the
+plaintiff, he  may also  set off  a demand of  a like  nature existing
+against the person  to whom he was originally liable,  or any assignee
+prior to the plaintiff, of such contract, provided such demand existed
+at the time of the assignment  thereof, and belonging to the defendant
+in good faith, before notice of such assignment, and was such a demand
+as might  have been set  off against such person  *485 to whom  he was
+originally liable,  or such  assignee while  the contract  belonged to
+him.’
+#+end_quote
+
+/Johnson v. City of Aberdeen/, 147 Wash. 482, 484–85, 266 P. 707, 709 (1928)
+
+
+The  right to  set-off  is  wholly statutory,  and  in  this case  its
+existence and  its definition must  depend upon the provisions  of the
+statutes  of the  state of  Washington.   _The Code  of Washington  (2
+Hill's Code, Sec. 806) provides as follows_:
+
+#+begin_quote
+‘Sec. 806. The  defendant in a civil action upon  a contract expressed
+or  implied may  set  off any  demand  of a  like  nature against  the
+plaintiff in interest which existed and belonged to him at the time of
+the commencement of the suit. And in all such actions, other than upon
+a negotiable  promissory note or  bill of exchange negotiated  in good
+faith, and without  notice before due, which has been  assigned to the
+plaintiff, he  may also  set off  a demand of  a like  nature existing
+against the person  to whom he was originally liable,  or any assignee
+prior to the plaintiff of  such contract, provided such demand existed
+at the time of the assignment  thereof, and belonging to the defendant
+in good faith before notice of  such assignment, and was such a demand
+as  might  have been  set  off  against such  person  to  whom he  was
+originally liable,  or such  assignee while  the contract  belonged to
+him.‘
+#+end_quote
+
+/Harrisburg Tr. Co. v. Shufeldt/, 87 F. 669, 670 (9th Cir. 1898)
+
+
+This   statute    is   clear    and   explicit,   and    requires   no
+interpretation. When a defendant is sued  by an assignee of a chose in
+action, he cannot plead against the  assignee a set-off which he holds
+against the assignor,  unless the demand sought to be  set off existed
+at the time  of the assignment, and belonged to  the defendant in good
+faith, before notice of such assignment
+
+/Harrisburg Tr. Co. v. Shufeldt/, 87 F. 669, 670 (9th Cir. 1898)
+
+
+A similar statute is found in the  state of New York, and it has there
+been held  that the demand which  constitutes the set-off must  be one
+which  existed against  the  assignor at  the time  when  he made  the
+assignment. /Martin v.  Kunzmuller/, 37 N.Y. 396; /Faulkner  v. Swart/, 55
+Hun, 261, 8 N.Y. Supp. 239; /Brisban v. Caines/, 10 Johns. 45.
+
+/Harrisburg Tr. Co. v. Shufeldt/, 87 F. 669, 670 (9th Cir. 1898)
+
+* CR 13(j) Setoff Against Assignee
+
+The defendant  in a civil action  upon a contract express  or implied,
+other  than upon  a negotiable  promissory note  or bill  of exchange,
+negotiated in good faith and without notice before due, which has been
+assigned  to the  plaintiff, may  set off  a demand  of a  like nature
+existing  against the  person  to whom  the  defendant was  originally
+liable,  or any  assignee prior  to the  plaintiff, of  such contract,
+provided such  demand existed at  the time of the  assignment thereof,
+and belonging  to the defendant in  good faith, before notice  of such
+assignment, and was  such a demand as might have  been set off against
+such  person to  whom the  defendant  was originally  liable, or  such
+assignee while the contract belonged to the defendant.
+
+* CR 13(k) Other Setoff Rules
+- RCW 4.32.120 Setoff against beneficiary of trust estate.
+- RCW 4.32.130 Setoff in probate actions brought by personal representatives.
+- RCW 4.32.140 Setoff in probate actions against personal representatives.
+- RCW 4.32.150 Setoff must be pleaded.
+- RCW 4.56.050 Effect of judgment against executor or administrator.
+- RCW 4.56.060 Judgment in case of setoff—When equal or less than plaintiff's debt.
+- RCW 4.56.070 Judgment in case of setoff—When exceeds plaintiff's debt—Effect of contract assignment.
+- RCW 4.56.075 Judgment in case of setoff—When exceeds plaintiff's debt or affirmative relief required.

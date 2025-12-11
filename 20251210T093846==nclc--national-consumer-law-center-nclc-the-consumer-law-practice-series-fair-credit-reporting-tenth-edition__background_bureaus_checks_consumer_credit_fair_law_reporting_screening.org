@@ -1,0 +1,52 @@
+#+title:      National Consumer Law Center NCLC The Consumer Law Practice Series Fair Credit Reporting Tenth Edition
+#+date:       [2025-12-10 Wed 09:38]
+#+filetags:   :background:bureaus:checks:consumer:credit:fair:law:reporting:screening:
+#+identifier: 20251210T093846
+#+signature:  nclc
+
+* Site
+
+https://library.nclc.org/book/fair-credit-reporting
+
+** Fair Credit Reporting
+
+*** Credit Bureaus, Tenant Screening, Background Checks, and Other Reports
+
+Credit and consumer  reporting is one of today’s most  active areas of
+consumer litigation, involving individual  and class cases against the
+Big Three credit bureaus,  tenant screening agencies, background check
+companies, and  furnishers and users  of consumer reports.  Credit and
+consumer report  errors can cause  significant injury to  a consumer’s
+access to credit, employment, residential rentals, and insurance.
+
+For forty  years, NCLC's  Fair Credit Reporting  has been  the leading
+treatise on  credit reporting litigation.  This tenth edition  and its
+continuous digital updates keep  practitioners current with the latest
+U.S. Supreme  Court rulings,  CFPB interpretations, federal  and state
+legislative   changes,   government   enforcement   actions,   caselaw
+developments, and changes to industry practices.
+
+**** Guidance from the Experts
+
+- Who must comply with the Fair Credit Reporting Act—you will be
+  surprised!
+- Consumer reporting agency accuracy requirements, and their
+  application to tenant screening and background check companies
+- Information that cannot be reported; obsolete information
+- Consumer dispute rights as to inaccurate information
+- Identity theft rights, security freezes, fraud alerts and identity
+  theft blocks
+- Credit scores, consumers' access to their reporting file, and how to
+  read the file
+- Creditor and other furnisher responsibility to correct inaccurate
+  information
+- Limits on accessing consumer reports and permissible purposes for
+  using them
+- Under-utilized potential of state credit reporting law
+- Privacy rights and Gramm-Leach-Blilely
+- Credit Repair Organizations Act application to more than just credit
+  repair
+- Investigative reports
+- Advising clients about their credit record.
+- Sample pleadings and discovery. [[https://library.nclc.org/companion-material/request-production-documents-cras][See an example here]].
+- [[denote:20251210T094216][nclc=rfp  request-for-production-of-documents-to-cras-doc-req-craspdfpdf]]

@@ -1,0 +1,285 @@
+#+title:      Setoff-Offset Basic Definition
+#+date:       [2025-12-04 Thu 16:49]
+#+filetags:   :offset:setoff:
+#+identifier: 20251204T164954
+#+signature:  31a
+
+* Origin of Right of Set-Off
+
+Again, in /United States v. Cantrall (C.C.)/ 176 F. 949, it was said: ‘A
+set-off is a creation of the statute, and did not exist at common law.
+
+/Fisher Flouring Mills Co. v. United States/, 17 F.2d 232, 235 (9th Cir. 1927)
+
+
+The  right to  set-off  is  wholly statutory,  and  in  this case  its
+existence and  its definition must  depend upon the provisions  of the
+statutes of the state of Washington.  The Code of Washington (2 Hill's
+Code, Sec. 806)
+
+/Harrisburg Tr. Co. v. Shufeldt/, 87 F. 669, 670 (9th Cir. 1898)
+
+[Perhaps set-off is a creation of equity?]
+
+
+The Legal  Adjustment Bureau Case  was an action  at law in  which the
+defendant sought to set up a demand in his favor which had been barred
+by the statute before the action was commenced. The statute considered
+was  Rem.  Rev.  Stat.   § 266,  relating to  *set-offs*  in actions  at
+law. That section, in effect,  provides that, to constitute a set-off,
+a cause  of action in  favor of the pleader  must have existed  at the
+time the  action against him was  commenced, or, in *421  other words,
+*the defense of set-off*  is in _the nature of a  plea in confession and
+avoidance_ and amounts to the bringing  forward of one right of action
+against another to  the end that one shall cancel  the other, in whole
+or   in   part,    and   that   both   shall    be   adjudicated   and
+satisfied. Consequently, it is essential,  under the statute, that the
+set-off must be one upon which a  cause of action exists when the suit
+is commenced.  The  Legal Adjustment Bureau Case so  holds and nothing
+more,  and therefore  it  has  no bearing  upon  the  question of  the
+equitable right of retainer here asserted.
+
+/In re Smith's Estate/, 179 Wash. 417, 420–21, 38 P.2d 244, 245 (1934)
+
+* Same Transaction
+
+In  addition, we  note that  in  University Medical  Center the  Third
+Circuit  applied  a  more  narrow   definition  of  the  phrase  “same
+transaction” than  was applied  by the district  court in  the present
+case. The court explained its reasons for doing so as follows:
+
+#+begin_quote
+We  find that  the open-ended  standard,  endorsed in  the context  of
+discerning  compulsory counterclaims,  is  inadequate for  determining
+whether two claims arise from the same transaction for the purposes of
+equitable recoupment in bankruptcy.
+
+Indeed, in  [Lee v. Schweiker, 739  F.2d 870, 875 (3rd  Cir.1984) ] we
+stressed that *both setoff and recoupment play very different roles in
+bankruptcy than  in their original  roles as rules of  pleading.* Lee,
+739 F.2d at 875.
+
+For the  purposes of  recoupment, a mere  logical relationship  is not
+enough: The  fact that the same  two parties are involved,  and that a
+similar subject matter gave rise to both claims ... does not mean that
+the two  arose from  the “same transaction.”  Rather, both  debts must
+arise out of  a single integrated transaction so that  it would not be
+inequitable for the  debtor to enjoy the benefits  of that transaction
+without meeting  its obligations.  Use of  this stricter  standard for
+delineating the bounds  of a transaction in the  context of recoupment
+is  in   accord  with   the  principle  that   this  doctrine,   as  a
+non-statutory, equitable  exception to  the automatic stay,  should be
+narrowly  construed.   Id.  at  1081  (internal  quotation  marks  and
+citation omitted).
+#+end_quote
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1403 (9th Cir. 1996)
+
+* Washington Law Statutes for Set-Offs
+
+Washington law governs set-off through various statutes, primarily
+
+- RCW 4.56.060  for   general  civil  judgments  and
+- RCW  62A.9A (Uniform  Commercial Code  Article 9)  for bank  deposit
+  set-offs,
+- alongside specific rules in  RCW 12.08.120 for justice  courts,
+- all  establishing procedures  and  limitations  on deducting  mutual
+  debts, with set-off being an  equitable right often requiring proper
+  pleading.
+- The Code of Washington (2 Hill's Code, Sec. 806)
+
+* Basic Definition of Setoff-Offset
+
+“The right of  setoff (also called ‘offset’) allows  entities that owe
+each  other money  to apply  their  *mutual* debts  against each  other,
+thereby avoiding ‘the  absurdity of making A  pay B when B  owes A.’ ”
+/Citizens  Bank  of  Maryland  v.  Strumpf/,  516  U.S.  16,  ––––,  116
+S.Ct.  286,  289,  133  L.Ed.2d 258  (1995)  (citation  omitted).  The
+defining characteristic of  setoff is that “the mutual  debt and claim
+...  are  generally  those  arising from  different  transactions.”  4
+Collier on  Bankruptcy ¶ 553.03,  at 553–14 (15th ed.  1995) (“Collier
+”).
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1398 (9th Cir. 1996)
+
+* Set-Off vs. Counterclaim
+
+On the technical question as to whether a counterclaim could have been
+pleaded in  this action, we are  aware that there is  some conflict of
+authority on  the proposition generally; but  it seems to us  that our
+*statute* is so plain and explicit that construction cannot be invoked.
+
+/Sheafe v. Hastie/, 16 Wash. 563, 566, 48 P. 246, 247 (1897)
+
+
+And  if it  is to  be  construed as  a  *set-off*, then  _section 806_  is
+controlling, which provides that the  defendant in a civil action upon
+a  contract expressed  or implied  may set  off any  demand of  a like
+nature against the plaintiff in interest which existed and belonged to
+him at the time of the commencement  of the suit.
+
+_There  seems  to be  no  real  difference between  counterclaims  and
+set-offs_,  so  far  as  the  statute  is  concerned,
+
+excepting  that  technically there  is  _a  difference in  degree_,
+
+- the set-off amounting only to a set-off or balance of the claim sued
+  upon, or some portion thereof, and
+
+- the  counterclaim comprehending  a set-off  and an  additional claim
+  which would warrant a judgment over in favor of the defendant, if it
+  were established; and,
+
+- whatever  conflict  of  authority  there  may  be,  this  court  has
+  established the right of the  defendant to a set-off or counterclaim
+  _where the claim is unliquidated_, as  in the case at bar, in /Shelton
+  v.  Conant/,  10 Wash.  193, 38  Pac. 1013, where it  was held that,
+  under  Code Proc.   § 195,  in an  action arising  on contract,  the
+  defendant could  counterclaim for  any cause  of action  against the
+  plaintiff arising on contract, whether liquidated or not.
+
+/Sheafe v. Hastie/, 16 Wash. 563, 567, 48 P. 246, 247 (1897)
+
+* The Right of Setoff
+
+** 11 U.S.C. § Section 553 of the Bankruptcy Code
+
+“Except as otherwise provided ... this title does not affect any right
+of a creditor  to offset a mutual  debt owing by such  creditor to the
+debtor that  arose before the commencement  of the case ...  against a
+claim  of such  creditor  against  the debtor  that  arose before  the
+commencement of the case....”
+
+** Common Law Right
+
+Section 553 “is not an independent  source of law governing setoff; it
+is  generally understood  as  a legislative  attempt  to preserve  the
+*common-law right of setoff* arising  out of non-bankruptcy law.” /United
+States v. Arkison  (In re Cascade Roads, Inc.)/, 34  F.3d 756, 763 (9th
+Cir.1994) (quoting  /United States  v.  Norton/, 717  F.2d 767,  772 (3d
+Cir.1983)).
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1398 (9th Cir. 1996)
+
+** The Mutuality Requirement
+
+In order for countervailing debts to be *“mutual,”* they must be “in the
+same  right  and  between  the  same parties,  standing  in  the  same
+capacity.”    Collier  ¶   553.04[2],   at   553–22  (citing   /England
+v. Industrial Comm. of Utah (In  re Visiting Home Services, Inc.)/, 643
+F.2d 1356, 1360 (9th Cir.1981)).  The mutuality requirement stems from
+section 553(a)'s  reference to “a mutual  debt” owed by a  creditor to
+the debtor against  the creditor's claim against the  debtor,10 and it
+is strictly construed.
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1398–99 (9th Cir. 1996)
+
+* Characteristics of Setoff-Offset
+
+** Discretionary Permissive and Equitable in Nature--Not Mandatory
+
+The  right of  setoff is  permissive, not  mandatory; its  application
+“rests  in  the  discretion  of  [the]  court,  which  exercises  such
+discretion under the  general principles of [equity].”  /In re Cascade
+Roads/,  34  F.3d  at  763  (internal  quotation  marks  and  citation
+omitted); Collier ¶ 553.02, at 533–13 (citation omitted).
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1399 (9th Cir. 1996)
+
+** Burden of Proving Setoff On the Party Asserting the Right
+
+“The burden of  proving an enforceable right of setoff  rests with the
+party asserting the right.” /In re County of Orange/, 183 B.R. at 615.
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1399 (9th Cir. 1996)
+
+** Garnishee Can Raise Defense of Set-Off to Garnishment
+
+Garnishee defendant  can answer that  he is not indebted  to principal
+defendant, where he is entitled  to setoff against principal defendant
+in amount  greater than his  indebtedness. /Parks v. Lepley/  (1931) 160
+Wash. 287, 294 P. 1020.
+
+Corporation to  whom debtor had loaned  money less than amount  of his
+debt may  credit amount  of loan and  offset debt  against garnishment
+notwithstanding that  bank's claim had  been assigned to  third person
+for collection. /Austin v. Wallace/ (1921) 117 Wash. 61, 200 P. 566
+
+* Recoupment Doctrine -- Same Transaction rather than Mutual Obligations
+
+Recoupment  “is the  setting  up of  a demand  arising  from the  *same
+transaction* as the plaintiff's claim  or cause of action, strictly for
+the  purpose of  abatement  or  reduction of  such  claim.” Collier  ¶
+553.03,  at  553–15  (emphasis  in  original).   Under  recoupment,  a
+defendant is able  to meet a plaintiff's claim  “with a countervailing
+claim that arose  ‘out of the same transaction.’   ” /Ashland Petroleum
+Co. v. Appel (In re B & L  Oil Co.)/, 782 F.2d 155, 157 (10th Cir.1986)
+(citations omitted).  For this  reason, recoupment has been analogized
+to both compulsory counterclaims  and affirmative defenses. See, e.g.,
+/In  re California  Canners  and Growers/,  62 B.R.   18,  22 (9th  Cir.
+BAP 1986) (Elliott, Bankruptcy J., concurring) (citation omitted).
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1399 (9th Cir. 1996)
+
+** Recoupment for Overpayments -- Equity
+
+As noted above, recoupment is an  *equitable doctrine* which is based on
+the  premise that  “the  defendant  should be  entitled  to show  that
+because of matters  arising out of the transaction sued  on, he or she
+is not liable in full for the plaintiff's claim.” Collier ¶ 553.03, at
+553–17 (citation omitted). There are, of course, any number of reasons
+why a defendant  may not in fact  be liable in full  for a plaintiff's
+claim. In  the cases cited by  the appellants, the defendant  had made
+certain payments to the debtor,  and recoupment was allowed because it
+would  be inequitable  not  to  allow the  defendant  to recoup  those
+payments against the debtor's subsequent claim.
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1401 (9th Cir. 1996)
+
+** Same Transaction Principle -- Logical Relationship Test
+
+In  deciding  whether   the  relevant  claims  arose   from  the  *same
+transaction*,  the district  court applied  the “logical  relationship”
+test  outlined by  the  Supreme Court  in /Moore  v.   New York  Cotton
+Exchange/,  270 U.S.   593, 46  S.Ct. 367,  70 L.Ed.   750 (1926).   In
+/Moore/, the Court  stated that “ ‘[t]ransaction’ is a  word of flexible
+meaning. It may comprehend a series of many occurrences, depending not
+so  much upon  the immediateness  of  their connection  as upon  their
+logical relationship.” Id., 270 U.S. at 610, 46 S.Ct. at 371; see also
+/Albright v. Gates/, 362 F.2d 928, 929 (9th Cir.1966) (“In deciding what
+is a  transaction, we  take note  that the  term gets  an increasingly
+liberal  construction.”).   Applying  this test,  the  district  court
+accepted Fireman's Fund's argument  that, because of the incorporation
+of the  General Indemnity Agreement  into the June 4,  1987 Agreement,
+both claims arose from the latter agreement.
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1402 (9th Cir. 1996)
+
+The district court's decision is supported by Arizona contract law. As
+the Arizona Supreme Court has explained,
+
+#+begin_quote
+[m]atters contained in other writings which  are referred to are to be
+regarded as part of the contract  and properly to be considered in the
+interpretation of the contract.... [I]t has long been settled, without
+a dissenting  voice, that parties  may incorporate into  agreements by
+mere reference, other  writings or agreements or  records, and thereby
+make the latter an essential part of the contract.
+#+end_quote
+
+/Climate Control, Inc. v. Hill/, 86  Ariz. 180, 342 P.2d 854, 859 (1959)
+(emphasis added),  modified on reh'g  on other grounds, 87  Ariz. 201,
+349 P.2d 771, appeal dismissed, 364  U.S. 409, 81 S.Ct. 180, 5 L.Ed.2d
+185 (1960).  Accordingly,  under Arizona law the  incorporation of the
+General Indemnity Agreement  into the June 4, 1987  agreement made the
+former  “an   essential  part”  of   the  latter  contract,   and  the
+countervailing claims thus each arose from that contract.
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1402 (9th Cir. 1996)
+
+** Independent Accounting
+
+the court pointed out that  each transaction was subject to individual
+accounting.
+
+/Newbery Corp. v. Fireman's Fund Ins. Co./, 95 F.3d 1392, 1402 (9th Cir. 1996)

@@ -13,3 +13,29 @@
 - 228 Judgment - Key 874 :: Persons to Whom Payments May Be Made
 - 228 Judgment - Key 894 :: No WA cases
 - 228 Judgment - Key 896 :: No WA cases
+
+* Enforcing Satisfaction of Judgment
+
+In  Washington, if  a  plaintiff  refuses to  file  a satisfaction  of
+judgment  after   payment,  the  defendant   can  file  a   notice  of
+satisfaction themselves with the court where the judgment was entered,
+essentially self-certifying  payment and ending the  judgment's force,
+as allowed by RCW 12.40.130. The defendant can also file a motion with
+the court to compel the plaintiff or seek sanctions, and by filing the
+satisfaction (or having  the clerk record it), the  judgment's lien is
+discharged.
+
+
+** RCW 12.40.130
+
+If  the  prevailing  party  receives  payment  of  the  judgment,  the
+prevailing party shall  file a satisfaction of such  judgment with all
+courts in which the judgment was  filed. If the prevailing party fails
+to file  proof of satisfaction of  the judgment, the party  paying the
+judgment may  file such notice with  all courts in which  the judgment
+was filed.
+
+- NOTE ::  This  is a New Section Sec. 7  from SECOND SUBSTITUTE HOUSE
+  BILL 1048 Chapter 251, Laws of 2019 EFFECTIVE DATE: July 28, 2019
+- Purpose :: Make collecting judgments easier; it refers to all
+  judgments in all courts, so includes Superior Court judgments

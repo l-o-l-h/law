@@ -1,0 +1,16 @@
+#+title:      Contract Law -- Policing -- Deceit and Overreaching
+#+date:       [2025-12-07 Sun 09:52]
+#+filetags:   :contract:deceit:defenses:policing:
+#+identifier: 20251207T095226
+#+signature:  k4
+
+* TODO Deceit
+SCHEDULED: <2025-12-08 Mon>
+:LOGBOOK:
+- State "TODO"       from              [2025-12-07 Sun 09:54] \\
+  Area of research that needs to be done.
+:END:
+
+Research the areas of deceit and overreaching in contract defenses.  Compare and contrast with fraud and misrepresentation.
+
+See Kelso Outline on Policing-Defenses page 11 Holdings/Reasoning 2b.
