@@ -1,0 +1,216 @@
+#+title:      Memorandum Relating to Rent Increase Notices Given Around the Time of Enactment of HB 1217
+#+date:       [2026-03-27 Fri 12:29]
+#+filetags:   :increase:law:notice:rent:statute:
+#+identifier: 20260327T122928
+#+signature:  memo
+
+* HTF MEMORANDUM RE HB 1217
+
+** Introduction
+
+Please use the arguments in this  memo to develop your own briefing in
+situations involving the following scenarios:
+
+1. Rent increases given before May 7, effective after May, in MHLTA and RLTA tenancies.
+2. Rent increases imposed by new leases offered prior to May 7 and effective after May 7.
+
+The memo does not support the  argument that a notice given before May
+7 is  invalid if it  fails to follow the  statutory form set  forth in
+HB 1217.
+
+Until codified later this year, citation  for HB 1217 is Laws of 2025,
+ch. 209. Cite to the following sections as needed:
+
+- §101 (rent limitations RLTA)
+- §102 (Landlord exemptions RLTA)
+- §103 (Landlord notice form RLTA)
+- §104 (Tenant enforcement, demand to landlord RLTA)
+- §201 (Rent limitations MHLTA)
+- §202 (Landlord exemptions MHLTA)
+- §203 (Landlord notice form MHLTA)
+- §204 (Tenant enforcement, demand to landlord MHLTA)
+
+** Arguments
+
+There is a  good argument to be  made for the proposition  that a rent
+increase that  takes effect after May  7, 2025, the effective  date of
+EHB 1217, must  comply with the new law,  notwithstanding a landlord’s
+issuance, before  the effective  date, of  a notice  of a  larger rent
+increase.  The following sets forth the outline of such an argument.
+
+Estate of Haviland, 177 Wn.2d 68, 75, 301 P.3d 31 (2013) discusses the
+distinction between retroactive and prospective statutes:
+
+#+BEGIN_QUOTE
+A statute  has retroactive effect  when the precipitating  event under
+the   statute  occurred   before  the   statute's  enactment.   In  re
+Pers. Restraint of Carrier, 173 Wash.2d 791, 809, 272 P.3d 209 (2012);
+State  v. Belgarde,  119 Wash.2d  711, 722,  837 P.2d  599 (1992).   A
+statute  may also  act retroactively  when  it takes  away or  impairs
+vested rights,  or imposes  new duties or  disabilities in  respect to
+past  transactions; however,  a  statute is  not retroactive  “‘merely
+because it  relates to prior facts  or transactions where it  does not
+change their legal  effect. It is not retroactive because  some of the
+requisites for  its actions are  drawn from  a time antecedent  to its
+passage or because it fixes the status of a person for the purposes of
+its operation.’”   State v. Varga, 151  Wash.2d 179, 195, 86  P.3d 139
+(2004) (quoting State v. Scheffel, 82  Wash.2d 872, 879, 514 P.2d 1052
+(1973)); State v. Pillatos, 159 Wash.2d 459, 471, 150 P.3d 1130 (2007)
+(citing Pape v.  Dep't of Labor  & Indus., 43 Wash.2d 736, 740–41, 264
+P.2d 241 (1953)). Conversely, “[a] statute operates prospectively when
+the  precipitating event  for the  application of  the statute  occurs
+after the effective date of the statute, even though the precipitating
+event had its origin in a situation existing prior to the enactment of
+the  statute.”  Aetna  Life Ins.   Co.  v.   Wash.  Life  & Disability
+Ins. Guaranty Ass'n,  83 Wash.2d 523, 535, 520 P.2d  162 (1974); In re
+Estate   of  Burns,   131   Wash.2d  104,   110–11,   928  P.2d   1094
+(1997). Statutes are presumed  to apply prospectively, absent contrary
+legislative intent. Burns, 131 Wash.2d at 110, 928 P.2d 1094.
+#+END_QUOTE
+
+*** Triggering Event
+The task, then,  is to determine what the  relevant “precipitating” or
+“triggering” event  is.  SEIU Local  925 v. Washington Dept.  of Early
+Learning, 194  Wn.2d 546, 555-56,  450 P.3d 1181 (2019),  provides the
+most succinct guide: “To determine what event triggers the application
+of new law, courts look to the subject matter regulated by the statute
+in question  and to  the statute’s  plain language,  with the  goal of
+effectuating the legislature’s … intent.”  (emphasis added).
+
+The title of the act is “Residential Tenants-Rent and Fees.”
+
+The preamble recites that the act relates “to improving housing
+stability for tenants … by limiting rent and fee increases ….,”
+(though it goes on to mention additional provisions).
+
+Section 101(1)(a), the core operative provision, states that, with
+exceptions to be set forth, “a landlord may not increase the rent for
+any type of tenancy” by more than the limit set forth.
+
+Section 101(3) provides for an opportunity to cure improper rent
+increases and provides an opportunity for the tenant to terminate the
+rental “prior to the effective date of the increase.”
+
+Section 101(5)(a), setting forth remedies for violations of the act,
+refers to “excess rent” and “unlawful rent.”
+
+Section 101(7) provides that a “landlord may not report the tenant to
+a tenant screening service provider for failure to pay the portion of
+the tenant’s rent that was unlawfully increased in violation of this
+section.”
+
+Section 102 lists exceptions, i.e., circumstances under which a
+“landlord may increase rent in an amount greater than allowed under
+section 101.”
+
+Section 103 sets forth the required text for notices of rent
+increases.  The notice must recite that “[t]his notice is required by
+Washington state law to inform you of your rights regarding rent and
+fee increases” and refers repeatedly to increases in rent.
+
+Section 104(3) is of particular  interest.  It regulates the timing of
+notices  of rent  increases.  The  legislature increased  the required
+notice of  a rent increase  from 60 to 90  days.  It also  provided an
+exception,  retaining the  60-day  notice requirement,  for “a  tenant
+whose lease or rental agreement was entered into or renewed before the
+effective date  of this section and  whose tenancy is for  a specified
+time,” if,  as of the  effective date, more than  60 but less  than 90
+days  are left  before the  end of  the specified  time.  Under  those
+circumstances, “a minimum  of 60 days before the effective  date of an
+increase in the amount of rent” must be provided.  In other words, the
+legislature intended that a notice  given before the effective date of
+the act  does not entitle the  landlord to increase rent  by more than
+the amount  permitted by the statute  if the rent increase  is to take
+effect after the effective date of the act.
+
+The final bill report for EHB 1217 confirms the legislative intent and
+the fact  that rent increases  are the regulated subject  matter.  For
+example, the “Brief Description”  of the legislation contains language
+similar to the preamble of  the statute regarding “[i]mproving housing
+stability for  tenants … by limiting  rent and fee increases  ….”  See
+also  id. at  3  (“Rent  Increase Limit”),  4  (“Rent Increase  Notice
+Requirements”;  “Opportunity  to  Cure and  Tenant  Lease  Termination
+Provisions”).
+
+*** Principles of Statutory Construction
+
+Several principles of statutory construction support the argument that
+the statute is a valid prospective statute:
+
+***** 1
+
+There  is  a  “heavy   presumption  of  constitutionality  accorded  a
+legislative  act…. A  statute’s  alleged  unconstitutionality must  be
+proven  beyond all  reasonable doubt  before it  may be  struck down.”
+Aetna, 83 Wn.2d at 528.  (Internal quotation omitted).
+
+***** 2
+
+The Residential Landlord Tenant Act is to be construed in favor of the
+tenant.  Silver v. Rudeen Mgmt. Co., 197 Wn.2d 535, 548, 484 P.3d 1251
+(2021); Randy  Reynolds & Assocs. v.  Harmon, 193 Wn.2d 143,  156, 437
+P.3d 677 (2019).
+
+***** 3
+
+The Unlawful  Detainer Act  is also  to be construed  in favor  of the
+tenant.  Randy Reynolds, 193 Wn.2d at 156.
+
+*** Anticipated Arguments
+
+We may anticipate that landlords will argue that prohibiting them from
+issuing notices of rent increases above the statutory limit before the
+statute’s effective  date is an impermissible  retroactive application
+of  the statute,  which impairs  their vested  rights and  imposes new
+limits on  past transactions.  See,  e.g., Haviland, 177 Wn.2d  at 75;
+State v. Humphrey,  139 Wn.2d 53, 61-62, 983 P.2d  1118 (1999); Burns,
+131 Wn.2d at 110-20.  There are several things we may say in response.
+
+**** 1
+First, and most significantly, there is no vested right to future rent
+increases.  Even  prior to  EHB 1217, RCW  59.18.140 provided  that “a
+landlord shall provide  a minimum of sixty days’  prior written notice
+of an increase in the amount of  rent to each affected tenant, and any
+increase in the  amount of rent may not become  effective prior to the
+completion of the term of the rental agreement.”  (Emphasis added).  A
+“term,”  in  this  context,  refers   to  an  individual  month  of  a
+month-to-month  tenancy.    See  Housing   Res.  Grp.  v.   Price,  92
+Wn. App. 394, 400-401, 958 P.2d 327 (1998).
+
+**** 2
+Second, a  “statute is  not retroactive merely  because it  draws upon
+antecedent facts for its operation.”  Aetna, 83 Wn.2d at 535 (Internal
+quotation omitted).  See also Haviland,  177 Wn.2d at 75 (“[A] statute
+is  not  retroactive merely  because  it  relates  to prior  facts  or
+transactions where it does not  change their legal effect.”) (Internal
+quotation omitted).   Nor does  a statute operate  retroactively “just
+because  it  upsets expectations  based  on  prior law.”   Myles,  170
+Wn. App. at 532 (Internal  quotation omitted).  Instead, “a court must
+ask  whether the  new  provision attaches  new  legal consequences  to
+events completed  before its enactment.”   Humphrey, 139 Wn.2d  at 61.
+EHB 1217  may affect a rental  that commenced prior to  its enactment.
+It does not, however, change the  legal effect of an agreement between
+landlord and  tenant regarding the amount  of rent due for  any period
+prior to the statute’s enactment.
+
+**** 3
+Third, note the language in Burns that “[e]lementary considerations of
+fairness dictate that  individuals should have an  opportunity to know
+what the law is and to  conform their conduct accordingly.”  131 Wn.2d
+at 110.  The rent increase  notices here were issued precisely because
+of  the landlords’  knowledge of  the upcoming  amendment to  the law.
+Indeed, one of  the examples you provided begins “As  a result of Bill
+1217, we  have made the  difficult decision  to increase your  rent to
+match market.”  There is no issue of unfair surprise here.
+
+**** 4
+Finally,  we may  note  that  some of  the  cases considering  whether
+statutes operated prospectively rejected  arguments that issuance of a
+notice  was the  relevant  triggering event.   See,  e.g., Dzaman,  18
+Wn.  App.2d  at 477  (landlord’s  notice  to  vacate was  governed  by
+subsequently enacted requirement of  affidavit signed under penalty of
+perjury); Myles,  170 Wn.  App. at  523-24 (notice  of claim  given to
+incorrect county  office was governed by  subsequently enacted statute
+providing  that substantial  compliance  with  notice requirement  was
+sufficient); cf.  SEIU, 194 Wn.2d  at 556 (release of  public records,
+not request for the records, is the relevant triggering event).

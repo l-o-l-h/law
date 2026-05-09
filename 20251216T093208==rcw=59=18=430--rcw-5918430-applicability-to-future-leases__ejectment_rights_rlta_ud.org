@@ -1,0 +1,29 @@
+#+title:      RCW 59.18.430 Applicability to Future Leases
+#+date:       [2025-12-16 Tue 09:32]
+#+filetags:   :ejectment:rights:rlta:ud:
+#+identifier: 20251216T093208
+#+signature:  rcw=59=18=430
+
+* RCW 59.18.430. Applicability to prior, existing or future leases
+
+RCW 59.18.010 through  59.18.360 and 59.18.900 shall not  apply to any
+lease entered  into prior  to July  16, 1973.  All provisions  of this
+chapter shall apply  to any lease or periodic tenancy  entered into on
+or subsequent to July 16, 1973.
+
+The argument is that this statute forbids the use of the ejectment
+action in residential leases governed by the RLTA.
+
+** RCW 59.18.363--.412: Unlawful Detainer Action
+
+*** .363 Distressed Home Conveyance
+
+*** .365 Unlawful Detainer Summons Form
+
+*** .367 Unlawful Detainer Action - Limited Dissemination
+
+*** .368 Unlawful Detainer Action -- Residential Tenancies (Housing Court Commissioners)
+
+*** .369 Unlawful Detainer Action -- Housing Court Commissioner Duties
+
+*** .370 Forcible Entry or Detainer or Unlawful Detainer -- Writ of Restitution -- Application -- Hearing

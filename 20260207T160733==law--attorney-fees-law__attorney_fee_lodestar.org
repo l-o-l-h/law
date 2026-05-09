@@ -1,0 +1,285 @@
+#+title:      Attorney Fees Law
+#+date:       [2026-02-07 Sat 16:07]
+#+filetags:   :attorney:fee:lodestar:
+#+identifier: 20260207T160733
+#+signature:  law
+
+* Lodestar Law Review
+
+[[file:law-review/20260207T160933==52=gonzaga=law=review=1=2017--talmadgephilip-a-fitzpatrickthomas-m-the-lodestar-method-for-calculating-a-reasonable-attorney-fee-in-washington52-gonzaga-law-review-1-2017__attorney_fee_law_lodestar_review.pdf][The Lodestar Method for Calculating a Reasonable Attorney Fee in Washington, 52 Gonz. L. Review 1 (2017)]]
+
+* Caselaw
+
+** Unpublished
+
+*** C&C Communications, LLC v. T-Mobile USA, Inc.
+  - Court of Appeals of Washington, Division 1. | January 13, 2025 | Not Reported in Pac. Rptr. | 33 Wash.App.2d 1047 | 2025 WL 80287
+
+
+**** Discussed the article cited above.
+
+  Here, the Arbitrator stated, “[M]y  determinations of the amounts of
+  attorney fees and costs to award are governed by the substantive law
+  of the state of Washington,” and  cited to a law review article that
+  “extensively discuss[ed]  the lodestar method.”4  Acknowledging that
+  the parties “were  free to either apply or  disregard the principles
+  discussed in  that law review,”  the Arbitrator then stated  that he
+  “applied  the  principles  discussed  in   that  law  review  to  my
+  determinations of the proper awards  of both attorney fees and costs
+  in this case.”
+
+  4. Philip A. Talmadge & Thomas M. Fitzpatrick, The Lodestar Method for Calculating a Reasonable Attorney Fee in Washington, 52 Gonz. L. Rev. 1 (2016/17).
+  - C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+  The article, in turn, cites to Washington cases in support.5
+
+  5. Talmadge & Fitzpatrick, supra note 4, at 3 nn.4-6, 6 n.30, 9 nn.48-49, 4 n.16, 5 nn.17, 19.
+  - C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+**** The Issue: Did the arbitrator follow the law in awarding attorney fees even though the Appellant claimed the Respondent failed to provide sufficient billing records?
+
+  C&C  identifies  two  ways  in   which  it  claims  that  T-Mobile's
+  supplemental billing records failed to provide the arbitrator with a
+  sufficient basis for its decision.
+
+    First,  C&C argues  that T-Mobile's  supplemented billing  records
+    constituted *block  billing* and were  deficient to support  the fee
+    award.
+
+    Second, C&C  contends that  the Arbitrator should  have disallowed
+    T-Mobile's asserted claim to  *attorney-client privilege* because it
+    was a veiled way to avoid submitting actual billing records.
+
+  - C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+***** Contemporaneous Recording of Time is Preferred
+
+Timekeeping   documentation  should   be   contemporaneous,  and   any
+reconstructed timekeeping will be considered when it is reasonable and
+duly supported  by other  evidence.
+  - Johnson v.  Dep't of  Transp., 177 Wn. App. 684, 699, 313 P.3d 1197 (2013).
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+***** Block Billing
+
+“Block  billing” is  the “  ‘group[ing] together  [of] multiple  tasks
+without  specifying   how  much   time  each   task  took.’ ”
+
+  - Nat'l Lab.  Rels.   Bd.  v. Bannum, Inc., 102 F.4th  358, 364 (6th
+    Cir. 2024)
+
+  - (quoting Miller v. Caudill, 936 F.3d 442, 452 (6th Cir.  2019));
+
+  - see  also   Tridico  v.   D.C.,   235  F.   Supp.   3d   100,  109
+    (D.D.C.  2017) (explaining that block billing occurs when multiple
+    tasks  are categorized  into a  single  entry, which  can make  it
+    difficult  to   evaluate  reasonableness,  resulting   in  reduced
+    awards).
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+C&C analogizes to [[*224 Westlake, LLC v. Engstrom Properties, LLC][Westlake]], where this court held that the plaintiff's
+documentation of timekeepers was not sufficiently detailed to permit
+the defendant to “critiqu[e] the request in a meaningful way.”
+  - 169 Wn. App. at 740.
+C&C  suggests  that  T-Mobile's   timekeeping  entries  were  likewise
+deficient  because they  were  overly repetitious  of  each other  and
+“cookie cutter.”
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+C&C cites to  no Washington authority that  expressly prohibits “block
+billing”  descriptions.7
+  7. This  court has  stated that  “block billing  entries tend  to be
+     obscure”  and  may  make  a court's  evaluation  for  fee  awards
+     onerous.
+       - Berryman,  177 Wn.  App.  at  663-64.
+     But we recently  reaffirmed that a trial court  has discretion to
+     make this determination  of what information is  necessary for it
+     to determine what  fees are reasonable.
+       - Bickford  Landing  LLC  v.  Trinity  Contractors,  Inc.,  No.
+         85162-4-I, slip op.   at 5 (Wash. Ct.  App.   Nov.  13, 2023)
+         (unpublished),
+         https://www.courts.wa.gov/opinions/pdf/851624.pdf.
+     In Bickford,  the court held that  the trial court did  not abuse
+     its  discretion  in refusing  to  reduce  the award  because  the
+     plaintiff had failed to “point to any particular billing entry as
+     being   obscure,   impossible    to   segregate,   or   otherwise
+     problematic,” and  did not cite  to authority that  indicated the
+     defendant's  method  of  billing was  prohibited.
+       - Bickford,  No. 85162-4-I at  4.
+       - Under GR  14.1(c), we  may cite  to unpublished  decisions as
+         necessary for a reasoning opinion, as is the case here.
+
+To the contrary, Washington law does  not require a party submitting a
+fee petition  to submit “exhaustive or  [ ] minute detail”  but rather
+sufficient information to  inform the arbitrator of the  bases for the
+award, such  as type of work,  hours worked, and category  of attorney
+who performed work.
+  - Bowers v.   Transamerica Title Ins.  Co., 100 Wn.2d 581,  597, 675
+    P.2d 193 (1983).
+T-Mobile's  entries include  this  information, as  they
+- describe  the category of attorney  performing the work,
+- a description  of the work, and
+- hours.
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+The reviewing officer  “who has watched the case unfold  ... is in the
+best  position to  determine which  hours  should be  included in  the
+lodestar  calculation.”
+  - Chuong Van  Pham v. Seattle  City Light,  159 Wn.2d 527,  540, 151
+    P.3d  976  (2007) (holding  the  trial  court  did not  abuse  its
+    discretion in calculating attorney fees where the law provides the
+    trial court with significant deference  given its proximity to the
+    case).
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+***** Attorney-Client Privilege
+
+****** The Issue
+
+Second,  C&C  contends  that  the Arbitrator  should  have  disallowed
+T-Mobile's asserted claim to  attorney-client privilege, because doing
+so   allowed    T-Mobile   to   avoid   submitting    actual   billing
+records.
+
+T-Mobile explained  it believed  that more detailed  descriptions were
+privileged and might reveal strategy related to ongoing arbitrations.
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+****** The Argument Against
+
+C&C again  relies on [[*224 Westlake, LLC v. Engstrom Properties, LLC][Westlake]], in  which we explained that  a claim of
+privileged  information does  not  alleviate a  party from  submitting
+billing  records  because it  “could  have  been  redacted or  a  more
+detailed summary could have been prepared.”
+  - 169 Wn. App. at 740.
+Here, C&C claims that the Arbitrator manifestly disregarded the law by
+ignoring Westlake  and approving T-Mobile's  edits to time  entries to
+protect  attorney-client  privilege,  thus, further  denying  C&C  the
+ability to meaningfully critique T-Mobile's entries.
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+However,  Westlake  explicitly  states  that parties  can  both  honor
+attorney-client  privilege  and  comply with  billing  disclosures  by
+redacting the billing information.
+  - 169 Wn. App. at 740.
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+**** The Lodestar Principles
+
+“A determination of reasonable attorney fees begins with a calculation
+of  the “  ‘lodestar,’  ”  which is  the  number  of hours  reasonably
+expended on  the litigation multiplied  by a reasonable  hourly rate.”
+  - Berryman, 177 Wn. App. at 660
+    - (quoting Mahler  v. Szucs, 135  Wn.2d 398, 433-34, 957  P.2d 632
+      (1998)).
+An arbitrator has discretion to  reduce fee awards.
+  - See, e.g., Clausen v. Icicle Seafoods, Inc., 174 Wn.2d 70, 82, 272 P.3d 827 (2012)
+    - (trial court  was in the  best position to reduce  attorney fees
+      and costs and did not abuse its discretion in doing so).
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+The record here is distinguishable from that in Berryman.
+
+  There, the  appellate court explained  that it could not  glean from
+  the  trial   court's  findings  whether  it   had  actually  weighed
+  reasonableness  because  there was  no  evaluation  of the  opposing
+  party's objections.
+    - 177 Wn. App. at 658.
+
+  Here, by contrast, the Arbitrator's  final award order included over
+  ten  pages of  analysis  specifically addressing  attorney fees  and
+  costs, including written findings that addressed C&C's objections as
+  to the reasonableness of fees and its requests for reductions.
+
+    First, the Arbitrator stated it  was “necessary to provide context
+    for my decisions on the award of fees and costs” and discussed the
+    complexity of  the proceedings,  noting that “there  was extensive
+    discovery  preceding the  five-day evidentiary  hearing” and  that
+    T-Mobile had  hired three  law firms,  “each with  efficiencies in
+    mind.”
+
+    The Arbitrator then found that  the timekeepers’ hourly rates were
+    reasonable,  noting  that these  rates  were  negotiated with  the
+    clients and in some respects were discounted rates and represented
+    “allocation of types of work to different timekeepers.”
+
+    As to whether  the hours expended were  reasonable, the Arbitrator
+    also made specific findings:
+
+      - I find  that the  reasonable hours  expended total  the amount
+        requested less  a total  of [$5,000].  My explanation  of this
+        finding follows.
+
+      - After carefully  reviewing the  extensive records  provided to
+        me,  I find  that  [T-Mobile] [has]  satisfied  their duty  to
+        provide  contemporaneous  billing  records  to  support  their
+        request. Although C&C disputes this characterization, I reject
+        its arguments.
+
+      - What  I  have  here  are contemporaneous  records,  edited  to
+        reflect concerns about attorney  client privilege. That is not
+        unreasonable. The records, nevertheless, allow me (and C&C) to
+        evaluate when  work was done,  by whom, the rate  charged, the
+        general nature of the work, and the incremental billing to the
+        client. This is sufficient under the governing rule.
+
+      - I  do  note, however,  that  there  are  a number  of  entries
+        relating to  a summary  (disposition) in this  proceeding that
+        was never filed.  I denied the request. Moreover,  there are a
+        number of entries showing internal discussions among attorneys
+        regarding strategy. While I do not doubt that such discussions
+        occurred, I believe  the number of attorneys  involved in such
+        discussions is too great.
+
+      - The  billing entries  do  not  neatly carve  out  what I  have
+        described in  the preceding paragraph. Thus,  I have estimated
+        what I believe is a fair deduction for these amounts.
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+
+We conclude that C&C has not satisfied its “heavy burden,”
+  - Am. Tobacco Co.,  28 Wn.  App. 2d  at 479,
+of  demonstrating  that  the  Arbitrator  exceeded  his  authority  by
+granting T-Mobile's request for fees and reducing the requested amount
+by only $5,000.
+
+- C&c Commc'ns, LLC v. T-Mobile USA, Inc., 33 Wn. App. 2d 1047 (2025)
+
+** Published
+
+*** 224 Westlake, LLC v. Engstrom Properties, LLC
+- Court of Appeals of Washington, Division 1. | July 30, 2012 | 169 Wash.App. 700 | 281 P.3d 693
+
+*** Bright v. Frank Russell Investments
+- 191 Wn. App. 73, 361 P.3d 245 (2015)
+
+*** Arnold v. City of Seattle
+- 181 Wn.2d 510, 374 P.3d 111 (2016)
+
+*** Easterly v. Clark County
+- 2 Wn. App. 2d 1066 (2018)
+
+*** Estate of Hunter
+
+*** Kayshel v. Chae, Inc.
+- 17 Wn. App. 2d 563, 486 P.3d 936 (2021)
+
+*** Gordon v. Robinhood Financial
+- 31 Wn. App. 2d 185 , 547 P.3d 945 (2024)

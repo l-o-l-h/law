@@ -1,0 +1,82 @@
+#+title:      Landlord Waives Termination of Prior Notice by Serving New Notice
+#+date:       [2026-01-16 Fri 13:27]
+#+filetags:   :multiple:new:notice:waiver:
+#+identifier: 20260116T132729
+#+signature:  note
+
+* Notes from Knutson v. Mercer Wisconson Appellate Decision
+
+See [[denote:20260116T115222][wis  knutson-v-mercer-2026-01-08-wisconsin-circuit-court-of-appeals-2024ap2499]]
+
+¶14  As  Mercer  argues,  courts  in  other  jurisdictions  that  have
+addressed this issue have concluded that
+- giving a subsequent notice to  terminate a tenancy waives a lessor’s
+  right to evict a tenant under any prior notice.
+- See _Duran v.  Hous.  Auth. of City & Cnty. of  Denver_, 761 P.2d 180,
+  184 (Colo.  1988)
+  - (“‘Giving a second notice after the expiration of the first is, in
+    effect,  an admission  that a  tenancy  still subsists,  and is  a
+    waiver of the first notice.
+
+Upon receiving  the second notice,  the tenant unquestionably  has the
+right to  suppose that
+- the landlord had waived the first notice, and that the tenancy would
+  continue  until  the   time  fixed  in  the  last   notice  and  act
+  accordingly.’”
+  - (quoting 3A THOMPSON ON REAL PROPERTY § 1360 at 695 (1981));
+  - _Andrus v.  Dunbar_, 878 A.2d 245, 248 (Vt.  2005)
+    - (“The  second  notice  to  quit  ‘unequivocally  recognized  the
+      tenancy as EXISTING’ …. This  holding is rooted in the principle
+      that  the tenant  cannot BE  put in  the position  of having  to
+      speculate  on the  meaning and  legal effect  of the  landlord’s
+      actions.”
+    - (quoting _Morgan v. Powers_, 31  N.Y.S. 954, 956 (N.Y.  Gen.  Term
+      1894)));
+  - see also _Morgan_, 31 N.Y.S.   at 956
+    - (“[G]iving a subsequent notice after the expiration of the first
+      is, in effect,  an admission that a tenancy  still subsists, and
+      is a waiver of the first notice.”);
+  - _Arcade Inv.  Co. v. Gieriet_, 109 N.W.  250, 250 (Minn.  1906)
+    - (“It is well  settled that a notice by the  landlord to a tenant
+      to quit may  be waived by the landlord giving  it, and that such
+      notice is thenceforth inoperative.
+
+The landlord  may evidence his  intention to waive the  termination of
+the tenancy  by such  notice
+- by  any conduct  sufficiently manifesting such intention.
+- Thus, if  he gives a second  notice, he thereby waives  his right to
+  proceed under the first notice.” (citation omitted)).
+
+
+¶15 Consistent with the reasoning from these cases, I conclude that
+- by giving  Mercer the  October notice,
+- Knutson waived his  right to rely on either the  August or September
+  notices to evict Mercer.
+
+Specifically, by giving Mercer the notice in October that purported to
+terminate Mercer’s tenancy on October 5 but only if Mercer did not pay
+the  rent that  he owed,
+- Knutson   was  acknowledging   that  the   tenancy  still   existed,
+- notwithstanding  Mercer’s  failure to  comply  with  the August  and
+  September notices.
+
+¶16  Additionally,  in  the  absence of  any  contrary  argument  from
+Knutson,  I am  also  persuaded by  Mercer’s  arguments regarding  the
+*uncertainty* that  would result from allowing  a lessor—after providing
+successive notices of eviction that  purport to terminate a tenancy as
+of different  dates—to rely on any  of the earlier notices  to evict a
+tenant.
+- As Mercer  argues, to  do so  would introduce  uncertainty regarding
+  when the  lessor is entitled  to file  an eviction action,  when the
+  tenant may  still exercise the right  to cure, and when  a tenant is
+  liable for  double rent for  holding over.
+- See WIS. STAT.  § 704.27
+  - (“If  a  tenant  remains  in possession  without  consent  of  the
+    tenant’s landlord after … termination of a tenancy by notice given
+    by  …  the  landlord  …,  the landlord  shall,  at the  landlord’s
+    discretion,  recover  from  the  tenant damages  suffered  by  the
+    landlord because of the failure of the tenant to vacate within the
+    time  required.   In absence  of  proof  of greater  damages,  the
+    landlord shall recover  as minimum damages twice  the rental value
+    apportioned on  a daily basis for  the time the tenant  remains in
+    possession.”).  2

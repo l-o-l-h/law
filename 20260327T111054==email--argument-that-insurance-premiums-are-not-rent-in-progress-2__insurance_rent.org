@@ -1,0 +1,36 @@
+#+title:      Argument that Insurance Premiums are not Rent in progress 2
+#+date:       [2026-03-27 Fri 11:10]
+#+filetags:   :insurance:rent:
+#+identifier: 20260327T111054
+#+signature:  email
+
+* [HTF] any way to overcome dumb junk fee?
+
+
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Mar 26, 2026, 1:55 PM (21 hours ago)
+to michellem@nwjustice.org, Housing
+
+Why is a renter’s insurance premium “rent”? I’m back to my rant from March 10th about junk fees. The definition of “rent” under the RTLA should be litigated carefully.
+
+Insurance premiums serve the same function as a security deposit. Also, they can be charged only when the tenant breaches the obligation to purchase insurance. They’re more like damages or late fees than rent. More elaborate argument below.
+
+Benjamin Ramm
+Staff Attorney
+Kitsap Legal Aid Services
+
+The significant amendments to the Residential Landlord Tenant Act (“RLTA”) contained in Engrossed Senate Bill 5600 deserve more careful analysis than the Plaintiff has offered. The Plaintiff’s justification for its demand seems to be little more than a rather superficial assertion that any charges can be collected as rent if they are “recurring and periodic” and “identified in the rental agreement.” This reasoning is incomplete. Late fees can be “recurring and periodic” if a tenant habitually breaches the obligation to pay rent on time. They are, nevertheless, specifically excluded from the definition of rent. RCW 59.18.030(29).
+Why?
+Late fees are not “for the use and occupancy of the premises.”
+They compensate the landlord for the tenant’s misbehavior.
+The examples provided in the definition of “rent” confirm this distinction.
+The pattern is relatively clear: charges are rent if they accrue simply because a human being lives in an apartment. Charges for utilities, for example, accrue just because a tenant lives in an apartment. Charges for the use of a common pool would too.
+On the other hand, charges are not rent if they are contingent on some event other than the tenant’s occupancy of the property. “Costs incurred due to late payment” accrue only when a tenant breaches the obligation to pay rent on time. Conversely, a well-behaved tenant never becomes responsible for “damages” or “attorneys’ fees.”
+The line separating rent from a tenant’s other financial obligation is blurred when a tenant’s breach of the lease is recurring. A tenant might, for example, pay rent just a little bit late every month. That specific tenant’s habits do not transform late fees into “recurring and periodic charges” because the issue is not whether the charges might recur periodically. The issue is why the charges recur:  just plain living or nefarious misbehaving?
+In this case, the insurance premiums that the Plaintiff demanded in its notice to pay rent or quit were contingent. They could be charged only if Mr. \_\_\_\_ breached his obligation to pay rent. Paragraph 8 of the Apartment Lease Contract and the more detailed Lease Addendum Liability Insurance Required of Resident (“Addendum”) both establish as much. Specifically, both documents required Mr. \_\_\_\_ to purchase “personal liability insurance.” Paragraph 7 of the Addendum governs “Default.” It provided that “any default under the terms of this Addendum shall be deemed an immediate, material and incurable default under the terms of the lease contract.” It also authorized the Plaintiff “to procure coverage to address the deficiency and” required the Defendant “to reimburse [the Plaintiff] for the cost of such insurance. … We may continue to charge you for such insurance coverage until such time as you provide proof of insurance pursuant to paragraph 6” of the addendum.
+The Plaintiff, therefore, had no right to impose this charge until Mr. \_\_\_\_ breached the lease. This condition renders the charge legally indistinguishable from damages or late fees. Paragraph 7 of the Addendum concedes as much. It explicitly distinguishes between insurance premiums and rent: “[t]he monthly insurance charge is due … with your rent.” It does not classify this charge as “as additional rent.”
+Another perspective on these insurance premiums affirms their status as charges that do not fit within the statutory definition of rent. They serve the same purpose as a security deposit: guaranteeing that the landlord can recover compensation for a tenant’s misbehavior.
+A “deposit” “provides security for the performance of the tenant’s obligations under the lease[.]” Silver v. Rudeen Mgmt. Co., Inc., 197 Wn.2d 535, 545, 484 P.3d 1251, 1256 (2021) (quoting 17 William B. Stoebuck & John W. Weaver, Washington Practice: Real Estate: Property Law § 6.53, at 398 (2d ed. 2004)). It becomes the landlord’s property only if a tenant breaches the lease or inflicts damage through “negligence, carelessness, accident, or abuse[.]” RCW 59.18.280(1)(c) and 59.18.030(39); see also, Silver v. Rudeen Mgmt. Co., Inc., 197 Wn.2d 535, 545, 484 P.3d 1251, 1256 (2021). Conversely, a deposit must be refunded to a well-behaved tenant, even a tenant whose apartment deteriorates through “ordinary use of the premises[.]” RCW 59.18.280(1)(c) and 59.18.030(39).
+Insurance premiums serve the same purpose. They protect the landlord from a tenant’s misbehavior. Paragraph 2 of the Addendum requires a tenant “to purchase and maintain personal liability insurance covering you, your occupants and guests, for personal injury and property damage[.]” Thus, the insurance carried by a negligent tenant would compensate the landlord for damages that the security deposit did not cover. For example, the cost of repairs after fire would exceed any legal security deposit but might be covered by a tenant’s insurance policy. Because insurance premiums serve the same function as a deposit, they should be classified similarly, i.e., as charges other than rent and charges that cannot provide the basis for an eviction. RCW 59.18.283(2).
+This classification of insurance premiums as a charge other than rent is supported by ordinary rules of statutory construction as well, especially noscitur a sociis (it is known from its associates) and ejusdem generis (of the same kind) instruct courts to interpret words with respect to the other terms with which they are associated. Specifically, the exclusion of “costs incurred due to late payment, damages, deposits, legal costs, or other fees, including attorneys’ fees” from the definition of “rent” indicates that charges imposed for similar reasons are also not “recurring” within the meaning of that statute and not “for the use and occupancy of the premises” but for some other purpose.
+Finally, the insurance premiums at issue in this case should not be defined as rent because doing so would violate the requirement that the RLTA be construed liberally in favor of tenants. That rule of construction would be violated if landlords could pile on extra fees and charges to a tenant’s obligation.

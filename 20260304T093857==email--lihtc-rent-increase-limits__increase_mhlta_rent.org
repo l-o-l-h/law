@@ -1,0 +1,65 @@
+#+title:      LIHTC Rent Increase Limits
+#+date:       [2026-03-04 Wed 09:38]
+#+filetags:   :increase:mhlta:rent:
+#+identifier: 20260304T093857
+#+signature:  email
+
+* John Wolff via groups.nwjustice.org <john.wolff=nwjustice.org@groups.nwjustice.org>
+Mar 3, 2026, 10:00 AM (23 hours ago)
+to Housing
+
+59.20.090(2) states landlords must notify MHLTA tenants shall notify tenants three months prior to the effective date of any rent increase.  For tenants either without a written agreement, or with an agreement less than two years, or with an agreement for two years or more without explicit terms regarding rent increases, this means the tenant’s rent may only be increased on their anniversary date.
+
+In TST, LLC v. MHDR, 17 Wn.App.2d 662, 485 P.3d 977 (2021) the court held that notices of rent increase, which attempted to raise the rent either 9 months too early, or four months too late, were invalid.  I interpret that case to mean that any notice which purports to raise the rent beginning on any date other than the anniversary date is without legal effect.  Do others agree with that?  To use the facts of that case: the anniversary date was August 1.  The notice of rent increased attempted to increase rent beginning December 1.  That notice is without effect, even as to the following August 1, yes?  In other words, it can’t be construed as simply an extremely early notice of rent increase which takes effect the following August 1?
+
+The reason I ask is the case doesn’t really discuss this distinction.
+
+John Wolff (He/Him)
+Staff Attorney – Northwest Justice Project
+Pullman, WA
+(509) 381-2348
+John.wolff@nwjustice.org
+
+* Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Tue, Mar 3, 10:33 AM (23 hours ago)
+to john.wolff@nwjustice.org, Housing
+
+How to treat an insufficient notice is a problem that has been addressed elsewhere, but not in Washington.
+
+Here is my argument that supports John’s conclusion based on fats that may or may not be analogous. Because Washington law does not provide all of the links of the chain of arguments, footnotes elaborate on similar problems addressed in California and why California law should guide Washington courts.
+
+Benjamin Ramm
+Staff Attorney
+Kitsap Legal Aid Services
+
+To ensure that tenants receive this stability, an implied agreement is construed as a year-to-year rental agreement. TST, LLC v. Mfd. Hous. Disp. Resol. Program of Off. of Att’y Gen., 17 Wn. App. 2d 662, 668, 485 P.3d 977 (2021) (citing Gillette v. Zakarison, 68 Wn. App. 838, 842, 846 P.2d 574 (1993)). Accordingly, without a rental agreement that satisfies the requirements of the MHLTA, a park can “only increase the rent upon expiration of the rental term,” i.e., once a year, and rent increases imposed at other times “are invalid.” Id.
+
+FOOTNOTE:
+This holding is consistent with long-standing law in elsewhere. See, Rich v. Schwab, 162 Cal. App. 3d 739, 209 Cal. Rptr. 417 (Ct. App. 1984). California statute regulating mobile home parks “state[d] management ‘shall’ give ‘at least’ 60 days notice” of a rent increase and, therefore, a rent increase imposed without only 58 days notice was a “nullity” even though the landlord purported to “postpone[] the increase[.]” Id. at p. 743. Because the notices were nullities, a court could not construe the notices as merely effective at a later date. Instead, no legal rent increase had been imposed. The language of the MHLTA is as direct as the California statute: “No landlord may offer a mobile home lot for rent to anyone without offering a written rental agreement for a term of one year or more.” RCW 59.20.060(1). Perhaps the question is whether there is any difference exists between a rent increase that is a “nullity” and one that is simply “invalid.” No distinction should be drawn because Washington’s Supreme Court has cited California’s Court of Appeal when analyzing statutory limits on rental agreements in mobile home parks. See, e.g., contract. Little Mountain Estates Tenants Ass’n v. Little Mountain Estates MHC, LLC, 169 Wn.2d 265, 268-69, 236 P.3d 193 (2010) (citing Vance v. Villa Park Mobilehome Estates, 36 Cal. App.4th 698, 708, 42 Cal.Rptr.2d 723 (1995).)
+END FOOTNOTE
+
+This case presents facts that are worse than the facts of TST. The TST opinion construed implied rental agreements as year-long rental agreements. This case arises from an actual, written rental agreement that did not satisfy the requirements of the MHLTA. Therefore, this court must decide whether a landlord’s offer of only a month-to-month agreement has the same legal effect as a landlord’s failure to provide any written agreement at all.
+A landlord who fails to “offer[] a written rental agreement for a term of one year or more” should bear the same consequences as the landlord in TST: the month-to-month rental agreements should be construed as year-to-year agreements that were automatically renewed each year because the actions of both park owners undermine the purpose of the MHLTA by depriving tenants of stable, secure tenancies. If any difference exists, the superficial formality of a month-to-month rental agreement is actually more harmful because it creates a false impression of legality. Therefore, the rent increases that were not imposed “upon expiration of the rental term,” … “are invalid.” TST, supra, 17 Wn. App. 2d at p. 668 (the “park could only increase the rent upon expiration of the rental term, which was August 1, 2017. Therefore, [the park’s attempt to increase the rent effective December 1, 2016 and December 1, 2017 are invalid”).
+Because the rent increases were invalid, the Defendant’s monthly rent has remained $330. Specifically, the month-to-month agreement that began on February 1, 2018 (Exhibit 1) should be construed as a year-to-year rental agreement, just like the tenancies in TST. Id. That year-to-year agreement was “automatically renewed for the term of the original rental agreement[.]” RCW 59.20.090(1); see also, Gillette v. Zakarison, 68 Wn. App. 838, 842, 846 P.2d 574 (1993). Thus, the terms of the Defendant’s tenancy could not be changed except on February 1st of each year. TST supra, 17 Wn. App. 2d at p. 668. This rule invalidates both the rent increases imposed every October and the rental agreement the second rental agreement that purported to be effective on October 1, 2022, but was not signed until November 17, 2022.
+An invalid rent increase should be treated like any other invalid contract: the parties should be placed in the position they were before the agreement was made. See, e.g., Princeton Prop. Mgmt., Inc. v. Allen, 58183-3-II, 2024 WL 2929013, at \*6 (Wash. Ct. App. June 11, 2024) (“the remedy is typically to place the parties back to where they were before the agreement”). This rule means allocating each payment that exceeds the legal pay rent as any other overpayment would be allocated: as a credit against subsequent obligations to pay rent. Thus, when the Defendant was paying  $355 per month beginning October 1, 2020, she should have received a credit of $25 towards subsequent obligations to pay rent.
+A rough approximation of the total amount the Defendant is owed might be gleaned from the few documents the parties have presented, but a completely accurate accounting requires the Plaintiff to produce records.
+The calculation begins with the Plaintiff’s ledger, Exhibit B to the complaint. That document shows the Defendant had a credit of $209.80 on April 1, 2023. Thus, the Plaintiff’s document establishes that the Defendant had paid everything she owed through that date.
+Other documents indicated that the Defendant paid $355 per month between October 2020 and September 2021, $420 per month the next year, and $495 from October 1, 2022 through March 31, 2023. See, Exhibit 6 (invoices).
+Because the Defendant’s rent should have remained at $330 per month, she paid at least\<FN12\> $2,370.00 more than she legally owed between October 2020 and March 31, 2023. This total is the sum of:
+$300 too much between October 2020 and September 2021 ($25 x 12);
+$1,080.00 too much between October 2020 and September 2021 ($90 x 12); and
+$990.00 too much between October 1, 2022 and March 31, 2023 ($165 x 6).
+Thus, the credit shown on the first line of the Plaintiff’s ledger should have been at least $2,579.80, not $209.80. That credit should have been setoff against the amount demanded, $1,624.14, in the notice dated October 13, 2023, i.e., Exhibit C to the Complaint.
+Because the Defendant was owed more than the Plaintiff demanded on October 13, 2023, the Defendant was not in “default in the payment of rent.” This lawsuit was premature.
+Any debt that the Defendant has accrued since October 2023 must be claimed through new notice so that the Defendant has a chance to pay before facing eviction. Basing an eviction on the debt that accrued while a lawsuit was pending does not give a tenant the mandatory chance to pay before facing eviction.
+
+FOOTNOTE:
+
+Washington’s courts have not established this method of allocating overpayments, but other courts have. See, Minelian v. Manzella, 215 Cal. App. 3d 457, 263 Cal. Rptr. 597 (Ct. App. 1989). In Minelian, the landlord had been ignoring a rent control ordinance for years. The Court of Appeal acknowledged the concern “that recognizing a tenant’s right to withhold excess rent  will permit tenants to sit on their rights,” but explained that its “holding place[d] the burden on the landlord, where it properly belongs, to ensure that only the lawful amount of rent is charged.” Id. at pp. 467-68. Washington should follow this reasoning because the Plaintiff’s business practice is so widespread. Everyone in the park is subjected to annual rent increases and no one seems to have been offered year-to-year leases. See, Exhibit 3. Put another way, the contrary argument seems to be that it’s not theft if the victim doesn’t protest immediately.
+END FOOTNOTE
+
+* Craig Watt via groups.nwjustice.org <craig.watt=nwjustice.org@groups.nwjustice.org>
+9:34 AM (6 minutes ago)
+to HTF
+
+Under provisions of the Manufactured/Mobile Home Landlord-Tenant Act (MHLTA) governing rent increases, a provision in a rental agreement can allow for a rent increase on a date other than the expiration date if the rental agreement term is for one year or more and the increase is set forth as a specified amount or specified formula, and the rental increase may not occur more frequently than annually; if the lease agreement does not include a provision addressing rent increases and the landlord increases the rent, the increase must occur upon the date of lease expiration with three months’ notice.  TST, LLC v. Manufactured Housing Dispute Resolution Program of Office of Attorney General (2021) 17 Wash.App.2d 662, 485 P.3d 977.

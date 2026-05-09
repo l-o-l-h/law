@@ -1,0 +1,76 @@
+#+title:      HUD VASH Vouchers
+#+date:       [2026-04-30 Thu 08:48]
+#+filetags:   :hud:vash:vouchers:
+#+identifier: 20260430T084857
+#+signature:  email
+
+* Appealing termination of a voucher
+:LOGBOOK:
+- Note taken on [2026-04-30 Thu 08:48] \\
+  RESPONSE:
+  ---------
+  Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+  Apr 29, 2026, 4:07 PM (16 hours ago)
+  to Heather, HTF@groups.nwjustice.org
+
+  Heather,
+
+  I don't think termination of HUD-VASH vouchers are all that different from termination of ordinary Section 8 Housing Choice Vouchers.
+
+  HUD-VASH vouchers are essentially Section 8 HCVs that have been set aside for eligible veterans.
+
+  Here's a link to HUD guidance on HUD-VASH vouchers - https://www.hud.gov/sites/dfiles/PIH/documents/HUD_VASH_HCV_Guidebook_Chapter_July_2021.pdf.
+
+  There is a section that explains the differences between HUD-VASH vouchers and ordinary HCVs.
+
+  With regard to termination of HUD-VASH vouchers, it provides that "HUD has not established any alternative requirements for termination of assistance for HUD-VASH participants," but that "PHAs are strongly encouraged to consider all relevant circumstances," and are "encouraged to contact the VA case manager to determine if there are extenuating circumstances that could be considered to avoid the termination."
+
+  Additionally, I would suggest reviewing the federal regulations applicable to HCV terminations,
+  - which can be found at 24 CFR 982.551 - .555, and
+
+  - the Administrative Plan from the Housing Authority that administers the voucher.
+
+  Also, here's a link to a guide that you might find helpful when defending a tenant facing voucher termination (or to determine if the housing authority followed the proper procedures) - https://www.nhlp.org/wp-content/uploads/Fuchs-Defending-Section-8-Voucher-Terminations-updated-Sept.-12-2011.pdf
+
+  You should also request a copy of the client's file with the Housing Authority.
+
+  And then review it thoroughly to see if the housing authority following proper procedures, i.e., issuing a proper notice, etc.  Based on my experience, it's definitely not unusual to see housing authorities cut corners when terminating vouchers.  And if you do find that the housing authority did not follow the proper procedures, your client may have a cause of action under 42 USC 1983.
+
+  Good luck!
+
+  Chris
+
+- Note taken on [2026-04-30 Thu 08:54] \\
+  RESPONSE FROM SCOTT CRAIN:
+  --------------------------
+  Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+  Apr 29, 2026, 8:50 PM (12 hours ago)
+  to Chris, Heather, HTF@groups.nwjustice.org
+
+  In addition to what Chris said, the basics are that you have a short amount of time to request an administrative hearing before the PHA. This varies by PHA, but could be as short as 10 days from the date of the letter in many cases (alternatively, often it is 10 business days). If your client misses the administrative hearing deadline, the next SOL to consider is filing a writ of review, which would be about 30 days from the termination or decision on the administrative hearing. So, the main takeaway, is that you have to act fast and finding the notice of termination is the main way to assess these deadlines. If the PHA screwed something up on the notice, or failed to accommodate your client, there are ways around these deadlines by bringing a 1983 case or a FHA or WLAD lawsuit. The main rules that apply to the PHA would be their Administrative Plan, which would reiterate all of the CFRs that Chris mentioned, as well as any local policies that may apply. Happy to consult if it would help.
+
+- Note taken on [2026-04-30 Thu 08:48] \\
+  EMAIL QUERY:
+  ------------
+  From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> on behalf of Heather <heather@weba.law>
+  Sent: Wednesday, April 29, 2026 3:28 PM
+  To: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org>
+  Subject: [HTF] Appealing termination of a voucher
+
+  Caution: This is an external email. Please take care when clicking links or opening attachments.
+
+  Hello,
+  I have a client who I believe had a VASH Voucher that was terminated, but I don't have documentation regarding the termination. Does anyone have experience with/information on any of the following:
+  - getting documentation on voucher termination
+  - appealing a termination in these circumstances
+  - appealing VASH Voucher terminations generally
+
+  Thanks in advance - any suggestions are welcome!
+
+  --
+  Heather Malcolm, Staff Attorney
+
+  Washington Employment Benefits Advocates
+
+  (Pronouns: she/her/hers)
+:END:

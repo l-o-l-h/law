@@ -1,0 +1,205 @@
+#+title:      Enforcement of CR2A Settlement Agreement
+#+date:       [2026-03-03 Tue 11:59]
+#+filetags:   :agreement:cr2a:enforcement:
+#+identifier: 20260303T115931
+#+signature:  law
+
+* Motion to Enforce a Settlement
+
+“Where  the  CR  2A  requirements  are met,  a  motion  to  enforce  a
+settlement is  a commonly  accepted practice.”
+- _Condon v.  Condon_, 177 Wn.2d 150,  157, 298  P.3d 86  (2013).
+
+The party moving  to enforce a settlement agreement has  the burden of
+proving that no genuine dispute exists over the existence and material
+terms  of the  agreement.
+- _Brinkerhoff  v. Campbell_,  99 Wn.  App. 692, 696-97,  994 P.2d  911 (2000)
+- (citing _In  re Marriage  of Ferree_,  71 Wash.App. 35, 41, 856 P.2d 706  (1993)).
+
+If  a  dispute  of  material  fact exists,  the  court  must  hold  an
+evidentiary hearing.
+- Id.
+
+
+Generally, the _Marriage of Ferree_ opinion  seems to be the basis for a
+lot of the litigation about CR 2A  agreements. So, if you need to find
+some nuance of this  body of law, I’d look for  cases that cite Ferree
+and then search within that universe.
+
+
+If the agreement does not satisfy  the requirements of CR 2A, then the
+agreement is  just a  contract that  must be  enforced like  any other
+contract.
+
+
+* What are the differences betweeen a CR2A and "just a contract"?
+
+Under Washington law, the primary substantive difference between a *CR
+2A agreement*  and a *regular  contract* lies in the:
+- *evidentiary* and *procedural* requirements
+- for *enforceability*
+- rather than the underlying legal theory.
+
+Washington courts have  long held that "standard  contract law governs
+whether the parties  have reached a settlement"
+- (*Stottlemyre v. Reed*, 1983).
+
+However,  CR  2A  imposes  a  "statute  of  frauds"  type  of  overlay
+specifically for agreements made during litigation.
+
+** 1. Evidentiary Thresholds
+
+A regular contract  can often be proven through a  combination of oral
+testimony,  course  of  conduct,  and partial  performance.  A  CR  2A
+agreement, however, is strictly limited  by *Superior Court Civil Rule
+2A*.
+
+*** *The "Writing or Record" Requirement
+
+A court will  not recognize a settlement agreement if  its "purport is
+disputed" unless it is:
+  1. *In  writing* and signed by  the party (or their  attorney) against
+     whom it is being enforced; OR
+  2. *Made in open court* and assented to on the record.
+
+
+*** *Purpose:*
+
+The rule is designed to prevent "swearing contests" (he-said/she-said)
+regarding the  existence or terms  of a settlement reached  during the
+heat of litigation or mediation.
+
+** 2. Enforcement Procedure
+
+The way you "sue" on these documents differs significantly.
+
+| Feature            | Regular Contract                                                         | CR 2A Agreement                                                                                  |
+|--------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------|
+| Action Required    | Typically requires filing a new lawsuit for breach of contract.          | Can be enforced via motion practice within the existing lawsuit.                                 |
+|                    |                                                                          |                                                                                                  |
+| Standard of Review | Summary judgment standard (de novo) if no material facts are in dispute. | Reviewed de novo;                                                                                |
+|                    |                                                                          | if the terms are disputed, the court must hold an evidentiary hearing (_Brinkerhoff v. Campbell_). |
+|                    |                                                                          |                                                                                                  |
+| Remedy             | Damages or specific performance.                                         | Can be converted directly into a court order or judgment in the pending cause.                   |
+|                    |                                                                          |                                                                                                  |
+|--------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------|
+
+** 3. Scope of Subject Matter
+
+- *Regular Contracts ::*
+  - Can cover almost any legal subject matter.
+
+- *CR 2A Agreements ::*
+  - Limited to  "proceedings in a cause."  Furthermore, parties cannot
+    use a CR 2A to strip a court of its mandatory statutory duties.
+
+- *Example ::*
+  - In  family law,  a  CR  2A cannot  permanently  waive the  court’s
+    authority to modify a parenting  plan based on the "best interests
+    of the child" standard (*In re Marriage of Thomsen*).
+
+** 4. Attorney Authority
+
+Under **RCW 2.44.010**, an attorney  has specific statutory authority to
+bind  a client  to  a CR  2A  agreement.  While an  agent  can bind  a
+principal in regular  contract law, the signature of an  attorney on a
+CR 2A is uniquely powerful and often harder to rescind by claiming the
+attorney lacked  "actual authority" compared to  a standard commercial
+agent.
+
+---
+
+** Summary
+
+- Super Contract  :: A  CR 2A  agreement *is*  a contract,  but it  is a
+  "super-contract" for litigation purposes.
+
+- Strict     ::    It   is   subject  to   stricter  formation   rules
+  (writing/record) but  benefits from streamlined  enforcement (motion
+  vs. new lawsuit).
+
+- Hard  to Set  Aside ::  In Washington,  while CR  2A agreements  are
+  governed by standard contract law, they are much harder to set aside
+  once the  procedural requirements  of the  rule are  met. Washington
+  courts strongly  favor the finality  of these agreements  to prevent
+  "secondary litigation" over the settlement itself.
+
+The  following precedents  and  principles are  central to  challenges
+based on mutual mistake or duress:
+
+** Vacating a CR 2A Agreement
+
+1. Was there a writing or record of the agreement?
+2. Is there a genuine dispute over the material terms? (_Ferree_)
+3. Does a common law  defense exist by clear and convincing evidence?
+   - mistake
+   - fraud
+   - duress/coercion
+
+*** Mutual Mistake
+
+To set  aside a CR 2A  agreement for mutual mistake,  the moving party
+faces a high evidentiary bar.
+
+- The  Standard ::  You must  prove by  clear, cogent,  and convincing
+  evidence that  both parties were  mistaken about a  basic assumption
+  upon  which the  contract  was made,  and that  this  mistake had  a
+  material effect on the agreed exchange (_Pepper v. Evanson_, 1967).
+
+- The "Independent Knowledge" Rule :: If one party relies on their own
+  diagnosis or investigation (e.g., their own expert's valuation of an
+  asset), the mistake is often deemed unilateral rather than mutual. A
+  unilateral  mistake  is  generally  insufficient to  void  a  CR  2A
+  agreement unless there  is evidence of fraud  or inequitable conduct
+  by the other side (_Beaver v. Estate of Harris_, 1965).
+
+- Newly Discovered Evidence  :: In recent cases like  _Thetford v. Brim_
+  (2025), the  Court of Appeals clarified  that while CR 60(b)  can be
+  used to  vacate an order approving  a CR 2A agreement,  the evidence
+  must be  truly "newly  discovered" and  not merely  information that
+  could have been found with due diligence before signing.
+
+
+**** Standard
+
+- Burden of Proof :: Clear, cogent, convincing
+- Key Precedent :: _Pepper v. Evanson_
+
+*** Duress and Coercion
+
+Duress is frequently alleged but rarely successful in the context of a
+CR 2A agreement signed during mediation.
+
+- The "Independent Agency" Test ::  Duress requires a showing that the
+  person was "bereft of the quality of mind essential to the making of
+  a contract" (In re Marriage of Ferree, 1993).
+
+- Mediation   Pressure  vs.   Legal   Duress   ::  Washington   courts
+  consistently  rule that  the natural  "stress" of  a long  mediation
+  session or the "pressure" from one’s own attorney to settle does not
+  constitute legal duress.
+
+- Example Case :: In _In re Marriage of Tsane_ (2021), a party argued he
+  was "bullied" into signing by  the mediator and attorneys. The court
+  rejected this,  noting that when  a party is represented  by counsel
+  and has  time to  review the  document, the  "duress" bar  is nearly
+  impossible to  meet without  evidence of  actual illegal  threats or
+  physical confinement.
+
+
+**** Standard
+
+- Burden of Proof :: Clear, cogent, convincing
+- Key Precedent :: _In re Marriage of Ferree_
+
+*** Other Defenses
+
+**** Unconscionability
+
+- Burden of Proof :: Clear, cogent, convincing
+- Key Precedent :: _In re Marriage of Matson_
+
+**** Fraud
+
+- Burden of Proof :: 9 Elements of Fraud
+- Key Precedent :: _Stottlemyre v. Reed_

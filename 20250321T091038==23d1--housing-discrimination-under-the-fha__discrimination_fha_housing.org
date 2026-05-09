@@ -9,3 +9,15 @@ https://web.archive.org/web/20250101150011/https://www.hud.gov/program_offices/f
 
 * Examples of Housing Discrimination
 https://web.archive.org/web/20241226075155/https://www.hud.gov/program_offices/fair_housing_equal_opp/examples_housing_discrimination
+
+* TODO HTF Raising Fair Housing Claims in an Eviction: Disability Discrimination
+SCHEDULED: <2026-04-06 Mon 09:30>
+:PROPERTIES:
+:UPLOADED: Uploaded on Apr 1, 2025 at 2:39 pm
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2026-03-16 Mon 11:12] \\
+  Watch the training video.
+:END:
+
+[[https://vimeo.com/1071580203?autoplay=1&muted=1&stream_id=Y2xpcHN8NDY3ODE4M3xpZDpkZXNjfFtd][Vimeo Link to Training Video]]

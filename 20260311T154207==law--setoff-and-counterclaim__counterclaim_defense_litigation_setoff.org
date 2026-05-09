@@ -1,0 +1,30 @@
+#+title:      Setoff and Counterclaim
+#+date:       [2026-03-11 Wed 15:42]
+#+filetags:   :counterclaim:defense:litigation:setoff:
+#+identifier: 20260311T154207
+#+signature:  law
+
+* Set-Off and Counterclaim | Key Number Topics 352 k 59 | Right to Judgment for Excess Over Plaintiff's Cause of Action
+
+Under Rem. & Bal.Code,  § 265, a defendant in an action  on a chose in
+action by  an assignee thereof held  entitled to avail himself  of any
+defenses he has  against assignor but the defense will  not support an
+affirmative judgment.
+- _State v. Superior Court for King Cnty._, 67 Wash. 355, 121 P. 847 (1912)
+
+
+** Will Not Support an Affirmative Judgment
+
+2  In such  cases, however,  the defendant  may avail  himself of  any
+defense or set-off **848 existing against the assignor at the time the
+assignment was made. Rem. & Bal. Code, § 265; 15 Enc. Pl. & Pr., 709.
+
+3   Such  defenses   will   not,  however,   support  an   affirmative
+judgment. They operate  only as a bar to the  present action. The same
+authority (Rem.  & Bal. Code,  § 191) which  sustains the right  of an
+assignee to  sue at  law in  his own name  also gives  the right  to a
+defendant to ‘set  forth by answer as many  defenses and counterclaims
+*357 as he may have, whether they  be such as may have heretofore been
+denominated legal, or equitable, or both.’ Rem. & Bal. Code, § 273.
+
+- _State v. Superior Court for King Cnty._, 67 Wash. 355, 356–57, 121 P. 847, 847–48 (1912)

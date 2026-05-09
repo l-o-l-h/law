@@ -1,0 +1,87 @@
+#+title:      Discussion about the Warranty of Habitability
+#+date:       [2026-02-18 Wed 08:56]
+#+filetags:   :habitability:warranty:
+#+identifier: 20260218T085646
+#+signature:  email
+
+* [HTF] Attorney Fees and Habitability
+:LOGBOOK:
+- Note taken on [2026-02-18 Wed 08:54] \\
+  Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+  8:29 AM (26 minutes ago)
+  to nmelhart@soundlegalaid.org, Housing
+
+  You’ve identified one of the reasons why the warranty of habitability is largely useless in Washington.
+
+  - BREACH OF WARRANTY OF HABITABILITY IS CLASSIFIED AS A SETOFF
+
+  *The doctrinal problem is that a breach of the warranty of habitability is classified as a setoff.*
+
+  Why? By what authority?
+
+  That terminology has been used, but it has not been explained. See, e.g., Pham v. Corbett, 187 Wn. App. 816, 826, 351 P.3d 214 (2015). The original opinion establishing the warranty of habitability as a defense to an unlawful detainer action did not classify a tenant’s assertion that the landlord had breached the warrant of habitability as a “counterclaim” or “setoff.” See, Foisy v. Wyman, 83 Wn.2d 22, 515 P.2d 160 (1973). The term “counterclaim” appears only in the dissents description of how the tenant characterized his own arguments. Id. at p. 36, Brachtenbach, J. (dissenting) (“In his answer, affirmative defense and counterclaim, the defendant alleged…”)
+
+  Washington courts have not considered any other theory.
+
+  - MUTUALLY DEPENDENT COVENANTS
+
+  Habitability and rent could be understood as *"mutually dependent covenants”* rather than as independent obligations that relate to each other only as setoffs.
+
+  The warranty of habitability was recognized because courts decided that residential leases should be viewed less as conveyances and more as contracts: “the application of contract principles, including the mutual dependency of covenants, is particularly appropriate in dealing with residential leases of urban dwelling units.” Green v. Superior Court, 10 Cal.3d 616, 624, 111 Cal.Rptr. 704, 517 P.2d 1168 (1974). This theory provides the doctrinal basis for other early opinions recognizing the warranty of habitability in Hawaii, New Jersey, the District of Columbia, and Massachusetts. See, Lemle v. Breeden, 462 P.2d 470, 51 Hawaii 426 (1969); Reste Realty Corp. v. Cooper, 53 N.J. 444, 251 A.2d 268 (1969); Javins v. First National Realty Corp., 428 F.2d 1071 (1970); and Boston Housing Authority v. Hemingway, 293 N.E.2d 831, 363 Mass. 184 (1973). The Lemle decision contains a thorough examination of the theory that leases are conveyances rather than contracts. In other words, once the landlord turns over the keys, the tenant is responsible for everything else.
+
+  - THE FOISY OPINION
+
+  *The Foisy opinion* quoted Lemle and Jarvis at length, but selectively. The Lemle opinion was quoted to support the proposition that residential leases resemble contracts. The Javins opinion was quoted to distinguish residential leases in urban areas from old timey agricultural leases. The discussions of mutually dependent covenants that appear in Lemle and Jarvis were omitted from Foisy.
+
+  Instead, *the Foisy opinion* cited an opinion from Illinois that adopted a different doctrinal basis for recognizing the warranty of habitability. See, Jack Spring, Inc. v. Little, 280 N.E.2d 208, 50 Ill. 2d 351 (1972). That opinion did not contemplate mutually dependent covenants. Instead, it relied upon “[t]he salutary trend toward determination of the rights and liabilities of litigants in one, rather than multiple proceedings[.]” Id. at p. 359. This analysis resembles the analysis adopted in the Pham v. Corbett opinion. Thus, a breach of the warranty of habitability was understood as affecting the rent owed.
+
+  Implicitly, this theory classified a breach of the warranty of habitability as merely a species of the defense of setoff against the element “default in the payment of rent.” It is legally, if not factually, identical to a defense of “the landlord did not give me credit for rent paid in advance.” For example, the landlord might claim a default in the payment of $1,000 of rent but the tenant could defeat the claim to possession by establishing that (a) a breach of the warranty of habitability had reduced the value of the property to $500 and (b) $500 extra had been paid (several months earlier). A tenant’s failure to establish that the sum of point (a) and point (b) exceeds $1,000 would entitle the landlord to regain possession (at least under Foisy, although RCW 59.18.057 implicates a different result).
+
+  This theory of a setoff differs from the theory adopted by courts that emphasized mutually dependent covenants. If the covenants are mutually dependent, one party’s breach of a covenant suspends but does not extinguish the other party’s obligation to fulfill the other convent. Under this theory, a tenant is not "in default in the payment of rent" when a landlord breaches the warranty of habitability even if some rent might be owed eventually because the obligation to pay rent was suspended by the landlord’s breach of the warranty of habitability. Thus, a court (or jury) must determine the amount that the tenant owes. The court’s determination of the amount owed lifts the suspension of the covenant to pay rent. Then, the tenant can either pay that amount and stay or get evicted. That procedure was adopted by courts in both DC (Javins, footnote 67) and in California. Other appellate opinions discussing mutually dependent covenants did not resolve unlawful detainer actions and, therefore, had no reason to analyze how to integrate the substantive arguments about the warranty of habitability into unlawful detainer procedures.
+
+  When deciding Foisy, Washington’s Supreme Court seemed to adopt the Illinois model more by accident than design, as if our Supreme Court grabbed the first book off the shelf instead of considering different options. Therefore, I think this model could be challenged (at least on appeal).
+
+  - FOISY OPINION SHOULD BE CHALLENGED
+
+  More generally, *the Foisy opinion can and should be challenged* because it provides only a weak basis for any of the conclusions in it. As one dissenting justice remarked: “However desirable the majority’s endorsement of the doctrine of implied warranty of habitability may be, this is not a proper case for its application.”
+
+  Factually, the Foisy case was a dispute with a prospective home buyer rather than a tenant according to testimony quoted in a dissent. The rental agreement was intended to cover the defendant’s occupancy while the defendant tried to repair the home and determine whether he wanted to finalize the purchase. In other words, the defendant rented the property because it was not habitable.
+
+  Legally, the primary dispute was whether an escalator clause raised the monthly rent from $50 to $75. When analyzing that facet of the dispute, the Foisy opinion treated dicta in Provident Mut. Life Ins. Co. v. Thrower, 155 Wash. 613, 285 P. 654 (1930) as holding and even acknowledged as much without explaining that leap in legal reasoning.
+
+  Thus, challenges to Foisy seem possible and strategically desirable even if no individual tenant should take the risk: why risk $5,000 in attorney’s fees to reduce the rent owed by $1,000? On the other hand, if a tenant must litigate a habitability defense, perhaps the theory of mutually dependent covenants should be advanced in lieu of acquiescing to the theory that it is just a set off.
+
+  Benjamin Ramm
+  Staff Attorney
+  Kitsap Legal Aid Services
+
+- Note taken on [2026-02-18 Wed 09:00] \\
+  On Feb 17, 2026, at 6:57 PM, Nicholas Melhart via groups.nwjustice.org <nmelhart=soundlegalaid.org@groups.nwjustice.org> wrote:
+
+  Hi folks,
+
+  This is an issue that our office runs into when advising clients on habitability setoffs in UDs. Forgive me if this has been brought up before.
+
+  Assuming there are no other defenses. The hypothetical is:
+  -Tenant owes $10,000 in back rent.
+  -Tenant raises claim for habitability setoffs and at trial the finder of fact determines that the tenant should be excused from $1,000 in rent based on the conditions of the property.
+  -The lease contains the common “prevailing party” language for the award of attorney fees in the lease.
+  -The court then enters a judgment for $9,000 plus an award of attorney fees for the $1,500 through show cause plus another $6,000+ (sometimes way more) for bringing the case to trial beyond the show cause stage.
+  -Tenant lacks the funds to reinstate even if all they have to pay is the $9,000.
+
+  While unfair, it seems to me that unless a tenant is confident that they can get the setoff to a significant level, it would often make no financial sense to raise habitability claims because the landlord would be the prevailing party. The tenant may achieve the moral victory of the court saying their rent should be offset by $1,000 because the landlord failed to live up to their end of the bargain, however for that privilege, they would wind up with a significantly higher judgment for fees than if they had not contested it at all.
+
+  My research has generally led to the “‘[A] prevailing party is generally one who receives a judgment in its favor.’” So arguing against fees permitted by contract seems to be a pretty big risk.
+
+  I certainly see the value in this for buying time, building leverage, maybe using CR68 etc. but especially for minor to moderate setoffs and those with challenging evidence that likely would require experts (mold), it seems like a not so great choice.
+
+  I wonder what folks thoughts are about this situation.
+
+  Thanks!
+
+  Nicholas Melhart
+  Staff Attorney
+  Sound Legal Aid
+  (360) 634-4141
+  www.soundlegalaid.org
+:END:

@@ -1,0 +1,45 @@
+#+title:      LIHTC 30-Day Notice Requirement
+#+date:       [2026-01-12 Mon 09:14]
+#+filetags:   :30day:caresact:federal:lihtc:notice:
+#+identifier: 20260112T091418
+#+signature:  email
+
+* Question Where 30-Day Notice Requirement is Found in Federal Law
+
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> on behalf of Melissa Derry via groups.nwjustice.org <mderry=cwlegalaid.org@groups.nwjustice.org>
+Sent: Sunday, January 11, 2026 2:01 PM
+To: Housing Task Force (HTF@groups.nwjustice.org) <HTF@groups.nwjustice.org>
+Subject: [HTF] Where in fed regs to find LIHTC notice requirements
+
+Hello All,
+
+I  received a  new case  recently with  Low-income housing  tax credit
+based lease.  I could have sworn  that there was a  30-day requirement
+for eviction  based on nonpayment  (CL received  14 day notice)  but I
+cant  find it  in  the CFR  or  the  USC… any  help  would be  greatly
+appreciated.
+
+Thanks !
+
+Melissa Derry (She/Hers)
+Eviction Defense Staff Attorney
+(509) 453-4400 ext. 102
+315 Holton Ave., Ste. 202
+Yakima, WA 98902
+https://cwlegalaid.org
+
+* Answer
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+8:49 AM (26 minutes ago)
+to Housing, mderry@cwlegalaid.org
+
+Melissa,
+
+Take a look  at the CARES Act, 15 U.S.C.  9058.  In subsection (a)(2),
+where covered properties  are defined, it refers to  the VAWA statute,
+34 U.S.C. 12491.  Tax credit properties are covered under VAWA, see 34
+U.S.C. 12491(a)(3)(J), and therefore also fall within the ambit of the
+CARES Act, which requires 30 days notice in nonpay cases.
+
+Chris

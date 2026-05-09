@@ -1,0 +1,86 @@
+#+title:      42 USC § 1983
+#+date:       [2026-02-05 Thu 09:42]
+#+filetags:   :civil:federal:rights:violations:
+#+identifier: 20260205T094233
+#+signature:  fed
+
+* 42 U.S Code § 1983 -- Civil Action for Deprivation of Right
+
+[[https://www.law.cornell.edu/uscode/text/42/1983][Code Site]]
+
+Every person who,  under color of any  statute, ordinance, regulation,
+custom,  or usage,  of  any  State or  Territory  or  the District  of
+Columbia,  subjects, or  causes to  be subjected,  any citizen  of the
+United States or  other person within the jurisdiction  thereof to the
+deprivation of  any rights, privileges,  or immunities secured  by the
+Constitution and  laws, shall  be liable  to the  party injured  in an
+action at law, suit in equity, or other proper proceeding for redress,
+except that  in any action brought  against a judicial officer  for an
+act or omission taken in  such officer’s judicial capacity, injunctive
+relief shall not  be granted unless a declaratory  decree was violated
+or  declaratory  relief was  unavailable.  For  the purposes  of  this
+section, any Act of Congress applicable exclusively to the District of
+Columbia  shall be  considered  to be  a statute  of  the District  of
+Columbia.
+
+(R.S. § 1979; Pub. L. 96–170, § 1, Dec. 29, 1979, 93 Stat. 1284; Pub. L. 104–317, title III, § 309(c), Oct. 19, 1996, 110 Stat. 3853.)
+
+** Overview
+
+42 U.S.C.  § 1983  is a  federal statute  allowing individuals  to sue
+state or local government officials for violating their constitutional
+rights while acting  "under color of law". Originally  passed in 1871,
+it  covers  violations like  excessive  force,  due process,  or  free
+speech,  enabling  victims to  seek  damages,  injunctive relief,  and
+attorney's fees.
+
+** Key details regarding 42 U.S.C. § 1983 include:
+
+- Requirements :: To succeed, a plaintiff must prove a person acting under state/local authority deprived them of rights secured by the U.S. Constitution or federal laws.
+
+- "Color of Law" :: This refers to actions taken while misusing power granted by the government.
+
+- Common Applications :: Frequently used in police misconduct cases (false arrest, excessive force), school, and municipal liability cases.
+
+- Limitations :: The law generally does not apply to federal officials (who are sued under a Bivens action) and is subject to defenses like qualified immunity.
+
+- Purpose :: It was designed to provide a remedy for rights violations, originally aimed at combating racial discrimination and protecting rights in the post-Civil War era.
+
+** What § 1983 Covers:
+
+- Constitutional Rights :: Violations of Fourth Amendment (search and seizure), First Amendment (free speech), and Fourteenth Amendment (due process/equal protection).
+
+- Statutory Rights :: Violations of certain federal laws.
+
+** Relief Available
+
+- Monetary Damages :: Compensation for injuries.
+
+- Injunctive Relief :: Court orders to stop certain actions.
+
+- Attorney's Fees :: Payment for legal representation.
+
+** What Is Needed for a Successful Lawsuit Under 42 USC § 1983?
+
+For a successful 42 U.S.C. §  1983 lawsuit, a plaintiff must prove two
+core elements:  (1) the  defendant acted "under  color of  state law,"
+meaning they misused  power granted by the state, and  (2) this action
+deprived the plaintiff  of a right, privilege, or  immunity secured by
+the U.S.  Constitution or  federal law,  not just  any wrong,  but one
+involving a constitutional or federal right.
+
+1. Action Under Color of State Law :: The defendant must be a state or
+   local government official,  or a private citizen  acting in concert
+   with state officials, who uses  their official authority to violate
+   rights.
+
+2. Deprivation of a Federal Right :: The conduct must have resulted in
+   the   loss  or   infringement   of  a   right   protected  by   the
+   U.S.  Constitution (like  free speech  or due  process) or  federal
+   statutes.
+
+* Thomson Reuters Practical Law Section 1983 Civil Action for Deprivation of Rights
+
+Expert written practice-guidance, forms and checklists to help you better handle civil rights lawsuits
+
+[[https://legal.thomsonreuters.com/en/c/practical-law/section-1983-toolkit?searchid=TRPPCSOL/Google/CoFundedLegalUS_PracticalLaw_Search_NonBrand_US/Section1983&chl=ppc&cid=6915705&sfdccampaignid=701PA00000Ynd7uYAB&ef_id=Cj0KCQiAnJHMBhDAARIsABr7b87qRu4LvssltrQkRxOFYWkv6vw5KXwtFc_UKPqCIJmVffncc6itXDIaApYfEALw_wcB:G:s&s_kwcid=AL!7944!3!593250269514!e!!g!!42%20usc%201983&gad_source=1&gad_campaignid=1680175436&gbraid=0AAAAADtqfReiodJG1Mf0_dpEysmpNFIFU&gclid=Cj0KCQiAnJHMBhDAARIsABr7b87qRu4LvssltrQkRxOFYWkv6vw5KXwtFc_UKPqCIJmVffncc6itXDIaApYfEALw_wcB][Site]]

@@ -1,0 +1,90 @@
+#+title:      Egbert v. Jorgensen No. 69448-5-II 2025-12-10 Bad Decision
+#+date:       [2026-01-05 Mon 09:25]
+#+filetags:   :right:rtc:trial:ud:
+#+identifier: 20260105T092534
+#+signature:  coa2=596997=0
+
+* Bad COA Decision
+
+Carrie Graf via groups.nwjustice.org <carrie.graf=nwjustice.org@groups.nwjustice.org>
+Attachments
+9:14 AM (11 minutes ago)
+to Housing
+
+Last month,  the Court  of Appeals issued  a bad,  published decision,
+Egbert v.  Jorgensen (attached)  holding that  a writ  can act  as the
+final  determination  of  possession  and   that  trial  is  only  for
+determinations of  things like amount  of rent owing or  offsets. This
+contradicts well-established  case law  that the  writ is  a temporary
+determination   of  possession   pending   a   trial/entry  of   final
+judgment. See  e.g. Webster v. Litz,  18 Wn. App.2d 248,  491 P.3d 171
+(2021).  The opinion  essentially allows the superior court  to make a
+final determination about possession even if there are material issues
+of fact about who has the ultimate right of possession.
+
+The  Court  also  suggested  that  retaliation  defenses  may  not  be
+available  when  the  unlawful  detainer  is  based  on  a  notice  to
+sell/intent   to  occupy.   This   also  is   out-of-step  with   case
+law. Faciszewski v. Brown, 187 Wn. 2d 308, P.3d 711 (2016).
+
+If you encounter  landlords trying to use Egbert to  argue that once a
+writ is ordered, no trial is available on the issue of possession, can
+you please let  me know? We have moved for  reconsideration, and if it
+seems like  Egbert is  causing troubles  in the  court room,  we could
+consider drafting a pocket brief if helpful.
+
+[[denote:20260105T092639][coa2  egbert-v-jorgensen-no-60448-5-ii-2025-12-10]]
+
+* Review by BM
+
+Ben Moody
+Attachments
+10:09 AM (40 minutes ago)
+to rob@ccvlp.org, me, amy@ccvlp.org, April, Cass, Sharon
+
+This is a Div 2 decision upholding the issuance of a writ without a trial on a claimed retaliation related to an owner move in notice.
+
+Here is my initial take:
+Holdings:
+
+1. Under 59.18.380 the court makes 2 determinations:
+
+o   1st: Does it “appear” the landlord is entitled to possession?
+
+    - Reviewed under abuse of discretion standard in Div 2.
+    - Does not require consideration of “substantial issue of material fact”.
+
+
+o   2nd: Is the landlord entitled to “other relief”?
+
+    - This is where the “substantial issue of material fact” comes in
+
+2. Trial court can determine if a retaliation defense is likely to succeed at Show Cause and issue writ without trial based on the “appears” standard. That leaves it pretty much fully to the court's discretion about what "appears" to be correct...
+
+o   The order should be limited to “essentially the right of immediate possession”
+
+I don’t know  why Carrie Graf say this  is a denial of the  right to a
+post writ trial  on the material issues, the Court  cites to Harmon on
+page 18, stating clearly that there  is a right to trial regardless of
+the issuance of the writ when  there are material factual issues. They
+also quote  the statute on pre-trial  bonds in footnote 5.  Maybe they
+requested it  and the court  denied it? The  opinion does not  seem to
+say.
+
+I disagree that this suggests there  is no retaliation defense in a 90
+day  notice  matter. They  said  that  the  issue of  retaliation  was
+disposed  of  by  the  court  , thus  the  landlord  was  entitled  to
+possession, so the remaining  issue of rent (a non-repair/habitability
+claim) goes to “other damages”. Since  the s were behind on rent, they
+did not  get the  presumption of  retaliation and  failed to  prove it
+sufficiently at  show cause.   This is  problematically circular  – if
+they had a trial on the rent issue and were found not to owe rent then
+the are entitled to a presumption retroactively? - but not a denial of
+the possible application of retaliation to a 90-day.
+
+Benjamin Moody (He/Him)
+Housing Programs Managing Attorney
+Clark County Volunteer Lawyers Program
+1104 Main Street, Suite 212
+Vancouver, WA 98660
+Office: 360-356-7872 Ext 202

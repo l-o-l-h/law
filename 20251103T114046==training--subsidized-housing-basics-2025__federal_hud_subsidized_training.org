@@ -50,3 +50,15 @@
   Practising Law Institute
   1177 Avenue of the Americas | New York, NY 10036
 :END:
+
+* TODO Understanding Subsidized Housing Programs For Unlawful Detainer Defense
+SCHEDULED: <2026-03-30 Mon 09:30>
+:PROPERTIES:
+:DATE:     Uploaded on Apr 1, 2025 at 3:15 pm
+:INSTRUCTOR: Scott Crane
+:END:
+:LOGBOOK:
+- State "TODO"       from              [2026-03-16 Mon 11:06] \\
+  Watch the training when I'm in the office.
+:END:
+[[https://vimeo.com/1071589542?autoplay=1&muted=1&stream_id=Y2xpcHN8NDY3ODE4M3xpZDpkZXNjfFtd][Vimeo Link to Training Video]]

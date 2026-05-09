@@ -1,0 +1,100 @@
+#+title:      Landlord and Tenant Legal Outline
+#+date:       [2026-03-11 Wed 09:55]
+#+filetags:   :landlord:laws:meta:rlta:tenant:ud:west:
+#+identifier: 20260311T095543
+#+signature:  outline
+
+
+
+* Landlord and Tenant | Key Number Topics 233 k 503  | Constitutional and statutory provisions
+
+RLTA is Statute in Derogation of the Common Law
+
+Residential Landlord-Tenant  Act (RLTA) is remedial  statute that must
+be construed liberally in order to accomplish the purpose for which it
+is enacted. Wash. Rev. Code Ann. § 59.18.010 et seq.
+- _Gebreseralse v. Columbia Debt Recovery_, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+
+
+As  a  statute  in  derogation  of the  common  law,  the  Residential
+Landlord-Tenant  Act (RLTA)  is  strictly construed  in  favor of  the
+tenant. Wash. Rev. Code Ann. § 59.18.010 et seq.
+- _Gebreseralse v. Columbia Debt Recovery_, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+
+* Landlord and Tenant | Key Number Topics 233 k 1404 | Duty to Return
+
+Under the Residential  Landlord-Tenant Act (RLTA), if  a tenant causes
+only ordinary wear  and tear to premises, the tenant  has not breached
+the tenant's duty under the lease,  and the tenant is entitled to full
+refund  of  his or  her  security  deposit.  Wash.  Rev. Code  Ann.  §
+59.18.260.
+- _Gebreseralse v. Columbia Debt Recovery_, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+
+
+
+Assignee of Landlord's Claims for Unpaid Balance Against Tenant
+- Debt collector was subject to both rights and defenses applicable to
+  landlord
+
+Debt collector,  as assignee of  landlord's claims for  unpaid balance
+against tenant who abandoned lease, was subject to both the rights and
+defenses  applicable  to  landlord,  and  thus,  tenant's  claim  that
+Residential Landlord-Tenant  Act (RLTA) barred forfeiture  of security
+deposit  under  terms of  lease  was  properly asserted  against  debt
+collector. Wash. Rev. Code Ann. §§ 4.08.080, 59.18.310.
+- Gebreseralse v. Columbia Debt Recovery, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+- see [[denote:20260311T150307][RCW 4.08.080]]
+
+* Landlord and Tenant | Key Number Topics 233 k 1406 | Cause to retain
+
+Landlord could  not seek remedy under  Residential Landlord-Tenant Act
+(RLTA) and also  retain security deposit as  nonrefundable under terms
+of lease that tenant abandoned, to  cover damages for the same breach;
+retained  security   deposit  amounted  to  a   double  recovery,  and
+forfeiture  of security  deposit  was unnecessary  to remedy  non-rent
+losses  due to  existence of  RLTA remedies.  Wash. Rev.  Code Ann.  §
+59.18.310(1)(b)(ii).
+- _Gebreseralse v. Columbia Debt Recovery_, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+
+  - Could security deposit be retained concurrently with remedy being sought under statute?
+  - No
+  - Material Facts
+    - Terms of lease that tenant abandoned allowed retention of security
+      deposit
+    - Retained security deposit amounted  to double recovery if landlord
+      sought  remedy   under  Residential  Landlord-Tenant   Act  (RLTA)
+      concurrently
+    - Forfeiture of security deposit  was unnecessary to remedy non-rent
+      losses due to existence of RLTA remedies
+
+* Landlord and Tenant | Key Number Topics 233 k 1597 | Damages
+
+A landlord  cannot pursue lost rent  and damages for abandonment  of a
+lease pursuant to remedy  provision of Residential Landlord-Tenant Act
+(RLTA),   in   addition   to   liquidated   damages   for   the   same
+losses. Wash. Rev. Code Ann. § 59.18.310(1)(b)(ii).
+- _Gebreseralse v. Columbia Debt Recovery_, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+
+* Landlord and Tenant | Key Number Topics 233 k 1599 | Costs and attorney fees
+
+Tenant was  entitled to reasonable  attorney fees as  prevailing party
+under terms  of residential  lease, on appeal  from district  court to
+superior court and on appeal from  superior court to Court of Appeals,
+in action that landlord's assignee  brought to collect unpaid balance,
+consisting largely of unpaid rent, after tenant abandoned lease, where
+issue on  appeal was validity  of lease provision  forfeiting tenant's
+security deposit upon abandonment of  lease, tenant prevailed in Court
+of  Appeals on  that issue,  and  Court of  Appeals reversed  superior
+court's    decision.    Wash.    Rev.   Code    Ann.    §    4.84.330;
+Wash. R. App. P. 18.1(a); Wash. RALJ 11.2(b).
+- _Gebreseralse v. Columbia Debt Recovery_, 24 Wn. App. 2d 650, 521 P.3d 221 (2022)
+
+  - Was tenant entitled to reasonable attorney fees as prevailing party?
+
+  - Yes
+
+  - Material Facts
+    - Issue  on  appeal was  validity  of  lease provision  forfeiting
+      tenant's security deposit upon abandonment of lease
+    - Tenant prevailed in Court of Appeals on that issue
+    - Court of Appeals reversed superior court's decision

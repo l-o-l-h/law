@@ -1,0 +1,13 @@
+#+title:      Action on Account
+#+date:       [2026-01-23 Fri 15:25]
+#+filetags:   :account:action:
+#+identifier: 20260123T152537
+#+signature:  west10=account
+
+* 10 Account, Action On
+
+** Open Accounts in General -- Keys 1-8
+
+** Verified Accounts -- Keys 9-15
+
+** Book Account or Book Debt -- Keys 16-25

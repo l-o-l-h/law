@@ -1,0 +1,639 @@
+#+title:      Landlord Breach of Warranty of Habitability and Constructive Eviction
+#+date:       [2026-04-09 Thu 10:53]
+#+filetags:   :breach:constructive:eviction:habitability:mold:rlta:
+#+identifier: 20260409T105359
+#+signature:  ai
+
+* Research question
+
+A landlord discovers that the bathroom structure of an apartment
+dwelling is severely damaged due to moisture and mold.  The damaged
+conditions were not caused or created by the tenant.  The landlord
+demands verbally only that the tenant must move out immediately and
+utilize its own renter's insurance policy to pay for the displacement
+while repairs are undertaken.  Has the landlord violated the RLTA by
+demanding the tenant move out without offering to pay for the
+displacement? Could this demand be considered constructive eviction by
+the landlord? What rights and remedies does the tenant have against
+such a demand?
+
+** Summary
+
+Under Washington's Residential Landlord-Tenant Act (RLTA), a landlord
+who discovers severe mold and moisture damage not caused by the tenant
+has a statutory duty to remedy the condition—not demand that the
+tenant bear the cost of displacement. The landlord's verbal-only
+demand that the tenant vacate immediately and use their own renter's
+insurance to cover displacement costs implicates multiple violations
+of the RLTA. Specifically: (1) the landlord has breached the implied
+warranty of habitability by allowing such conditions to exist without
+remedying them; (2) a verbal demand to vacate carries no legal weight
+under the RLTA, which strictly requires written notices and just-cause
+grounds for eviction; (3) shifting displacement costs to the tenant's
+renter's insurance is not authorized by the RLTA and, if a
+governmental condemnation order is issued, may violate RCW 59.18.085's
+mandatory relocation assistance obligations; and (4) the demand may
+constitute constructive eviction, provided the tenant actually vacates
+the premises. The tenant has significant statutory remedies, including
+the right to remain in possession, withhold or reduce rent, pursue
+repair-and-deduct, terminate the lease without further obligation, and
+sue for diminished rental value.
+
+** Landlord's Duties Under the RLTA and the Implied Warranty of Habitability
+
+Washington's RLTA codifies an implied warranty of habitability that
+obligates landlords to "at all times during the tenancy keep the
+premises fit for human habitation" WA ST 59.18.060. This general duty
+is reinforced by a series of specific obligations relevant to mold and
+moisture damage: the landlord must maintain structural
+components—including roofs, floors, walls, chimneys, foundations, and
+"all other structural components, in reasonably good repair so as to
+be usable"—keep the dwelling "in reasonably weathertight condition,"
+and maintain "all electrical, plumbing, heating, and other facilities
+and appliances supplied by him or her in reasonably good working
+order" WA ST 59.18.060. The landlord is also required to maintain the
+premises in substantial compliance with applicable building, housing,
+and health codes, and to provide tenants with information about the
+health hazards of indoor mold WA ST 59.18.060.
+
+Where the bathroom structure is severely damaged by moisture and mold,
+and that damage is not attributable to the tenant's conduct, the
+landlord is squarely within its statutory obligation to remedy the
+condition under RCW 59.18.060 WA ST 59.18.060. The RLTA expressly
+exempts the landlord from the duty to repair only "where the defective
+condition complained of was caused by the conduct of such tenant, his
+or her family, invitee, or other person acting under his or her
+control" WA ST 59.18.060. Because the facts state the damage was not
+caused by the tenant, no such exception applies.
+
+The Supreme Court of Washington has emphasized that the RLTA was
+enacted to "balance the bargaining positions between landlord and
+tenant in residential leasing—most notably by placing affirmative
+duties on the landlord, such as the warranty of habitability, and by
+treating many of the parties' obligations as interdependent" Silver
+v. Rudeen Management Company, Inc., 197 Wash.2d 535 (2021). The
+statutory framework places the burden of maintaining habitable
+conditions squarely on the landlord WA ST 59.18.060.
+
+** The Landlord's Verbal Demand Is Legally Ineffective and Potentially Violates the RLTA
+
+*** No Legally Valid Eviction Through Verbal Notice
+
+Under the RLTA, a landlord may not require a tenant to vacate without
+providing written notice that complies with the statute's specific
+requirements. RCW 59.18.650 limits a landlord to evicting a
+residential tenant based on an exclusive list of grounds and requires
+any eviction notice to "Identify the facts and circumstances known and
+available to the landlord at the time of the issuance of the notice
+that support the cause or causes with enough specificity so as to
+enable the tenant to respond and prepare a defense to any incidents
+alleged" WA ST 59.18.650. Courts have held that both the RLTA and the
+generalized unlawful detainer statutes are "strictly construed" in
+favor of tenants Egbert v. Jorgensen, 36 Wash.App.2d 1
+(2025). Critically, "[N]o landlord ... may ever use nonjudicial,
+self-help methods to remove a tenant" Gray v. Pierce County Housing
+Authority, 123 Wash.App. 744 (2004). A verbal demand to vacate—without
+a written, legally compliant notice—is a form of unauthorized
+self-help that carries no legal force under the RLTA and does not
+obligate the tenant to leave the premises
+
+*** Demanding the Tenant Use Renter's Insurance Contravenes the RLTA Framework
+
+The RLTA does not authorize a landlord to shift the cost of
+displacement to a tenant through the tenant's personal renter's
+insurance policy. The statutory framework places the burden of
+maintaining habitable conditions squarely on the landlord WA ST
+59.18.060. When repairs require temporary vacancy, the financial
+burden of displacement flows from the landlord's maintenance
+obligation.
+
+*** Relocation Assistance Obligations Under RCW 59.18.085
+
+The RLTA's mandatory relocation assistance provision, RCW 59.18.085,
+is triggered when "a governmental agency responsible for the
+enforcement of a building, housing, or other appropriate code has
+notified the landlord that a dwelling will be condemned or will be
+unlawful to occupy due to the existence of conditions that violate
+applicable codes, statutes, ordinances, or regulations," and the "a
+landlord, who knew or should have known of the existence of these
+conditions" WA ST 59.18.085. In that event, the landlord must pay
+relocation assistance equal to "the greater amount of two thousand
+dollars per dwelling unit or three times the monthly rent," and must
+return all prepaid deposits and rent WA ST 59.18.085. This payment
+must be made within seven days of the governmental agency's
+condemnation or displacement order WA ST 59.18.085.
+
+The Washington Court of Appeals confirmed in Pham v. Corbett, 187
+Wash.App. 816 (2015) that once a landlord receives such governmental
+notice, "there is no safe harbor for landlords...even if they are in
+the process of permitting," because imposing a cure period "would
+allow landlords to delay the process and continue to rent unlawful
+dwellings without penalty" Pham v. Corbett, 187 Wash.App. 816
+(2015). Importantly, however, the relocation assistance statute is not
+triggered by the landlord's own verbal demand—it requires a formal
+governmental notification of condemnation or unlawful occupancy status
+WA ST 59.18.085 Pham v. Corbett, 187 Wash.App. 816 (2015).
+
+If governmental authorities have not yet condemned or declared the
+property unlawful to occupy, the explicit relocation assistance
+obligations under RCW 59.18.085 have not yet arisen. Nevertheless, the
+landlord's verbal demand to vacate may independently constitute
+harassment or intimidation prohibited by the same statute, which bars
+a landlord from "Evict, harass, or intimidate tenants into vacating
+their units for the purpose of avoiding or diminishing application of
+this section" the relocation assistance provisions during any period
+of code violation WA ST 59.18.085. The demand that the tenant use
+their own insurance rather than accept landlord-funded relocation
+could be characterized as precisely such intimidation.
+
+** Can the Landlord's Demand Constitute Constructive Eviction?
+
+*** Elements of Constructive Eviction Under Washington Law
+
+Washington courts define constructive eviction as "an intentional or
+injurious interference by the landlord or those acting under his
+authority" that "deprives the tenant of the means or the power of
+beneficial enjoyment of the demised premises or any part thereof, or
+materially impairs, such beneficial enjoyment" Old City Hall LLC
+v. Pierce County AIDS Foundation, 181 Wash.App. 1 (2014) Myers
+v. Western Farmers Ass'n, 75 Wash.2d 133 (1969). The Washington
+Supreme Court articulated this standard in Coulos v. Desimone, 34
+Wash.2d 87, 208 P.2d 105 (1949), and applied it in Myers v. Western
+Farmers Ass'n, 75 Wash.2d 133 (1969), and the Court of Appeals applied
+it comprehensively in Old City Hall LLC v. Pierce County AIDS
+Foundation, 181 Wash.App. 1 (2014), where building conditions that had
+become "unsanitary, unbearable, unworkable, and unsafe" were found to
+constitute constructive eviction as a matter of law.
+
+*** Analysis of the Landlord's Demand
+
+A constructive eviction claim in this scenario rests on two potential
+bases: (1) the underlying mold and moisture conditions themselves, and
+(2) the landlord's verbal demand to vacate.
+
+Regarding the conditions: Severe bathroom structural damage caused by
+moisture and mold implicates structural components, plumbing systems,
+and sanitation—precisely the conditions that Washington's RLTA
+recognizes as substantially endangering or impairing the health or
+safety of a tenant under RCW 59.18.115 WA ST 59.18.115. Conditions of
+this severity, which the landlord has recognized are serious enough to
+require the tenant to relocate entirely during repairs, can materially
+impair the tenant's beneficial enjoyment of the premises.
+
+Regarding the verbal demand: The demand itself—particularly when
+delivered as an immediate, verbal ultimatum without notice, without
+offering to pay displacement costs, and directing the tenant to use
+their own insurance—may constitute an intentional or injurious
+interference with the tenant's possession.
+
+*** Critical Limitation: The Tenant Must Actually Vacate
+
+Additionally, the tenant must provide the landlord with notice of
+defective conditions and an opportunity to remedy them before claiming
+constructive eviction Pague v. Petroleum Products, Inc., 77 Wash.2d
+219 (1969). Abandoning the premises before providing such notice
+waives the constructive eviction defense Old City Hall LLC v. Pierce
+County AIDS Foundation, 181 Wash.App. 1 (2014).
+
+** Tenant Rights and Remedies
+
+*** Tenant's Right to Stay and Withhold Full Rent
+
+The tenant is not legally required to vacate simply because the
+landlord has verbally demanded it. The tenant may remain in possession
+and withhold rent in excess of the diminished rental value of the
+premises. Under RCW 59.18.110, a tenant "shall not be obligated to pay
+rent in excess of the diminished rental value of the premises until
+such defect or defects are corrected by the landlord" WA ST
+59.18.110. The court may determine the diminution in rental value and
+render judgment against the landlord for rent paid in excess of that
+value from the time of notice of the defect WA ST 59.18.110.
+
+*** Formal Notice and Repair Remedies
+
+The tenant must first give written notice to the landlord under RCW
+59.18.070, which requires the landlord to commence remedial action
+within: (1) twenty-four hours where the condition deprives the tenant
+of utilities or is imminently hazardous to life; (2) seventy-two hours
+where the condition deprives the tenant of use of a refrigerator,
+range and oven, or major plumbing fixture; or (3) ten days in all
+other cases WA ST 59.18.070. After proper notice and expiration of the
+applicable period, if the landlord fails to remedy the condition, the
+tenant has several options under the RLTA:
+
+**** Repair-and-Deduct
+
+Under RCW 59.18.100, the tenant has two repair-and-deduct options: (1)
+For repairs requiring licensed or registered persons (or responsible
+persons if no licensing required), the tenant may contract for repairs
+and deduct up to two months' rent per repair, with total deductions
+not exceeding two months' rent in any twelve-month period; or (2) For
+repairs not requiring licensed persons and costing no more than one
+month's rent, the tenant may perform the repair themselves and deduct
+up to one month's rent per repair, with total deductions not exceeding
+one month's rent in any twelve-month period WA ST 59.18.100.
+
+**** Lease Termination:
+
+Under RCW 59.18.090, the tenant may terminate the rental agreement and
+quit the premises upon written notice to the landlord "without further
+obligation under the rental agreement," and is entitled to a pro rata
+refund of prepaid rent and shall receive a full and specific statement
+of the basis for retaining any of the deposit together with any refund
+due in accordance with RCW 59.18.280 WA ST 59.18.090.
+
+**** Escrow of Rent:
+
+Under RCW 59.18.115, if the landlord's failures "substantially
+endangers or impairs the health or safety of a tenant"—including
+structural, plumbing, and sanitation defects directly exposing tenants
+to risk of illness or injury—the tenant may, after providing written
+notice and obtaining governmental certification, deposit rent into a
+court escrow account rather than paying the landlord WA ST 59.18.115
+
+**** Court Action for Damages:
+
+Under RCW 59.18.090, the tenant may bring an action in an appropriate
+court, or at arbitration if so agreed, for any remedy provided under
+the RLTA or otherwise provided by law WA ST 59.18.090.
+
+*** Anti-Retaliation Protection
+
+If the tenant takes any of the above actions—such as complaining to a
+government agency about the mold conditions or asserting their RLTA
+rights—and the landlord then takes adverse action within ninety days,
+RCW 59.18.250 creates a rebuttable presumption that the landlord's
+action is retaliatory WA ST 59.18.250. Retaliatory actions under RCW
+59.18.240 include eviction, increasing rent, reduction of services,
+and increasing the tenant's obligations, when such actions are
+intended primarily to retaliate against the tenant's good faith and
+lawful acts WA ST 59.18.240. This protection is particularly relevant
+where the landlord's verbal demand to vacate immediately follows the
+tenant's discovery of conditions that would support reporting to a
+housing or building code authority. A tenant who prevails on a
+retaliation claim is entitled to recover costs of suit and reasonable
+attorney's fees WA ST 59.18.250.
+
+*** Constructive Eviction Damages
+
+Should the tenant choose to vacate the premises in response to the
+intolerable conditions and the landlord's demand, the tenant may
+assert a constructive eviction claim, which prospectively releases the
+tenant from the obligation to pay rent upon vacation Old City Hall LLC
+v. Pierce County AIDS Foundation, 181 Wash.App. 1 (2014).
+
+** Practical Implications
+
+The tenant is in a significantly stronger legal position than the
+landlord's verbal demand suggests. The tenant has no obligation to
+comply with a verbal demand to vacate—it carries no legal force under
+the RLTA. The tenant should document the conditions through
+photographs, inspection reports, and written communications. The
+tenant's most important first step is to send written notice to the
+landlord under RCW 59.18.070 specifying the nature of the defective
+conditions. This notice triggers the landlord's obligation to begin
+repairs within the applicable period and also starts the clock for the
+tenant's remedies. If the conditions are severe enough to warrant
+governmental inspection, the tenant may contact local housing or
+building code authorities; a governmental finding of violation or
+condemnation would independently trigger the landlord's relocation
+assistance obligation under RCW 59.18.085. The tenant should be
+careful not to abandon the premises without first giving proper
+notice, as doing so could waive both the constructive eviction defense
+and remedies under the RLTA.
+
+** Recent Developments
+
+Washington courts have continued to reinforce tenant protections under
+the RLTA. In Egbert v. Jorgensen, 36 Wash.App.2d 1 (2025), decided in
+2025, the Court of Appeals reaffirmed that the RLTA is strictly
+construed in favor of tenants. In Kiemle & Hagood Company v. Daniels,
+26 Wash.App.2d 199 (2023), decided in 2023, the Court of Appeals,
+citing Gray v. Pierce County Housing Authority, noted that landlords
+are not authorized to engage in self-help evictions and held that
+eviction notices must be sufficiently particular to allow a tenant to
+respond and prepare a defense under RCW 59.18.650(6)(b). These
+decisions reflect the RLTA's consistent trajectory toward robust
+tenant protections, particularly against informal or procedurally
+defective attempts to remove tenants from their homes.
+
+** Related Issues
+
+- •	Whether the mold and moisture conditions meet the threshold for a governmental code violation or condemnation order that would trigger mandatory relocation assistance under RCW 59.18.085
+- •	Whether the landlord's verbal demand constitutes unlawful harassment or intimidation under RCW 59.18.085(d), especially if made to avoid or diminish relocation assistance obligations
+- •	Whether local municipal ordinances (such as Seattle's Just Cause Eviction Ordinance or similar codes in other Washington cities) impose additional protections or relocation assistance requirements beyond the state RLTA
+- •	Whether the tenant's renter's insurance policy contains subrogation rights that could allow the insurer to seek reimbursement from the landlord if the tenant is compelled to use the policy for landlord-caused displacement
+
+** Commentary on This Question
+
+Constructive eviction occurs when a landlord’s wrongful act or
+omission substantially interferes with a tenant's beneficial enjoyment
+of the leased premises, effectively depriving the tenant of possession
+and forcing them to vacate. Essential elements include that the
+landlord caused the uninhabitable condition, the tenant provided
+notice and allowed reasonable time to remedy, and the tenant abandoned
+the premises within a reasonable time thereafter. The landlord's
+intent is irrelevant; liability arises from conduct rendering the
+premises unusable, even without express eviction or physical
+exclusion. Partial constructive eviction applies when only a portion
+of the premises is uninhabitable, entitling the tenant to a partial
+rent abatement or other relief, though courts may still require
+payment of rent for the unaffected areas 70 AMJUR POF 3d 1, 43 AMJUR
+POF 3d 329, 213 AMJUR POF 3d 245.
+
+Mold and moisture-related damage can result in constructive eviction
+if they render parts of the premises uninhabitable, as courts have
+recognized the landlord's breach of implied warranty of habitability
+in such contexts when tenants provided notice and allowed reasonable
+time for repair. A tenant may terminate the lease and seek damages
+including rent abatement, repair costs, and possibly emotional
+distress damages. However, tenants bear the risk of proving the
+landlord’s responsibility and the severity of conditions. Demands by
+landlords for tenants to move immediately without offering relocation
+assistance may fall within a constructive eviction framework if done
+without proper remedies; tenants have counterclaims and defenses
+available under such circumstances 43 AMJUR POF 3d 329, 118 COA2d 327,
+42 AMJUR POF 2d 317.
+
+** Current Awareness
+
+1. 59.18.060. Landlord--Duties
+
+   Establishes landlord's comprehensive duties to maintain premises
+   fit for human habitation, including maintenance of structural
+   components, weathertight conditions, plumbing, and mold information
+   disclosure obligations
+
+   - Supporting section 1 of 4
+
+     ...The landlord will at all times during the tenancy keep the
+     premises fit for human habitation, and shall in particular: (3)
+     Keep any shared or common areas reasonably clean, sanitary, and
+     safe from defects increasing the hazards of fire or accident;...
+
+   - Supporting section 2 of 4
+
+     ...The landlord will at all times during the tenancy keep the
+     premises fit for human habitation, and shall in particular: (1)
+     Maintain the premises to substantially comply with any applicable
+     code, statute, ordinance, or regulation governing their
+     maintenance or operation, which the legislative body enacting the
+     applicable code, statute, ordinance or regulation could enforce
+     as to the premises rented if such condition endangers or impairs
+     the health or safety of the tenant; (2) Maintain the structural
+     components including, but not limited to, the
+
+   - Supporting section 3 of 4
+
+     ...(c) The written notice or checklist must be provided to new
+     tenants at the time the lease or rental agreement is signed; (13)
+     Provide tenants with information provided or approved by the
+     department of health about the health hazards associated with
+     exposure to indoor mold. Information may be provided in written
+     format individually to each tenant, or may be posted in a
+     visible, public location at the dwelling unit property.  The
+     information must detail how tenants can control mold growth in
+     their dwelling units to minimize the health risks associated
+
+   - Supporting section 4 of 4
+
+     ...No duty shall devolve upon the landlord to repair a defective
+     condition under this section, nor shall any defense or remedy be
+     available to the tenant under this chapter, where the defective
+     condition complained of was caused by the conduct of such tenant,
+     his or her family, invitee, or other person acting under his or
+     her control, or where a tenant unreasonably fails to allow the
+     landlord access to the property for purposes of repair....
+
+2. Silver v. Rudeen Management Company, Inc.
+
+   Supreme Court of Washington, EN BANC.   •   April 22, 2021   •   197 Wash.2d 535   •   484 P.3d 1251
+
+   - Summary
+
+     Holding that the purpose of the RLTA is to balance bargaining
+     positions by placing affirmative duties on landlords, including
+     the warranty of habitability, with parties' obligations treated
+     as interdependent
+
+   - Supporting section 1 of 1
+
+     ...Purpose of the Residential Landlord-Tenant Act (RLTA) is to
+     balance the bargaining positions between landlord and tenant in
+     residential leasing, most notably by placing affirmative duties
+     on the landlord, such as the warranty of habitability, and by
+     treating many of the parties' obligations as
+     interdependent. Wash. Rev. Code Ann. S 59.18.060....
+
+3. 59.18.650. Eviction of tenant, refusal to continue tenancy, end of periodic tenancy--Cause--Notice--Penalties (Effective until January 1, 2028)
+
+   - Summary
+
+     Specifying the exclusive grounds for eviction under the RLTA and
+     requiring eviction notices to be sufficiently particular and
+     certain
+
+4. Egbert v. Jorgensen
+
+   Court of Appeals of Washington, Division 2.   •   December 09, 2025   •   36 Wash.App.2d 1   •   580 P.3d 1002
+
+   - Summary
+
+     Holding that both the RLTA and unlawful detainer statutes are
+     strictly construed in favor of tenants
+
+   - Supporting section 1 of 1
+
+     ...ANALYSIS.I. Unlawful Detainer Procedure. Both the RLTA and the
+     "generalized unlawful detainer statutes" are "strictly construed"
+     in favor of tenants. Id. A landlord is limited to evicting a
+     tenant based on an exclusive list of grounds prescribed by the
+     RLTA. RCW 59.18.650(1)(a). Among the grounds for eviction, the
+     statute provides that a landlord may evict a tenant if the owner
+     intends to live at the premises. Specifically, the statute
+     provides:...
+
+5. Gray v. Pierce County Housing Authority
+
+   Court of Appeals of Washington, Division 2.   •   August 31, 2004   •   123 Wash.App. 744   •   97 P.3d 26
+
+   - Summary
+
+     Establishing that no landlord may ever use nonjudicial, self-help
+     methods to remove a tenant.
+
+ 6. .  59.18.085. Rental of condemned or unlawful dwelling--Tenant's remedies--Relocation assistance--Penalties
+WA ST 59.18.085
+
+AI document summary
+Providing that landlords must pay relocation assistance equal to the greater of $2,000 or three months' rent when a governmental agency notifies the landlord that a dwelling is condemned or unlawful to occupy; prohibiting landlords from evicting, harassing, or intimidating tenants to vacate during any period of governmental code violation notification
+Supporting section 1 of 4
+...(3)(a) If a governmental agency responsible for the enforcement of a building, housing, or other appropriate code has notified the landlord that a dwelling will be condemned or will be unlawful to occupy due to the existence of conditions that violate applicable codes, statutes, ordinances, or regulations, a landlord, who knew or should have known of the existence of these conditions, shall be required to pay relocation assistance to the displaced tenants except that:...
+
+Supporting section 2 of 4
+...(b) Relocation assistance provided to displaced tenants under this subsection shall be the greater amount of two thousand dollars per dwelling unit or three times the monthly rent. In addition to relocation assistance, the landlord shall be required to pay to the displaced tenants the entire amount of any deposit prepaid by the tenant and all prepaid rent....
+
+Supporting section 3 of 4
+...(c) The landlord shall pay relocation assistance and any prepaid deposit and prepaid rent to displaced tenants within seven days of the governmental agency sending notice of the condemnation, eviction, or displacement order to the landlord. The landlord shall pay relocation assistance and any prepaid deposit and prepaid rent either by making individual payments by certified check to displaced tenants or by providing a certified check to the governmental agency ordering condemnation, eviction, or displacement, for distribution to the displaced
+
+Supporting section 4 of 4
+...(d) During the period from the date that a governmental agency responsible for the enforcement of a building, housing, or other appropriate code first notifies the landlord of conditions that violate applicable codes, statutes, ordinances, or regulations to the time that relocation assistance payments are paid to eligible tenants, or the conditions leading to the notification are corrected, the landlord may not: (i) Evict, harass, or intimidate tenants into vacating their units for the purpose of avoiding or diminishing application of this section;
+
+7. .   Pham v. Corbett
+Court of Appeals of Washington, Division 1.   •   May 26, 2015   •   187 Wash.App. 816   •   351 P.3d 214
+
+AI document summary
+Holding that relocation assistance under RCW 59.18.085 is triggered upon governmental notification that a dwelling is unlawful to occupy; confirming there is no safe harbor or cure period for landlords once such notification is received
+Supporting section 1 of 1
+...¶ 34 We find that there is no safe harbor for landlords once they have been notified that the dwelling will be condemned or will be unlawful to occupy, even if they are in the process of permitting.7 The statute inherently requires notice before the violation is issued because it applies only to landlords who “knew or should have known” about the conditions. RCW 59.18.085(3)(a). There is no additional opportunity to cure and to impose one would allow landlords to delay the process and continue to rent unlawful dwellings without penalty....
+
+8. .  Old City Hall LLC v. Pierce County AIDS Foundation
+Court of Appeals of Washington, Division 2.   •   February 25, 2014   •   181 Wash.App. 1   •   329 P.3d 83
+
+AI document summary
+Holding that a landlord constructively evicted tenants by allowing conditions to become unsanitary, unbearable, unworkable, and unsafe; establishing that constructive eviction prospectively releases the tenant from rent obligation upon abandonment and that tenants who continually complain do not waive the defense
+Supporting section 1 of 5
+...¶ 13 A constructive eviction involves “ ‘an intentional or injurious interference by the landlord or those acting under his authority’ ” that “ ‘deprives the tenant of the means or the power of beneficial enjoyment of the demised premises or any part thereof, or materially impairs, such beneficial enjoyment.’ ” Aro Glass, 12 Wash.App. at 8, 528 P.2d 502 (quoting Myers v. W. Farmers Ass'n, 75 Wash.2d 133, 134–35, 449 P.2d 104 (1969))....
+
+Supporting section 2 of 5
+...Undisputed evidence in the record demonstrates that conditions in the building had become unsanitary, unbearable, unworkable, and unsafe....
+
+Supporting section 3 of 5
+...A constructive eviction prospectively releases the tenant from the obligation to pay rent, so long as the tenant abandons the leasehold in response to the constructive eviction Buerkli v. Alderwood Farms, 168 Wash. 330, 334–35, 11 P.2d 958 (1932).2 Where the suit concerns a commercial lease, “Washington ['s] courts have been quite ready to find constructive evictions in cases in which the landlord seriously interfered with the tenant's conduct of business on the premises.” 17 William B. Stoebuck & John W. Weaver, Washington Practice: Real Estate:
+
+Supporting section 4 of 5
+...A tenant may waive the right to raise the defense of constructive eviction in two ways; first, because the tenant must provide the landlord an opportunity to remedy any problems, a tenant waives the defense by terminating the lease before providing notice of defective conditions, and second, a tenant who acquiesces to the defective conditions by remaining in the leasehold without complaint also waives the defense....
+
+Supporting section 5 of 5
+...However, in Buerkli, 168 Wash. at 334–35, 11 P.2d 958, the court held, “In order to claim and assert a constructive eviction as a defense to an action for rent, the tenant must in fact vacate the premises.” The trial court recognized this by terminating the duty to pay rent on the dates that Gross and the Foundation moved out....
+
+9. .   Myers v. Western Farmers Ass'n
+Supreme Court of Washington, Department 1.   •   January 03, 1969   •   75 Wash.2d 133   •   449 P.2d 104
+
+AI document summary
+Defining constructive eviction as an intentional or injurious interference by the landlord that deprives the tenant of the means or power of beneficial enjoyment of the demised premises
+Supporting section 1 of 1
+..."Constructive eviction" occurs when there is an intentional or injurious interference by landlord or those acting under his authority which deprives tenant of means or power of beneficial enjoyment of demised premises or any part thereof, or materially impairs such beneficial enjoyment....
+
+10. .  59.18.115. Substandard and dangerous conditions--Notice to landlord--Government certification--Escrow account
+WA ST 59.18.115
+
+AI document summary
+Providing an extraordinary remedy allowing tenants to deposit rent into court escrow when a landlord fails to fulfill substantial obligations under RCW 59.18.060 that substantially endanger or impair tenant health or safety, including structural, plumbing, and sanitation defects
+
+11. .  Votiv, Inc. v. Bay Vista Owner LLC
+Court of Appeals of Washington, Division 1.   •   September 16, 2019   •   Not Reported in Pac. Rptr.   •   10 Wash.App.2d 1017
+
+AI document summary
+Confirming that abandonment of the premises is a necessary element of constructive eviction, and that a tenant who remains in possession cannot claim constructive eviction
+
+12. .   Pague v. Petroleum Products, Inc.
+Supreme Court of Washington, Department 2.   •   November 13, 1969   •   77 Wash.2d 219   •   461 P.2d 317
+
+AI document summary
+Holding that in order to claim constructive eviction, a vacating tenant must give the landlord notice of the condition complained of and an opportunity to remove or correct it
+
+13. .  59.18.110. Failure of landlord to carry out duties--Determination by court or arbitrator--Judgment against landlord for diminished rental value and repair costs--Enforcement of judgment--Reduction in rent under certain conditions
+WA ST 59.18.110
+
+AI document summary
+Providing that tenants are not obligated to pay rent in excess of the diminished rental value of the premises due to defective conditions; authorizing courts to render judgment for excess rent paid and authorize repair-and-deduct remedies
+Supporting section 1 of 2
+...(2) The tenant shall not be obligated to pay rent in excess of the diminished rental value of the premises until such defect or defects are corrected by the landlord or until the court or arbitrator determines otherwise....
+
+Supporting section 2 of 2
+...(1) If a court or an arbitrator determines that: (b) A reasonable time has passed for the landlord to remedy the defective condition following notice to the landlord in accordance with RCW 59.18.070 or such other time as may be allotted by the court or arbitrator; the court or arbitrator may determine the diminution in rental value of the premises due to the defective condition and shall render judgment against the landlord for the rent paid in excess of such diminished rental value from the time of notice of such defect to the time of decision
+
+14. .  59.18.070. Landlord--Failure to perform duties--Notice from tenant--Contents--Time limits for landlord's remedial action
+WA ST 59.18.070
+
+AI document summary
+Requiring the tenant to deliver written notice of defective conditions to the landlord, with the landlord's response time ranging from twenty-four hours (for emergencies) to ten days (for all other cases)
+Supporting section 1 of 1
+...If at any time during the tenancy the landlord fails to carry out the duties required by RCW 59.18.060 or by the rental agreement, the tenant may, in addition to pursuit of remedies otherwise provided him or her by law, deliver written notice to the person designated in *RCW 59.18.060(14), or to the person who collects the rent, which notice shall specify the premises involved, the name of the owner, if known, and the nature of the defective condition. The landlord shall commence remedial action after receipt of such notice by the tenant as
+
+15. .  59.18.100. Landlord's failure to carry out duties--Repairs effected by tenant--Procedure--Deduction of cost from rent--Limitations
+WA ST 59.18.100
+
+AI document summary
+Authorizing the repair-and-deduct remedy, permitting tenants after proper notice to contract for repairs and deduct costs from rent, with varying limits depending on whether licensed persons are required
+Supporting section 1 of 1
+...(3) If the landlord fails to carry out the duties imposed by RCW 59.18.060 within the applicable time period, and if the cost of repair does not exceed one month's rent, including the cost of materials and labor, which shall be computed at the prevailing rate in the community for the performance of such work, and if repair of the condition need not by law be performed only by licensed or registered persons, and if the tenant has given notice under RCW 59.18.070, although no estimate shall be necessary under this subsection, the tenant may repair
+
+16. .  59.18.090. Landlord's failure to remedy defective condition--Tenant's choice of actions
+WA ST 59.18.090
+
+AI document summary
+Providing that after proper notice and expiration of the applicable period without landlord remediation, the tenant may terminate the rental agreement and quit the premises without further obligation, bring a court action for any available remedy, or pursue other RLTA remedies
+Supporting section 1 of 2
+...If, after receipt of written notice, and expiration of the applicable period of time, as provided in RCW 59.18.070, the landlord fails to remedy the defective condition within a reasonable time the tenant may: (1) Terminate the rental agreement and quit the premises upon written notice to the landlord without further obligation under the rental agreement, in which case he or she shall be discharged from payment of rent for any period following the quitting date, and shall be entitled to a pro rata refund of any prepaid rent, and shall receive
+
+Supporting section 2 of 2
+...If, after receipt of written notice, and expiration of the applicable period of time, as provided in RCW 59.18.070, the landlord fails to remedy the defective condition within a reasonable time the tenant may: (2) Bring an action in an appropriate court, or at arbitration if so agreed, for any remedy provided under this chapter or otherwise provided by law; or...
+
+17. .  59.18.250. Reprisals or retaliatory actions by landlord--Presumptions--Rebuttal--Costs
+WA ST 59.18.250
+
+AI document summary
+Creating a rebuttable presumption of retaliation when the landlord takes adverse action within ninety days after a tenant's good-faith act, including complaints to governmental authorities; awarding attorney's fees to the prevailing party on retaliation claims
+Supporting section 1 of 1
+...Initiation by the landlord of any action listed in RCW 59.18.240 within ninety days after a good faith and lawful act by the tenant as enumerated in RCW 59.18.240, or within ninety days after any inspection or proceeding of a governmental agency resulting from such act, shall create a rebuttable presumption affecting the burden of proof, that the action is a reprisal or retaliatory action against the tenant: PROVIDED, That if at the time the landlord gives notice of termination of tenancy pursuant to chapter 59.12 RCW the tenant is in arrears
+
+18. .  59.18.240. Reprisals or retaliatory actions by landlord--Prohibited
+WA ST 59.18.240
+
+AI document summary
+Prohibiting landlords from taking or threatening retaliatory action—including eviction, rent increases, or reduction of services—against tenants who in good faith assert their RLTA rights or report conditions to governmental authorities
+Supporting section 1 of 1
+...So long as the tenant is in compliance with this chapter, the landlord shall not take or threaten to take reprisals or retaliatory action against the tenant because of any good faith and lawful: "Reprisal or retaliatory action" shall mean and include but not be limited to any of the following actions by the landlord when such actions are intended primarily to retaliate against a tenant because of the tenant's good faith and lawful act: (b) Increasing the rent required of the tenant;...
+
+19. .   Kiemle & Hagood Company v. Daniels
+Court of Appeals of Washington, Division 3.   •   April 27, 2023   •   26 Wash.App.2d 199   •   528 P.3d 834
+
+AI document summary
+Holding that eviction notices must identify facts with sufficient specificity to allow the tenant to respond and defend
+
+20. .  Proof of Tenant's Abandonment of Real Property Lease
+Out of plan
+
+American Jurisprudence Proof of Facts 3d   •   70 AMJUR POF 3d 1
+
+Supporting section 1 of 1
+...Constructive eviction occurs, "when the lessor, by wrongful conduct or by the omission of a duty placed upon him in the lease, substantially interferes with the lessee's beneficial enjoyment of the demised premises."[3] A constructive eviction occurs when "the tenant is not physically evicted or excluded—but … might as well be."[4] A tenant is constructively evicted and has a right to vacate leased premises when it is substantially deprived of the use and enjoyment of those premises due to acts chargeable to the landlord.[5]...
+
+21. .  Landlord's Liability for Breach of Implied Warranty of Habitability
+Out of plan
+
+American Jurisprudence Proof of Facts 3d   •   43 AMJUR POF 3d 329
+
+Supporting section 1 of 2
+...Where the landlord's wrongful, affirmative acts have rendered the premises untenantable, or there is a failure to correct such a situation in an area under the landlord's control, the tenant may vacate the premises and terminate his obligation to pay rent.[32] Constructive eviction does not require a finding that the landlord had the express intention to compel a tenant to leave the demised premises or to deprive him of their beneficial enjoyment. All that is necessary is that the landlord committed acts or omissions which rendered the leased
+
+Supporting section 2 of 2
+...Leased premises were rendered uninhabitable by landlord's failure to make necessary repairs in regard to water damage and presence of mold and mildew which made it impossible for tenant to use basement room as bedroom for his children, thus resulting in constructive eviction; subcontractor and real estate agent testified to presence of water damage, mold, and mildew, landlord conceded that he saw mildew in basement, and photographs of basement offered into evidence showed water damage, mold, and mildew, and tenant notified landlord of problems
+
+22. .  Proof of Partial Constructive Eviction
+Out of plan
+
+American Jurisprudence Proof of Facts 3d   •   213 AMJUR POF 3d 245
+
+Supporting section 1 of 1
+...It is important to note that, in such a scenario, it is not unusual for a court to find partial constructive eviction, but also find that the tenant owes the landlord money due to over-withholding rent during the partial constructive eviction period. This occurred, for example in Manhattan Mansions when the tenant began withholding rent in January 1990, but the court found, after reviewing the evidence, that partial constructive eviction did not occur until May 1990. In that case, although the tenant prevailed on its partial constructive eviction
+
+23. .  Cause of Action for Breach of Implied Warranty of Habitability in Residential Lease
+Out of plan
+
+Causes of Action Second Series   •   118 COA2d 327
+
+Supporting section 1 of 1
+...A finding that a former landlord breached the warranty of habitability was not clearly erroneous, in a former tenants' suit after the city turned off the electricity and heat to a rented premises due to electrical issues. The tenants notified the landlord of the electrical problems, the landlord knew of the problems at the beginning of the tenancy, the landlord refused to allow an electrician to go into the walls to correct the possible problems with the wiring. Finally, turning off the electricity and heat to the premises constructively evicted
+
+24..  Constructive Eviction by Conduct of Other Tenant
+Out of plan
+
+American Jurisprudence Proof of Facts 2d   •   42 AMJUR POF 2d 317
+
+Supporting section 1 of 1
+...The landlord's intent does not necessarily play a role in the determination whether a constructive eviction has occurred. If the landlord, after notice of an offending condition, was able to correct the condition but failed to do so, a constructive eviction will be found.[38] The same is true if a landlord promises to correct a situation, makes some attempt to remedy the problem, but is unsuccessful in doing so. If a tenant thereafter vacates within a reasonable time, a defense of constructive eviction will be upheld.[39]...
+
+25.

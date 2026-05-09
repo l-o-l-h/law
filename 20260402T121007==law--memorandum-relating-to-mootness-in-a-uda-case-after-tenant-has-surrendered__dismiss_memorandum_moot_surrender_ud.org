@@ -1,0 +1,68 @@
+#+title:      Memorandum Relating to Mootness in a UDA Case After Tenant Has Surrendered
+#+date:       [2026-04-02 Thu 12:10]
+#+filetags:   :dismiss:memorandum:moot:surrender:ud:
+#+identifier: 20260402T121007
+#+signature:  law
+
+* Email re Mootness Briefing
+
+
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+9:59 AM (2 hours ago)
+to Benjamin, Housing
+
+Ben,
+
+Below is my canned briefing on mootness when possession is no longer at issue.  I developed this briefing for situations where the tenant is in possession when the action is filed, but moves out before the SCH/trial.  Your situation is a bit different in that possession was no longer at issue, so I think you're correct in noting that LL should have used a regular 20 day summons, rather than a UDA summons.  So you should rework this briefing a bit to fit your situation, but I think there is probably a lot in this briefing you can use.
+
+I was also wondering whether the summons was personally served on your client, or through "post and mail" alternative service.  If so, you have another argument as to why a judgment should not have been entered.  Also, did they take a judgment for attorneys' fees?  If so, you can argue that was prohibited under RCW 59.18.290(3)(a).
+
+** Memo re Mootness
+
+Unlawful detainer actions are special summary proceedings to recover
+possession of leased property.  Hall v. Feigenbaum, 178 Wn.App. 811,
+818, 319 P.3d 61 (2014).  They were created in derogation of the
+common law to provide landlords a quicker avenue to recover possession
+rather than bringing a lengthy and expensive civil action for
+ejectment.  Housing Authority of City of Everett v. Terry, 114 Wn.2d
+558, 563, 789 P.2d 745 (1990).  In MacRae v. Way, the Supreme Court of
+Washington explained the summary nature of the proceedings, and
+defined the limits of the superior court’s jurisdiction, as follows:
+
+"The principal subject matter of the action is the possession of the
+subject property…  In such proceedings the superior court sits as a
+special statutory tribunal, limited to deciding the primary issue of
+right to possession together with the statutorily designated incidents
+thereto, i.e., restitution and rent or damages.  It does not sit as a
+court of general jurisdiction."
+
+64 Wn.2d 544, 546, 392 P.2d 827 (1964).  Indeed, "[i]n such an action
+there is only one issue before the court—the right to possession."
+Kessler v. Nielsen, 3 Wn.App. 120, 123, 472 P.2d 616 (1970).  "The
+statutory incidents are dependent on this right."  Id.  "Rent or
+damages may only be recovered under the statute when there is a right
+to possession."  Id.  "When this right is not present, the damages or
+rent must be recovered in an ordinary civil action."  Id. at 123-24.
+
+In Munden v. Hazelrigg, the Supreme Court of Washington—following the
+reasoning of the California courts—set forth the following rule:
+"Where the right to possession ceases to be at issue at any time
+between the commencement of an unlawful detainer action and trial of
+that action, the proceeding may be converted into an ordinary civil
+suit for damages, and the parties may then properly assert any cross
+claims, counterclaims, and affirmative defenses."  105 Wn.2d 39,
+45-46, 711 P.2d 295 (1985).
+
+In this case, the primary issue of right to possession of the premises
+is moot.  [Insert facts] [Example: Defendant has vacated the premises,
+has no intention of returning, and is no longer asserting a right to
+possession of the premises.  Declaration of [Defendant].]  "A case is
+technically moot if the court cannot provide the basic relief sought,
+or can no longer provide effective relief."  Josephinium Associates
+v. Kahli, 111 Wn.App. 617, 622, 45 P.3d 627 (2002), quoting Snohomish
+County v. State, 69 Wn.App. 655, 660, 850 P.2d 546 (1993).  "Mootness
+is a jurisdictional concern and may be raised at any time."  State
+v. Deskins, 180 Wn.2d 68, 80, 322 P.3d 780 (2014).  Accordingly, it is
+respectfully requested that the Court dismiss this action as to
+Defendant since he has vacated the premises, and possession is no
+longer at issue.

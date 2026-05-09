@@ -1,0 +1,486 @@
+#+title:      Assignments
+#+date:       [2026-01-29 Thu 10:11]
+#+filetags:   :law:research:
+#+identifier: 20260129T101116
+#+signature:  west38=assignments
+
+* Topic 38 -- Assignments
+
+** I. Property,Estates, and Rights Assignable -- k1-k30
+
+*** k1 Nature of Right to Assign
+
+**** Federal Financial Co. v. Gerard -- Court of Appeals of Washington, Division 1. (January 12, 1998). 90 Wash.App. 169; 949 P.2d 412
+
+WA Common Law Respecting Assignability of Contract Rights
+
+*Assignments 38k17 Executory Contracts*
+- Generally, contract rights are  freely assignable, unless assignment
+  is forbidden  by statute or  rendered ineffective for  public policy
+  reasons.
+
+*Assignments 38k90 Nature and extent of rights of assignee in general*
+- Assignee of  contract steps into shoes  of assignor, and has  all of
+  the rights of assignor.
+
+
+*Assignments  38k90 Nature and extent of rights of assignee in general*
+- Rights  that  contract  assignee  acquires include  not  only  those
+  identified in contract, but any applicable statutory rights.
+
+
+*Assignments 38k1 Nature of right to assign*
+- Rights that are personal to assignor are incapable of assignment.
+
+Our  conclusion  is  also  consistent  with  Washington's  _common  law
+respecting assignability  of contract  rights_. Generally,  such rights
+may  be  freely  assigned  unless forbidden  by  statute  or  rendered
+ineffective for  public policy  reasons.
+- 15  /International Commercial  Collectors,  Inc.  v.   Mazel Co./,  48
+  Wash.App.   712, 716–17,  740  P.2d 363  (1987) (citing  Restatement
+  (Second) of Contracts § 317 (1979)).
+
+An _assignee of  a contract_ “steps into the shoes  of the assignor, and
+has all  of the  rights of  the assignor.”
+- 16 /Estate of  Jordan v. Hartford Accident & Indem.  Co./, 120 Wash.2d
+  490, 495, 844 P.2d 403 (1993).
+
+And the assigned rights include not **416 only those identified in the
+contract, but also applicable statutory rights.
+- 17 /Puget Sound Nat'l Bank v. Department of Revenue/, 123 Wash.2d 284,
+  292–93, 868 P.2d 127 (1994).
+
+
+Washington  case  law recognizes  the  existence  of rights  that  are
+personal to the assignor and incapable of assignment.
+- 18
+  - /Hesselgrave  v. Mott/,  23 Wash.2d  270, 280,  160 P.2d  521 (1945)
+    (_contract  to support  another person_  cannot be  assigned without
+    consent of that person);
+  - /Gillam v.   City of Centralia/, 14  Wash.2d 523, 530, 128  P.2d 661
+    (1942) (right  to _damages  for injury to  property_ is  personal to
+    owner  and will  not pass  with deed  unless expressly  conveyed),
+    overruled on  other grounds by  Ackerman v.  Port of  Seattle, 329
+    P.2d 210 (Wash.1958);
+  - /Heian v. Fischer/, 189 Wash. 59, 63, 63 P.2d 518 (1937) (action for
+    _damages for fraud_ can be brought  only by party to whom fraudulent
+    representations made).
+
+
+But no Washington  case explicitly defines the nature of  a right that
+is personal and hence, not assignable.
+
+The Supreme  Court of  Texas, in addressing  the applicability  of the
+FIRREA  limitations period  to  assignees of  the  FDIC, stated  that,
+“although  relating  to  the   property  assigned,
+
+     _[personal rights]_ constitute accrued causes of action that may be
+     asserted independently  of ownership  of the property.   ”
+     - 19
+       - /Jackson v. Thweatt/, 883 S.W.2d 171, 176 (Tex.1994) (italics ours)
+         - (citing Breidecker  ex rel. Cohn  v. General Chem.  Co., 47
+           F.2d  52   (7th  Cir.1931)  (conveyance  of   land  not  an
+           assignment  of grantor's  action  for  damages for  damages
+           previously sustained for trespass upon that land) and
+         - /Huston  v. Ohio  &  Colorado Smelting  &  Refining Co./,  63
+           Colo. 152,  165 P.  251 (1917) (assignee  of stock  did not
+           receive assignor's action for  fraud in connection with the
+           stock's purchase)).
+
+     That court  concluded that the extended  limitations period under
+     FIRREA is  not a personal  right, because it “confers  no benefit
+     independent of  the asset  to which it  relates.”
+     - 20
+       - /Thweatt/,  883  S.W.2d  at 176.
+       - See also /Bruin Holdings, Inc. v. Moderski/, 960 F.Supp. 62, 67
+         (M.D.Pa.1996) (same).
+
+
+We agree and apply the same rationale to this case.
+
+We do not find it persuasive to characterize the right as personal and
+decline to  adopt WAMCO. Because the  FDIC's ability to seek  a remedy
+within  the  FIRREA  limitations  period is  integrally  tied  to  its
+possession of  the instrument, it  is among the “rights,  remedies and
+benefits which  are incidental to the  thing assigned” and not  only a
+right “personal to the assignor and for [its] benefit only.”
+- 27 /WAMCO/, 856 F.Supp. at 1086 (italics and citations omitted).
+
+
+As we  stated above, under our  common law, an assignee  stands in the
+shoes of the assignor.  We now consider in more detail the question of
+the scope and types of rights that pass with assignment.
+
+In  Puget  Sound  Nat'l  Bank,31 our  Supreme  Court  considered  this
+question. After stating the  general principle that assignment carries
+with  it  both  those  rights  identified *182  in  the  contract  and
+applicable statutory rights and citing  a number of cases illustrating
+that rule, the court stated:
+- 31 123 Wash.2d at 292.
+
+  These cases support  the conclusion that an  assignment carries with
+  it  the  rights  and  liabilities  as  identified  in  the  assigned
+  contract,   but   also   all   applicable   statutory   rights   and
+  liabilities. To  hold otherwise would  be contrary to the  rule that
+  the assignee  acquires whatever rights the  assignor possessed prior
+  to the assignment.
+  - 32 Puget Sound Nat'l Bank, 123 Wash.2d at 292–93.
+
+
+Accordingly, the  court concluded  that the assignment  of installment
+sales contracts  carried with it  the right to  a sales tax  refund to
+which the assignor  would have been statutorily  entitled.33 The court
+went on to state the policy reasons for its holding:
+- 33 Id. at 293.
+
+  This rule is critical because whether a commercial paper transaction
+  involves  a borrowing  or purchase,  the lender  or buyer  must have
+  confidence that  the law is clear  as to the rights  and liabilities
+  involved. Uncertainty as  to the attributes of  assignment, as would
+  be  created  under the  dissent's  analysis,  would inhibit  certain
+  routine  commercial  lending  transactions  and  increase  costs  to
+  borrowers and  sellers of commercial  paper until settled  by future
+  litigation.
+  - 34 Id. at 293 (emphasis added).
+
+
+Our  courts  have consistently  held  that  _an assignee's  rights  are
+coextensive with those of the assignor_ _at the time of assignment_.
+
+- Accordingly,  where  a bankruptcy  trustee  assigned  it's cause  of
+  action under a  fidelity bond, the assignee was entitled  to bring a
+  direct claim against the bond-issuing insurance company.
+  - 35 /Estate of Jordan/, 120 Wash.2d at 495.
+
+- In another case, this court found  that the assignee of an insured's
+  malpractice claim  against an insurance  broker was entitled  to sue
+  for negligence  in spite of  the fact  that the assignor  later *183
+  entered  into  a covenant  not  to  sue  with insurer.36
+  - 36 /Steinmetz v. Hall-Conway-Jackson,  Inc./, 49 Wash.App. 223, 227,
+    741 P.2d 1054 (1987), review denied, 110 Wash.2d 1006 (1988).
+
+  The  court  emphasized  that  the   assignee  receives  all  of  the
+  assignor's rights as  of the time of  assignment; subsequent actions
+  by the assignor do not affect those rights.
+
+
+Regarding the  _availability of  defenses_, this  court has  also stated
+that the  assignee takes the  assignment subject to any  defenses that
+could have been asserted against the assignor.
+- 37 /Pacific  N.W. Life Ins. Co.  v. Turnbull/, 51 Wash.App.  692, 700,
+  754 P.2d 1262, review denied, 111 Wash.2d 1014 (1988).
+
+
+Our holding here is  completely consistent with _these well-established
+common-law principles_.
+
+The common law of assignments that  the assignee “stands in the shoes”
+of the assignor;
+- 40 See, e.g., /Bledsoe/, 989  F.2d at 810 (citing _Restatement (Second)
+  of Contracts § 336_ (1979)).
+
+**** Glasford v. Baker -- Supreme Court of the Territory of Washington. (December 1, 1867). 1 Wash.Terr. 224; 1867 WL 1683
+
+***** Facts
+
+In a  written agreement, Cain agreed  to permit Roberts to  take water
+from a  creek on  Cain's land to  run a mill.   The agreement  was not
+recorded.
+
+Two years  later Cain sold the  land to Baker by  warranty deed, which
+did not mention or reserve the water rights.
+
+Roberts than  sold the mill to  the PLs and then,  by quit-claim deed,
+sold to PLs  all right which he  had to the contract  for water rights
+with Cain.
+
+PLs instituted  suit against Cain and  Baker to compel them  to make a
+legal  conveyance,  alleging  that  Baker  purchased  from  Cain  with
+knowledge of Robert's rights, and therefore took the land charged with
+all flowing equities.
+
+Baker denied all knowledge of the contract for water rights.
+
+At trial Roberts  charged Baker with notice.  Baker was  allowed to be
+examined as  a under under  Sec 328 page  154, statutes of  1863.  The
+jury found for the defendants (i.e., Baker took without notice).
+
+The issue for appeal was Baker's competence to be a witness.
+
+***** Law
+
+Rev.St.1863, p.  154, § 328, [provides]  that the adverse party may be
+examined as  a witness, where  the _“assignor of  a thing in  action or
+contract”_ has been so examined.
+
+A _chose  in action_  is something  of which  a man  has not  the actual
+possession,  but a  right  to  demand possession  by  action or  other
+proceeding. 2 Black Com., page 397; Wharton's Law Dict., page 142.
+
+The right  of a  person disseized of  land, or of  the right  of entry
+thereto, is  a _chose in  action_. 4 Kent's Com.,  10th Ed., page  67; 1
+Tomlins' Law Dict., page 326.
+
+In this view therefore, the plaintiffs bought _something not reduced to
+possession_, but _resting in the right to take and demand possession_.
+
+When an assignment does  not pass the legal title it  can only be good
+as an _executory  contract_. Cases in Equity, Vol. 2,  part 2d, page 233
+and cases there cited.
+
+Whoever may transfer the whole of  a particular estate is an _assignor_,
+whether the estate  be personal or real property or  the assignment be
+by deed or parole. Wharton's Law  Dict., page 69; Bouvier's Law Dict.,
+page 133-4.
+
+But the  _assignee_ can take only  such interest as his  _assignor_ has to
+transfer. 2 Lead. Cases in Equity, page 236.
+
+Roberts, therefore,  having no  fee in  the land,  the only  _rights he
+held_, were what the contract with  Cain gave him; these were _the right
+to demand  and take possession_  from Cain and  compel him to  make all
+suitable conveyance of this right to him.
+
+At the time  of the conveyance Roberts having neither  the fee nor the
+possession, could convey  neither, and could convey only  the right to
+demand  title and  possession from  Cain,  and this  right resting  in
+contract,  he would  be held  an  _“assignor of  a thing  in action  or
+contract.”_
+
+*** k4 Existence and Possession of Subject Matter
+
+**** School Dist. No. 15 v. Peoples Nat. Bank of Washington Supreme Court of Washington. (April 16, 1942). 13 Wash.2d 230
+
+*Assignments  38k10 Money Due or to Become Due*
+- Money due or to become due upon a contract is assignable.
+
+Money due  or to  become due  upon a  contract, such  as the  one here
+involved, is assignable.
+- 6 C.J.S., Assignments, § 15, p. 1060.
+
+
+*Assignments 38k4 Existence and Possession of Subject-Matter*
+- A fund to  be assignable does not have to  be actually existent, and
+  it is sufficient if it potentially exists.
+
+A fund to be  assignable does not have to be  actually existent. It is
+sufficient if it potentially exists.
+- /Horchover v. Pacific Marine Supply Co./, 171 Wash. 330, 17 P.2d 915.
+
+
+In /Fidelity National  Bank v. Henley/, 24  Wash. 1, 63 P.  1119, it was
+held that an assignment by a contractor of all monies due or to become
+due under a contract for the  construction of a public building, under
+which twenty per cent of the monies earned from time to time was to be
+retained by the government until  the completion and acceptance of the
+work,  passed to  the assignee  the equitable  title in  such retained
+percentage.
+
+The  cases  of
+- /Terhune v.  Weise/,  132  Wash.  208,  231 P.  954,
+- 38 A.L.R. 94,
+- /Philip v. Seattle/, 195  Wash. 386, 81 P.2d 279, and
+- /Whiting v.  Rubinstein/,  7  Wash.2d  204,  109  P.2d  312,
+
+are,  by  analogy, substantially to the same effect.
+
+**** Horchover v. Pacific Marine Supply Co. -- Supreme Court of Washington. (January 7, 1933). 171 Wash. 330; 17 P.2d 915
+
+*Assignments 38k4 Existence and Possession of Subject-Matter*
+- Fund,  to be  assignable, need  not be  actually existing,  it being
+  sufficient if it is potentially existent.
+
+
+The  supplies  furnished and  credit  extended  by respondent  to  the
+packing company  went to  increase the assets  of the  latter. Without
+such  supplies and  credit, the  fund from  which respondent  was paid
+would never  have come  into being.  Respondent was  merely reimbursed
+from a fund  which it helped to  create by making it  possible for the
+packing company  to proceed with  its 1930  operations. A fund,  to be
+assignable, does not have to be actually existent; it is sufficient if
+it is potentially existent.
+- 5 C. J. 854, 924.
+
+*** k5 Estates or Interests in General
+
+**** Oriental Realty Co. v. Taylor -- Supreme Court of Washington. (June 20, 1912). 69 Wash. 115; 124 P. 489
+
+McConnaughey's  interest in  the  property was  clearly an  _assignable_
+interest. When  he sold and  transferred it  to the plaintiff  in this
+case,  _the  plaintiff  acquired  whatever  interest  he  had_.  We  are
+satisfied,  therefore, that  the trial  court properly  concluded that
+appellant held  the property in  trust for himself and  the plaintiff,
+and that the final decree was right. It is therefore affirmed.
+
+One M and T entered into a  business whereby T provided finances and M
+provided services.   T was paid  10% of the  profits off the  top, and
+then  the two  divided  the remaining  profits  equally.  M  purchased
+properties and placed and held them  in T's name.  M sold his interest
+to  the  PL  in  the  underlying action,  who  brought  an  action  in
+accounting to determine what share of  the profits were M's, now PL's.
+T appealed and objected to T having any rights to an accoutning.
+
+T held the properties and profits in trust, and an assignee could seek
+an accounting of the profits.
+
+*** k10 Money Due or to Become Due
+
+[[*School Dist. No. 15 v. Peoples Nat. Bank of Washington Supreme Court of Washington. (April 16, 1942). 13 Wash.2d 230]]
+
+*** k17 Executory Contracts
+
+**** K18 --In General
+
+
+***** Berschauer/Phillips Const. Co. v. Seattle School Dist. No. 1 -- Supreme Court of Washington, En Banc.October 6, 1994. 124 Wash.2d 816; 881 P.2d 986; 94 Ed. Law Rep. 610
+
+*Assignments 38k17 Executory Contracts*
+- Contracts  are  assignable  unless   such  assignment  is  expressly
+  prohibited by statute  or contract or is in  contravention of public
+  policy.
+
+
+Contracts  are   assignable  unless   such  assignment   is  expressly
+prohibited  by statute,  contract, or  is in  contravention of  public
+policy.
+- See /Puget Sound Nat'l Bank v. Department of Rev./, 123 Wash.2d 284, 288, 868 P.2d 127 (1994);
+- /Portland Elec. & Plumbing Co. v. Vancouver/, 29 Wash.App. 292, 294–95, 627 P.2d 1350 (1981).
+
+  In Portland Elec.,  the Court of Appeals held “  ‘a right to damages
+  for  breach of  contract  is assignable,  even  though the  contract
+  contained  a  prohibition  of  assignment.’  ”  Portland  Elec.,  29
+  Wash.App.  at  294,  627  P.2d 1350  (quoting  3  Samuel  Williston,
+  Contracts § 412, at 46–47 (3d ed. 1960)). The court in Portland *830
+  Elec. drew a  distinction between an assignment  for performance and
+  an assignment for damages.
+
+    The  primary  purpose of  clauses  prohibiting  the assignment  of
+  contract  rights  without a  contracting  party's  permission is  to
+  protect him [or her] in selecting  the persons with whom he [or she]
+  deal.sThe primary  purpose of clauses prohibiting  the assignment of
+  contract  rights  without a  contracting  party's  permission is  to
+  protect him [or her] in selecting  the persons with whom he [or she]
+  deals.
+  - Portland Elec., 29 Wash.App. at 295, 627 P.2d 1350;
+  - see also John D. Calamari &  Joseph M. Perillo, Contracts § 18–16,
+    at 740  (3d ed. 1987) (anti-assignment  provisions are emasculated
+    by  courts  if  they  are drafted  with  insufficient  clarity  to
+    accomplish their intended goal).
+
+We follow the  reasoning adopted in Portland Elec. and  hold a general
+anti-assignment clause, one  aimed at prohibiting the  assignment of a
+contractual  performance, does  not, absent  specific language  to the
+contrary, prohibit  the assignment  of a breach  of contract  cause of
+action. The assignment  clause between Cummings and the  District is a
+boiler  plate   provision  intended   to  prohibit  the   exchange  of
+contractual performances. Cummings completed the terms of its contract
+prior to the District's assignment of  the breach of contract claim to
+Berschauer/Phillips. Given complete performance,  the rule in Portland
+Elec. makes good sense. We therefore hold a general assignment clause,
+one  directed  at  performance  of   the  contract,  does  not,  after
+performance is completed, prohibit the assignment of a cause of action
+for breach of contract.
+
+*** TODO k29 Transfer of Liability
+:LOGBOOK:
+- State "TODO"       from              [2026-01-29 Thu 10:36] \\
+  Search in CCLL Westlaw under this Topic and Key
+:END:
+
+No WA cases found.
+
+** II. Mode and Sufficiency of Assignment -- k31-k61
+
+** III. Validity -- k62-k70
+
+** IV. Operation and Effect -- k71-k89
+
+** V. Rights and Liabilities -- k90-k115
+
+*** k90 Nature and extent of rights of assignee in general
+
+Assignee stands in shoes of assignor,  acquiring all of its rights and
+liabilities.
+- _Prof'l Collection Consultants v. Hanada_, 53 Cal. App. 4th 1016, 62 Cal. Rptr. 2d 182 (1997)
+
+
+In executing the sale of an account, the assignee steps into the shoes
+of the assignor and takes the assignor's right to payment.
+- _Nw. Bus. Fin., LLC v. Able Contractor, Inc._, 196 Wn. App. 569, 383 P.3d 1074 (2016)
+
+
+The assignee  of accounts receivable  acquires no greater  rights than
+the assignor had at the time the account debtor received the notice of
+assignment.
+- _Nw. Bus. Fin., LLC v. Able Contractor, Inc._, 196 Wn. App. 569, 383 P.3d 1074 (2016)
+
+
+¶17 In executing  the sale of an account, the  assignee steps into the
+shoes   of  the   assignor   and  takes   the   assignor's  right   to
+payment.
+- _Kendrick  v.  Davis_,  75  Wash.2d 456,  463,  452  P.2d  222 (1969).
+*576 The assignee acquires no greater  rights than the assignor had at
+the time the account debtor received the notice of assignment.
+- _Id._
+
+- _Nw. Bus. Fin., LLC v. Able Contractor, Inc._, 196 Wn. App. 569, 575–76, 383 P.3d 1074, 1078 (2016)
+
+
+The  notification,  however,  must reasonably  identify  the  assigned
+rights or amount  due.
+- _Warrington v. Dawson_, 798 F.2d  1533, 1539 (5th Cir. 1986).
+
+- Nw. Bus. Fin., LLC v. Able Contractor, Inc., 196 Wn. App. 569, 577, 383 P.3d 1074, 1079 (2016)
+** VI. Actions -- k116-k139
+
+
+* RCW 4.08.080
+See [[denote:20260311T150307][rcw=4=08=080  RCW 4.08.080 Action on assigned choses in action]]
+
+See Notes and Decisions for the above in Westlaw
+
+Creation of valid and binding assignment
+- No particular words are required for valid and binding assignment of
+  corporation assets entitling assignee to sue in assignee's own name;
+   rather, any language showing intent in owner to transfer and invest
+  cause  in  assignee is  sufficient.   Zimmerman  v. Kyte  (1988)  53
+  Wash.App. 11, 765 P.2d 905.  Corporations And Business Organizations
+  Key Number 2434
+
+* Restatement of Law Contracts 2d
+
+** § 336 Defenses Against an Assignee
+
+*** (1)
+By an assignment the assignee acquires a right against the obligor only to the extent that the obligor is under a duty to the assignor; and if the right of the assignor would be voidable by the obligor or unenforceable against him if no assignment had been made, the right of the assignee is subject to the infirmity.
+
+*** (2)
+The right of an assignee is subject to any defense or claim of the obligor which accrues before the obligor receives notification of the assignment, but not to defenses or claims which accrue thereafter except as stated in this Section or as provided by statute.
+
+*** (3)
+Where the right of an assignor is subject to discharge or modification in whole or in part by impracticability, public policy, non-occurrrence of a condition, or present or prospective failure of performance by an obligee, the right of the assignee is to that extent subject to discharge or modification even after the obligor receives notification of the assignment.
+
+*** (4)
+An assignee's right against the obligor is subject to any defense or claim arising from his conduct or to which he was subject as a party or a prior assignee because he had notice.
+
+*** Comment
+
+**** a.
+
+**** b.
+
+**** Illustrations
+
+***** 1.
+
+***** 2.
+
+***** 3.
+
+***** 4.
+
+**** TODO c. Accrued Claims
+:LOGBOOK:
+- State "TODO"       from              [2026-03-13 Fri 13:24] \\
+  Follow up with Accrued claims; follow up with recoupment.
+:END:

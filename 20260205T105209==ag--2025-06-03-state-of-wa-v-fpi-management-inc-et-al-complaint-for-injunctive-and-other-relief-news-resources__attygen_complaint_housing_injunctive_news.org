@@ -1,0 +1,16 @@
+#+title:      [2025-06-03] STATE OF WA V. FPI MANAGEMENT, INC, et al. -- COMPLAINT FOR INJUNCTIVE AND OTHER RELIEF -- News Resources
+#+date:       [2026-02-05 Thu 10:52]
+#+filetags:   :attygen:complaint:housing:injunctive:news:
+#+identifier: 20260205T105209
+#+signature:  ag
+
+* News Sources
+
+[[https://www.atg.wa.gov/news/news-releases/ag-brown-sues-five-apartment-complexes-and-their-property-management-firm][Office of the Attorney General Web Site News Release]]
+[[https://www.fox13seattle.com/news/ag-brown-sues-wa-apartments][Fox13 News]]
+[[https://www.multifamilydive.com/news/washington-ag-sues-owners-operator-for-senior-housing-conditions/751113/][MultifamilyDive Web Site News Release]]
+[[https://www.heraldnet.com/news/washington-ag-files-complaint-against-owners-of-3-snoco-apartment-complexes/][HeraldNet News Release]]
+[[https://www.king5.com/article/news/local/washington-state-sues-unfair-and-deceptive-senior-housing-landlords-owners/281-11048e3e-336a-46c1-a211-dc8c6234e9ac][K5 Local News Report]]
+[[https://www.peninsuladailynews.com/news/complex-for-seniors-sued-by-ag/][Peninsula Daily News Report]]
+[[https://www.seattletimes.com/business/real-estate/property-management-firm-misled-wa-senior-tenants-ag-lawsuit-says/][The Seattle Times News Article]]
+[[https://www.heraldnet.com/news/snoco-apartment-companies-push-back-on-ag-lawsuit/][HeraldNet Follow-Up in Sep'25]]

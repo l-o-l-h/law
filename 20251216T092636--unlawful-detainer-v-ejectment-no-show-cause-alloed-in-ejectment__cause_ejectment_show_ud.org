@@ -1,0 +1,96 @@
+#+title:      Unlawful Detainer v Ejectment - No Show Cause Alloed in Ejectment
+#+date:       [2025-12-16 Tue 09:26]
+#+filetags:   :cause:ejectment:show:ud:
+#+identifier: 20251216T092636
+
+* Email [2025-12-10 Wed 20:05]
+
+
+Benjamin Ramm via groups.nwjustice.org <bramm=kitsaplegalaid.org@groups.nwjustice.org>
+Dec 10, 2025, 8:05 PM (6 days ago)
+to adam.johnson@nwjustice.org, skylar.brett@wearepda.org, Scott, HTF@groups.nwjustice.org
+
+They’ll also sometimes still use the show cause procedure to get expedited relief, which is obviously not allowed but judges don’t seem to really know any better.
+
+** Arguments
+
+The Plaintiff was given all the flexibility of an ejectment action and
+all the speed of an unlawful detainer action.
+
+The Plaintiff had no right to a “show cause” hearing. An ejectment
+action is governed by RCW 7.28 and the Civil Rules. The show cause
+procedure is established and governed by the Residential Landlord
+Tenant Act (RLTA). RCW 59.18.380.
+
+The Defendant argued that her occupancy of the property was governed
+by the RLTA. If it was, then she was entitled to counsel and the
+Plaintiff would have been obligated to establish different reasons for
+evicting the Defendant. RCW 59.18.640(1) and 59.18.650.
+
+Instead, the Plaintiff allowed to employ the procedures of an unlawful
+detainer action to enforce substantive rights that require an
+ejectment action.
+
+No authority supports proceedings that so thoroughly upset the balance
+between the parties’ rights that the Legislature has established.
+
+EJECTMENT ACTIONS CANNOT BE RESOLVED THROUGH SHOW CAUSE HEARINGS.
+
+The use of a “show cause” proceeding to eject the Defendant was an
+“[i]rregularity in the proceedings of the court” that justifies
+vacating the judgment. CR 59(a)(1)
+
+A “show cause” hearing cannot be used to resolve an ordinary civil
+action, even if that civil action seeks possession of land because
+“[t]he two statutes, ejectment and quiet title and unlawful detainer,
+are not to be construed as in pari materia … Ejectment is the
+common-law action, except as modified by statute; and unlawful
+detainer is a purely statutory and summary procedure, providing for
+shortened notice, immediate possession pending trial under certain
+conditions[.]” Petsch v. Willman, 29 Wn.2d 136, 138 (1947); see also,
+Kessler v. Nielsen, 3 Wn. App. 120, 122-23, 472 P.2d 616 (1970) (“the
+common law action of ejectment is separate from and in addition to the
+action for unlawful detainer.”) Generally, a statutory unlawful
+detainer action “relieves a landlord of having to file an expensive
+and lengthy common law action of ejectment.” FPA Crescent
+Assocs. v. Jamie’s LLC, 190 Wn. App. 666, 675, 360 P.3d 934 (2015)
+(citing Hous. Auth. of City of Everett v. Terry, 114 Wn.2d 558, 563,
+789 P.2d 745 (1990). Thus, “the procedural remedy is an integral part
+of the right itself” in an unlawful detainer action. Tuschoff
+v. Westover, 65 Wn.2d 69, 72, 395 P.2d 630 (1964).
+
+For example, in an unlawful detainer action, a court may conduct a
+“show cause” hearing. RCW 59.18.370, .380. This proceeding “decide[s]
+the issue of interim possession of the property.” Leda v. Whisnand,
+150 Wn. App. 69, 83, 207 P.3d 468 (2009). It is a flexible procedure
+“given the relatively low financial stakes in the average residential
+rental dispute and the resulting difficulty that most persons at risk
+of eviction face in retaining attorneys” that “relieve[s] such
+litigants of the burdens of formality associated with Civil Rule 8
+pleading.” Id. at p. 80-81.
+
+In contrast, an ejectment action is governed by the Civil
+Rules. Accordingly, the Plaintiff should have brought a motion for
+summary judgment. CR 56. A recent, unpublished case, illustrates the
+procedure that the Plaintiff should have employed: this was not a
+hearing on an order to show cause in an unlawful detainer action. See
+RCW 59.18.370. Wilson alternatively pleaded a cause of action for
+ejectment against Appellants and argued ejectment in his motion for
+summary judgment. And Wilson sought relief by means of a motion for
+summary judgment.
+
+Wilson v. Dillon, No. 85231-1-I, slip opn. p. 5 (Wash. Ct. App. July
+15, 2024).
+
+If the Plaintiff had followed the rules applicable to an ejectment
+action, the Defendant would have been entitled to 28 days to oppose
+that motion. CR 56(c). Instead, the Plaintiff filed its evidence
+against the Defendant only two days before the show cause hearing.
+Conversely, the procedures established by the RLTA cannot be liberally
+used in ordinary civil actions because plaintiffs must comply with the
+statutory requirements strictly “[t]o take advantage of an unlawful
+detainer action and reap the benefits of the summary proceeding[.]”
+FPA Crescent Associates, supra, 190 Wn. App. at p. 675. The Plaintiff
+never attempted to comply with any of the requirements of the RLTA
+and, therefore, had no right to “reap the benefits of the summary
+proceeding.”

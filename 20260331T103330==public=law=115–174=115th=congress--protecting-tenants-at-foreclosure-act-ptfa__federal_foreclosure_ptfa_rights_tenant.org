@@ -1,0 +1,291 @@
+#+title:      Protecting Tenants at Foreclosure Act (PTFA)
+#+date:       [2026-03-31 Tue 10:33]
+#+filetags:   :federal:foreclosure:ptfa:rights:tenant:
+#+identifier: 20260331T103330
+#+signature:  public=law=115–174=115th=congress
+
+* Overview
+
+The Protecting Tenants at Foreclosure Act (PTFA), permanently restored
+by Pub. L. 115–174 on May  24, 2018, requires new owners of foreclosed
+residential properties to honor existing  bona fide leases and provide
+at  least 90  days'  notice  before requiring  tenants  to vacate.  It
+applies  to  all  residential foreclosures,  protecting  tenants  with
+leases until the end of their  term and month-to-month tenants with 90
+days' notice.
+
+The law  was initially passed in  2009 in response to  the foreclosure
+crisis and was brought back into effect in 2018 to ensure tenants have
+sufficient time to find alternative housing
+
+The Economic  Growth, Regulatory  Relief, and Consumer  Protection Act
+(Economic Growth  Act) repealed the PTFA’s  sunset date as of  30 days
+after the Economic Growth Act’s enactment. As a result, the PTFA is in
+effect permanently as of June 23, 2018.
+
+* Codification Review
+
+Refer to
+- the Helping Families Save Their Homes Act of 2009 (HELP Act),
+  - _Pub. L. 111-22  (2009)_.
+
+Sections 701–704 of the HELP Act are referred to as the Protecting
+Tenants at Foreclosure Act of 2009.  These sections were codified as
+  - _12 USC 5201_ note,
+  - _12 USC 5220_ note, and
+  - _42 USC 1437f_ note.
+
+* PL 111-22, May 20, 2009, 123 Stat 1632 -- PTFA
+
+UNITED STATES PUBLIC LAWS
+111th Congress - First Session
+Convening January 04, 2090
+
+PL 111–22 [S 896]
+May 20, 2009
+PREVENT MORTGAGE FORECLOSURES AND ENHANCE MORTGAGE CREDIT AVAILABILITY
+
+An Act To prevent mortgage foreclosures and enhance mortgage credit availability.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+** TITLE VII--PROTECTING TENANTS AT FORECLOSURE ACT
+
+*** Sec. 701. Short title.
+
+This title may be cited as the “Protecting Tenants at Foreclosure Act of 2009”.
+
+*** Sec. 702. Effect of foreclosure on preexisting tenancy.
+
+**** (a) IN GENERAL
+
+- In the case of any foreclosure on
+  - a federally-related mortgage loan
+  - or on any dwelling
+  - or residential real property *1661
+  - after the date of enactment of this title,
+- any immediate successor in interest in such property pursuant to the foreclosure
+- shall assume such interest
+- *subject to*--
+
+***** (1) [Required Notice to Vacate of at Least 90 Days to Bona Fide Tenant]
+
+- the provision, by such successor in interest
+- of a notice to vacate
+- to any bona fide tenant
+- at least 90 days before the effective date of such notice; and
+
+***** (2) [Rights of a Bona Fide Tenant]
+
+the rights of any bona fide tenant, as of the date of such notice of foreclosure--
+
+****** (A) [Under a Bona Fide Lease]
+
+- under any bona fide lease
+  - entered into before the notice of foreclosure to occupy the premises
+  - _until the end of the remaining term of the lease,_
+- except that
+  - a successor in interest
+  - may terminate a lease
+  - effective on the date of sale of the unit to a purchaser
+  - who will occupy the unit as a primary residence,
+  - subject to the receipt by the tenant of the 90 day notice under paragraph (1);
+
+or
+
+****** (B) [Without a Lease]
+
+- without a lease
+- or
+- with a lease
+  - terminable at will under state law,
+  - subject to the receipt by the tenant of the 90 day notice under subsection (1),
+
+except that
+- nothing under this section
+  - shall affect the requirements for termination of any federal– or State-subsidized tenancy
+- or
+  - of any State or local law that provides longer time periods
+- or
+  - other additional protections for tenants.
+
+**** (b) BONA FIDE LEASE OR TENANCY
+
+For purposes of this section, a lease or tenancy shall be considered bona fide only if--
+
+***** (1) [Not the Mortgagor of Family Mamber]
+
+the mortgagor or the child, spouse, or parent of the mortgagor under the contract is not the tenant;
+
+***** (2) [Lease was an Arsm-Length Transaction]
+
+the lease or tenancy was the result of an arms-length transaction; and
+
+***** (3) [Lease Requires the Receipt of Rent at Fair Market Value]
+
+the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property or the unit's rent is reduced or subsidized due to a Federal, State, or local subsidy.
+
+**** (c) DEFINITION
+
+For purposes of this section, the term “federally-related mortgage loan” has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602).
+
+*** Sec. 703. Effect of foreclosure on section 8 tenancies.
+
+Section 8(o)(7) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(7)) is amended--<< 42 USCA § 1437 >>
+
+**** (1)
+
+by inserting before the semicolon in subparagraph (C) the following: “and in the case of an owner who is an immediate successor in interest pursuant to foreclosure during the term of the lease vacating the property prior to sale shall not constitute other good cause, except that the owner may terminate the tenancy effective on the date of transfer of the unit to the owner if the owner--
+
+***** (i)
+
+will occupy the unit as a primary residence; and
+
+***** (ii)
+
+has provided the tenant a notice to vacate at least 90 days before the effective date of such notice.”; and
+
+**** (2)
+
+by inserting at the end of subparagraph (F) the following: “In the case of any foreclosure on any federally-related mortgage loan (as that term is defined in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602)) or on any residential real property in which a recipient of *1662 assistance under this subsection resides, the immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to the lease between the prior owner and the tenant and to the housing assistance payments contract between the prior owner and the public housing agency for the occupied unit, except that this provision and the provisions related to foreclosure in subparagraph (C) shall not shall not affect any State or local law that provides longer time periods or other additional protections for tenants.
+
+*** Sec. 704. Sunset.
+
+Repealed
+
+* Application
+
+The PTFA applies to
+- any foreclosure on a federally related mortgage loan,5 (12 USC 5220 note)
+- dwelling, or residential real property
+- (collectively, PTFA-covered foreclosures).6
+
+The PTFA provides that any immediate successor in interest7 in such a
+foreclosed property, including a bank that takes complete title to a
+house upon foreclosure,
+- assumes the interest subject to the rights of any bona fide tenant
+  and
+- needs to comply with certain notice requirements.
+
+* Key components of the law include:
+
+- Permanent Status :: The 2018 legislation repealed previous sunset
+  clauses, making the protections permanent.
+
+- Bona Fide Lease Protection :: Tenants with a lease must be allowed
+  to occupy the property until the end of their lease term.
+
+- 90-Day Notice :: If no lease exists or the unit is sold to someone
+  who will occupy it as a primary residence, the tenant is entitled to
+  a minimum of 90 days' written notice to vacate.
+
+- Section 8 Protections :: For Section 8 tenants, the successor in
+  interest must assume the housing assistance payment contract and the
+  lease.
+
+- Scope :: The law applies to all foreclosures on federally related
+  mortgage loans or any residential property.
+
+- State Law :: The PTFA does not override more protective state or
+  local laws.
+
+* Articles
+
+- [[file:20260331T104729==article--johnsonkimberly-protecting-tenants-at-foreclosure-2021__federal_foreclosure_ptfa_rights_tenant.pdf][Protecting Tenants at Foreclosre article]]
+
+* Lack of Codification Summary
+
+The Protecting Tenants at Foreclosure Act (PTFA) is not codified as a
+standalone section in the United States Code.
+
+Instead, the PTFA's operative provisions exist as uncodified notes
+appended to existing U.S. Code sections—specifically as notes to
+- 12 U.S.C. § 5201,
+- 12 U.S.C. § 5220, and
+- 42 U.S.C. § 1437f.
+
+The law's substantive text is referenced in and through its enacting
+legislation:
+- originally Pub.  L.  111-22 (the Helping Families Save Their Homes
+  Act of 2009)
+- and currently Pub. L.  115-174 (the Economic Growth, Regulatory
+  Relief, and Consumer Protection Act of 2018), which permanently
+  restored the PTFA.
+
+Courts and practitioners must look to those public laws and the
+Statutes at Large, rather than to a numbered U.S. Code section, to
+find the PTFA's operative text.
+
+** Legislative History
+
+The PTFA was originally enacted as Title VII (§§ 701–704) of the Helping Families Save Their Homes Act of 2009, Pub. L. No. 111-22, 123 Stat. 1632, 1660–62 (May 20, 2009) PL 111-22, May 20, 2009, 123 Stat 1632.
+
+The Ninth Circuit in _Logan v. U.S. Bank Nat. Ass'n_, 722 F.3d 1163 (2013) confirmed this statutory lineage, describing the PTFA as "Pub.L. No. 111–22, § 701–04, 123 Stat. 1632, 1660–62 (2009)" and explaining that it "was enacted as part of the Helping Families Save Their Homes Act of 2009 ('the Homes Act')," with the PTFA appearing as "Title VII, §§ 701–04" of that larger act. _Logan v. U.S. Bank Nat. Ass'n_, 722 F.3d 1163 (2013).
+
+The original PTFA contained four sections:
+- § 701 (short title),
+- § 702 (effect of foreclosure on preexisting tenancy),
+- § 703 (effect of foreclosure on Section 8 tenancies), and
+- § 704 (sunset provision).
+  - The original sunset provision in § 704 set the PTFA to expire on December 31, 2012, and the statute was later interpreted to have lapsed by December 31, 2014 PL 111-22, May 20, 2009, 123 Stat 163.2
+
+** Codification as a Note, Not a Standalone Code Section
+
+The PTFA's enacting legislation itself reveals the statute's uncodified status.
+
+- The enacted text of § 702 is marked with the annotation "<< 12 USCA
+  § 5220 NOTE >>," indicating it was placed as a note to 12 U.S.C. §
+  5220 rather than given its own numbered section in the Code PL
+  111-22, May 20, 2009, 123 Stat 1632.
+
+- Similarly, §§ 701 and 704 carry the notation "<< 12 USCA § 5201 NOTE
+  >>,"
+
+- and § 703's amendments to Section 8 housing law are noted at "<< 42
+  USCA § 1437f NOTE >>" PL 111-22, May 20, 2009, 123 Stat 1632.
+
+
+This means the PTFA does not occupy an independent, numbered title or
+section in the United States Code. Researchers cannot look up "12
+U.S.C. § [X]" and find the PTFA's tenant-protection text
+directly. Instead, the PTFA's provisions are accessible through
+annotations to other Code sections, and the full operative text is
+found in the Statutes at Large under Pub. L. 111-22.
+
+Courts have consistently reflected this status by citing the PTFA
+through its public law and Statutes at Large references rather than
+through standalone U.S. Code sections.
+
+** The Dodd-Frank Amendment (2010)
+
+In 2010, the Dodd-Frank Wall Street Reform and Consumer Protection
+Act, Pub. L. 111-203, § 1484, 124 Stat. 1376, 2204, amended the PTFA
+to clarify its provisions and extend its application. _Logan
+v. U.S. Bank Nat. Ass'n_, 722 F.3d 1163 (2013).
+
+Notably, this amendment did not elevate the PTFA to a formally
+codified U.S. Code section; it modified the existing note-level
+provisions in place.
+
+** The 2018 Permanent Restoration
+
+After the PTFA's expiration, Congress permanently restored it through § 304 of the Economic Growth, Regulatory Relief, and Consumer Protection Act, Pub. L. 115-174, 132 Stat. 1296 (May 24, 2018), effective June 23, 2018 (30 days after enactment) PL 115-174, May 24, 2018, 132 Stat 1296.
+
+Section 304 operates in two parts:
+
+(a) the repeal of the PTFA's sunset provision, which was identified as "Section 704 of the Protecting Tenants at Foreclosure Act of 2009 (12 U.S.C. 5201 note; 12 U.S.C. 5220 note; 42 U.S.C. 1437f note)," and
+
+(b) the restoration of §§ 701 through 703 of the PTFA, along with any amendments and regulations that were in effect on December 30, 2014 PL 115-174, May 24, 2018, 132 Stat 1296.
+
+Critically, the 2018 Act's parenthetical identification of the PTFA as existing at "12 U.S.C. 5201 note; 12 U.S.C. 5220 note; 42 U.S.C. 1437f note" PL 115-174, May 24, 2018, 132 Stat 1296 constitutes a congressional confirmation that the PTFA resides in note status. The 2018 restoration did not re-codify the PTFA as substantive law with its own Code section number—it simply removed the sunset and declared the previously enacted (note-level) provisions to be alive again.
+
+** Practical Implications
+
+Because the PTFA is uncodified, practitioners and courts working with PTFA issues must locate its text in the Statutes at Large or through notes attached to 12 U.S.C. § 5220 and related sections, rather than by citation to a standalone United States Code section.
+
+In _Logan v. U.S. Bank Nat. Ass'n_, 722 F.3d 1163 (2013), the Ninth Circuit held that the PTFA provides no private right of action, noting that the statute's focus on regulated parties, its framing in terms of "protections" for tenants, and the absence of explicit enforcement language suggested it was "intended to provide a defense in state eviction proceedings rather than a basis for offensive suits in federal court."
+
+In _Kang v. Marathon Funding Services, Inc._, Not Reported in Fed. Supp. (2019), the Western District of Washington held that a defendant's invocation of the PTFA as a defense to an unlawful detainer action did not create federal question jurisdiction, because the PTFA defense was not the basis of the plaintiff's claims. These results reflect the practical limits arising from the PTFA's structure and purpose.
+
+** Commentary on This Question
+
+The Protecting Tenants at Foreclosure Act of 2009 (PTFA), enacted as a federal statute under the Helping Families Save Their Homes Act of 2009, protects tenants in foreclosed residential properties by requiring successor owners to honor existing leases or give a minimum of 90 days’ notice to vacate for tenants at will or month-to-month tenants. The PTFA applies broadly to federally related mortgage loans and addresses tenants occupying dwellings with bona fide leases, excluding occupants paying substantially less than fair market value or the mortgagor themselves. The Act was originally temporary but was made permanent in 2018. While codified within the United States Code, the Act is referenced as a federal statute within notes appended to relevant sections of Title 12 and Title 42 USC, particularly 12 U.S.C. § 5201 note, 12 U.S.C. § 5220 note, and 42 U.S.C. § 1437f note. This codification as notes indicates that the protections are contained within the broader statutory context rather than in an independent, stand-alone codified section. States including Washington are generally subject to this federal statute as a matter of federal law, though state-specific variations or additional protections may apply. The PTFA thus bridges federal foreclosure and tenant protections by imposing notice and lease continuation obligations on foreclosing parties and purchasers succeeding to interest in residential real property following foreclosure REST 4th PROP § 5.2 (Vol. 4) TD 5, REFINLAW § 12:32, 125 AMJUR TRIALS 541.

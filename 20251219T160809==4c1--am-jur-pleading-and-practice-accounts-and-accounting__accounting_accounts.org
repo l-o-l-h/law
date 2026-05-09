@@ -1,0 +1,470 @@
+#+title:      Am Jur Pleading and Practice -- Accounts and Accounting
+#+date:       [2025-12-19 Fri 16:08]
+#+filetags:   :accounting:accounts:
+#+identifier: 20251219T160809
+#+signature:  4c1
+
+* Am Jur Pleading and Practice Forms Annotated Volume 1
+
+** I General Considerations
+
+Research References
+
+*** West's Digest References
+
+- Account :: Key 1
+- Account Stated :: Key 1
+- [[denote:20260123T152537][Account, Action On]] ::  Key 1.1, 9.1, 16.1
+
+*** Annotation References
+
+Admissibility of party's book accounts to prove loans or payments by person by or for whom they are kept.
+- 13 A.L.R. 3d 284
+
+*** § 1 Introductory Comments
+
+Three distinct actions; 2 are actions at law; 1 is a suit, usually in equity, for an accounting.
+
+1. Action On Account ([[denote:20260123T152537][West 10 Account, Action on]]): Action to recover on an
+   - open,
+   - mutual, or
+   - book account (action on account, at law)
+
+2. Action for an Account stated (at law)
+   - West 11 Account Stated
+
+3. Suit for an Accounting (in equity)
+   - West 9 Account
+
+**** West Digest Refgerences
+- 9 Account K 1
+- [[denote:20260123T152537][10 Account, Action On]]  K 1.1, 9.1, 16.1
+- 11 Account Stated K 1
+
+** II Actions on Account -- §§ 2-74
+
+*** A. In General -- §§ 2-4
+
+West's Digest References
+- Account, Action on Keys 2 to 8, 11 to 15, 17 to 25
+
+**** § 2 Introductory Comments
+
+An ACCOUNT is
+- an unsettled claim or demand
+- by one person against another
+- based on a transaction that
+- created a debtor-creditor relationship between them
+
+
+It is a CHOSE IN ACTION.
+
+No record needs to be kept of an account.
+
+In a narrower sense, the term "account" refers to
+- the written statement of debits and credits.
+
+
+An open, current, or running account
+- contemplates a connected series of transactions
+- on which a balance has not been settled or stated.
+
+
+A MUTUAL OPEN ACCOUNT
+- there are items debited and credited on both sides resulting from mutual dealings.
+
+***** Elements of a Proof of an Action on Account
+
+The elements of proof of an action on account are the same as those of any other contractual action.  The PL must show:
+(see Am. Jur. 2d Accounts and Accounting § 8)
+
+- an offer
+- an acceptance
+- consideration
+- the account was correct
+- the charges were reasonable
+
+***** Action at Law
+
+An ACTION TO RECOVER ON AN ACCOUNT is one at law, in contract, to collect the balance due, whether it is an
+- open
+- mutual
+- book
+account.
+
+When an account is due and payable will depend on the intention of the parties.
+
+****** Condition Precedent
+
+If a demand is necessary to mature the account and put the debtor in default, such demand is a condition precedent to the action and must be pleaded and proved.
+
+****** General Rules of Pleading
+
+General rules of pleading apply to actions on account.
+
+It is not necessary to specify all the individual items that make up the account balance due.
+
+****** Defenses
+
+A defendant may demand a bill of particulars in order to establish the details of the claimed account.
+
+The correctness of the account can be put in issue by a general denial.
+
+The following are affirmative defenses that must be pleaded and proved by the defendant:
+- Payment
+- Account Stated
+- Statute of Limitations
+- Capacity
+
+****** Offsets
+
+Offsetting items should be pleaded byh the defendant by way of counterclaim or cross-complaint.
+
+**** § 3 Statutory References
+
+***** Washington: RCW § 4.16.150: Action on Mutual Open Accounts
+
+In an action brought  to recover a balance due upon  a mutual open and
+current account, where there have  been reciprocal demands between the
+parties, the cause of action shall  be deemed to have accrued from the
+time  of the  last item  proved  in the  account on  either side,  but
+whenever a period of more than one year shall have elapsed between any
+of a  series of items or  demands, they are  not to be deemed  such an
+account.
+
+- [Code 1881 s 34; 1877 p 9 s 33; 1869 p 10 s 33; 1854 p 364 s 8; RRS s 166.]
+
+**** § 4 Checklist -- Drafting a complaint, petition, or declaration in an actino to recover balance due on account
+
+- Jurisdictional facts, if required
+- Facts laying venue of action, when required
+- Transactions giving rise to debtor-creditor relationship
+- Promise to pay, either express or implied
+- Balance due on account
+- Demand for paymdent, if necessary
+- Nonpayment of claim
+- Request for relief
+
+*** B. General Forms -- §§ 5-11
+
+*** §§ 12-48 C. Particular Accounts and Transactions
+
+*** §§ 49-74 D.Proceedings to Obtain Copy of Or Itemized Account
+
+**** §§ 49-57 1. Notices, Demands, and Motions
+
+**** §§ 58-62 2. Additional or Further Accounts
+
+**** §§ 63-66 3. Failure or Refusal to Furnish Copy of Account
+
+**** §§ 67-74 4. Reference of Account
+
+** §§ 75-116 Account Stated
+
+*** §§ 75-76 A. In General
+
+*** §§ 77-107 B. Basis of Action or Defense
+
+*** §§ 108-116 C. Impeachment or Rectification
+
+** §§ 117-149 Accounting
+
+*** §§ 117-119 A. In General
+
+**** Research References
+- Topic :: Account
+  - Keys 1-10 :: Right of Action and Defenses
+    - Key 1 :: Nature and Grounds of Right to an Account
+      - No documents
+    - Key 2 :: Agreement to Render Account
+      - No documents
+    - Key 3 :: Joint ownership or interest in property or profits
+      - No documents
+    - Key 4 :: Fiduciary Relations
+      - Lindley v. McGlauflin :: Supreme Court of Washington. March 4, 1910 57 Wash. 581
+        - Headnote  ::  While  equity  assumes  jurisdiction  over  an
+          accounting  between parties  occupying fiduciary  relations,
+          the existence  of a fiduciary  relation is not  necessary if
+          the action involves a long and complicated account.
+      - Fincham v. A. U. Pinkham & Co. :: Supreme Court of Washington. March 19, 1925. 133 Wash. 517; 233 P. 913
+        - Rights in equity for an accounting and court procedure.
+        - When equity  undertakes an accounting,  it will go  into the
+          question thoroughly, and, so  far as possible, ascertain all
+          of  the  facts  and  decree  absolute  justice  between  the
+          parties. It  is manifest  that, where  numerous transactions
+          are involved,  running over  a period of  considerable time,
+          and recovery is to be  based upon profits accruing from each
+          of  such  transactions,  something  more is  needed  than  a
+          cursory examination of a set of  books in court, or even out
+          of court during  the hours when the court is  not in session
+          while the case  is progressing. Probably the  services of an
+          expert might be necessary, but  whether so or not, such time
+          should be  given as  under all of  the circumstances  of the
+          case  will  assure ample  opportunity  to  develop the  full
+          truth. This  was not the  refusal to grant a  continuance in
+          the ordinary sense, but a denial of a substantial right.
+      - Gatudy v. Acme Const. Co. :: Supreme Court of Washington.October 31, 1938. 196 Wash. 562; 83 P.2d 889
+        - Discusses distinction between actions at law (allowing for a jury trial) and actions in equity (tried by the court)
+        - See C.J.S. Accounting
+        - ‘To constitute complicated accounts the complication must be
+          such  that  it could  not  satisfactorily  be unraveled  and
+          adjudged by  a jury;  and whether  or not  such complication
+          exists is for the court in the exercise of its discretion.
+        - ‘The general  rule is, that  to give equity  jurisdiction on
+          the ground of complicated accounts, the complication must be
+          substantial and so great that  the matter could not properly
+          and satisfactorily be unraveled and adjusted by a jury in an
+          action at law, and unless  such complexity appears, the mere
+          fact  that the  case  involves a  long  account or  numerous
+          items, or that proof would  be difficult, is insufficient to
+          warrant the interposition of  equity; and this is especially
+          true where  there are  no mutual items  of account  or other
+          grounds for equitable jurisdiction.
+        - ‘No precise  rule can  be laid down  as to  what constitutes
+          such   complication  of   accounts  as   will  give   equity
+          jurisdiction, that  being a matter for  the determination of
+          the  court in  a  particular  case in  the  exercise of  its
+          discretion.’
+        - Subdivision d, of the same  section, p. 653, states the rule
+          that:  ‘An account  is not  mutual where  the items  are all
+          charges against  one party and  in favor of another,  or are
+          all on one side although made up of debits and *567 credits;
+          and in such  case _equity will not  take jurisdiction_, unless
+          some special  equitable feature is present;  nor will equity
+          take jurisdiction where the amount  due is known, unless the
+          relation  between the  parties  is sufficient  in itself  to
+          invoke  equity  jurisdiction, and  a  mere  legal claim  for
+          damages is insufficient.’
+        - As  to complicated  accounts, it  is stated  in 1  Am. Jur.,
+          title  Accounts  and Accounting,  §  53,  p. 301,  that  the
+          general  rule  is that  the  fact  that  a case  involves  a
+          complicated account  is ordinarily  a sufficient  reason for
+          the assumption  of jurisdiction  of the case  by a  court of
+          equity, ‘upon the ground of its superior equipment to handle
+          and dispose  of such issues.’ The  paragraph concludes: ‘The
+          jurisdiction  of a  court of  law  cannot be  ousted and  an
+          accounting  ordered  in  equity  merely  because  there  are
+          several items  in the account,  or because of  the necessity
+          for   considering   numerous   transactions,  or   for   the
+          examination of books and records.’
+        - In  35 C.J.,  title  Juries,  § 34,  p.  163,  is found  the
+          following:  ‘While courts  of  equity  have jurisdiction  of
+          matters of account, the  jurisdiction is not exercised where
+          there is an adequate remedy at  law and the case presents no
+          special  ground of  equitable jurisdiction.  The right  to a
+          jury trial  in such cases  depends upon whether the  case is
+          properly  one  of  equitable  cognizance.  The  case  is  of
+          equitable  cognizance and  triable without  a jury  where it
+          involves the examination and  settlement of mutual accounts,
+          or an accounting where there is a fiduciary relation between
+          the  parties, or  an examination  of accounts  which are  so
+          complicated that a trial by jury would be impracticable, and
+          also  where a  discovery is  necessary, unless  by statutory
+          provision a discovery can be had in an action at law and the
+          case    presents    no    other    ground    of    equitable
+          jurisdiction.  But, if  the action  is merely  to enforce  a
+          legal  demand  and  presents  no special  ground  of  equity
+          jurisdiction, it is triable by jury, even though it involves
+          the examination *568 of a  long account, unless the practice
+          in the particular state was  otherwise prior to the adoption
+          of the constitution.’
+        - While in determining  such a question as  is here presented,
+          the action of  the trial court in the exercise  of its sound
+          discretion  should   be  upheld,  if  that   discretion  was
+          exercised within  legal limits,  careful examination  of the
+          record before us convinces us that the case presented to the
+          trial court  on the pleadings and  at the time the  case was
+          called for  trial was  one purely legal  in its  nature, and
+          that  the trial  court erred  in denying  appellant's demand
+          that the action be tried to a jury.
+      - Starks v. Field :: Supreme Court of Washington. April 20, 1939. 198 Wash. 593; 89 P.2d 513
+        - Actions for an  accounting must state the  existence *601 of
+          all the facts  necessary to entitle plaintiff  to the relief
+          which he seeks, including  an allegation that the accounting
+          was demanded and refused.
+        - In the case of Seattle  National Bank v. School District, 20
+          Wash. 368, 55 P. 317, 319, this court stated: ‘In general, a
+          complaint for an accounting  must show by specific averments
+          that  there is  a  fiduciary relation  existing between  the
+          parties,  or that  the  account is  so  complicated that  it
+          cannot conveniently  be taken  in an action  at law.  And it
+          must allege  that the  plaintiff has demanded  an accounting
+          from the defendant,  and the latter's refusal  to render it,
+          in  order   to  state   a  cause   of  action.   1  Enc.Pl.&
+          Prac. p. 98.’
+        - The same rule is laid down in  French v. C. F. & T. Co., 124
+          Or. 686, 265 P. 443; and  1 C.J.S., Accounting, 660, § 28; 1
+          Bancroft, Code Practice and Remedies (1927), 337, § 219.
+      - Gauthier v. Dickerson :: Supreme Court of Washington, Department 1. October 30, 1952. 41 Wash.2d 419; 249 P.2d 370
+        - Contract;  R had  duty to  keep  accurate set  of books  and
+          records; in this case net  profits are not at issue however;
+          the transactions in this case  are not present in CL's case;
+          R  had duty  and obligation  to  act with  honesty and  good
+          faith.  No mutual accounts.
+        - We  are in  accord with  the view  of the  trial court  that
+          appellant was entitled to an accounting. Under the contract,
+          it was  the duty of respondents  to keep an accurate  set of
+          books  and records  so  that net  profits  could readily  be
+          determined from time to time. It appears that a large number
+          *422 of  contracts were  made with  customers, and  in their
+          execution  there  were  many   items  of  cost  and  expense
+          incurred,  materials furnished,  and payments  received. The
+          factual situation  surrounding the various  transactions was
+          particularly within  the knowledge of respondents.  The duty
+          and obligation assumed by  respondents required the exercise
+          of honesty and good faith.
+        - When  the  court finally  reached  the  conclusion that  the
+          action was to require respondents  to make an accounting, it
+          should  have entered  an interlocutory  order in  accordance
+          with the  rules recognized and  pronounced by this  court in
+          *423 Fincham  v. A.  U. Pinkham  & Co.,  133 Wash.  517, 233
+          P. 913,  and Muscek  v. Equitable Savings  & Loan  Ass'n, 25
+          Wash.2d 546, 171 P.2d 856.  In those cases, we decided that,
+          when an  action is  brought to require  an accounting  to be
+          made, the  court must first  try and determine  the question
+          whether an accounting will lie. If that question be answered
+          in the  affirmative, it  is then  the duty  of the  court to
+          enter  an   interlocutory  order   that  an   accounting  be
+          rendered. When such accounting is made, the plaintiff should
+          promptly make  and file  such objections  thereto as  he may
+          have,  and  thereupon  the   court  should  either  order  a
+          reference  or  fix  a  date   and  hear  and  determine  the
+          objections.
+      - Muscek v. Equitable Sav. & Loan Ass'n :: upreme Court of Washington, Department 1. August 8, 1946. 25 Wash.2d 546; 171 P.2d 856
+        - Right to an accounting and procedure.
+        - ‘It seems  to us that  the trial  court erred in  the ruling
+          complained of. It is the well-established practice, where an
+          accounting is demanded  and the right thereto  is denied, to
+          first  settle and  determine that  issue, and  then, if  the
+          right thereto  be established, to  order a reference,  or to
+          take the  account before the  court at  a future date  to be
+          determined. It is manifest  that, although the appellant had
+          filed  interrogatories and  by  direction of  the court  had
+          submitted a  bill of particulars,  yet, in so doing,  he was
+          without the  benefit of the books,  records, and information
+          which were in the possession of the respondent, and to which
+          he was entitled to assist him in taking the accounting. This
+          is accented by the  fact that appellant's preliminary motion
+          for inspection of  the books was allowed only  to the extent
+          of requiring  the books  to be produced  at the  trial. When
+          equity  undertakes  an  accounting,  it  will  go  into  the
+          question thoroughly, and, so  far as possible, ascertain all
+          of  the  facts  and  decree  absolute  justice  between  the
+          parties. It  is manifest  that, where  numerous transactions
+          are involved,  running over  a period of  considerable time,
+          and recovery is to be  based upon profits *556 accruing from
+          each of such  transactions, something more is  needed than a
+          cursory examination of a set of  books in court, or even out
+          of court during  the hours when the court is  not in session
+          while the case  is progressing. Probably the  services of an
+          expert might be necessary, but, whether so or not, such time
+          should be  given as  under all of  the circumstances  of the
+          case  will  assure ample  opportunity  to  develop the  full
+          truth. This  was not the  refusal to grant a  continuance in
+          the ordinary sense, but a denial of a substantial right.’
+    - Key 9 :: Persons Entitled to an Account
+  - Keys 11-22 :: Proceedings and Relief
+    - Key 11 :: Action of Account or Account Render
+    - Key 12 :: Equitable Jurisdiction
+    - Keys 13-22 :: Equitable Actions
+      - Key 20 :: Taking and Stating Account, and Reference Thereunder
+        - Key 20(.5) :: In General
+        - Key 20(1) :: Reference and Proceedings Thereunder
+        - Key 20(2) :: Report and Findings and Proceedings Thereon
+        - Key 20(3) :: Adjustment of Account
+  - Keys 24-26 :: Operation and Effect of Accounting
+    - Key 24 :: Conclusiveness of Judicial Settlement
+
+**** Annotation References
+- "Mutual" accounts-when
+- Right to accounting between attorneys associated in practice, in absence of formal partnership
+- Venue
+- Availability of equitable remedy of accounting between principal and agent
+- Laches
+
+**** § 117 Introductory Comments
+An *accounting* requires that the accounts between the parties be adjusted and that a judgment be given for the balance found to be owing from one party to the other.
+
+An accounting may be rendered by a common-law court.
+
+The greater flexibility of the equity court in matters of procedure has made that court the one usually resorted towhere the adjustment of complicated accounts is sought or where the need for discovery is shown.
+
+The usual grounds for equitable jurisdiction may be invoked, such as
+- fraud,
+- multiplicity of suits,
+- fiduciary relationship between the parties.
+
+See
+- Am . Jur. 2d, Accounts and Accounting §§52 to 54
+- C.J.S. Accounting §§1 et seq.
+- West's Digest References: Account Key 11 et seq.
+
+
+***** Prerequisite
+
+Prior demand by the plaintiff for anaccounting and a refusal by the defendant to account.
+
+Must be alleged in the pleading.
+
+PL declaration must show
+- the requisite confidential or fiduciary relationship between the parties;
+- the existence of facts entitling the PL to an accounting; and
+- no accounting has been made.
+
+See
+- Am. Jur. 2d Accounts and Accounting §§61, 64
+
+**** § 118 Checklist--Drafting a Complaint, Petition, or Declaration in an action for accounting and to recover balance ascertained to be due
+
+- Existence of jurisdictional requisites
+- Facts laying venue of action
+- Circumstances giving rise to defendant's duty to render account
+- Facts entitling plaintiff to accounting
+- Prior demand for accounting and refusal or failure by defendant to render account
+- Request for relief
+
+**** § 119 Checklist--Establishing Grounds for equitable jurisdiction for accounting
+
+- Existence of fiduciary relationship with duty resting on defendant to render account
+- Existence of mutual accounts or if the account is all on one side, the fact that the account is complicated.
+- The need for discovery
+- Other grounds for invoking equity jurisdiction, generally
+  - Fraud
+  - Multiplicity of suits, etc.
+
+*** §§ 120-130 B. Mutual or Complicated Account
+
+*** §§ 131-149 C. Trust or Fiduciary Relationship
+
+**** West's Digest References
+
+- Account :: Key 4
+
+**** Annotation References
+
+- Trusts
+- Attorney partners without partnershp
+- Between principal and agent
+- Laches
+
+**** § 131 Introductory Comments
+
+Courts of equity have original jurisdiction to state and settle accounts, or to compel an accounting, where a fiduciary relationship exists between the parties and the duty rests on the defendant to account.
+
+The inadequacy of the legal remedy forms the basis for equity jurisdiction, and a suit in equity for an accounting.
+
+A prior demand for an accounting, and a refusal by the opposite party to account are generally necessary in order to maintain an action for accounting in equity.
+
+The claimant's allegations must be sufficient to show the existence of all jurisdictional requisites and that something is due the claiming from the opposite party.
+
+The claimant's pleadings must set out primary specific facts showing that a cause of action exists; mere conclusions or general allegations are insufficient.
+
+***** Two Stages
+
+A suit in equity is generally tried in two stages:
+
+1. whether there is any right to an accounting;
+2. if yes, the actual accounting, in which the court may refer the matter to a master, who will take and state an account between the parties.
+
+
+The burden of proving the correctness of an account is on the party making the accounting.

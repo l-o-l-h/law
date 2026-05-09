@@ -1,0 +1,69 @@
+#+title:      Kiemle & Hagood Company v. Daniels
+
+#+date:       [2026-01-09 Fri 17:24]
+#+filetags:   :fact:material:osc:right:trial:
+#+identifier: 20260109T172453
+#+signature:  coa3
+
+* Whether the court should have ordered a trial
+
+¶39 The parties debate whether Ms.  Daniels was entitled to a trial at
+the conclusion  of the  show cause  hearing. As  previously explained,
+while a show cause hearing resolves the preliminary question of who is
+entitled  to possession  of  the  premises during  suit,  it does  not
+necessarily  resolve *218  questions regarding  the ultimate  right to
+possession or other remedies. Randy  Reynolds, 193 Wash.2d at 157, 437
+P.3d 677.  Even if  a landlord obtains  preliminary success  through a
+writ of restitution, trial on the  right of possession must be ordered
+if the tenant  raises genuine issues of material fact  pertaining to a
+defense or setoff. RCW 59.18.380.
+- Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 217–18, 528 P.3d 834, 844 (2023)
+
+* Standard of Review
+
+¶41  The  standard  of  review  governing this  inquiry  is  not  well
+developed. In the recent case of  Tedford v. Guy, Division Two of this
+court stated we review a trial  court's decision on whether to order a
+trial for abuse  of discretion. 13 Wash.  App. 2d 1, 16,  462 P.3d 869
+(2020). But Tedford's statement does not draw from the language of the
+applicable statute, nor is it based  on Supreme Court precedent. It is
+not binding  on us. See In  re Pers. Restraint of  Arnold, 190 Wash.2d
+136, 154, 410 P.3d 1133 (2018).  The wording of the applicable statute
+indicates a  tenant is  entitled to a  trial so long  as they  raise a
+“genuine issue” of “material fact.”  RCW 59.18.380. This is nearly the
+identical language  that governs  summary judgment.  See CR  56(c). We
+review summary judgment orders de  novo. Staples v. Allstate Ins. Co.,
+176 Wash.2d 404, 410, 295 P.3d  201 (2013). Thus, it appears something
+close to  de novo  review should  *219 apply, at  least when  a tenant
+denies the  landlord's grounds for  eviction or raises  an affirmative
+defense.5
+- Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 218–19, 528 P.3d 834, 844 (2023)
+
+
+* Genuine Issue of Material Fact
+
+¶45 Reasonableness  is typically a question  of fact, but a  court can
+resolve  a  question of  reasonableness  “as  a  matter of  law  where
+reasonable minds  could come to  only one conclusion.” Lakey  v. Puget
+Sound Energy, Inc.,  176 Wash.2d 909, 924, 296 P.3d  860 (2013). Here,
+K&H's evidence of interference with its enjoyment of the apartment was
+not so strong that it could  lead to only one conclusion. The evidence
+certainly   revealed  Ms.   Daniels's   apartment  was   significantly
+unkempt.  However, there  was no  conclusive evidence  her failure  to
+clean  the premises  had tangibly  damaged  the property  or posed  an
+imminent  threat of  such injury.  There was  evidence of  some rodent
+droppings, but  Ms. Daniels  testified that those  did not  evidence a
+recent infestation because she had quelled any problem with mice after
+the  first four  months of  her tenancy.  Nor was  there evidence  the
+condition of her  apartment was noticeable to anyone who  did not step
+foot into the unit.  21
+
+¶46 We disagree  with the trial court's determination  that there were
+no  genuine  issues of  material  fact  as  to  *221 whether  K&H  had
+established substantial or repeated and unreasonable interference with
+its right to  enjoy the property. Trial is required.  As recognized by
+the trial court's oral ruling, **846  there are also issues of fact as
+to other components  of RCW 59.18.650(2)(c). Thus, the  issue at trial
+will be whether  K&H can establish any grounds for  eviction under RCW
+59.18.650(2)(c).
+- Kiemle & Hagood Co. v. Daniels, 26 Wn. App. 2d 199, 220–21, 528 P.3d 834, 845–46 (2023)

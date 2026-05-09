@@ -1,0 +1,97 @@
+#+title:      RCW 4.08.080 Action on assigned choses in action
+#+date:       [2026-03-11 Wed 15:03]
+#+filetags:   :action:assignment:chose:law:
+#+identifier: 20260311T150307
+#+signature:  rcw=4=08=080
+
+* RCW 4.08.080 Action on assigned choses in action
+
+- Any assignee or assignees
+  - of any
+    - judgment,
+    - bond,
+    - specialty,
+    - book account, or
+    - other chose in action,
+    - for the payment of money,
+  - by assignment in writing,
+    - signed by the person authorized to make the same,
+- may,
+  - by virtue of such assignment,
+- sue and
+- maintain
+  - an action or
+  - actions
+  - in his or her name,
+  - against
+    - the obligor or
+    - obligors,
+    - debtor or
+    - debtors,
+    - named in such
+      - judgment,
+      - bond,
+      - specialty,
+      - book account, or
+      - other chose in action,
+- notwithstanding
+  - the assignor
+  - may have an interest in the thing assigned:
+- PROVIDED,
+  - That
+    - any debtor
+    - may plead
+    - in defense
+    - as many
+      - defenses,
+      - counterclaims and
+      - offsets,
+    - whether they be such as have heretofore been denominated
+      - legal or
+      - equitable, or
+      - both,
+    - if
+      - held by him
+        - against the original owner,
+        - against the debt assigned,
+      - save that
+        - no counterclaim or
+        - offset
+        - shall be pleaded
+        - against
+          - negotiable paper assigned before due, and
+          - where the holder thereof
+            - has purchased the same
+              - in good faith and
+              - for value, and
+          - is
+            - the owner of all interest therein.
+
+* Action on an Assigned Account
+
+In an action on an assigned  account, where defendant sets up defenses
+seeking equitable relief against  assignor, court may require assignor
+to  be made  party to  the end  that a  complete determination  of the
+controversy may be had.
+- _State v. Superior Court for King County_ (1912) 67 Wash. 355, 121 P. 847.
+
+* Assignments | Key Number Topics 38k121 | In Name of Assignee
+
+Assignee of chose in action may sue in his own name.
+- _State v. Superior Court for King Cnty._, 67 Wash. 355, 121 P. 847 (1912)
+
+** Explanation for Rule
+
+1 Waiving other questions raised by the parties, we are convinced that
+the writ  should not issue,  notwithstanding this court  has uniformly
+held that an assignee of an  account or chose in action could maintain
+a suit in  his own name, although  such an assignment is  made for the
+purpose of collection only, and the  assignee had no other interest in
+the thing  assigned. *The sum of  our holdings is that  an assignee has
+sufficient interest to maintain the  suit.*
+- _Conway v. Co-operative Home Builders_, 117  Pac.  716;
+- _Von  Tobel v.  Stetson  & Post Mill  Co._, 32 Wash.  683, 73 Pac.  788;
+- _McDaniel v.  Pressler_, 3 Wash.  636, 29 Pac. 209;
+- _Riddell v.  Prichard_, 12 Wash. 601, 41 Pac. 905; Barto v. Seattle & Int. Ry. Co., 28 Wash. 179, 68 Pac. 442.
+
+- _State v. Superior Court for King Cnty._, 67 Wash. 355, 356, 121 P. 847, 847 (1912)

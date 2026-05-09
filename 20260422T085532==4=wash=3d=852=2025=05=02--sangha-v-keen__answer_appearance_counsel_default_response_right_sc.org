@@ -1,0 +1,126 @@
+#+title:      Sangha v. Keen
+#+date:       [2026-04-22 Wed 08:55]
+#+filetags:   :answer:appearance:counsel:default:response:right:sc:
+#+identifier: 20260422T085532
+#+signature:  4=wash=3d=852=2025=05=02
+
+* Synopsis
+
+** Background
+
+Residential landlord initiated unlawful detainer action against
+tenant. The Superior Court, King County, Johanna Bender, J., granted
+landlord's motion for default judgment evicting tenant and writ of
+restitution after tenant filed notice of appearance, due to tenant's
+failure to file answer to complaint, and then denied tenant's motion
+to vacate default judgment. Tenant appealed and requested accelerated
+review, which was granted.Residential landlord initiated unlawful
+detainer action against tenant. The Superior Court, King County,
+Johanna Bender, J., granted landlord's motion for default judgment
+evicting tenant and writ of restitution after tenant filed notice of
+appearance, due to tenant's failure to file answer to complaint, and
+then denied tenant's motion to vacate default judgment. Tenant
+appealed and requested accelerated review, which was granted.
+
+** Holdings
+
+The Supreme Court, Madsen, J., held that:
+
+- 1. tenant who filed timely written notice of appearance in response
+  to summons and complaint was not required to file answer to
+  complaint, under unlawful detainer statutes, thus precluding
+  landlord's entitlement to default judgment, and
+
+- 2. landlord was not entitled to recover attorney fees on appeal.
+
+Default judgment reversed; case remanded.
+
+* Headnotes
+
+** 1) Question of Law Means Review de Novo
+  - Appeal and Error | 30-k-3173 Statutory or legislative law
+  - Appeal and Error | 30-k-3192 Rules of court in general
+
+
+A superior court's interpretation of a statute and court rule involves
+a question of law, which the appellate court reviews de novo.
+
+** 2) Meaning of a Court Rule is Same as Meaning of a Statute
+- Courts | 106-k-85(2) Construction and application of rules in general
+
+When determining the meaning of a court rule, the court applies the
+same principles it uses to determine the meaning of a statute.
+
+** 3) Intent of Legislature
+- Statutes | 361-k-1071 Intent
+
+The court's fundamental purpose in construing statutes is to ascertain
+and carry out the intent of the legislature.
+
+** 13) Response or Appearance is Required; Defafult May be Entered; Right to Attorney Prior to Execution of Writ
+- Landlord and Tenant | 233-k-1793: Summary proceedings
+- Landlord and Tenant | 233-k-1804: Judgment and enforcement thereof
+- Trial | 388-k-21: Presence of parties and counsel
+
+
+- The statutory summons provision in an unlawful detainer action,
+- the indigent tenant's right to counsel, and
+- the court rule governing appointment of counsel for the indigent tenant
+
+explain that *a _response_ to a summons and complaint in an unlawful
+detainer action is required,*
+
+and a tenant may comply by *submitting a written notice of appearance,*
+
+but if a tenant
+- *fails to respond*, or
+- *fails to appear*
+- at a show cause hearing or
+- other unlawful detainer proceeding,
+- and a judgment is taken against them,
+
+_such tenant may request appointment of an attorney prior to execution
+of the writ of restitution;_
+
+this latter circumstance recognizes that default judgments are
+available in unlawful detainer actions, but only if the unrepresented
+tenant fails to respond by the date noted in the summons or fails to
+appear at a show cause or other unlawful detainer proceeding.
+
+*Wash. Rev. Code Ann. § 59.18.365(3); S.P.R. 98.24W.*
+
+** 14) A Tenant Who Responds to a Summons & Complaint with a NOA is entitled to a SCH
+- Landlord and Tenant | 233-k-1793: Summary proceedings
+
+A tenant who *responds* to a summons and complaint in an unlawful
+detainer action _with a notice of appearance_
+
+/will receive a show cause hearing/ where the tenant may then answer
+orally or in writing,
+
+and if the tenant appears without counsel at the show cause hearing,
+the court *must* inform a tenant (if indigent) that they have a right to
+counsel and refer them for eligibility screening.
+
+*Wash. Rev. Code Ann. §§ 59.18.365(3), 59.18.380; S.P.R. 98.24W.*
+
+** 15) Tenant Not Required to File Answer by Summons Return Date but Is Required to Appear
+- Landlord and Tenant | 233-k-1781: Nature and form
+
+Residential tenant who
+- filed timely written notice of appearance in response to landlord's summons and complaint in unlawful detainer action,
+- in accordance with unlawful detainer statute governing tenant's service of answer or notice of appearance,
+
+was *not required* to file written answer to complaint in addition to notice of
+appearance,
+
+and thus,
+
+*tenant's failure to file answer to complaint did not entitle landlord
+to default judgment for unpaid rent;*
+
+unlawful detainer action was *special proceeding* to which civil rule
+governing default judgment, which was inconsistent with unlawful
+detainer statutes, did not apply.
+
+*Wash. Rev. Code Ann. § 59.18.365(3); Wash. Super. Ct. Civ. R. 55, 81(a).*

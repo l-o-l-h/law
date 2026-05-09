@@ -1,0 +1,12 @@
+#+title:      Parties
+#+date:       [2026-03-11 Wed 15:39]
+#+filetags:   :litigation:party:
+#+identifier: 20260311T153949
+#+signature:  law
+
+* Parties | Key Number Topics 287 k 51(4) | Persons Who May Be Brought In, and Grounds in General
+
+Under Rem. & Bal.Code, §§ 191,  196, 265, 273, RCW 4.08.080, 4.08.130,
+4.32.100, 4.32.090, a defendant in an action by an assignee of a chose
+in action may require the court to bring in the assignor.
+- _State v. Superior Court for King Cnty._, 67 Wash. 355, 121 P. 847 (1912)

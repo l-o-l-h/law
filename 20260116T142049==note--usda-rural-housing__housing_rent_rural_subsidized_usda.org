@@ -1,0 +1,57 @@
+#+title:      USDA Rural Housing
+#+date:       [2026-01-16 Fri 14:20]
+#+filetags:   :housing:rent:rural:subsidized:usda:
+#+identifier: 20260116T142049
+#+signature:  note
+
+* Email from Scott Crane
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Dec 19, 2025, 12:14 PM
+to Larisa, Housing
+
+Hi Larisa,
+
+It  depends  on a  bit  on  what your  issue  is.  Being evicted  from
+federally subsidized housing can be a basis for being denied admission
+to other federal housing opportunities, like a Section 8 voucher.
+
+USDA has properties that are mortgage subsidies, others than have that
+and  rental  assistance  like  a voucher  as  well.   The  multifamily
+properties are  governed by regulations at  7 CFR 3560 as  well as the
+asset management handbook:
+
+https://www.rd.usda.gov/media/file/download/usda-rd-hb-2-3560-consolidated.pdf.
+
+See [[denote:20260116T142501][training  usda-asset-management-handbook-<usda-rd-hb-2-3560-consolidated>]]
+
+Most of  the time  there is  a right to  a grievance  with management,
+although the  regulations exclude evictions  as something that  can be
+grieved.
+
+[[denote:20240709T072822][Here  also is  the PLI  subsidized housing  training materials]],  which
+includes an  overview of  the various USDA  property types.  You would
+want   to   use   preservationdatabase.org  to   narrow   yours   down
+specifically.
+
+Happy to chat more about it if it would be helpful.
+
+** Query had been
+
+I have  a client who  receives subsidized housing through  USDA, Rural
+Housing Service. This is a new  to me subsidized housing program. If a
+writ  issues, what  impact  will that  have on  their  ability to  get
+subsidized  housing  through  this  program  elsewhere  or  any  other
+subsidized housing?  Can you point me  to your go to  resource on this
+program?  I need to study up on this quickly.
+
+Thanks!
+
+Larisa A. Maxwell (she/they)
+HJP Staff Attorney
+Tacomaprobono Community Lawyers
+621 Tacoma Ave South, Ste. 303
+Tacoma, WA 98402
+www.tacomaprobono.org
+Tel: (253) 572-5134, ext. 914
+Fax: (253) 327-1649

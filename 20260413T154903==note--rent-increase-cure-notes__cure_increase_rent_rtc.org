@@ -1,0 +1,53 @@
+#+title:      Rent Increase Cure Notes
+#+date:       [2026-04-13 Mon 15:49]
+#+filetags:   :cure:increase:rent:rtc:
+#+identifier: 20260413T154903
+#+signature:  note
+
+* Questions
+
+Is it your belief that if a rent increase notice is illegal, that the
+demand to cure means that the landlord gets cure and simply refund the
+difference between the illegal amount and the legal amount for the
+period going back to the first increase, or the rent increase is
+simply void, and the prior rent applies until the landlord cures, and
+the new rent increase is prospective?  In other words, can a landlord
+illegally raise rent and wait and see? They have no incentive to do it
+right if they can increase say 15%, and then cure to 10% when they get
+caught.  If they lose the rent increase entirely when they get caught,
+then they have an incentive to do it right from the beginning.  You,
+30 min
+
+Also, if the rent increase notice was part of an offer to enter into a
+lease, and the rent increase notice was illegal, would it be safe to
+say that they have to make the offer to enter into a lease again when
+the notice is cured?
+
+* Answers
+
+I think that cure involves refund of any overpayment. I would say the
+notice was not valid, so no valid notice exists until the landlord
+issues a new one, meaning the old rent rate remained in effect. The
+new lease question is harder. That gets into meeting of the minds
+since a key term is now undefined. If the tenant signed it, it could
+be argued that a 9.XX% increase was intended (2026 max is just under
+10%) but you could argue that since the landlord included the improper
+provision, the ambiguity is read in favor of the non-drafting
+party. That might leave it open for the original rate to apply
+
+I think it is more likely that a valid rent rate is a key term for the
+rental and without it there is no agreement on the new lease, leaving
+the tenant as a month to month tenant with the original rate.
+
+* Explanation
+
+The tenants are Chukese.  I don't think they understood they were
+being served a rent increase notice with an option for a new lease.
+The landlord defaulted them into a month-to-month.  However, because
+they made a mistake about the carport rent actually being charged,
+they exceeded the 10% for the month-to-month rent, and so that
+violated .700.  The LL intended the increased month-to-month to be
+exactly 10%, but it turned out to be 10.8%.  It was also 7% higher
+than the lease amount.  Now I'm trying to give the tenants the option
+of a year lease at a slightly lower amount.  That statute cure
+provision leaves a lot to interpretation.

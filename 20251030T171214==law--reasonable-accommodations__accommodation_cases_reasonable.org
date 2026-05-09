@@ -4,6 +4,9 @@
 #+identifier: 20251030T171214
 #+signature:  law
 
+See also:
+[[file:/Users/lolh-mbp-16/.local/share/notes/law/20260306T155956==brief--brief-on-reasonable-accommodation-fed-and-state-law__accommodation_federal_law_reasonable_wa.pdf]]
+
 * Kiemle & Hagood Company v. Daniels -- 26 Wash.App.2d 199, 528 P.3d 834 (Div 3 April 27, 2023)
 
 ** Synopsis
@@ -434,3 +437,14 @@ but also their “policies, practices, or services.” RCW 49.60.222(2)(b)
 * Fair Housing Claims in an Eviction: Disabilitiy Discrimination
 
 https://vimeo.com/985225057/c4cd13838c?share=copy
+
+* Douglas v. Kriegsfeld Corp., 884 A.2d 1109, 1126 (2005)
+Until  a   landlord  makes   a  good   faith,  reasonable   effort  at
+accommodation,  upon  request, after  learning  of  a tenant's  mental
+impairment, the landlord's  continued pursuit of a  pending action for
+possession is a discriminatory act under the Fair Housing Act.
+
+* 42 U.S.C. §3604(f)(2), (3)(B)
+
+* RCW 49.60.222(1)(f)
+[[file:/Users/lolh-mbp-16/.local/share/notes/law/20250915T092854==rcw=49=60=222--rcw-4960222-unfair-practices-with-respect-to-real-estate-transactions-facilities-or-services__discrimination_rcw_real_ud_unfair.org::*(f) \[Sale or Rental\]][(f) [Sale or Rental]]]

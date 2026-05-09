@@ -1,0 +1,134 @@
+#+title:      Good Faith ideas
+#+date:       [2025-10-31 Fri 16:50]
+#+filetags:   :goodfaith:mhlta:soid:
+#+identifier: 20251031T165042
+#+signature:  law
+
+* Good Faith
+Adapted good faith argument:
+
+Failing to offer a lease and, thereby, denying the defendant the right to a tenancy violated a consent decree. If the statutory obligation to act in good faith means anything, it requires the owners of mobile home parks to comply with consent decrees. The owners of mobile home parks must act in good faith “as a condition precedent to the exercise of a right or remedy under this chapter[.]” RCW 59.20.020; see also, Country Manor MHC, LLC v. Doe, 176 Wn. App. 601, 609, 308 P.3d 818 (2013). Unfortunately, no appellate opinion explains either how to determine whether this duty has been breached or the consequences of a breach.  Accordingly, the duty to act in good faith might be merely a non-justiciable aspiration, like a parent who, when irked by screaming and wailing from another room, hollers, “play nice kids!”
+Or, perhaps, the MHLTA merely restates the “implied duty of good faith and fair dealing” that “obligates the parties to cooperate with each other so that each may obtain the full benefit of performance.” Badgett v. Sec. State Bank, 116 Wn.2d 563, 569, 807 P.2d 356 (1991). If so, a breach of the duty to act in good faith can prevent an eviction even if the landlord may still recover “the rents agreed upon[.]” Strom v. Union Oil Co., 88 Cal. App.2d 78, 83-85, 198 P.2d 347 (Cal. Ct. App. 1948); and Bawa v. Terhune, 244 Cal. Rptr. 3d 854 (Cal. Super. 2019). This result is consistent with Washington’s provision that good faith is “a condition precedent to the exercise of a right or remedy under this chapter” because a writ of restitution is a remedy under the MHLTA, but a money judgment is not. RCW 59.20.020. Refusing to evict the tenant is a particularly appropriate application of the statutory duty of good faith in this case because the defendant is a tenant at will primarily because the plaintiff violated its obligation under the consent decree to offer the defendant a lease.
+
+...
+
+good faith is “a question of fact.” Smith v. Safeco Ins. Co., 150 Wn.2d 478, 486 (2003) (citing Van Noy v. State Farm Mut. Auto. Ins. Co., 142 Wn.2d 784, 796, 16 P.3d 574 (2001)). Pattern jury instructions have been issued for contracts, WPI 302.11, and insurance disputes, WPI 320.02.
+The very nature of a dispute about good faith supports this case law. Different people can answer the same question about good faith differently. One person, however judicious,  is likely to overlook some aspect of the dispute that would be noticed and analyzed by twelve people deliberating as equals.
+
+* Email Discussions re SOID and Good Faith in Mobile Home Park under MHLTA
+
+** [HTF] Replacing SOID with a CPA claim under MHLTA?
+
+*** Original Message from Carl G. Snodgrass
+On Feb 10, 2026, at 10:28 AM, Carl Snodgrass via groups.nwjustice.org <carl.snodgrass=nwjustice.org@groups.nwjustice.org> wrote:
+
+Hey all,
+
+I’m still not clear why the MHLTA doesn’t incorporate source of income discrimination under 59.18.255. But since it doesn’t, I’m curious if anyone has tried instead arguing that MH park conduct that discriminates against a tenant (via, for example, refusing to accept rental assistance) instead constitutes an unfair or deceptive practice in violation of the Consume Protection Act.
+
+Has that been tested, or at least talked about? If not, what are folks’ thoughts? Any potential meat on them bones?
+
+Carl G. Snodgrass (he/they)
+Staff Attorney, Northwest Justice Project (Vancouver)
+1104 Main St., #500, Vancouver, WA 98660
+T: 360.693.6130 | M: 206.707.7228 | Fax: 206.299.9716
+www.nwjustice.org l CLEAR Intake Line 1.888.201.1014 (M-F 9:15 am to 12:15 pm)
+
+*** From Chris Brunetti [2026-02-11 Wed 10:02]
+Chris Brunetti via groups.nwjustice.org <chris.brunetti=nwjustice.org@groups.nwjustice.org>
+Feb 11, 2026, 10:02 AM (2 days ago)
+to Benjamin, Carl, Tyler, MH, Housing
+
+I pretty much agree with everything that Ben and Tyler said.  It's unfortunate that a lot of judges/commissioners disregard the good faith arguments, but I'm not completely cynical.  I think Ben has a good point about talking about good faith without explicitly talking about good faith — if that makes sense.  The judge/commissioner isn't going to read your 25 page treatise on good faith or other common law contract defenses.  This may sound a little too simple, but sometimes just appeal to common sense - "Your honor, my client (or someone acting on their behalf) tried to pay the landlord, and they rejected it for no reason.  We don't need to be here in court taking up your time and clogging up the docket."  This probably resonates more with more judges/commissioners than overly academic arguments (save those for the appeal).  The handful of times I've seen this issue come up in court (where a landlord rejects payments made by a tenant or rental assistance agency), the judge/commissioner seems annoyed and frustrated with the landlord.
+
+That all being said, if you need some briefing, here's some briefing discussing the common law duty of good faith and that one party's interference with the performance of the other party's obligations under the contract discharges duty to perform -
+
+    “In every contract there is an implied covenant of good faith and fair dealing which obligates the parties to cooperate with one another so that each may obtain the full benefit of performance.”  Cavell v. Hughes, 29 Wn.App. 536, 539, 629 P.2d 927 (1981).  “It follows axiomatically that the failure or nonoccurrence of a condition will not excuse the promisor’s performance if the condition’s failure was the fault of the promisor.”  Id.
+
+     In Jones Assocs., Inc. v. Eastside Properties, Inc., Jones, an engineering firm, brought an action against Eastside, a real estate development corporation, for money due under a professional services contract.  41 Wn.App. 462, 463, 704 P.2d 681 (1985).  The trial court dismissed Jones’ complaint based on its interpretation of a provision in the contract that required Jones to obtain county approval of the short plat application.  Id. at 464.  On appeal, Jones argued, among other things, that the trial court erred in failing to consider evidence that Eastside prevented Jones from obtaining county approval of the short plat application.  Id. at 471.  The Court of Appeals agreed with Jones, and remanded the case back to the trial court for further proceedings, holding that “all contracts embody an implied condition that the parties will not interfere with each other’s performance, but will cooperate in food faith”, and that “[p]roof of a party’s interference with the performance of the other party’s obligation under the contract will work to discharge the other party’s duty.”  Id.
+
+I think it's helpful to remind courts that general contract principles apply, and sometimes analogize the situation in your case to non-UDA cases, like the Jones case discussed in this briefing.
+
+Good luck!
+
+*** From Tyler Graber [2026-02-11 Wed 09:33]
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> on behalf of Tyler Graber via groups.nwjustice.org <tylerg=nwjustice.org@groups.nwjustice.org>
+Sent: Wednesday, February 11, 2026 9:33 AM
+To: Benjamin Ramm <bramm@kitsaplegalaid.org>; Carl Snodgrass <carl.snodgrass@nwjustice.org>
+Cc: MH Sub-Committee <mhsubcommittee@nwjustice.org>; Housing Task Force (HTF@groups.nwjustice.org) <HTF@groups.nwjustice.org>
+Subject: Re: [HTF] Replacing SOID with a CPA claim under MHLTA?
+
+Beyond the good faith arguments that Ben raises that should be seen as correct (but courts will decline to reach), I think there would be other general equitable/contractual defenses if that LL were to sue/evict for nonpayment. If the case has progressed that far, then the MHLTA does incorporate .410, which does require them to accept pledges (which would cover rental assistance). So if they have to accept rental assistance after a UDA has been filed, then why wouldn’t they have to accept it before? (rhetorical). There is no reason you can’t plead it as a CPA claim if you can meet all the elements.
+
+Tyler Graber
+Northwest Justice Project
+711 Capitol Way S, Ste 704
+Olympia, WA 98501
+Tel. 509.381.2315
+
+*** From Benjamin Ramm [2026-02-10 Tue 16:51]
+From: HTF@groups.nwjustice.org <HTF@groups.nwjustice.org> On Behalf Of Benjamin Ramm
+Sent: Tuesday, February 10, 2026 4:51 PM
+To: Carl Snodgrass <carl.snodgrass@nwjustice.org>
+Cc: MH Sub-Committee <mhsubcommittee@nwjustice.org>; Housing Task Force (HTF@groups.nwjustice.org) <HTF@groups.nwjustice.org>
+Subject: Re: [HTF] Replacing SOID with a CPA claim under MHLTA?
+
+Caution: This is an external email. Please take care when clicking links or opening attachments.
+
+I’ve argued refusal to cooperate with rental assistance as a breach of the duty of good faith.
+
+Arguments about good faith have never succeeded. It’s not that any judge has rejected these arguments. It’s more that no one even acknowledges them.
+
+I am developing a cynical view of this duty. It seems to be a non-justiciable aspiration. The first rule of the duty of good faith is do not talk about the duty of good faith. If the duty has any effect at all, then it will probably be one of those laws that binds tenants but does not protect tenants while protecting landlords without binding them.
+
+Anyway, a couple of versions of the argument I’ve made if you want to crib from them follow my signature.
+
+Benjamin Ramm
+Staff Attorney
+Kitsap Legal Aid Services
+
+**** FIRST ARGUMENT ABOUT REINSTATEMENT (MHLTA)
+
+Landlords and tenants are obligated to act in good faith. RCW 59.18.020; see also, Country Manor MHC, LLC v. Doe, 176 Wn. App. 601, 609, 308 P.3d 818, 822 (2013). Good faith is “a condition precedent to the exercise of a right or remedy under this chapter[.]” Id. No exception to this duty is made for a landlord’s remedy of a writ of restitution.
+
+The statute does not define “good faith,” but Washington law does. The “implied duty of good faith and fair dealing” in every contract “obligates the parties to cooperate with each other so that each may obtain the full benefit of performance.” Badgett v. Sec. State Bank, 116 Wn.2d 563, 569, 807 P.2d 356 (1991). The “full benefits of performance” include all of a tenant’s rights under the RLTA because “[o]ne of the basic principles of contract law is that the general law in force at the time of the formation of the contract is a part thereof.” Arnim v. Shoreline Sch. Dist. No. 412, 23 Wn. App. 150, 153, 594 P.2d 1380 (1979). That is, every rental agreement includes a tenant’s right to reinstate a tenancy because that right is part of the “general law.”
+
+Washington law does not explain how to apply this definition of good faith to the Plaintiff’s behavior. It seems that litigants in Washington are more likely to act in good faith and less likely to litigate appeals than elsewhere.
+
+California’s courts have, however, been forced to address behavior like the Plaintiff’s. See, e.g., Strom v. Union Oil Co., 88 Cal. App.2d 78, 83, 198 P.2d 347 (1948); and Bawa v. Terhune, 244 Cal.Rptr. 3d 854, 860 (Cal. Super. 2019). The Strom opinion found a lessee’s failure to pay rent within a three-day notice period was excused because the lessor acted in bad faith in avoiding the tenant's attempts to pay within the period. The Court of Appeal explained that a landlord’s right to evict “presupposes that the lessor is desirous and willing that the lessee should pay his rent promptly, and will facilitate and not hinder him in doing so; that the lessor is not endeavoring merely to entrap his lessee into a technical breach of the lease.” Strom, supra, 88 Cal.App.2d at p. 81.
+
+Obviously, XXX is trying to reinstate his tenancy, not pay his rent before a notice expires. The challenge is to explain the difference, not just draw the distinction, in a way that strictly construes the statutes in favor of a tenant. That is, to rule in favor of the Plaintiff, this Court would have to decide that a landlord could frustrate a tenant’s ability to pay rent after, but not before, a lawsuit was filed even though no substantive difference exists between these situations. California law does not grant tenants a right to reinstate a tenancy like RCW 59.18.410(2). If it did, the defendants in Strom and Bawa would have done so and their cases never would have been the subject of appeals.
+
+Finally, even if a stay or continuance is not warranted, a jury trial is. Generally, good faith is “a question of fact.” Smith v. Safeco Ins. Co., 150 Wn.2d 478, 486 (2003) (citing Van Noy v. State Farm Mut. Auto. Ins. Co., 142 Wn.2d 784, 796, 16 P.3d 574 (2001)). Pattern jury instructions have been issued for contracts, WPI 302.11, and insurance disputes, WPI 320.02.
+
+The very nature of “good faith” supports this case law. This issue raises questions that can be answered differently by different people. One opinion, however, judicious is still just the opinion of one person. Therefore, good faith is an issue that is better resolved through the deliberations in which twelve people from the community scrutinize and critique each other.
+
+FN about CA law in WA:
+
+The underlying rule is the same in both Washington and California. In California, “[e]very contract imposes upon each party a duty of good faith and fair dealing in its performance and its enforcement.” Acree v. Gen. Motors Acceptance Corp., 92 Cal.App.4th 385, 393, 112 Cal.Rptr.2d 99 (Cal. Ct. App. 2001). Moreover, Washington courts have been guided by California’s forcible and unlawful detainer statutes. See, e.g., Randolph v. Husch, 159 Wash. 490, 495 (1930) (“California has a statute worded almost identical with our own and having exactly the same meaning and effect as the language used in our” statute); Gore v. Altice, 33 Wash. 335, 338 (1903) (“the statutes are essentially similar, and the court in the California case said...”); Huston v. Big Bend Land Co., 106 Wash. 130, 135 (1919); Exeter Co. v. Holland Corp., 172 Wash. 323, 350 (1933); Chezum v. Campbell, 42 Wash. 560, 564 (1906); Schreiner v. Stanton, 26 Wash. 563, 566 (1901); and Selene RMOF II REO Acquisitions II, LLC v. Ward, 189 Wn.2d 72, 79 (2017) (relying on a California statute that advances policies similar to those of Washington state for occupants after a foreclosure); and Munden v. Hazelrigg, 105 Wn.2d 39, 46 (1985) (referencing the conversion of an unlawful detainer action to an ordinary civil action once possession is not disputed).
+
+**** SECOND ARGUMENT, FROM AN APPELLATE BRIEF (RLTA)
+
+First, good faith is “a question of fact.” Smith v. Safeco Ins. Co., 150 Wn.2d 478, 486 (2003) (citing Van Noy v. State Farm Mut. Auto. Ins. Co., 142 Wn.2d 784, 796, 16 P.3d 574 (2001)). Pattern jury instructions have been issued for contracts, WPI 302.11, and insurance disputes, WPI 320.02.
+
+The very nature of a dispute about good faith supports this case law. Different people can answer the same question about good faith differently. One person, however judicious, is likely to overlook some aspect of the dispute that would be noticed and analyzed by twelve people deliberating as equals.
+
+In addition to arguments about the source of income discrimination, XXX agent claimed that it no longer accepted rental assistance. CP 125:13-15.  This statement and the additional hurdles erected by a demand for certified funds suggested that XXX, like the landlord in Strom, was not willing “to cooperate so that each may obtain the full benefit of performance.” Badgett, supra, 116 Wn.2d at p. 569.
+
+Second, eviction disputes rarely implicate public policy; the gas station lease at issue in Strom certainly did not. The dispute was entirely between the parties.
+
+XXX case, in contrast, asks whether public policy shapes the duty of good faith. That is, will courts deploy their power to evict tenants in favor of parties who impair or frustrate other public policies?
+
+XXX aversion to rental assistance frustrated public policy because “[i]t is the long-standing practice of the state to make rental assistance available … and it is the intent of the legislature to provide a payment on the tenant’s behalf to the landlord in certain eviction proceedings to give the tenant additional time to access resources that allow the tenants to stay in their home.” Laws of 2019 Chapter 356 § 1.
+
+XXX exemplified the Legislature’s concerns. She needed a financial bridge. She lost the ability to pay rent when XXX. Rental assistance exists to mitigate the damage inflicted on society by such tragedies. If nothing else, rental assistance costs less than homeless shelters.
+
+Nevertheless, XXX insisted that both the superior court and the sheriff’s department use public resources to enforce its private rights in ways that forced other agencies to spend more public money on XXX. Treating XXX as an ordinary creditor would have lessened the burden that it placed on the public when it preemptively refused rental assistance. In other words, a landlord who refuses rental assistance shouldn’t get the sheriff’s assistance.
+
+*** From Scott Crain [2026-02-11 Wed 10:11]
+
+Scott Crain via groups.nwjustice.org <scottc=nwjustice.org@groups.nwjustice.org>
+Feb 11, 2026, 10:11 AM (2 days ago)
+to Chris, Benjamin, Carl, Tyler, MH, Housing
+
+What’s the posture of your case? Are you defending a UDA or are you considering bringing a case? I think that may make a big difference. Prior to SOID becoming law, we had brought a few cases on a disparate impact theory. The data is pretty robust in most PHAs that an anti-HCV policy has a disparate impact on people of color and people with disabilities. The cases used to get pretty difficult at the second step when the burden shifted to the landlord to establish a business justification for the policy. With SOID being the law for most landlords, I think that case may be harder for them to make now.

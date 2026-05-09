@@ -1,0 +1,164 @@
+#+title:      Supreme Court Review of Statutory Eviction Process
+#+date:       [2026-04-22 Wed 09:47]
+#+filetags:   :eviction:law:procedure:review:rlta:sc:ud:
+#+identifier: 20260422T094710
+#+signature:  4=wash=3d=852=2025=05=02
+
+* Statutory Eviction Process
+
+¶8 Because this case concerns residential evictions, the right to
+counsel for indigent tenants, and the court rule implementing that
+right, it is useful to first review the statutory eviction process.
+
+/Sangha v. Keen, 4 Wn.3d 852, 858, 568 P.3d 1118, 1122 (2025)/
+
+
+** Unlawful Detainer
+
+¶9 Unlawful detainer actions are governed by chapters 59.12 and 59.18
+RCW.
+
+Procedures set out in the generalized unlawful detainer statutes,
+chapter 59.12 RCW, apply to the extent they are not supplanted by
+those in the Residential Landlord-Tenant Act of 1973 (RLTA), chapter
+59.18 RCW.
+- /Hous. Auth. v. Pleasant/, 126 Wash. App. 382, 390, 109 P.3d 422 (2005).
+
+Both chapters are in derogation of the common law and are strictly
+construed in the tenant's favor.
+- /Hous. Auth. v. Terry/, 114 Wash.2d 558, 563, 789 P.2d 745 (1990).
+
+
+¶10 To evict a holdover tenant,
+
+- a landlord must serve an eviction notice.
+
+- If the tenant has not complied with the *859 notice, the landlord
+  may commence an unlawful detainer action by serving to the tenant
+  the statutory summons and complaint.
+  - /Christensen v. Ellsworth/, 162 Wash.2d 365, 371, 173 P.3d 228 (2007).
+
+- The summons must contain certain information set out in RCW 59.18.365.
+
+
+¶11 The tenant's answer or notice of appearance must
+
+- be in writing by the return date listed in the summons. RCW 59.18.365.
+
+- “An appearance is a party's formal entry into a lawsuit.... By
+  appearing, a defendant becomes entitled to notice of all subsequent
+  proceedings.” 14 Douglas J. Ende, Washington Practice: Civil
+  Procedure § 9:1, at 314 (3d ed. 2018).
+
+- A defendant may appear simply by serving a written notice of
+  appearance, without immediately serving an answer.
+  - Id. § 9:2, at 315;
+  - see RCW 4.28.210.
+
+
+To evict the tenant,
+- a landlord may apply for a writ of restitution at the same time as
+  commencing the action or at any time thereafter.
+  - RCW 59.18.370.
+
+
+¶12 To obtain a writ of restitution,
+
+- the “landlord must apply for an order for a show cause hearing.”
+  - /Randy Reynolds & Assocs., Inc. v. Harmon/, 193 Wash.2d 143, 157, 437 P.3d 677 (2019);
+  - RCW 59.18.380.
+
+- A show cause hearing is
+
+  - a “ ‘summary proceeding[ ] to determine the issue of possession pending a lawsuit,’ and is not the final determination of rights in an unlawful detainer action.”
+    - /Reynolds/, 193 Wash.2d at 157, 437 P.3d 677 (alteration in original)
+    - (quoting /Carlstrom v. Hanline/, 98 Wash. App. 780, 788, 990 P.2d 986 (2000)).
+
+  - At a show cause,
+
+    - the court will determine if the landlord is entitled to a writ
+      of restitution before trial on the complaint and answer.
+      - RCW 59.18.380.
+
+- If, at the hearing on the motion for a writ
+  - “it shall appear to the court that there is no substantial issue
+    of material fact of the right of the plaintiff to be granted other
+    relief as prayed for in the complaint ...,
+
+  - the court may enter an order and judgment.”
+    - Id.
+
+  - As a practical matter,
+
+    - if the issue is payment of rent only, as here, and
+    - the tenant fails to show cause why the landlord is not entitled to the writ,
+    - the court may
+      - issue the writ and
+      - enter judgment for the unpaid rent.
+
+** Indigent Tenant Right to Counsel
+
+¶13 In 2021, the legislature enacted the *indigent tenant right to
+counsel statute*.
+- _Laws of 2021, ch. 115, § 8_
+- (codified in *RCW 59.18.640*).
+
+  The right to counsel provision was passed, among other changes, to the
+  RLTA in response to the COVID-19 pandemic.
+  - See id. § 1.
+
+  The legislature found that the pandemic caused “unprecedented” layoffs
+  and economic hardship to Washingtonians, resulting in lost wages and
+  the inability to pay for basic expenses, such as rent.
+  - Id.
+
+  Lawmakers recognized the continued financial precariousness of many
+  renters in Washington and the increased likelihood of evictions that
+  jeopardize renters’ health and safety.
+  - Id.
+
+  Thus, lawmakers intended the 2021 amendments to increase tenant
+  protections and provide legal representation for qualifying tenants
+  during evictions, among other things.
+  - Id.
+
+¶14 The right to counsel provision states that subject to the available appropriated amounts,
+- “the court *must* appoint an attorney for an indigent tenant in an
+  unlawful detainer proceeding under this chapter and chapters 59.12
+  and 59.20 RCW.”
+  - RCW 59.18.640(1).
+
+- OCLA is responsible for implementing the law.
+  - Id.
+
+The statute defines “indigent” as
+- any person who, at any stage of a court proceeding, is receiving
+  certain types of public assistance or receiving an annual income
+  after tax of 200 percent or less the current federal poverty level.
+  - RCW 59.18.640(2).
+
+The statute took effect in the spring of 2021.
+- Laws of 2021, ch. 115, § 8.
+
+
+¶15 To implement RCW 59.18.640, this court adopted _SPR 98.24W_,
+effective October 31, 2023.
+
+_SPR 98.24W_ applies to individuals qualifying for an attorney at public
+expense under .640.
+
+The rule contains two subsections:
+
+- (1) if a tenant appears in court without an attorney, the court
+  shall inform the tenant that if they are indigent, they have a right
+  to counsel, and the court shall continue the hearing so that counsel
+  may be obtained, and
+
+- (2) if a tenant is unrepresented and a judgment was entered (such as
+  default), *861 the tenant may file a motion requesting appointment
+  of attorney prior to execution of the writ.
+  - SPR 98.24W.1
+
+***  RCW 59.18.365 precludes a default judgment against a tenant who appears but does not submit a written answer in an unlawful detainer action
+
+¶16 The tenant contends that the trial court erred when it entered a default judgment for failure to answer the complaint. Specifically, the tenant reasons that RCW 59.18.365’s summons form directs defendants to respond with a notice of appearance and, by responding, the tenant will receive a show cause hearing. The landlord disagrees, relying primarily on the Civil Rules, which require an answer and allow a default judgment regardless of a party's notice of appearance.

@@ -1,0 +1,29 @@
+#+title:      Unlawful Activity
+#+date:       [2026-04-13 Mon 13:11]
+#+filetags:   :activity:criminal:ud:unlawful:
+#+identifier: 20260413T131142
+#+signature:  brief
+
+* [HTF] eviction for criminal activity
+:LOGBOOK:
+- Note taken on [2026-04-13 Mon 13:12] \\
+  EMAIL RE BRIEF ON UNLAWFUL ACTIVITY:
+  ------------------------------------
+  Brian Neuharth via groups.nwjustice.org <brian.neuharth=nwjustice.org@groups.nwjustice.org>
+  Apr 8, 2026, 10:36 AM (5 days ago)
+  to HTF@groups.nwjustice.org, Craig
+
+  I think Craig is right: was this a neighbor's mail? Where was the arrest? I lost a mini-trial on this in Yakima in December - the one you were hoping to observe. Judge Naught ruled that stolen property stored in view from the sidewalk and the resulting arrest on the premises sufficiently impacted the use and enjoyment of the premises. See if this doesn't get you started - maybe you can improve it?
+
+  The RLTA enumerates what constitutes “cause,” including that “[t]he tenant continues in possession after having received at least three days' advance written notice to quit after he or she commits or permits … unlawful activity that affects the use and enjoyment of the premises.” RCW 59.18.650(2)(c). The terms “unlawful activity” and “use and enjoyment” are not defined in either the UDA or RLTA. In contrast to other causes for eviction, RCW 59.18.650(2)(c) does not afford the tenant an opportunity to cure; if the notice is valid and there is good cause for it, the tenant must vacate their home within three days. C.f., e.g., RCW 59.18.650(2)(b) (requiring at least 10 days’ opportunity to cure before a tenant can be evicted for material lease violations).
+
+  Consistent with the harshness and special nature of this type of eviction, Washington courts have historically found substantial or repeated and unreasonable interference with the use and enjoyment of the premises only in cases of severe conduct. See, e.g., Burgess v. Crossan, 189 Wn. 18 App. 97, 99-101, 358 P.3d 416 (2015) (tenant obstructed access to vehicles, blocked a common driveway, repeatedly “verbally harassed” employees of neighboring business, “rammed into” two parked vehicles, vandalized display flags, damaged security system and pressure hose, spat in neighbor’s face, and “lunged at him with hands outstretched toward his neck” resulting in arrest); Ridpath v. Spokane Stamp Works, 48 Wash. 320, 321-24 (1908) (a dozen witnesses testified about how the operation of machinery “created such a noise and quivering in the rooms of [a] hotel” that was so “disagreeable” as to render the premises “not fit for use at all”); see also MidTown Ltd. P’ship v. Tahir-Garrett, 3 Wn. App. 2d 1032 (2018) (unpublished) (tenant invited 20 individuals to set up tents in the yard and the property was littered with piles of trash and inoperative vehicles, an explosion caused a fire, and an emergency municipal order was issued instructing any occupants within the residence to vacate).
+
+  In the case at hand, Plaintiff contends that a single allegation of off-premises shoplifting constitutes “unlawful activity that affects the use and enjoyment of the premises” under RCW 59.18.650(2)(c). This theory stretches the statutory language well beyond its intended scope. Read as Plaintiff suggests, the statute would authorize eviction for virtually any alleged unlawful act, no matter how minor, remote, or unproven—ranging from jaywalking to serious felonies—so long as the landlord asserts it caused some abstract “effect” on the property. Such a reading would render the statute dangerously overbroad, granting landlords discretion to remove tenants based on untested allegations that bear no meaningful connection to the residential premises.
+
+  Brian A. Neuharth
+  Staff Attorney (he/him)
+  Northwest Justice Project - Tacoma
+  P: (206) 707-0952
+  F: (206) 299-3061
+:END:

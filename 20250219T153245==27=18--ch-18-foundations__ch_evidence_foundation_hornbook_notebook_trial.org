@@ -4,4 +4,6 @@
 #+identifier: 20250219T153245
 #+signature:  27=18
 
-*
+* Business Records
+
+See Foundation for Offering Busines Records in Evidence, 34 Am. Jur. Proof of Facts 2d 509
